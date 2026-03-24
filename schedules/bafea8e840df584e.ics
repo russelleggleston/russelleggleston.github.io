@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Jason Pratt
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VEVENT
+SUMMARY:SET/STR1 - Setup & Strike Technician - MAY23 - Bluey Day
+DTSTART:20260523T120000
+DTEND:20260524T000000
+DTSTAMP:20260324T034745Z
+UID:planning-slot-2471@soundintown.com
+DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY23 - Blu
+ ey Day
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 North Peace Pride - 
+ Festival
+DTSTART:20260606T160000
+DTEND:20260606T230000
+DTSTAMP:20260324T034745Z
+UID:planning-slot-2622@soundintown.com
+DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 Nort
+ h Peace Pride - Festival
+END:VEVENT
+END:VCALENDAR

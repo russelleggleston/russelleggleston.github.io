@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Marcia Tofer
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VEVENT
+SUMMARY:PB2 - Photobooth Setup / Strike Tech - APR05 - Photobooth for East
+ er
+DTSTART:20260322T200000
+DTEND:20260322T220059
+DTSTAMP:20260324T034749Z
+UID:planning-slot-3955@soundintown.com
+DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: APR05 - Pho
+ tobooth for Easter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PB2 - Photobooth Setup / Strike Tech - APR05 - Photobooth for East
+ er
+DTSTART:20260405T130000
+DTEND:20260405T153000
+DTSTAMP:20260324T034749Z
+UID:planning-slot-3103@soundintown.com
+DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: APR05 - Pho
+ tobooth for Easter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PB1 - Onsite Photo booth Tech - APR05 - Photobooth for Easter
+DTSTART:20260405T160000
+DTEND:20260405T200059
+DTSTAMP:20260324T034749Z
+UID:planning-slot-3105@soundintown.com
+DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: APR05 - Photobooth
+  for Easter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
+DTSTART:20260412T230000
+DTEND:20260413T040059
+DTSTAMP:20260324T034749Z
+UID:planning-slot-3111@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
+ ow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
+DTSTART:20260413T150000
+DTEND:20260413T190059
+DTSTAMP:20260324T034749Z
+UID:planning-slot-3161@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
+ ow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
+DTSTART:20260414T040000
+DTEND:20260414T053059
+DTSTAMP:20260324T034749Z
+UID:planning-slot-3113@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
+ ow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR16 Pomeroy GP Pembina To
+ wnhall 2026
+DTSTART:20260416T190000
+DTEND:20260416T230059
+DTSTAMP:20260324T034749Z
+UID:planning-slot-3116@soundintown.com
+DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR16 Pomer
+ oy GP Pembina Townhall 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY23-24 Northern Classic 
+ 2026 GP
+DTSTART:20260521T160000
+DTEND:20260522T040000
+DTSTAMP:20260324T034749Z
+UID:planning-slot-3288@soundintown.com
+DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY23-24 N
+ orthern Classic 2026 GP
+END:VEVENT
+END:VCALENDAR

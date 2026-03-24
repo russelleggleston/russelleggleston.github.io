@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Lucie Janosek
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VEVENT
+SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN04 - NLC FSJ Convocation
+DTSTART:20260605T000000
+DTEND:20260605T050000
+DTSTAMP:20260324T034748Z
+UID:planning-slot-2107@soundintown.com
+DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN04 - NLC
+  FSJ Convocation
+END:VEVENT
+END:VCALENDAR
