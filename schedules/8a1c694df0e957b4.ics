@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:PB1 - Onsite Photo booth Tech - FEB27 NLC DC Bollywood Party
 DTSTART;TZID=America/Dawson_Creek:20260227T150000
 DTEND;TZID=America/Dawson_Creek:20260227T180059
-DTSTAMP:20260325T053851Z
+DTSTAMP:20260325T090756Z
 UID:planning-slot-3541@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: FEB27 NLC DC Bolly
  wood Party\nAllocated: 3.0h\nNote: EVENT: FEB27 NLC DC Bollywood Party\nht
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:PB1 - Onsite Photo booth Tech - FEB27 NLC DC Bollywood Party
 DTSTART;TZID=America/Dawson_Creek:20260227T190000
 DTEND;TZID=America/Dawson_Creek:20260228T000059
-DTSTAMP:20260325T053851Z
+DTSTAMP:20260325T090756Z
 UID:planning-slot-3429@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: FEB27 NLC DC Bolly
  wood Party\nAllocated: 0.0h\nNote: EVENT: FEB27 NLC DC Bollywood Party\nht
