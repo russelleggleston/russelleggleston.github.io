@@ -1,0 +1,236 @@
+name: Update Shift Calendars
+
+on:
+  schedule:
+    - cron: '17,47 * * * *'  # Every 30 minutes (offset from :00/:30 to reduce load)
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-calendars:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install python-dotenv icalendar
+
+      - name: Copy generate script
+        run: |
+          mkdir -p scripts
+          cat > scripts/generate_ical.py << 'SCRIPT_EOF'
+          #!/usr/bin/env python3
+          """Generate iCal feeds from Odoo planning shifts."""
+          import argparse
+          import hashlib
+          import json
+          import os
+          import sys
+          from datetime import datetime, timedelta, timezone
+          from pathlib import Path
+          from xmlrpc import client as xmlrpclib
+          from zoneinfo import ZoneInfo
+          from icalendar import Calendar, Event
+
+          SCHEDULES_DIR = Path("schedules")
+          TOKEN_CACHE = Path(".ical_tokens.json")
+          DEFAULT_TZ = 'America/Dawson_Creek'
+          DAYS_BACK = 7
+          DAYS_FORWARD = 90
+
+          def connect():
+              url = os.environ['ODOO_URL']
+              db = os.environ['ODOO_DB']
+              username = os.environ['ODOO_USERNAME']
+              api_key = os.environ['ODOO_API_KEY']
+              common = xmlrpclib.ServerProxy(f'{url}/xmlrpc/2/common')
+              uid = common.authenticate(db, username, api_key, {})
+              if not uid:
+                  print("ERROR: Authentication failed.")
+                  sys.exit(1)
+              models = xmlrpclib.ServerProxy(f'{url}/xmlrpc/2/object')
+              return uid, models, db, api_key
+
+          def generate_token(employee_id, employee_name):
+              seed = f"sit-ical-{employee_id}-{employee_name}"
+              return hashlib.sha256(seed.encode()).hexdigest()[:16]
+
+          def load_tokens():
+              if TOKEN_CACHE.exists():
+                  with open(TOKEN_CACHE, 'r', encoding='utf-8') as f:
+                      return json.load(f)
+              return {}
+
+          def save_tokens(tokens):
+              with open(TOKEN_CACHE, 'w', encoding='utf-8') as f:
+                  json.dump(tokens, f, indent=2, ensure_ascii=False)
+
+          def fetch_employees(models, db, uid, api_key):
+              return models.execute_kw(db, uid, api_key, 'hr.employee', 'search_read',
+                  [[('active', '=', True)]],
+                  {'fields': ['id', 'name', 'work_email', 'private_email', 'tz']})
+
+          def fetch_shifts(models, db, uid, api_key, employee_id):
+              now = datetime.now()
+              date_from = (now - timedelta(days=DAYS_BACK)).strftime('%Y-%m-%d %H:%M:%S')
+              date_to = (now + timedelta(days=DAYS_FORWARD)).strftime('%Y-%m-%d %H:%M:%S')
+              return models.execute_kw(db, uid, api_key, 'planning.slot', 'search_read',
+                  [[('employee_id', '=', employee_id), ('state', '=', 'published'),
+                    ('start_datetime', '>=', date_from), ('start_datetime', '<=', date_to)]],
+                  {'fields': ['id', 'start_datetime', 'end_datetime', 'role_id', 'employee_id',
+                              'name', 'allocated_hours', 'x_studio_event'],
+                   'order': 'start_datetime asc'})
+
+          def fetch_event_details(models, db, uid, api_key, shifts):
+              event_ids = set()
+              for s in shifts:
+                  if s.get('x_studio_event') and s['x_studio_event']:
+                      event_ids.add(s['x_studio_event'][0])
+              if not event_ids:
+                  return {}
+              try:
+                  events = models.execute_kw(db, uid, api_key, 'x_events', 'read',
+                      [list(event_ids)],
+                      {'fields': ['id', 'display_name', 'x_studio_venue', 'x_studio_venue_room']})
+                  result = {}
+                  for e in events:
+                      venue = e.get('x_studio_venue')
+                      venue_room = e.get('x_studio_venue_room')
+                      result[e['id']] = {
+                          'name': e['display_name'],
+                          'venue': venue[1] if venue else '',
+                          'venue_room': venue_room[1] if venue_room else '',
+                      }
+                  return result
+              except Exception:
+                  return {}
+
+          def utc_to_local(utc_str, tz_name):
+              utc_dt = datetime.strptime(utc_str, '%Y-%m-%d %H:%M:%S').replace(tzinfo=timezone.utc)
+              return utc_dt.astimezone(ZoneInfo(tz_name))
+
+          def generate_ics(employee_name, employee_tz, shifts, event_detail_map):
+              tz_name = employee_tz or DEFAULT_TZ
+              cal = Calendar()
+              cal.add('prodid', '-//Sound in Town//Shift Calendar//EN')
+              cal.add('version', '2.0')
+              cal.add('calscale', 'GREGORIAN')
+              cal.add('x-wr-calname', f'Sound in Town - {employee_name}')
+              cal.add('x-wr-timezone', tz_name)
+
+              for shift in shifts:
+                  event = Event()
+                  role = shift['role_id'][1] if shift.get('role_id') else 'Shift'
+                  note = shift.get('name') or ''
+                  hours = shift.get('allocated_hours') or 0
+
+                  event_info = None
+                  event_name = ''
+                  if shift.get('x_studio_event') and shift['x_studio_event']:
+                      eid = shift['x_studio_event'][0]
+                      event_info = event_detail_map.get(eid)
+                      if event_info:
+                          event_name = event_info['name']
+
+                  summary = f"{role} - {event_name}" if event_name else role
+                  event.add('summary', summary)
+
+                  dtstart = utc_to_local(shift['start_datetime'], tz_name)
+                  dtend = utc_to_local(shift['end_datetime'], tz_name)
+                  event.add('dtstart', dtstart)
+                  event.add('dtend', dtend)
+                  event.add('uid', f"planning-slot-{shift['id']}@soundintown.com")
+                  event.add('dtstamp', datetime.now(timezone.utc))
+
+                  desc_lines = [f"Role: {role}"]
+                  if event_name:
+                      desc_lines.append(f"Event: {event_name}")
+                  if hours:
+                      desc_lines.append(f"Allocated: {hours:.1f}h")
+                  if note:
+                      desc_lines.append(f"Note: {note}")
+                  desc_lines.append(f"\nSound in Town - {employee_name}")
+                  event.add('description', '\n'.join(desc_lines))
+
+                  if event_info:
+                      venue = event_info.get('venue', '')
+                      room = event_info.get('venue_room', '')
+                      if venue and room:
+                          event.add('location', f"{venue} - {room}")
+                      elif venue:
+                          event.add('location', venue)
+
+                  cal.add_component(event)
+              return cal.to_ical()
+
+          def main():
+              SCHEDULES_DIR.mkdir(parents=True, exist_ok=True)
+              print("Connecting to Odoo...")
+              uid, models, db, api_key = connect()
+              employees = fetch_employees(models, db, uid, api_key)
+              print(f"Found {len(employees)} active employees")
+
+              tokens = load_tokens()
+              updated = False
+              generated = 0
+
+              for emp in employees:
+                  emp_id = str(emp['id'])
+                  emp_name = emp['name']
+                  emp_tz = emp.get('tz') or DEFAULT_TZ
+
+                  if emp_id not in tokens:
+                      tokens[emp_id] = {'name': emp_name, 'token': generate_token(emp['id'], emp_name)}
+                      updated = True
+
+                  token = tokens[emp_id]['token']
+                  shifts = fetch_shifts(models, db, uid, api_key, emp['id'])
+                  if not shifts:
+                      continue
+
+                  event_detail_map = fetch_event_details(models, db, uid, api_key, shifts)
+                  ics_data = generate_ics(emp_name, emp_tz, shifts, event_detail_map)
+                  filepath = SCHEDULES_DIR / f"{token}.ics"
+
+                  with open(filepath, 'wb') as f:
+                      f.write(ics_data)
+                  generated += 1
+                  print(f"  {emp_name} ({emp_tz}): {len(shifts)} shifts")
+
+              if updated:
+                  save_tokens(tokens)
+
+              # Index page
+              with open(SCHEDULES_DIR / "index.html", 'w') as f:
+                  f.write("<html><head><title>Sound in Town - Shift Calendars</title></head>\n")
+                  f.write("<body><h1>Shift Calendar Feeds</h1>\n")
+                  f.write("<p>Subscribe to your personal shift calendar by adding the URL to your calendar app.</p>\n")
+                  f.write("<p>Calendars refresh every 30 minutes.</p>\n")
+                  f.write("</body></html>\n")
+
+              print(f"\nGenerated {generated} .ics files")
+
+          if __name__ == '__main__':
+              main()
+          SCRIPT_EOF
+
+      - name: Generate calendars
+        env:
+          ODOO_URL: ${{ secrets.ODOO_URL }}
+          ODOO_DB: ${{ secrets.ODOO_DB }}
+          ODOO_USERNAME: ${{ secrets.ODOO_USERNAME }}
+          ODOO_API_KEY: ${{ secrets.ODOO_API_KEY }}
+        run: python scripts/generate_ical.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add schedules/ .ical_tokens.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update shift calendars ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          git push
