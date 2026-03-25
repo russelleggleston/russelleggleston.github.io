@@ -3,15 +3,16 @@ VERSION:2.0
 PRODID:-//Sound in Town//Shift Calendar//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Sound in Town - James Mannion
-X-WR-TIMEZONE:America/Vancouver
+X-WR-TIMEZONE:America/Creston
 BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY14 Ovintiv- Dawson Co-op AGM
-DTSTART:20260514T190000Z
-DTEND:20260515T050059Z
-DTSTAMP:20260325T011534Z
+DTSTART;TZID=America/Creston:20260514T120000
+DTEND;TZID=America/Creston:20260514T220059
+DTSTAMP:20260325T012319Z
 UID:planning-slot-3969@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY14 Ovintiv- Dawson Co-op AG
  M\nAllocated: 8.0h\nNote: EVENT: MAY14 Ovintiv- Dawson Co-op AGM\nhttps://
  www.soundintown.com/r/Nib\n\nrough times\n\nSound in Town - James Mannion
+LOCATION:Ovintiv Events Centre
 END:VEVENT
 END:VCALENDAR

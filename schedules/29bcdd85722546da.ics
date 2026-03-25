@@ -3,16 +3,17 @@ VERSION:2.0
 PRODID:-//Sound in Town//Shift Calendar//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Sound in Town - Emma Hawkins
-X-WR-TIMEZONE:America/Vancouver
+X-WR-TIMEZONE:America/Dawson_Creek
 BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - JUN04 - NLC FSJ Convocation
-DTSTART:20260604T170000Z
-DTEND:20260605T000000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260604T100000
+DTEND;TZID=America/Dawson_Creek:20260604T170000
+DTSTAMP:20260325T012318Z
 UID:planning-slot-2106@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: JUN04 - NLC FSJ Convocation
  \nAllocated: 7.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nhttps://www.s
  oundintown.com/model/showbook/jun04-nlc-fsj-convocation-868\n\nTIME TBd\n\
  nSound in Town - Emma Hawkins
+LOCATION:Downstairs Curling Rink
 END:VEVENT
 END:VCALENDAR

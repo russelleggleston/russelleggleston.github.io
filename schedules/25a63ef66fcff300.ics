@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//Sound in Town//Shift Calendar//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Sound in Town - Chris McIntyre
-X-WR-TIMEZONE:America/Vancouver
+X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR16 - ELEMENT GP BEO (Custom) 636
  669
-DTSTART:20260416T130000Z
-DTEND:20260416T213000Z
-DTSTAMP:20260325T011531Z
+DTSTART;TZID=America/Edmonton:20260416T070000
+DTEND;TZID=America/Edmonton:20260416T153000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2849@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR16 - ELEMENT GP 
  BEO (Custom) 636669\nAllocated: 8.0h\nNote: EVENT: APR16 - ELEMENT GP BEO 
@@ -17,5 +17,6 @@ DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR16 - ELEMENT GP
  May need to be adjusted by planning.\nhttps://www.soundintown.com/model/sh
  owbook/apr16-element-beo-custom-636669-1278\n\nSound in Town - Chris McInt
  yre
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Salon Ballroom
 END:VEVENT
 END:VCALENDAR

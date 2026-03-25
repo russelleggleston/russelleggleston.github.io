@@ -3,17 +3,18 @@ VERSION:2.0
 PRODID:-//Sound in Town//Shift Calendar//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Sound in Town - Lucie Janosek
-X-WR-TIMEZONE:America/Vancouver
+X-WR-TIMEZONE:America/Dawson_Creek
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN04 - NLC FSJ Convocation
-DTSTART:20260605T000000Z
-DTEND:20260605T050000Z
-DTSTAMP:20260325T011537Z
+DTSTART;TZID=America/Dawson_Creek:20260604T170000
+DTEND;TZID=America/Dawson_Creek:20260604T220000
+DTSTAMP:20260325T012322Z
 UID:planning-slot-2107@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN04 - NLC
   FSJ Convocation\nAllocated: 5.0h\nNote: EVENT: JUN04 - NLC FSJ Convocatio
  n\nhttps://www.soundintown.com/model/showbook/jun04-nlc-fsj-convocation-86
  8\n\nI know this is far in advance\, just trying to get a snapshot of how 
  many people I will need for this\n\nSound in Town - Lucie Janosek
+LOCATION:Downstairs Curling Rink
 END:VEVENT
 END:VCALENDAR

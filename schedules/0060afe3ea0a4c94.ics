@@ -3,44 +3,46 @@ VERSION:2.0
 PRODID:-//Sound in Town//Shift Calendar//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Sound in Town - Dana Pedersen
-X-WR-TIMEZONE:America/Vancouver
+X-WR-TIMEZONE:America/Dawson_Creek
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer
-DTSTART:20260318T170000Z
-DTEND:20260318T180000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260318T100000
+DTEND;TZID=America/Dawson_Creek:20260318T110000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3863@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nAllocated: 1.0h\nNote: Meet w/Sandr
  a to Discuss Grant Requirements/Tasks\n\nSound in Town - Dana Pedersen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAR19 - PRRD Board Meeting - DC
-DTSTART:20260319T160000Z
-DTEND:20260320T000000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260319T090000
+DTEND;TZID=America/Dawson_Creek:20260319T170000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2291@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAR19 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: MAR19 - PRRD Board Meeting - DC\n\nAuto
   planned shift. May need to be adjusted by planning.\n\nSound in Town - Da
  na Pedersen
+LOCATION:Remote
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAR14-18 City of FSJ Provin
  cials - P&D
-DTSTART:20260320T000000Z
-DTEND:20260320T003000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260319T170000
+DTEND;TZID=America/Dawson_Creek:20260319T173000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3729@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAR14-18 Ci
  ty of FSJ Provincials - P&D\nNote: EVENT: MAR14-18 City of FSJ Provincials
   - P&D\nhttps://www.soundintown.com/r/gqg\n\n\n\nSound in Town - Dana Pede
  rsen
+LOCATION:North Peace Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer
-DTSTART:20260321T150000Z
-DTEND:20260321T230000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260321T080000
+DTEND;TZID=America/Dawson_Creek:20260321T160000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3861@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nAllocated: 8.0h\nNote: GET TAXES\, 
  ASSETS\, SCORECORDS\, ACCOUNTST PAYABLE\, BUDGET DONE WITH RUSS\n\nSound i
@@ -48,9 +50,9 @@ DESCRIPTION:Role: V1 - Video Engineer\nAllocated: 8.0h\nNote: GET TAXES\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leadership Team
-DTSTART:20260324T173000Z
-DTEND:20260324T190059Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260324T103000
+DTEND;TZID=America/Dawson_Creek:20260324T120059
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2947@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\n\nSound in Town - Dana
   Pedersen
@@ -58,9 +60,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - MAR25 FSJ BEO Petrogas Safety Meeti
  ng/#14933-1
-DTSTART:20260325T020000Z
-DTEND:20260325T030059Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260324T190000
+DTEND;TZID=America/Dawson_Creek:20260324T200059
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3941@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: MAR25 FSJ BEO Petro
  gas Safety Meeting/#14933-1\nNote: EVENT: MAR25 FSJ BEO Petrogas Safety Me
@@ -69,54 +71,58 @@ DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: MAR25 FSJ BEO Petro
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAR26 PRRD - EADC/RBAC - DC
-DTSTART:20260326T160000Z
-DTEND:20260327T000000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260326T090000
+DTEND;TZID=America/Dawson_Creek:20260326T170000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2294@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAR26 PRRD - EADC/RBAC - DC\
  nAllocated: 8.0h\nNote: EVENT: MAR26 PRRD - EADC/RBAC - DC\nhttps://www.so
  undintown.com/r/5tJ\n\nAuto planned shift. May need to be adjusted by plan
  ning.\n\nSound in Town - Dana Pedersen
+LOCATION:Remote
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PB2 - Photobooth Setup / Strike Tech - APR04 District of Taylor - 
  Easter Photobooth
-DTSTART:20260327T230000Z
-DTEND:20260328T000059Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260327T160000
+DTEND;TZID=America/Dawson_Creek:20260327T170059
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3759@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: APR04 Distr
  ict of Taylor - Easter Photobooth\nAllocated: 1.0h\nNote: EVENT: APR04 Dis
  trict of Taylor - Easter Photobooth\nhttps://www.soundintown.com/r/phQ\n\n
  Please create the Easter logo for the photobooth template.\n\nSound in Tow
  n - Dana Pedersen
+LOCATION:Taylor Community Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shift
-DTSTART:20260402T160000Z
-DTEND:20260402T161500Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260402T090000
+DTEND;TZID=America/Dawson_Creek:20260402T091500
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2032@soundintown.com
 DESCRIPTION:Role: Shift\nAllocated: 0.2h\nNote: Update the bank statement 
  in Xero by the 5th of each month.\n\nSound in Town - Dana Pedersen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - APR02 NLC All Staff Meeting
-DTSTART:20260402T170000Z
-DTEND:20260402T220000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260402T100000
+DTEND;TZID=America/Dawson_Creek:20260402T150000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2867@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: APR02 NLC All Staff Meeting
  \nAllocated: 5.0h\nNote: EVENT: APR02 NLC All Staff Meeting\nhttps://www.s
  oundintown.com/r/IO9\n\nAuto planned shift. May need to be adjusted by pla
  nning.\nhttps://www.soundintown.com/model/showbook/apr02-nlc-all-staff-mee
  ting-1007\n\nSound in Town - Dana Pedersen
+LOCATION:Northern Lights College Fort St John Campus - Northern Lights Col
+ lege Fort St John Campus- Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leadership Team
-DTSTART:20260403T170000Z
-DTEND:20260403T190000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260403T100000
+DTEND;TZID=America/Dawson_Creek:20260403T120000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3156@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 2.0h\nNote: END OF QUARTER R
  OCK REVIEW 2 HR MEETING\n\nSound in Town - Dana Pedersen
@@ -124,122 +130,132 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PB2 - Photobooth Setup / Strike Tech - APR04 District of Taylor - 
  Easter Photobooth
-DTSTART:20260404T160000Z
-DTEND:20260404T180000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260404T090000
+DTEND;TZID=America/Dawson_Creek:20260404T110000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3714@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: APR04 Distr
  ict of Taylor - Easter Photobooth\nAllocated: 2.0h\nNote: EVENT: APR04 Dis
  trict of Taylor - Easter Photobooth\nhttps://www.soundintown.com/r/phQ\n\n
  \n\nSound in Town - Dana Pedersen
+LOCATION:Taylor Community Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PB1 - Onsite Photo booth Tech - APR04 District of Taylor - Easter 
  Photobooth
-DTSTART:20260404T190000Z
-DTEND:20260404T210000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260404T120000
+DTEND;TZID=America/Dawson_Creek:20260404T140000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3713@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: APR04 District of 
  Taylor - Easter Photobooth\nAllocated: 2.0h\nNote: EVENT: APR04 District o
  f Taylor - Easter Photobooth\nhttps://www.soundintown.com/r/phQ\n\nAuto pl
  anned shift. May need to be adjusted by planning.\n\nSound in Town - Dana 
  Pedersen
+LOCATION:Taylor Community Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PB1 - Onsite Photo booth Tech - APR04 District of Taylor - Easter 
  Photobooth
-DTSTART:20260404T210000Z
-DTEND:20260404T220000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260404T140000
+DTEND;TZID=America/Dawson_Creek:20260404T150000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3715@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: APR04 District of 
  Taylor - Easter Photobooth\nAllocated: 1.0h\nNote: EVENT: APR04 District o
  f Taylor - Easter Photobooth\nhttps://www.soundintown.com/r/phQ\n\nAuto pl
  anned shift. May need to be adjusted by planning.\n\nSound in Town - Dana 
  Pedersen
+LOCATION:Taylor Community Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR09 Hudson's Hope Council Livestream
-DTSTART:20260410T000000Z
-DTEND:20260410T040000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260409T170000
+DTEND;TZID=America/Dawson_Creek:20260409T210000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2309@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR09 Hudson's Hope Council 
  Livestream\nAllocated: 4.0h\nNote: EVENT: APR09 Hudson's Hope Council Live
  stream\nhttps://www.soundintown.com/r/Pv6\n\nAuto planned shift. May need 
  to be adjusted by planning.\n\nSound in Town - Dana Pedersen
+LOCATION:Remote
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transport - APR13-15 Stageline Spring Training
-DTSTART:20260412T150000Z
-DTEND:20260412T153059Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260412T080000
+DTEND;TZID=America/Dawson_Creek:20260412T083059
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3912@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR13-15 Stageline Spring Training\nAl
  located: 0.5h\nNote: EVENT: APR13-15 Stageline Spring Training\nhttps://ww
  w.soundintown.com/r/iKG\n\nREMEMBER TO GIVE SAM THE CREDIT CARD\n\nSound i
  n Town - Dana Pedersen
+LOCATION:Stageline HQ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR15 Hudson's Hope Council Livestream
-DTSTART:20260416T000000Z
-DTEND:20260416T040000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260415T170000
+DTEND;TZID=America/Dawson_Creek:20260415T210000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2315@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR15 Hudson's Hope Council 
  Livestream\nAllocated: 4.0h\nNote: EVENT: APR15 Hudson's Hope Council Live
  stream\n\nAuto planned shift. May need to be adjusted by planning.\n\nSoun
  d in Town - Dana Pedersen
+LOCATION:Remote
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR16 - PRRD Board Meeting - DC
-DTSTART:20260416T160000Z
-DTEND:20260417T000000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260416T090000
+DTEND;TZID=America/Dawson_Creek:20260416T170000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2300@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR16 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: APR16 - PRRD Board Meeting - DC\n\nAuto
   planned shift. May need to be adjusted by planning.\n\nSound in Town - Da
  na Pedersen
+LOCATION:Remote
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transport - APR13-15 Stageline Spring Training
-DTSTART:20260417T050000Z
-DTEND:20260417T053059Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260416T220000
+DTEND;TZID=America/Dawson_Creek:20260416T223059
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3913@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR13-15 Stageline Spring Training\nNo
  te: EVENT: APR13-15 Stageline Spring Training\nhttps://www.soundintown.com
  /r/iKG\n\n\n\nSound in Town - Dana Pedersen
+LOCATION:Stageline HQ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR17 PRRD Solid Waste Committee Meeting
-DTSTART:20260417T150000Z
-DTEND:20260418T000059Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260417T080000
+DTEND;TZID=America/Dawson_Creek:20260417T170059
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3263@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR17 PRRD Solid Waste Commi
  ttee Meeting\nAllocated: 8.0h\nNote: EVENT: APR17 PRRD Solid Waste Committ
  ee Meeting\nhttps://www.soundintown.com/r/RYF\n\n\n\nSound in Town - Dana 
  Pedersen
+LOCATION:Remote
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR17 PRRD - EADC/RBAC - DC
-DTSTART:20260417T160000Z
-DTEND:20260418T000000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260417T090000
+DTEND;TZID=America/Dawson_Creek:20260417T170000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2303@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR17 PRRD - EADC/RBAC - DC\
  nAllocated: 8.0h\nNote: EVENT: APR17 PRRD - EADC/RBAC - DC\nhttps://www.so
  undintown.com/r/unB\n\nAuto planned shift. May need to be adjusted by plan
  ning.\n\nSound in Town - Dana Pedersen
+LOCATION:Remote
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transport - APR23-25 Beauty and the Beast Microphone Rental
-DTSTART:20260426T050000Z
-DTEND:20260426T053000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260425T220000
+DTEND;TZID=America/Dawson_Creek:20260425T223000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3928@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR23-25 Beauty and the Beast Micropho
  ne Rental\nNote: EVENT: APR23-25 Beauty and the Beast Microphone Rental\nh
@@ -248,9 +264,9 @@ DESCRIPTION:Role: Transport\nEvent: APR23-25 Beauty and the Beast Micropho
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR29 Hudson's Hope Council Livestream
-DTSTART:20260430T000000Z
-DTEND:20260430T040000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260429T170000
+DTEND;TZID=America/Dawson_Creek:20260429T210000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2324@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR29 Hudson's Hope Council 
  Livestream\nAllocated: 4.0h\nNote: EVENT: APR29 Hudson's Hope Council Live
@@ -260,154 +276,165 @@ DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR29 Hudson's Hope Council
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR30 - PRRD Board Meeting - DC
-DTSTART:20260430T160000Z
-DTEND:20260501T000000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260430T090000
+DTEND;TZID=America/Dawson_Creek:20260430T170000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2306@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR30 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: APR30 - PRRD Board Meeting - DC\nhttps:
  //www.soundintown.com/model/showbook/apr30-prrd-board-meeting-dc-1175\n\nA
  uto planned shift. May need to be adjusted by planning.\n\n\nSound in Town
   - Dana Pedersen
+LOCATION:Remote
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY01 Ovintiv - DC Art Gall
  ery Lighting
-DTSTART:20260501T190000Z
-DTEND:20260501T230059Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260501T120000
+DTEND;TZID=America/Dawson_Creek:20260501T160059
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3307@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY01 Ovint
  iv - DC Art Gallery Lighting\nNote: EVENT: MAY01 Ovintiv - DC Art Gallery 
  Lighting\nhttps://www.soundintown.com/model/showbook/may01-ovintiv-dc-art-
  gallery-lighting-1250\n\n\n\nSound in Town - Dana Pedersen
+LOCATION:Ovintiv Events Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY01 Ovintiv - DC Art Gall
  ery Lighting
-DTSTART:20260502T040000Z
-DTEND:20260502T060059Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260501T210000
+DTEND;TZID=America/Dawson_Creek:20260501T230059
+DTSTAMP:20260325T012317Z
 UID:planning-slot-3309@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY01 Ovint
  iv - DC Art Gallery Lighting\nNote: EVENT: MAY01 Ovintiv - DC Art Gallery 
  Lighting\nhttps://www.soundintown.com/model/showbook/may01-ovintiv-dc-art-
  gallery-lighting-1250\n\n\n\nSound in Town - Dana Pedersen
+LOCATION:Ovintiv Events Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shift
-DTSTART:20260504T160000Z
-DTEND:20260504T161500Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260504T090000
+DTEND;TZID=America/Dawson_Creek:20260504T091500
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2067@soundintown.com
 DESCRIPTION:Role: Shift\nAllocated: 0.2h\nNote: Update the bank statement 
  in Xero by the 5th of each month.\n\nSound in Town - Dana Pedersen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY07 PRRD - EADC/RBAC - DC
-DTSTART:20260507T160000Z
-DTEND:20260508T000000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260507T090000
+DTEND;TZID=America/Dawson_Creek:20260507T170000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2312@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY07 PRRD - EADC/RBAC - DC\
  nAllocated: 8.0h\nNote: EVENT: MAY07 PRRD - EADC/RBAC - DC\nhttps://www.so
  undintown.com/model/showbook/may07-prrd-eadcrbac-dc-1176\n\nAuto planned s
  hift. May need to be adjusted by planning.\n\n\nSound in Town - Dana Peder
  sen
+LOCATION:Remote
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY13 Hudson's Hope Council Livestream
-DTSTART:20260514T000000Z
-DTEND:20260514T040000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260513T170000
+DTEND;TZID=America/Dawson_Creek:20260513T210000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2333@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY13 Hudson's Hope Council 
  Livestream\nAllocated: 4.0h\nNote: EVENT: MAY13 Hudson's Hope Council Live
  stream\nhttps://www.soundintown.com/model/showbook/may13-hudsons-hope-coun
  cil-livestream-1143\n\nAuto planned shift. May need to be adjusted by plan
  ning.\n\n\nSound in Town - Dana Pedersen
+LOCATION:Remote
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY14 - PRRD Board Meeting - DC
-DTSTART:20260514T160000Z
-DTEND:20260515T000000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260514T090000
+DTEND;TZID=America/Dawson_Creek:20260514T170000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2318@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY14 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: MAY14 - PRRD Board Meeting - DC\nhttps:
  //www.soundintown.com/model/showbook/may14-prrd-board-meeting-dc-1177\n\nA
  uto planned shift. May need to be adjusted by planning.\n\n\nSound in Town
   - Dana Pedersen
+LOCATION:Remote
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY23-24 Northern Classic 2026 GP
-DTSTART:20260521T160000Z
-DTEND:20260522T040000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260521T090000
+DTEND;TZID=America/Dawson_Creek:20260521T210000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2590@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY23-24 Northern Classic 20
  26 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\nht
  tps://www.soundintown.com/r/NcK\n\nAutomated Prep Shift test https://www.s
  oundintown.com/odoo/events/1128\n\nSound in Town - Dana Pedersen
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY23-24 Northern Classic 2026 GP
-DTSTART:20260522T160000Z
-DTEND:20260523T040000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260522T090000
+DTEND;TZID=America/Dawson_Creek:20260522T210000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2071@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY23-24 Northern Classic 20
  26 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\nht
  tps://www.soundintown.com/r/NcK\n\nAutomated Prep Shift test https://www.s
  oundintown.com/odoo/events/1128\n\nSound in Town - Dana Pedersen
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY23-24 Northern Classic 2026 GP
-DTSTART:20260523T160000Z
-DTEND:20260524T040000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260523T090000
+DTEND;TZID=America/Dawson_Creek:20260523T210000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2073@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY23-24 Northern Classic 20
  26 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\nht
  tps://www.soundintown.com/r/NcK\n\nAutomated Prep Shift test https://www.s
  oundintown.com/odoo/events/1128\n\nSound in Town - Dana Pedersen
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY23-24 Northern Classic 2026 GP
-DTSTART:20260524T160000Z
-DTEND:20260525T040000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260524T090000
+DTEND;TZID=America/Dawson_Creek:20260524T210000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2075@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY23-24 Northern Classic 20
  26 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\nht
  tps://www.soundintown.com/r/NcK\n\nAutomated Strike Tech Shift test https:
  //www.soundintown.com/odoo/events/1128\n\nSound in Town - Dana Pedersen
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY23-24 Northern Classic 2026 GP
-DTSTART:20260525T160000Z
-DTEND:20260525T180000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260525T090000
+DTEND;TZID=America/Dawson_Creek:20260525T110000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2078@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY23-24 Northern Classic 20
  26 GP\nAllocated: 2.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\nht
  tps://www.soundintown.com/r/NcK\n\nAutomated Strike Tech Shift test https:
  //www.soundintown.com/odoo/events/1128\n\nSound in Town - Dana Pedersen
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shift
-DTSTART:20260602T160000Z
-DTEND:20260602T161500Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260602T090000
+DTEND;TZID=America/Dawson_Creek:20260602T091500
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2099@soundintown.com
 DESCRIPTION:Role: Shift\nAllocated: 0.2h\nNote: Update the bank statement 
  in Xero by the 5th of each month.\n\nSound in Town - Dana Pedersen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUN03 Hudson's Hope Council Livestream
-DTSTART:20260604T000000Z
-DTEND:20260604T040000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260603T170000
+DTEND;TZID=America/Dawson_Creek:20260603T210000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2348@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUN03 Hudson's Hope Council 
  Livestream\nNote: EVENT: JUN03 Hudson's Hope Council Livestream\nhttps://w
@@ -418,26 +445,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN05 UNBC - Event Production (Stag
  ing\, Drape\, Audio)
-DTSTART:20260605T150000Z
-DTEND:20260605T230000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260605T080000
+DTEND;TZID=America/Dawson_Creek:20260605T160000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2147@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN05 UNBC - Event 
  Production (Staging\, Drape\, Audio)\nAllocated: 8.0h\nNote: EVENT: JUN05 
  UNBC - Event Production (Staging\, Drape\, Audio)\nhttps://www.soundintown
  .com/model/showbook/jun05-unbc-event-production-staging-drape-audio-1219\n
  \n\nTIMES ARE ROUGH\n\nSound in Town - Dana Pedersen
+LOCATION:Pomeroy Hotel Fort St. John - Scotty Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUN18 PRRD - EADC/RBAC - DC
-DTSTART:20260618T160000Z
-DTEND:20260619T000000Z
-DTSTAMP:20260325T011532Z
+DTSTART;TZID=America/Dawson_Creek:20260618T090000
+DTEND;TZID=America/Dawson_Creek:20260618T170000
+DTSTAMP:20260325T012317Z
 UID:planning-slot-2321@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUN18 PRRD - EADC/RBAC - DC\
  nAllocated: 8.0h\nNote: EVENT: JUN18 PRRD - EADC/RBAC - DC\nhttps://www.so
  undintown.com/model/showbook/jun18-prrd-eadcrbac-dc-1179\n\nAuto planned s
  hift. May need to be adjusted by planning.\n\n\nSound in Town - Dana Peder
  sen
+LOCATION:Remote
 END:VEVENT
 END:VCALENDAR
