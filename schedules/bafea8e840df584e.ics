@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T050000
 DTEND;TZID=America/Dawson_Creek:20260523T170000
-DTSTAMP:20260325T012320Z
+DTSTAMP:20260325T013722Z
 UID:planning-slot-2471@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY23 - Blu
  ey Day\nAllocated: 8.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.sound
@@ -22,7 +22,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 North Peace Pride -
  Festival
 DTSTART;TZID=America/Dawson_Creek:20260606T090000
 DTEND;TZID=America/Dawson_Creek:20260606T160000
-DTSTAMP:20260325T012320Z
+DTSTAMP:20260325T013722Z
 UID:planning-slot-2622@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 Nort
  h Peace Pride - Festival\nAllocated: 7.0h\nNote: EVENT: JUN06 North Peace 

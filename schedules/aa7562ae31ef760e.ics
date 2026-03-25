@@ -9,7 +9,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAR19 - 3D Childrens Gala @
  GP Pomeroy
 DTSTART;TZID=America/Edmonton:20260318T170000
 DTEND;TZID=America/Edmonton:20260318T230000
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-3629@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAR19 - 3D 
  Childrens Gala @GP Pomeroy\nAllocated: 6.0h\nNote: EVENT: MAR19 - 3D Child
@@ -22,7 +22,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAR19 - 3D Childrens Gala @
  GP Pomeroy
 DTSTART;TZID=America/Edmonton:20260320T090000
 DTEND;TZID=America/Edmonton:20260320T130059
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-3087@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAR19 - 3D 
  Childrens Gala @GP Pomeroy\nAllocated: 4.0h\nNote: EVENT: MAR19 - 3D Child
@@ -35,7 +35,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR12-15 AARFP 47th Confere
  nce
 DTSTART;TZID=America/Edmonton:20260411T090000
 DTEND;TZID=America/Edmonton:20260411T170059
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-3109@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR12-15 AA
  RFP 47th Conference\nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Con
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260412T170000
 DTEND;TZID=America/Edmonton:20260412T220000
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-2544@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR13 AARFP
   47th Tradeshow\nAllocated: 5.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260413T220000
 DTEND;TZID=America/Edmonton:20260413T233059
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-3162@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nNote: EVENT: APR13 AARFP 47th Tradeshow\n\n\n\nSound in Town - Matt Cu
@@ -69,7 +69,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR12-15 AARFP 47th Confere
  nce
 DTSTART;TZID=America/Edmonton:20260415T180000
 DTEND;TZID=America/Edmonton:20260415T220059
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-3110@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR12-15 AA
  RFP 47th Conference\nAllocated: 4.0h\nNote: EVENT: APR12-15 AARFP 47th Con
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260416T180000
 DTEND;TZID=America/Edmonton:20260417T000059
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-3115@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR16 Pomeroy GP Pembina Townhall 2026
  \nAllocated: 0.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townhall 2026\nht
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - APR18  Peace Passage Ice Show
 DTSTART;TZID=America/Edmonton:20260417T090000
 DTEND;TZID=America/Edmonton:20260417T170000
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-2127@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: APR18  Peace Passage Ice Sh
  ow\nAllocated: 8.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps://w
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - APR18  Peace Passage Ice Show
 DTSTART;TZID=America/Edmonton:20260418T100000
 DTEND;TZID=America/Edmonton:20260418T220000
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-2055@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: APR18  Peace Passage Ice 
  Show\nAllocated: 8.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps:/
@@ -116,7 +116,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR18  Peace Passage Ice Sh
  ow
 DTSTART;TZID=America/Edmonton:20260419T100000
 DTEND;TZID=America/Edmonton:20260419T170000
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-3259@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR18  Peac
  e Passage Ice Show\nAllocated: 7.0h\nNote: EVENT: APR18  Peace Passage Ice
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Edmonton:20260425T080000
 DTEND;TZID=America/Edmonton:20260426T180000
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-3968@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 16.0h\nNote: Place
  holder for this weekend\n\nSound in Town - Matt Currie
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23-24 Northern Classic 2026 GP
 DTSTART;TZID=America/Edmonton:20260522T100000
 DTEND;TZID=America/Edmonton:20260522T220000
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-2072@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23-24 Northern Classic
   2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23-24 Northern Classic 2026 GP
 DTSTART;TZID=America/Edmonton:20260523T100000
 DTEND;TZID=America/Edmonton:20260523T220000
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-2074@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23-24 Northern Classic
   2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23-24 Northern Classic 2026 GP
 DTSTART;TZID=America/Edmonton:20260524T100000
 DTEND;TZID=America/Edmonton:20260524T220000
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-2076@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23-24 Northern Classic
   2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN13-14 - Party In White GP
 DTSTART;TZID=America/Edmonton:20260612T090000
 DTEND;TZID=America/Edmonton:20260613T003000
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-2478@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN13-14 - Party In White G
  P\nAllocated: 8.5h\nNote: EVENT: JUN13-14 - Party In White GP\nhttps://www
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN13-14 - Party In White GP
 DTSTART;TZID=America/Edmonton:20260613T090000
 DTEND;TZID=America/Edmonton:20260614T003000
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-2149@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN13-14 - Party In White G
  P\nAllocated: 8.5h\nNote: EVENT: JUN13-14 - Party In White GP\nhttps://www
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN13-14 - Party In White GP
 DTSTART;TZID=America/Edmonton:20260614T090000
 DTEND;TZID=America/Edmonton:20260615T003000
-DTSTAMP:20260325T012323Z
+DTSTAMP:20260325T013726Z
 UID:planning-slot-2480@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN13-14 - Party In White G
  P\nAllocated: 8.5h\nNote: EVENT: JUN13-14 - Party In White GP\nhttps://www

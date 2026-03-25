@@ -5,23 +5,10 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Sound in Town - Sam Baker
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-SUMMARY:A1 - Audio Tech - MAR17 ST Patrick's Day
-DTSTART;TZID=America/Edmonton:20260317T130000
-DTEND;TZID=America/Edmonton:20260318T020000
-DTSTAMP:20260325T012325Z
-UID:planning-slot-3613@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAR17 ST Patrick's Day\nAllocate
- d: 10.0h\nNote: EVENT: MAR17 ST Patrick's Day\nhttps://www.soundintown.com
- /r/QII\n\nAuto planned shift. May need to be adjusted by planning.\nhttps:
- //www.soundintown.com/model/showbook/mar17-st-patricks-day-1350\n\nSound i
- n Town - Sam Baker
-LOCATION:New Frontier
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech
 DTSTART;TZID=America/Edmonton:20260325T080000
 DTEND;TZID=America/Edmonton:20260329T160000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3939@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nAllocated: 32.0h\nNote: Russ booked Sam
   these days\n\nSound in Town - Sam Baker
@@ -31,7 +18,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAR31 NRM - FSJ Live Stream
  ed Event
 DTSTART;TZID=America/Edmonton:20260330T150000
 DTEND;TZID=America/Edmonton:20260330T190059
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3674@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAR31 NRM -
   FSJ Live Streamed Event\nAllocated: 4.0h\nNote: EVENT: MAR31 NRM - FSJ Li
@@ -43,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - MAR31 NRM - FSJ Live Streamed Event
 DTSTART;TZID=America/Edmonton:20260331T080000
 DTEND;TZID=America/Edmonton:20260331T130000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3662@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAR31 NRM - FSJ Live Streamed Ev
  ent\nAllocated: 5.0h\nNote: EVENT: MAR31 NRM - FSJ Live Streamed Event\nht
@@ -55,7 +42,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAR31 NRM - FSJ Live Stream
  ed Event
 DTSTART;TZID=America/Edmonton:20260331T130000
 DTEND;TZID=America/Edmonton:20260331T160000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3865@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAR31 NRM -
   FSJ Live Streamed Event\nAllocated: 3.0h\nNote: EVENT: MAR31 NRM - FSJ Li
@@ -68,7 +55,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - APR08-09 First Nations Heal
  th Authority
 DTSTART;TZID=America/Edmonton:20260407T100000
 DTEND;TZID=America/Edmonton:20260407T180000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3900@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: APR08-09 Fi
  rst Nations Health Authority\nAllocated: 8.0h\nNote: EVENT: APR08-09 First
@@ -83,7 +70,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - APR08-09 First Nations Health Autho
  rity
 DTSTART;TZID=America/Edmonton:20260408T080000
 DTEND;TZID=America/Edmonton:20260408T180000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3176@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR08-09 First Nati
  ons Health Authority\nAllocated: 8.0h\nNote: EVENT: APR08-09 First Nations
@@ -98,7 +85,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - APR08-09 First Nations Health Autho
  rity
 DTSTART;TZID=America/Edmonton:20260409T083000
 DTEND;TZID=America/Edmonton:20260409T213000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3177@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR08-09 First Nati
  ons Health Authority\nAllocated: 8.0h\nNote: EVENT: APR08-09 First Nations
@@ -110,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR13-15 Stageline Spring Training
 DTSTART;TZID=America/Edmonton:20260412T100000
 DTEND;TZID=America/Edmonton:20260412T220059
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3720@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR13-15 Stageline Spring Training\nAl
  located: 8.0h\nNote: EVENT: APR13-15 Stageline Spring Training\nhttps://ww
@@ -121,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team - APR13-15 Stageline Spring Training
 DTSTART;TZID=America/Edmonton:20260413T093000
 DTEND;TZID=America/Edmonton:20260413T180059
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3717@soundintown.com
 DESCRIPTION:Role: Leadership Team\nEvent: APR13-15 Stageline Spring Traini
  ng\nAllocated: 8.0h\nNote: EVENT: APR13-15 Stageline Spring Training\nhttp
@@ -132,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team - APR13-15 Stageline Spring Training
 DTSTART;TZID=America/Edmonton:20260414T093000
 DTEND;TZID=America/Edmonton:20260414T180059
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3718@soundintown.com
 DESCRIPTION:Role: Leadership Team\nEvent: APR13-15 Stageline Spring Traini
  ng\nAllocated: 8.0h\nNote: EVENT: APR13-15 Stageline Spring Training\nhttp
@@ -143,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team - APR13-15 Stageline Spring Training
 DTSTART;TZID=America/Edmonton:20260415T093000
 DTEND;TZID=America/Edmonton:20260415T180059
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3719@soundintown.com
 DESCRIPTION:Role: Leadership Team\nEvent: APR13-15 Stageline Spring Traini
  ng\nAllocated: 8.0h\nNote: EVENT: APR13-15 Stageline Spring Training\nhttp
@@ -154,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR13-15 Stageline Spring Training
 DTSTART;TZID=America/Edmonton:20260416T100000
 DTEND;TZID=America/Edmonton:20260416T220059
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3721@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR13-15 Stageline Spring Training\nAl
  located: 8.0h\nNote: EVENT: APR13-15 Stageline Spring Training\nhttps://ww
@@ -165,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - APR18  Peace Passage Ice Show
 DTSTART;TZID=America/Edmonton:20260417T100000
 DTEND;TZID=America/Edmonton:20260417T180000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3252@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: APR18  Peace Passage Ice Show\nA
  llocated: 8.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps://www.so
@@ -178,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - APR18  Peace Passage Ice Show
 DTSTART;TZID=America/Edmonton:20260418T100000
 DTEND;TZID=America/Edmonton:20260418T180000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3251@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: APR18  Peace Passage Ice Show\nA
  llocated: 8.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps://www.so
@@ -192,7 +179,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - APR18  Peace Passage Ice Sh
  ow
 DTSTART;TZID=America/Edmonton:20260419T100000
 DTEND;TZID=America/Edmonton:20260419T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3258@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: APR18  Peac
  e Passage Ice Show\nAllocated: 7.0h\nNote: EVENT: APR18  Peace Passage Ice
@@ -205,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR22-24 NCLGMA (Prince George)
 DTSTART;TZID=America/Edmonton:20260420T100000
 DTEND;TZID=America/Edmonton:20260420T180000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2821@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR22-24 NCLGMA (Pr
  ince George)\nAllocated: 8.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George
@@ -219,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR22-24 NCLGMA (Prince George)
 DTSTART;TZID=America/Edmonton:20260421T100000
 DTEND;TZID=America/Edmonton:20260421T180000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2820@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR22-24 NCLGMA (Pr
  ince George)\nAllocated: 8.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George
@@ -233,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR22-24 NCLGMA (Prince George)
 DTSTART;TZID=America/Edmonton:20260422T100000
 DTEND;TZID=America/Edmonton:20260422T180000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2809@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR22-24 NCLGMA (Pr
  ince George)\nAllocated: 8.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George
@@ -247,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR22-24 NCLGMA (Prince George)
 DTSTART;TZID=America/Edmonton:20260423T100000
 DTEND;TZID=America/Edmonton:20260423T180000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2817@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR22-24 NCLGMA (Pr
  ince George)\nAllocated: 8.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George
@@ -261,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR22-24 NCLGMA (Prince George)
 DTSTART;TZID=America/Edmonton:20260424T100000
 DTEND;TZID=America/Edmonton:20260424T180000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2818@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR22-24 NCLGMA (Pr
  ince George)\nAllocated: 8.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George
@@ -275,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR22-24 NCLGMA (Prince George)
 DTSTART;TZID=America/Edmonton:20260425T100000
 DTEND;TZID=America/Edmonton:20260425T180000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2819@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR22-24 NCLGMA (Pr
  ince George)\nAllocated: 8.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George
@@ -290,7 +277,7 @@ SUMMARY:A1 - Audio Tech - APR30 - Eloiz Concert at Anne Roberts Young Scho
  ol
 DTSTART;TZID=America/Edmonton:20260430T090000
 DTEND;TZID=America/Edmonton:20260430T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3275@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: APR30 - Eloiz Concert at Anne Ro
  berts Young School\nAllocated: 8.0h\nNote: EVENT: APR30 - Eloiz Concert at
@@ -303,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY02 Firefighters Ball
 DTSTART;TZID=America/Edmonton:20260501T090000
 DTEND;TZID=America/Edmonton:20260501T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2574@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY02 Firef
  ighters Ball\nAllocated: 8.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps
@@ -314,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY02 Firefighters Ball
 DTSTART;TZID=America/Edmonton:20260502T100000
 DTEND;TZID=America/Edmonton:20260503T004500
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2140@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY02 Firefighters 
  Ball\nAllocated: 8.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.s
@@ -325,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY07 NLC Service Awards Gala
 DTSTART;TZID=America/Edmonton:20260503T100000
 DTEND;TZID=America/Edmonton:20260504T004500
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3277@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY07 NLC Service A
  wards Gala\nAllocated: 8.0h\nNote: EVENT: MAY07 NLC Service Awards Gala\nh
@@ -338,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY07 NLC Service Awards Gala
 DTSTART;TZID=America/Edmonton:20260506T090000
 DTEND;TZID=America/Edmonton:20260506T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3278@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY07 NLC Service A
  wards Gala\nAllocated: 8.0h\nNote: EVENT: MAY07 NLC Service Awards Gala\nh
@@ -351,7 +338,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - MAY08 - SD60 Indigenous Learning Da
  y
 DTSTART;TZID=America/Edmonton:20260507T090000
 DTEND;TZID=America/Edmonton:20260507T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3276@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY08 - SD60 Indige
  nous Learning Day\nAllocated: 8.0h\nNote: EVENT: MAY08 - SD60 Aboriginal /
@@ -364,7 +351,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - MAY08 - SD60 Indigenous Learning Da
  y
 DTSTART;TZID=America/Edmonton:20260508T090000
 DTEND;TZID=America/Edmonton:20260508T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2142@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY08 - SD60 Indige
  nous Learning Day\nAllocated: 8.0h\nNote: EVENT: MAY08 - SD60 Aboriginal /
@@ -376,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY10 - Mothers Day Jazz
 DTSTART;TZID=America/Edmonton:20260509T100000
 DTEND;TZID=America/Edmonton:20260509T220000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3283@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY10 - Mot
  hers Day Jazz\nAllocated: 8.0h\nNote: EVENT: MAY10 - Mothers Day Jazz\nhtt
@@ -388,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - MAY10 - Mothers Day Jazz
 DTSTART;TZID=America/Edmonton:20260510T100000
 DTEND;TZID=America/Edmonton:20260510T180000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3285@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAY10 - Mothers Day Jazz\nAlloca
  ted: 8.0h\nNote: EVENT: MAY10 - Mothers Day Jazz\nhttps://www.soundintown.
@@ -401,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Edmonton:20260519T090000
 DTEND;TZID=America/Edmonton:20260519T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2529@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
  e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
@@ -412,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Edmonton:20260520T090000
 DTEND;TZID=America/Edmonton:20260520T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2487@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
  e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
@@ -423,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Edmonton:20260521T090000
 DTEND;TZID=America/Edmonton:20260521T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2485@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
  e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
@@ -435,7 +422,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAY22-23 Mine Rescue BC (Pe
  nticton)
 DTSTART;TZID=America/Edmonton:20260521T180000
 DTEND;TZID=America/Edmonton:20260522T000000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3904@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY22-23 Mi
  ne Rescue BC (Penticton)\nNote: EVENT: MAY22-23 Mine Rescue BC (Penticton)
@@ -446,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Edmonton:20260522T090000
 DTEND;TZID=America/Edmonton:20260522T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2143@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
  e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
@@ -457,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Edmonton:20260523T090000
 DTEND;TZID=America/Edmonton:20260523T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2144@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
  e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
@@ -468,7 +455,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Edmonton:20260524T090000
 DTEND;TZID=America/Edmonton:20260524T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2145@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
  e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
@@ -479,7 +466,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Edmonton:20260525T090000
 DTEND;TZID=America/Edmonton:20260525T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2486@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
  e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
@@ -490,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Edmonton:20260526T100000
 DTEND;TZID=America/Edmonton:20260526T220000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2082@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY28 - NL
  C DC Convocation\nAllocated: 8.0h\nNote: EVENT: MAY28 - NLC DC Convocation
@@ -502,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Edmonton:20260527T100000
 DTEND;TZID=America/Edmonton:20260527T120000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2087@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAY28 - NLC DC Convocation\nAllo
  cated: 2.0h\nNote: EVENT: MAY28 - NLC DC Convocation\nhttps://www.soundint
@@ -514,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY27 FSJ CO-OP AGM
 DTSTART;TZID=America/Edmonton:20260527T130000
 DTEND;TZID=America/Edmonton:20260528T000000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2088@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY27 FSJ CO-OP AGM
  \nAllocated: 8.0h\nNote: EVENT: MAY27 FSJ CO-OP AGM\nhttps://www.soundinto
@@ -526,7 +513,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Edmonton:20260528T100000
 DTEND;TZID=America/Edmonton:20260528T220000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2093@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAY28 - NLC DC Convocation\nAllo
  cated: 8.0h\nNote: EVENT: MAY28 - NLC DC Convocation\nhttps://www.soundint
@@ -538,7 +525,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Edmonton:20260602T100000
 DTEND;TZID=America/Edmonton:20260602T210000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2100@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: JUN04 - NLC
   FSJ Convocation\nAllocated: 8.0h\nNote: EVENT: JUN04 - NLC FSJ Convocatio
@@ -550,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Edmonton:20260603T100000
 DTEND;TZID=America/Edmonton:20260603T210000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2102@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: JUN04 - NLC
   FSJ Convocation\nAllocated: 8.0h\nNote: EVENT: JUN04 - NLC FSJ Convocatio
@@ -562,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Edmonton:20260604T100000
 DTEND;TZID=America/Edmonton:20260604T210000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2104@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN04 - NLC FSJ Convocation\nAll
  ocated: 8.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nhttps://www.soundi
@@ -574,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN05 - Oilmans BBQ Event
 DTSTART;TZID=America/Edmonton:20260605T090000
 DTEND;TZID=America/Edmonton:20260605T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2619@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN05 - Oilmans BBQ Event\nAlloc
  ated: 8.0h\nNote: EVENT: JUN05 - Oilmans BBQ Event\nhttps://www.soundintow
@@ -586,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN06 North Peace Pride - Festival
 DTSTART;TZID=America/Edmonton:20260606T100000
 DTEND;TZID=America/Edmonton:20260606T220000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2111@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN06 North Peace Pride - Festiv
  al\nAllocated: 8.0h\nNote: EVENT: JUN06 North Peace Pride - Festival\nhttp
@@ -599,7 +586,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=America/Edmonton:20260608T100000
 DTEND;TZID=America/Edmonton:20260609T000000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3341@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUN08 - Terry Fator Comedy Sho
  w\nAllocated: 8.0h\nNote: EVENT: JUN08 - Potential Comedy\nhttps://www.sou
@@ -612,7 +599,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN19 - NPSS GradFest 2026
 DTSTART;TZID=America/Edmonton:20260617T090000
 DTEND;TZID=America/Edmonton:20260617T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2643@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN19 - NPSS GradFe
  st 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS GradFest 2026\nhttps:/
@@ -624,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN19 - NPSS GradFest 2026
 DTSTART;TZID=America/Edmonton:20260618T090000
 DTEND;TZID=America/Edmonton:20260618T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2642@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN19 - NPSS GradFe
  st 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS GradFest 2026\nhttps:/
@@ -636,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN19 - NPSS GradFest 2026
 DTSTART;TZID=America/Edmonton:20260619T090000
 DTEND;TZID=America/Edmonton:20260619T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2153@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN19 - NPSS GradFe
  st 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS GradFest 2026\nhttps:/
@@ -648,7 +635,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN19 - NPSS Grad Ceremony 2026
 DTSTART;TZID=America/Edmonton:20260619T110000
 DTEND;TZID=America/Edmonton:20260619T170000
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-2152@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN19 - NPSS Grad C
  eremony 2026\nAllocated: 6.0h\nNote: EVENT: JUN19 - NPSS Grad Ceremony 202
@@ -660,7 +647,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN20-22 2026 Peace River Gold Cup
 DTSTART;TZID=America/Edmonton:20260619T180000
 DTEND;TZID=America/Edmonton:20260620T005959
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3377@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN20-22 2026 Peace River Gold C
  up\nNote: EVENT: JUN20-22 2026 Peace River Gold Cup\nhttps://www.soundinto
@@ -671,7 +658,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN20-22 2026 Peace River Gold Cup
 DTSTART;TZID=America/Edmonton:20260620T180000
 DTEND;TZID=America/Edmonton:20260621T005959
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3378@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN20-22 2026 Peace River Gold C
  up\nAllocated: 7.0h\nNote: EVENT: JUN20-22 2026 Peace River Gold Cup\nhttp
@@ -682,8 +669,19 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN20-22 2026 Peace River Gold Cup
 DTSTART;TZID=America/Edmonton:20260621T180000
 DTEND;TZID=America/Edmonton:20260622T005959
-DTSTAMP:20260325T012325Z
+DTSTAMP:20260325T013727Z
 UID:planning-slot-3379@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN20-22 2026 Peace River Gold C
+ up\nAllocated: 7.0h\nNote: EVENT: JUN20-22 2026 Peace River Gold Cup\nhttp
+ s://www.soundintown.com/model/showbook/jun20-22-2026-peace-river-gold-cup-
+ 1309\n\n\n\nSound in Town - Sam Baker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - JUN20-22 2026 Peace River Gold Cup
+DTSTART;TZID=America/Edmonton:20260622T180000
+DTEND;TZID=America/Edmonton:20260623T005959
+DTSTAMP:20260325T013727Z
+UID:planning-slot-3380@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN20-22 2026 Peace River Gold C
  up\nAllocated: 7.0h\nNote: EVENT: JUN20-22 2026 Peace River Gold Cup\nhttp
  s://www.soundintown.com/model/showbook/jun20-22-2026-peace-river-gold-cup-
