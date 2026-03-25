@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Kody Manson
+X-WR-TIMEZONE:America/Regina
+BEGIN:VTIMEZONE
+TZID:America/Regina
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:MST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - MAR11-12 Cargill ThinkTank 2026 - Delta 
+ Downtown (Saskatoon\, SK)
+DTSTART;TZID=America/Regina:20260310T100000
+DTEND;TZID=America/Regina:20260310T180000
+DTSTAMP:20260325T022133Z
+UID:planning-slot-3238@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR11-12 Cargill ThinkTa
+ nk 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 8.0h\nNote: EVENT: M
+ AR11-12 Cargill ThinkTank 2026 - Delta Downtown (Saskatoon\, SK)\n\n\n\nSo
+ und in Town - Kody Manson
+LOCATION:Delta Hotels By Marriott Saskatoon Downtown
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - MAR11-12 Cargill ThinkTank 2026 - Delta 
+ Downtown (Saskatoon\, SK)
+DTSTART;TZID=America/Regina:20260312T170000
+DTEND;TZID=America/Regina:20260312T220059
+DTSTAMP:20260325T022133Z
+UID:planning-slot-3239@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR11-12 Cargill ThinkTa
+ nk 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 5.0h\nNote: EVENT: M
+ AR11-12 Cargill ThinkTank 2026 - Delta Downtown (Saskatoon\, SK)\n\nThis s
+ hould be 4pm-9pm local time\, let me know if that's what its showing\n\nSo
+ und in Town - Kody Manson
+LOCATION:Delta Hotels By Marriott Saskatoon Downtown
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Daniel Blunt
+X-WR-TIMEZONE:America/Dawson_Creek
+BEGIN:VTIMEZONE
+TZID:America/Dawson_Creek
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:MST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SET/STR3 - Setup & Strike Stage Hand - FEB01-28 City of FSJ - Wint
+ er Fest
+DTSTART;TZID=America/Dawson_Creek:20260128T100000
+DTEND;TZID=America/Dawson_Creek:20260128T180000
+DTSTAMP:20260325T022129Z
+UID:planning-slot-3020@soundintown.com
+DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: FEB01-28 Ci
+ ty of FSJ - Winter Fest\nAllocated: 8.0h\nNote: EVENT: FEB13-16 City of FS
+ J - Winter Fest / High on Ice\nhttps://www.soundintown.com/model/showbook/
+ feb13-16-city-of-fsj-winter-fest-high-on-ice-1118\n\n\n\nSound in Town - D
+ aniel Blunt
+LOCATION:Festival Plaza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JAN30-31 Wild Sheep Norther
+ n Fundraiser 2026
+DTSTART;TZID=America/Dawson_Creek:20260129T100000
+DTEND;TZID=America/Dawson_Creek:20260129T180000
+DTSTAMP:20260325T022129Z
+UID:planning-slot-1972@soundintown.com
+DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JAN30-31 Wi
+ ld Sheep Northern Fundraiser 2026\nAllocated: 8.0h\nNote: EVENT: JAN30-31 
+ Wild Sheep Northern Fundraiser 2026\nhttps://www.soundintown.com/model/sho
+ wbook/jan30-31-wild-sheep-northern-fundraiser-2026-726\n\n\n\nSound in Tow
+ n - Daniel Blunt
+LOCATION:Ovintiv Events Centre - Main Arena Floor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JAN30-31 Wild Sheep Norther
+ n Fundraiser 2026
+DTSTART;TZID=America/Dawson_Creek:20260130T120000
+DTEND;TZID=America/Dawson_Creek:20260130T170000
+DTSTAMP:20260325T022129Z
+UID:planning-slot-2504@soundintown.com
+DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JAN30-31 Wi
+ ld Sheep Northern Fundraiser 2026\nAllocated: 5.0h\nNote: EVENT: JAN30-31 
+ Wild Sheep Northern Fundraiser 2026\nhttps://www.soundintown.com/model/sho
+ wbook/jan30-31-wild-sheep-northern-fundraiser-2026-726\n\nTimes may shift 
+ today based on what you guys get done the day prior.\n\nSound in Town - Da
+ niel Blunt
+LOCATION:Ovintiv Events Centre - Main Arena Floor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JAN30-31 Wild Sheep Norther
+ n Fundraiser 2026
+DTSTART;TZID=America/Dawson_Creek:20260131T223000
+DTEND;TZID=America/Dawson_Creek:20260201T023000
+DTSTAMP:20260325T022129Z
+UID:planning-slot-1978@soundintown.com
+DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JAN30-31 Wi
+ ld Sheep Northern Fundraiser 2026\nAllocated: 2.5h\nNote: EVENT: JAN30-31 
+ Wild Sheep Northern Fundraiser 2026\nhttps://www.soundintown.com/model/sho
+ wbook/jan30-31-wild-sheep-northern-fundraiser-2026-726\n\nStrike Upper Lob
+ by and Mercer if not done already while event is happening in the arena\, 
+ then once arena event is done begin strike in arena\n\n\n\nSound in Town -
+  Daniel Blunt
+LOCATION:Ovintiv Events Centre - Main Arena Floor
+END:VEVENT
+END:VCALENDAR

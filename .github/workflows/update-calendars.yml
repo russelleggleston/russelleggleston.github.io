@@ -39,7 +39,7 @@ jobs:
           SCHEDULES_DIR = Path("schedules")
           TOKEN_CACHE = Path(".ical_tokens.json")
           DEFAULT_TZ = 'America/Dawson_Creek'
-          DAYS_BACK = 7
+          DAYS_BACK = 60
           DAYS_FORWARD = 365
 
           def connect():

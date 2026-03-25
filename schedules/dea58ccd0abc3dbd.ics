@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Kurtis Nguyen
+X-WR-TIMEZONE:America/Dawson_Creek
+BEGIN:VTIMEZONE
+TZID:America/Dawson_Creek
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:MST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - FEB25-26 Agriculture Conference Mercer Hall
+DTSTART;TZID=America/Dawson_Creek:20260222T090000
+DTEND;TZID=America/Dawson_Creek:20260222T120059
+DTSTAMP:20260325T022134Z
+UID:planning-slot-3223@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: FEB25-26 Agriculture Conference 
+ Mercer Hall\nAllocated: 3.0h\nNote: EVENT: FEB25-26 Agriculture Conference
+  Mercer Hall\nhttps://www.soundintown.com/model/showbook/feb25-26-agricult
+ ure-conference-mercer-hall-632\n\nMeet up with Russ as he sets up the conf
+ erence so you have the lay of the land\n\n\nSound in Town - Kurtis Nguyen
+LOCATION:Ovintiv Events Centre - Mercer Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - FEB25-26 Agriculture Conference Mercer Hall
+DTSTART;TZID=America/Dawson_Creek:20260225T094500
+DTEND;TZID=America/Dawson_Creek:20260225T210000
+DTSTAMP:20260325T022134Z
+UID:planning-slot-1925@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: FEB25-26 Agriculture Conference 
+ Mercer Hall\nAllocated: 8.0h\nNote: EVENT: FEB25-26 Agriculture Conference
+  Mercer Hall\nhttps://www.soundintown.com/r/pn3\n\nClient will be on site 
+ at 10am\n\nSound in Town - Kurtis Nguyen
+LOCATION:Ovintiv Events Centre - Mercer Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - FEB25-26 Agriculture Conference Mercer Hall
+DTSTART;TZID=America/Dawson_Creek:20260226T080000
+DTEND;TZID=America/Dawson_Creek:20260226T170000
+DTSTAMP:20260325T022134Z
+UID:planning-slot-1928@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: FEB25-26 Agriculture Conference 
+ Mercer Hall\nAllocated: 8.0h\nNote: EVENT: FEB25-26 Agriculture Conference
+  Mercer Hall\nhttps://www.soundintown.com/model/showbook/feb25-26-agricult
+ ure-conference-mercer-hall-632\n\nTimes TBD\n\nSound in Town - Kurtis Nguy
+ en
+LOCATION:Ovintiv Events Centre - Mercer Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR2 - Setup & Strike Junior Tech - FEB25-26 Agriculture Confe
+ rence Mercer Hall
+DTSTART;TZID=America/Dawson_Creek:20260226T170000
+DTEND;TZID=America/Dawson_Creek:20260226T180000
+DTSTAMP:20260325T022134Z
+UID:planning-slot-1931@soundintown.com
+DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: FEB25-26 A
+ griculture Conference Mercer Hall\nNote: EVENT: FEB25-26 Agriculture Confe
+ rence Mercer Hall\nhttps://www.soundintown.com/r/pn3\n\nThis gear will nee
+ d to be struck and put into the "future room" Russ will show you\n\nSound 
+ in Town - Kurtis Nguyen
+LOCATION:Ovintiv Events Centre - Mercer Hall
+END:VEVENT
+END:VCALENDAR

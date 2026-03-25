@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Robert(Rob) Lee Dodd
+X-WR-TIMEZONE:Canada/Pacific
+BEGIN:VTIMEZONE
+TZID:Canada/Pacific
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:MST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - FEB27-28 Wild Sheep Society - Penticton 
+ Fundraiser
+DTSTART;TZID=Canada/Pacific:20260225T160000
+DTEND;TZID=Canada/Pacific:20260225T210000
+DTSTAMP:20260325T022137Z
+UID:planning-slot-3416@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB27-28 Wild Sheep Soci
+ ety - Penticton Fundraiser\nNote: EVENT: FEB27-28 Wild Sheep Society - Pen
+ ticton Fundraiser\nhttps://www.soundintown.com/r/piL\n\n\n\nSound in Town 
+ - Robert(Rob) Lee Dodd
+LOCATION:Penticton Trade and Convention Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - FEB27-28 Wild Sheep Society - Penticton 
+ Fundraiser
+DTSTART;TZID=Canada/Pacific:20260301T070000
+DTEND;TZID=Canada/Pacific:20260301T130059
+DTSTAMP:20260325T022137Z
+UID:planning-slot-3418@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB27-28 Wild Sheep Soci
+ ety - Penticton Fundraiser\nAllocated: 6.0h\nNote: EVENT: FEB27-28 Wild Sh
+ eep Society - Penticton Fundraiser\nhttps://www.soundintown.com/r/piL\n\n\
+ n\nSound in Town - Robert(Rob) Lee Dodd
+LOCATION:Penticton Trade and Convention Center
+END:VEVENT
+END:VCALENDAR

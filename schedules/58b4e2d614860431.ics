@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Helge Lipphardt
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYHOUR=2;BYDAY=1SU;BYMONTH=11
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700301T020000
+RRULE:FREQ=YEARLY;BYHOUR=2;BYDAY=2SU;BYMONTH=3
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - FEB04-05 Cargill ThinkTank '26 - Edmonto
+ n\, AB
+DTSTART;TZID=America/Edmonton:20260203T090000
+DTEND;TZID=America/Edmonton:20260203T170000
+DTSTAMP:20260325T022131Z
+UID:planning-slot-2508@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB04-05 Cargill ThinkTa
+ nk '26 - Edmonton\, AB\nAllocated: 2.0h\nNote: EVENT: FEB04-05 Cargill Thi
+ nkTank '26 - Edmonton\, AB\nhttps://www.soundintown.com/model/showbook/feb
+ 04-05-cargill-thinktank-26-edmonton-ab-715\n\n\n\nSound in Town - Helge Li
+ pphardt
+LOCATION:Double Tree Edmonton West
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - FEB04-05 Cargill ThinkTank '26 - Edmonto
+ n\, AB
+DTSTART;TZID=America/Edmonton:20260205T163000
+DTEND;TZID=America/Edmonton:20260205T203000
+DTSTAMP:20260325T022131Z
+UID:planning-slot-2476@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB04-05 Cargill ThinkTa
+ nk '26 - Edmonton\, AB\nAllocated: 2.0h\nNote: EVENT: FEB04-05 Cargill Thi
+ nkTank '26 - Edmonton\, AB\nhttps://www.soundintown.com/model/showbook/feb
+ 04-05-cargill-thinktank-26-edmonton-ab-715\n\n\n\nSound in Town - Helge Li
+ pphardt
+LOCATION:Double Tree Edmonton West
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Jeffrey Kirzinger
+X-WR-TIMEZONE:America/Regina
+BEGIN:VTIMEZONE
+TZID:America/Regina
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:MST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - MAR11-12 Cargill ThinkTank 2026 - Delta 
+ Downtown (Saskatoon\, SK)
+DTSTART;TZID=America/Regina:20260310T100000
+DTEND;TZID=America/Regina:20260310T180000
+DTSTAMP:20260325T022132Z
+UID:planning-slot-3237@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR11-12 Cargill ThinkTa
+ nk 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 8.0h\nNote: EVENT: M
+ AR11-12 Cargill ThinkTank 2026 - Delta Downtown (Saskatoon\, SK)\nhttps://
+ www.soundintown.com/model/showbook/mar11-12-cargill-thinktank-2026-delta-d
+ owntown-saskatoon-sk-718\n\n\n\nSound in Town - Jeffrey Kirzinger
+LOCATION:Delta Hotels By Marriott Saskatoon Downtown
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - MAR11-12 Cargill ThinkTank 2026 - Delta 
+ Downtown (Saskatoon\, SK)
+DTSTART;TZID=America/Regina:20260312T170000
+DTEND;TZID=America/Regina:20260312T220059
+DTSTAMP:20260325T022132Z
+UID:planning-slot-3240@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR11-12 Cargill ThinkTa
+ nk 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 5.0h\nNote: EVENT: M
+ AR11-12 Cargill ThinkTank 2026 - Delta Downtown (Saskatoon\, SK)\nhttps://
+ www.soundintown.com/model/showbook/mar11-12-cargill-thinktank-2026-delta-d
+ owntown-saskatoon-sk-718\n\nThis should be 4pm-9pm local time\, let me kno
+ w if that's what its showing\n\nSound in Town - Jeffrey Kirzinger
+LOCATION:Delta Hotels By Marriott Saskatoon Downtown
+END:VEVENT
+END:VCALENDAR

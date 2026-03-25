@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Calvin Senger
+X-WR-TIMEZONE:America/Dawson_Creek
+BEGIN:VTIMEZONE
+TZID:America/Dawson_Creek
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:MST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - FEB27-28 Wild Sheep Society - Penticton 
+ Fundraiser
+DTSTART;TZID=America/Dawson_Creek:20260225T170000
+DTEND;TZID=America/Dawson_Creek:20260225T220000
+DTSTAMP:20260325T022126Z
+UID:planning-slot-3414@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB27-28 Wild Sheep Soci
+ ety - Penticton Fundraiser\nNote: EVENT: FEB27-28 Wild Sheep Society - Pen
+ ticton Fundraiser\nhttps://www.soundintown.com/r/piL\n\n\n\nSound in Town 
+ - Calvin Senger
+LOCATION:Penticton Trade and Convention Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - FEB27-28 Wild Sheep Society - Penticton 
+ Fundraiser
+DTSTART;TZID=America/Dawson_Creek:20260301T080000
+DTEND;TZID=America/Dawson_Creek:20260301T140059
+DTSTAMP:20260325T022126Z
+UID:planning-slot-3417@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB27-28 Wild Sheep Soci
+ ety - Penticton Fundraiser\nAllocated: 6.0h\nNote: EVENT: FEB27-28 Wild Sh
+ eep Society - Penticton Fundraiser\nhttps://www.soundintown.com/r/piL\n\n\
+ n\nSound in Town - Calvin Senger
+LOCATION:Penticton Trade and Convention Center
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Aden Fulford
+X-WR-TIMEZONE:America/Dawson_Creek
+BEGIN:VTIMEZONE
+TZID:America/Dawson_Creek
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:MST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CO - Camera Operator - JAN30-31 Wild Sheep Northern Fundraiser 202
+ 6
+DTSTART;TZID=America/Dawson_Creek:20260131T183000
+DTEND;TZID=America/Dawson_Creek:20260201T023000
+DTSTAMP:20260325T022125Z
+UID:planning-slot-1977@soundintown.com
+DESCRIPTION:Role: CO - Camera Operator\nEvent: JAN30-31 Wild Sheep Norther
+ n Fundraiser 2026\nAllocated: 2.5h\nNote: EVENT: JAN30-31 Wild Sheep North
+ ern Fundraiser 2026\nhttps://www.soundintown.com/model/showbook/jan30-31-w
+ ild-sheep-northern-fundraiser-2026-726\n\nYou will start Strike after you 
+ finish on camera for the evening\n\n\n\nSound in Town - Aden Fulford
+LOCATION:Ovintiv Events Centre - Main Arena Floor
+END:VEVENT
+END:VCALENDAR

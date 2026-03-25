@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Sound in Town//Shift Calendar//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Sound in Town - Benjamin Greentree
+X-WR-CALNAME:Sound in Town - Kayla Pelgrim
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VTIMEZONE
 TZID:America/Edmonton
@@ -22,15 +22,14 @@ TZOFFSETTO:-0600
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CO - Camera Operator - APR16 Pomeroy GP Pembina Townhall 2026
-DTSTART;TZID=America/Edmonton:20260416T080000
-DTEND;TZID=America/Edmonton:20260416T140000
-DTSTAMP:20260325T022126Z
-UID:planning-slot-3880@soundintown.com
-DESCRIPTION:Role: CO - Camera Operator\nEvent: APR16 Pomeroy GP Pembina To
- wnhall 2026\nAllocated: 6.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townha
- ll 2026\nhttps://www.soundintown.com/r/Ylw\n\n\n\nSound in Town - Benjamin
-  Greentree
+SUMMARY:AV2 - AV Tech (Mid Level) - FEB24 GP BEO ATP
+DTSTART;TZID=America/Edmonton:20260228T070000
+DTEND;TZID=America/Edmonton:20260228T090000
+DTSTAMP:20260325T022133Z
+UID:planning-slot-2137@soundintown.com
+DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: FEB24 GP BEO ATP\nAllo
+ cated: 2.0h\nNote: EVENT: FEB24 GP BEO ATP\nhttps://www.soundintown.com/mo
+ del/showbook/feb24-gp-beo-atp-1104\n\n\n\nSound in Town - Kayla Pelgrim
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 END:VCALENDAR
