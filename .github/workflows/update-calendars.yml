@@ -113,6 +113,33 @@ jobs:
               utc_dt = datetime.strptime(utc_str, '%Y-%m-%d %H:%M:%S').replace(tzinfo=timezone.utc)
               return utc_dt.astimezone(ZoneInfo(tz_name))
 
+          def build_vtimezone(tz_name):
+              from icalendar import Timezone, TimezoneDaylight, TimezoneStandard
+              tz = Timezone()
+              tz.add('tzid', tz_name)
+              tz_rules = {
+                  'America/Dawson_Creek': [('STANDARD', -7, 'MST', None)],
+                  'America/Creston': [('STANDARD', -7, 'MST', None)],
+                  'America/Edmonton': [('STANDARD', -7, 'MST', (11, 1, 2)), ('DAYLIGHT', -6, 'MDT', (3, 2, 2))],
+                  'America/Los_Angeles': [('STANDARD', -8, 'PST', (11, 1, 2)), ('DAYLIGHT', -7, 'PDT', (3, 2, 2))],
+                  'America/Vancouver': [('STANDARD', -8, 'PST', (11, 1, 2)), ('DAYLIGHT', -7, 'PDT', (3, 2, 2))],
+              }
+              rules = tz_rules.get(tz_name, [('STANDARD', -7, 'MST', None)])
+              for rule_type, offset_hours, abbrev, transition in rules:
+                  comp = TimezoneDaylight() if rule_type == 'DAYLIGHT' else TimezoneStandard()
+                  comp.add('tzname', abbrev)
+                  comp.add('tzoffsetto', timedelta(hours=offset_hours))
+                  if transition:
+                      month, week, hour = transition
+                      comp.add('tzoffsetfrom', timedelta(hours=offset_hours + 1 if rule_type == 'STANDARD' else offset_hours - 1))
+                      comp.add('rrule', {'freq': 'yearly', 'bymonth': month, 'byday': f'{week}SU', 'byhour': hour})
+                      comp.add('dtstart', datetime(1970, month, 1, hour, 0, 0))
+                  else:
+                      comp.add('tzoffsetfrom', timedelta(hours=offset_hours))
+                      comp.add('dtstart', datetime(1970, 1, 1, 0, 0, 0))
+                  tz.add_component(comp)
+              return tz
+
           def generate_ics(employee_name, employee_tz, shifts, event_detail_map):
               tz_name = employee_tz or DEFAULT_TZ
               cal = Calendar()
@@ -121,6 +148,7 @@ jobs:
               cal.add('calscale', 'GREGORIAN')
               cal.add('x-wr-calname', f'Sound in Town - {employee_name}')
               cal.add('x-wr-timezone', tz_name)
+              cal.add_component(build_vtimezone(tz_name))
 
               for shift in shifts:
                   event = Event()
