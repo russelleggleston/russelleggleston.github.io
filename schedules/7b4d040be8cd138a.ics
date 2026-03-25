@@ -18,7 +18,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAR19 - 3D Childrens Gala @
  GP Pomeroy
 DTSTART;TZID=America/Dawson_Creek:20260318T160000
 DTEND;TZID=America/Dawson_Creek:20260318T220000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2019@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAR19 - 3D 
  Childrens Gala @GP Pomeroy\nAllocated: 6.0h\nNote: EVENT: MAR19 - 3D Child
@@ -31,7 +31,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - MAR19 - 3D Childrens Gala @GP Pomer
  oy
 DTSTART;TZID=America/Dawson_Creek:20260319T090000
 DTEND;TZID=America/Dawson_Creek:20260319T230000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2021@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAR19 - 3D Children
  s Gala @GP Pomeroy\nAllocated: 8.0h\nNote: EVENT: MAR19 - 3D Childrens Gal
@@ -45,7 +45,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAR19 - 3D Childrens Gala @
  GP Pomeroy
 DTSTART;TZID=America/Dawson_Creek:20260320T080000
 DTEND;TZID=America/Dawson_Creek:20260320T120000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2014@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAR19 - 3D 
  Childrens Gala @GP Pomeroy\nAllocated: 4.0h\nNote: EVENT: MAR19 - 3D Child
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level)
 DTSTART;TZID=America/Dawson_Creek:20260321T080000
 DTEND;TZID=America/Dawson_Creek:20260321T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3860@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nAllocated: 8.0h\nNote: GET
   TAXES\, ASSETS\, SCORECORDS\, ACCOUNTS PAYABLE\, BUDGET DONE WITH DANA\n\
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:WH1 - Senior Warehouse Technician - APR05 - Photobooth for Easter
 DTSTART;TZID=America/Dawson_Creek:20260322T090000
 DTEND;TZID=America/Dawson_Creek:20260322T100059
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3954@soundintown.com
 DESCRIPTION:Role: WH1 - Senior Warehouse Technician\nEvent: APR05 - Photob
  ooth for Easter\nAllocated: 1.0h\nNote: EVENT: APR05 - Photobooth for East
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Installation Tech - MAR23 - NRM Installation (DC Airport Office)
 DTSTART;TZID=America/Dawson_Creek:20260323T060000
 DTEND;TZID=America/Dawson_Creek:20260323T163059
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3657@soundintown.com
 DESCRIPTION:Role: Installation Tech\nEvent: MAR23 - NRM Installation (DC A
  irport Office)\nAllocated: 8.0h\nNote: EVENT: MAR23 - NRM Installation (DC
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260324T094500
 DTEND;TZID=America/Dawson_Creek:20260324T103000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3619@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 0.8h\nNote: Lab Appointment 
  at 10 am\n\nSound in Town - Russell Eggleston
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260324T103000
 DTEND;TZID=America/Dawson_Creek:20260324T120059
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2972@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\n\nSound in Town - Russ
  ell Eggleston
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Installation Tech
 DTSTART;TZID=America/Dawson_Creek:20260325T090000
 DTEND;TZID=America/Dawson_Creek:20260325T130000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3602@soundintown.com
 DESCRIPTION:Role: Installation Tech\nAllocated: 4.0h\nNote: Finish Hudson 
  Hope Install\n\nSound in Town - Russell Eggleston
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAR25 - Saulteau Evening Meeting
 DTSTART;TZID=America/Dawson_Creek:20260325T130000
 DTEND;TZID=America/Dawson_Creek:20260325T230000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3752@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAR25 - Saulteau Ev
  ening Meeting\nAllocated: 8.0h\nNote: EVENT: MAR25 - Saulteau Evening Meet
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAR28 - Ron Folk Funeral
 DTSTART;TZID=America/Dawson_Creek:20260328T090000
 DTEND;TZID=America/Dawson_Creek:20260328T180000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3765@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAR28 - Ron Folk Fu
  neral\nAllocated: 8.0h\nNote: EVENT: MAR28 - Ron Folk Funeral\nhttps://www
@@ -141,7 +141,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - MAR31 Saulteau - Governance Worksho
  p
 DTSTART;TZID=America/Dawson_Creek:20260331T130000
 DTEND;TZID=America/Dawson_Creek:20260331T210000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3871@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAR31 Saulteau - Go
  vernance Workshop\nAllocated: 8.0h\nNote: EVENT: MAR31 Saulteau - Governan
@@ -154,7 +154,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - APR01 Saulteau FN - All Candidates
  Forum
 DTSTART;TZID=America/Dawson_Creek:20260401T140000
 DTEND;TZID=America/Dawson_Creek:20260401T230000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3532@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR01 Saulteau FN -
   All Candidates Forum\nAllocated: 8.0h\nNote: EVENT: APR01 Saulteau FN - A
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR02 NLC All Staff Meeting
 DTSTART;TZID=America/Dawson_Creek:20260402T070000
 DTEND;TZID=America/Dawson_Creek:20260402T170000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2868@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR02 NLC All Staff Meeting\
  nAllocated: 8.0h\nNote: EVENT: APR02 NLC All Staff Meeting\nhttps://www.so
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260403T100000
 DTEND;TZID=America/Dawson_Creek:20260403T120000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3154@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 2.0h\nNote: END OF QUARTER R
  OCK REVIEW 2 HR MEETING\n\nSound in Town - Russell Eggleston
@@ -189,7 +189,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - APR07 FSJ Co-op Staff Meeting @ Ram
  ada
 DTSTART;TZID=America/Dawson_Creek:20260407T150000
 DTEND;TZID=America/Dawson_Creek:20260407T220000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3696@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR07 FSJ Co-op Sta
  ff Meeting @ Ramada\nAllocated: 7.0h\nNote: EVENT: APR07 FSJ Co-op Staff M
@@ -203,7 +203,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - APR10-12 Fort St. John Trad
  eshow Booth for Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260409T120000
 DTEND;TZID=America/Dawson_Creek:20260409T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2684@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: APR10-12 Fo
  rt St. John Tradeshow Booth for Ovintiv\nAllocated: 4.0h\nNote: EVENT: APR
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Transport
 DTSTART;TZID=America/Dawson_Creek:20260410T111500
 DTEND;TZID=America/Dawson_Creek:20260410T114559
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3875@soundintown.com
 DESCRIPTION:Role: Transport\nAllocated: 0.5h\nNote: PICK UP AMANDA FROM AI
  RPORT. FLIGHT ARRIVES AT 11:35\n\nSound in Town - Russell Eggleston
@@ -225,7 +225,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - APR10-12 Fort St. John Tradeshow Bo
  oth for Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260410T120000
 DTEND;TZID=America/Dawson_Creek:20260410T130059
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3890@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR10-12 Fort St. J
  ohn Tradeshow Booth for Ovintiv\nAllocated: 1.0h\nNote: EVENT: APR10-12 Fo
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260410T160000
 DTEND;TZID=America/Dawson_Creek:20260410T190059
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3106@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR12-15 AARFP 47th Conference\nAlloca
  ted: 3.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\nFSJ-GP\n\nSound 
@@ -250,7 +250,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - APR12-15 AARFP 47th Confer
  ence
 DTSTART;TZID=America/Dawson_Creek:20260411T080000
 DTEND;TZID=America/Dawson_Creek:20260411T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2546@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: APR12-15 A
  ARFP 47th Conference\nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Co
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260412T090000
 DTEND;TZID=America/Dawson_Creek:20260412T210000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2034@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR12-15 AARFP 47th
   Conference\nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260413T090000
 DTEND;TZID=America/Dawson_Creek:20260413T210000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2036@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR12-15 AARFP 47th
   Conference\nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260414T090000
 DTEND;TZID=America/Dawson_Creek:20260414T210000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2038@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR12-15 AARFP 47th
   Conference\nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260415T090000
 DTEND;TZID=America/Dawson_Creek:20260415T170000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2043@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR12-15 AARFP 47th
   Conference\nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Dawson_Creek:20260415T170000
 DTEND;TZID=America/Dawson_Creek:20260415T230000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2040@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR16 Pomeroy GP Pembina Tow
  nhall 2026\nAllocated: 6.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townhal
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Dawson_Creek:20260416T070000
 DTEND;TZID=America/Dawson_Creek:20260416T130000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2045@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR16 Pomeroy GP Pembina Tow
  nhall 2026\nAllocated: 6.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townhal
@@ -329,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR16 Saulteau FN - Chiefs Election Forum
 DTSTART;TZID=America/Dawson_Creek:20260416T130000
 DTEND;TZID=America/Dawson_Creek:20260416T160059
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3640@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR16 Saulteau FN - Chiefs Election Fo
  rum\nAllocated: 3.0h\nNote: EVENT: APR16 Saulteau FN - Chiefs Election For
@@ -342,7 +342,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - APR16 Saulteau FN - Chiefs Election
   Forum
 DTSTART;TZID=America/Dawson_Creek:20260416T170000
 DTEND;TZID=America/Dawson_Creek:20260416T235959
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3641@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR16 Saulteau FN -
   Chiefs Election Forum\nAllocated: 7.0h\nNote: EVENT: APR16 Saulteau FN - 
@@ -354,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:R1 - Rigging Tech - APR18  Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260417T090000
 DTEND;TZID=America/Dawson_Creek:20260417T170000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2241@soundintown.com
 DESCRIPTION:Role: R1 - Rigging Tech\nEvent: APR18  Peace Passage Ice Show\
  nAllocated: 8.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps://www.
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR18  Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260418T090000
 DTEND;TZID=America/Dawson_Creek:20260418T170000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2243@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR18  Peace Passag
  e Ice Show\nAllocated: 8.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nh
@@ -378,7 +378,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - APR18  Peace Passage Ice Sh
  ow
 DTSTART;TZID=America/Dawson_Creek:20260419T090000
 DTEND;TZID=America/Dawson_Creek:20260419T170000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3914@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: APR18  Peac
  e Passage Ice Show\nAllocated: 8.0h\nNote: EVENT: APR18  Peace Passage Ice
@@ -391,7 +391,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - APR23-25 Beauty and the Beast Micro
  phone Rental
 DTSTART;TZID=America/Dawson_Creek:20260420T090000
 DTEND;TZID=America/Dawson_Creek:20260420T170059
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3927@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR23-25 Beauty and
   the Beast Microphone Rental\nAllocated: 8.0h\nNote: EVENT: APR23-25 Beaut
@@ -403,7 +403,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - APR22 NLC Dawson - Dual Credit Nigh
  t
 DTSTART;TZID=America/Dawson_Creek:20260422T120000
 DTEND;TZID=America/Dawson_Creek:20260422T235959
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3370@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR22 NLC Dawson - 
  Dual Credit Night\nAllocated: 8.0h\nNote: EVENT: APR22 NLC Dawson - Dual C
@@ -416,7 +416,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - APR27 Saulteau FN - Swearing in Cer
  emony
 DTSTART;TZID=America/Dawson_Creek:20260427T110000
 DTEND;TZID=America/Dawson_Creek:20260427T234500
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3737@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR27 Saulteau FN -
   Swearing in Ceremony\nAllocated: 8.0h\nNote: EVENT: APR27 Saulteau FN - S
@@ -429,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR29 NLC FSJ - Dual Credit Night
 DTSTART;TZID=America/Dawson_Creek:20260429T130000
 DTEND;TZID=America/Dawson_Creek:20260429T235959
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3371@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR29 NLC FSJ - Dua
  l Credit Night\nAllocated: 8.0h\nNote: EVENT: APR29 NLC FSJ - Dual Credit 
@@ -442,7 +442,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAY02-03 - Fort Nelson Trad
  e Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260430T100000
 DTEND;TZID=America/Dawson_Creek:20260430T180000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3274@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY02-03 - 
  Fort Nelson Trade Show 2026\nAllocated: 8.0h\nNote: EVENT: MAY02-03 - Fort
@@ -454,7 +454,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY02-03 - Fort Nelson Tra
  de Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260501T080000
 DTEND;TZID=America/Dawson_Creek:20260501T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2175@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY02-03 -
   Fort Nelson Trade Show 2026\nAllocated: 8.0h\nNote: EVENT: MAY02-03 - For
@@ -465,7 +465,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY02-03 - Fort Nelson Tra
  de Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260502T080000
 DTEND;TZID=America/Dawson_Creek:20260502T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2176@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY02-03 -
   Fort Nelson Trade Show 2026\nAllocated: 8.0h\nNote: EVENT: MAY02-03 - For
@@ -476,7 +476,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY02-03 - Fort Nelson Tra
  de Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260503T080000
 DTEND;TZID=America/Dawson_Creek:20260503T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2177@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY02-03 -
   Fort Nelson Trade Show 2026\nAllocated: 8.0h\nNote: EVENT: MAY02-03 - For
@@ -487,7 +487,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY02-03 - Fort Nelson Tra
  de Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260504T080000
 DTEND;TZID=America/Dawson_Creek:20260504T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2568@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY02-03 -
   Fort Nelson Trade Show 2026\nAllocated: 8.0h\nNote: EVENT: MAY02-03 - For
@@ -498,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY07 NLC Service Awards Gala
 DTSTART;TZID=America/Dawson_Creek:20260507T090000
 DTEND;TZID=America/Dawson_Creek:20260507T230000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2069@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY07 NLC Service A
  wards Gala\nAllocated: 8.0h\nNote: EVENT: MAY07 NLC Service Awards Gala\n\
@@ -510,7 +510,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAY07 NLC Service Awards Ga
  la
 DTSTART;TZID=America/Dawson_Creek:20260508T090000
 DTEND;TZID=America/Dawson_Creek:20260508T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2582@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY07 NLC S
  ervice Awards Gala\nAllocated: 7.0h\nNote: EVENT: MAY07 NLC Service Awards
@@ -521,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - MAY13 - Petronas Town Hall
 DTSTART;TZID=America/Dawson_Creek:20260513T080000
 DTEND;TZID=America/Dawson_Creek:20260513T200000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3606@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAY13 - Petronas Town Hall\nAllo
  cated: 8.0h\nNote: EVENT: MAY13 - Petronas Town Hall\nhttps://www.soundint
@@ -535,7 +535,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - MAY14 - Pathways to Indigenous Futu
  res 2026
 DTSTART;TZID=America/Dawson_Creek:20260514T080000
 DTEND;TZID=America/Dawson_Creek:20260514T170000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3333@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY14 - Pathways to
   Indigenous Futures 2026\nAllocated: 8.0h\nNote: EVENT: MAY14 - Pathways t
@@ -550,7 +550,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - MAY21 City of FSJ - Mental Health C
  onference
 DTSTART;TZID=America/Dawson_Creek:20260521T080000
 DTEND;TZID=America/Dawson_Creek:20260521T170000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3623@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY21 City of FSJ -
   Mental Health Conference\nAllocated: 8.0h\nNote: EVENT: MAY21 City of FSJ
@@ -564,7 +564,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY23-24 Northern Classic 2026 GP
 DTSTART;TZID=America/Dawson_Creek:20260522T090000
 DTEND;TZID=America/Dawson_Creek:20260522T210000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2599@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY23-24 Northern C
  lassic 2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 20
@@ -577,7 +577,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T050000
 DTEND;TZID=America/Dawson_Creek:20260523T170000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2472@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY23 - Bluey Day\nAllocated: 
  8.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.com/r/kwQ\n\
@@ -591,7 +591,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - MAY28 - PRRD Board Meeting - Chetwy
  nd
 DTSTART;TZID=America/Dawson_Creek:20260528T080000
 DTEND;TZID=America/Dawson_Creek:20260528T170000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2090@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY28 - PRRD Board 
  Meeting - Chetwynd\nAllocated: 8.0h\nNote: EVENT: MAY28 - PRRD Board Meeti
@@ -604,7 +604,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - MAY28 - PRRD Board Meeting - Chetwy
  nd
 DTSTART;TZID=America/Dawson_Creek:20260528T170000
 DTEND;TZID=America/Dawson_Creek:20260528T220000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2095@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY28 - PRRD Board 
  Meeting - Chetwynd\nAllocated: 5.0h\nNote: EVENT: MAY28 - PRRD Board Meeti
@@ -617,7 +617,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - JUN01-03 FSJ BEO #14179-1 - 2026 BCC C
  hamber Conference
 DTSTART;TZID=America/Dawson_Creek:20260530T090000
 DTEND;TZID=America/Dawson_Creek:20260530T210000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-1955@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: JUN01-03 FSJ BEO #1417
  9-1 - 2026 BCC Chamber Conference\nAllocated: 8.0h\nNote: EVENT: JUN01-03 
@@ -630,7 +630,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - MAY31 - Annual Colour Run
 DTSTART;TZID=America/Dawson_Creek:20260531T070000
 DTEND;TZID=America/Dawson_Creek:20260531T110000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3301@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAY31 - Annual Colour Run\nAlloc
  ated: 4.0h\nNote: EVENT: MAY31 - Annual Colour Run\n\nAuto planned shift. 
@@ -642,7 +642,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - JUN01-03 FSJ BEO #14179-1 - 2026 BCC C
  hamber Conference
 DTSTART;TZID=America/Dawson_Creek:20260531T080000
 DTEND;TZID=America/Dawson_Creek:20260531T180000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-1956@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: JUN01-03 FSJ BEO #1417
  9-1 - 2026 BCC Chamber Conference\nAllocated: 8.0h\nNote: EVENT: JUN01-03 
@@ -655,7 +655,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - JUN01-03 FSJ BEO #14179-1 - 2026 BC
  C Chamber Conference
 DTSTART;TZID=America/Dawson_Creek:20260601T080000
 DTEND;TZID=America/Dawson_Creek:20260601T180000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-1957@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN01-03 FSJ BEO #1
  4179-1 - 2026 BCC Chamber Conference\nAllocated: 8.0h\nNote: EVENT: JUN01-
@@ -668,7 +668,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - JUN01-03 FSJ BEO #14179-1 - 2026 BC
  C Chamber Conference
 DTSTART;TZID=America/Dawson_Creek:20260602T080000
 DTEND;TZID=America/Dawson_Creek:20260602T180000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-1958@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN01-03 FSJ BEO #1
  4179-1 - 2026 BCC Chamber Conference\nAllocated: 8.0h\nNote: EVENT: JUN01-
@@ -681,7 +681,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - JUN01-03 FSJ BEO #14179-1 - 2026 BC
  C Chamber Conference
 DTSTART;TZID=America/Dawson_Creek:20260603T080000
 DTEND;TZID=America/Dawson_Creek:20260603T180000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-1959@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN01-03 FSJ BEO #1
  4179-1 - 2026 BCC Chamber Conference\nAllocated: 8.0h\nNote: EVENT: JUN01-
@@ -693,7 +693,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Dawson_Creek:20260604T090000
 DTEND;TZID=America/Dawson_Creek:20260604T200000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2105@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN04 - NLC FSJ Con
  vocation\nAllocated: 8.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\n\nTIM
@@ -704,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=America/Dawson_Creek:20260607T090000
 DTEND;TZID=America/Dawson_Creek:20260607T230059
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-3342@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN08 - Terry Fator
   Comedy Show\nAllocated: 8.0h\nNote: EVENT: JUN08 - Terry Fator Comedy Sho
@@ -716,7 +716,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN13-14 - Party In White GP
 DTSTART;TZID=America/Dawson_Creek:20260612T080000
 DTEND;TZID=America/Dawson_Creek:20260612T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2479@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN13-14 - Party In
   White GP\nAllocated: 8.0h\nNote: EVENT: JUN13-14 - Party In White GP\nhtt
@@ -726,7 +726,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN13-14 - Party In White GP
 DTSTART;TZID=America/Dawson_Creek:20260613T080000
 DTEND;TZID=America/Dawson_Creek:20260613T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2148@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN13-14 - Party In
   White GP\nAllocated: 8.0h\nNote: EVENT: JUN13-14 - Party In White GP\nhtt
@@ -736,7 +736,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN13-14 - Party In White GP
 DTSTART;TZID=America/Dawson_Creek:20260614T080000
 DTEND;TZID=America/Dawson_Creek:20260614T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2481@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN13-14 - Party In
   White GP\nAllocated: 8.0h\nNote: EVENT: JUN13-14 - Party In White GP\nhtt
@@ -746,7 +746,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN19 - SD59 Grad Ceremony
 DTSTART;TZID=America/Dawson_Creek:20260617T080000
 DTEND;TZID=America/Dawson_Creek:20260617T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2644@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN19 - SD59 Grad C
  eremony\nAllocated: 8.0h\nNote: EVENT: JUN19 - SD59 Grad Ceremony\n\n\n\nS
@@ -757,7 +757,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN19 - SD59 Grad Ceremony
 DTSTART;TZID=America/Dawson_Creek:20260618T080000
 DTEND;TZID=America/Dawson_Creek:20260618T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2641@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN19 - SD59 Grad C
  eremony\nAllocated: 8.0h\nNote: EVENT: JUN19 - SD59 Grad Ceremony\n\n\n\nS
@@ -768,11 +768,201 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN19 - SD59 Grad Ceremony
 DTSTART;TZID=America/Dawson_Creek:20260619T080000
 DTEND;TZID=America/Dawson_Creek:20260619T160000
-DTSTAMP:20260325T021004Z
+DTSTAMP:20260325T021921Z
 UID:planning-slot-2150@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN19 - SD59 Grad C
  eremony\nAllocated: 8.0h\nNote: EVENT: JUN19 - SD59 Grad Ceremony\n\n\n\nS
  ound in Town - Russell Eggleston
 LOCATION:Ovintiv Events Centre - Main Arena Floor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AV1 - AV Tech (Senior Level) - JUL05 - TNT Bodybuilding Edmonton 2
+ 026
+DTSTART;TZID=America/Dawson_Creek:20260703T090000
+DTEND;TZID=America/Dawson_Creek:20260703T170000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-2702@soundintown.com
+DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUL05 - TNT Bodybui
+ lding Edmonton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 - TNT Bodybuildin
+ g Edmonton 2026\nhttps://www.soundintown.com/model/showbook/jul05-tnt-body
+ building-edmonton-2026-781\n\nAuto planned shift. May need to be adjusted 
+ by planning.\n\n\nSound in Town - Russell Eggleston
+LOCATION:Double Tree Edmonton West
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AV1 - AV Tech (Senior Level) - JUL05 - TNT Bodybuilding Edmonton 2
+ 026
+DTSTART;TZID=America/Dawson_Creek:20260704T090000
+DTEND;TZID=America/Dawson_Creek:20260704T170000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-2701@soundintown.com
+DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUL05 - TNT Bodybui
+ lding Edmonton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 - TNT Bodybuildin
+ g Edmonton 2026\nhttps://www.soundintown.com/model/showbook/jul05-tnt-body
+ building-edmonton-2026-781\n\nAuto planned shift. May need to be adjusted 
+ by planning.\n\n\nSound in Town - Russell Eggleston
+LOCATION:Double Tree Edmonton West
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AV1 - AV Tech (Senior Level) - JUL05 - TNT Bodybuilding Edmonton 2
+ 026
+DTSTART;TZID=America/Dawson_Creek:20260705T090000
+DTEND;TZID=America/Dawson_Creek:20260705T190000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-2680@soundintown.com
+DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUL05 - TNT Bodybui
+ lding Edmonton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 - TNT Bodybuildin
+ g Edmonton 2026\nhttps://www.soundintown.com/model/showbook/jul05-tnt-body
+ building-edmonton-2026-781\n\nAuto planned shift. May need to be adjusted 
+ by planning.\n\n\nSound in Town - Russell Eggleston
+LOCATION:Double Tree Edmonton West
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AV1 - AV Tech (Senior Level) - JUL05 - TNT Bodybuilding Edmonton 2
+ 026
+DTSTART;TZID=America/Dawson_Creek:20260706T090000
+DTEND;TZID=America/Dawson_Creek:20260706T170000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-2704@soundintown.com
+DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUL05 - TNT Bodybui
+ lding Edmonton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 - TNT Bodybuildin
+ g Edmonton 2026\nhttps://www.soundintown.com/model/showbook/jul05-tnt-body
+ building-edmonton-2026-781\n\nAuto planned shift. May need to be adjusted 
+ by planning.\n\n\nSound in Town - Russell Eggleston
+LOCATION:Double Tree Edmonton West
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - JUL25 Ryley and Holly Wedding at Fred McRae Prop
+ erty
+DTSTART;TZID=America/Dawson_Creek:20260725T090000
+DTEND;TZID=America/Dawson_Creek:20260725T210000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-3381@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL25 Ryley and Holly Wedding at
+  Fred McRae Property\nAllocated: 8.0h\nNote: EVENT: JUL25 Ryley and Holly 
+ Wedding at Fred McRae Property\n\nTIMES TBD\n\nSound in Town - Russell Egg
+ leston
+LOCATION:Fred Fest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - AUG21-22 Fredfest 2026
+DTSTART;TZID=America/Dawson_Creek:20260820T090000
+DTEND;TZID=America/Dawson_Creek:20260820T170000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-2761@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: AUG21-22 Fredfest 2026\nAllocate
+ d: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nhttps://www.soundintown.com/
+ model/showbook/aug21-22-fredfest-2026-877\n\nAuto planned shift. May need 
+ to be adjusted by planning.\n\n\nSound in Town - Russell Eggleston
+LOCATION:Fred Fest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - AUG21-22 Fredfest 2026
+DTSTART;TZID=America/Dawson_Creek:20260821T090000
+DTEND;TZID=America/Dawson_Creek:20260821T170000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-2757@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: AUG21-22 Fredfest 2026\nAllocate
+ d: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nhttps://www.soundintown.com/
+ model/showbook/aug21-22-fredfest-2026-877\n\nAuto planned shift. May need 
+ to be adjusted by planning.\n\n\nSound in Town - Russell Eggleston
+LOCATION:Fred Fest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - AUG21-22 Fredfest 2026
+DTSTART;TZID=America/Dawson_Creek:20260822T090000
+DTEND;TZID=America/Dawson_Creek:20260822T170000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-2748@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: AUG21-22 Fredfest 2026\nAllocate
+ d: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nhttps://www.soundintown.com/
+ model/showbook/aug21-22-fredfest-2026-877\n\nAuto planned shift. May need 
+ to be adjusted by planning.\n\n\nSound in Town - Russell Eggleston
+LOCATION:Fred Fest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR1 - Setup & Strike Technician - SEP12 Tumbler Ridge Fall Fa
+ ir - Bands & Movie
+DTSTART;TZID=America/Dawson_Creek:20260911T160000
+DTEND;TZID=America/Dawson_Creek:20260911T210000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-3440@soundintown.com
+DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: SEP12 Tumbl
+ er Ridge Fall Fair - Bands & Movie\nAllocated: 5.0h\nNote: EVENT: SEP12 Tu
+ mbler Ridge Fall Fair - Bands & Movie\nhttps://www.soundintown.com/model/s
+ howbook/sep12-tumbler-ridge-fall-fair-bands-movie-1315\n\nAuto planned shi
+ ft. May need to be adjusted by planning.\nhttps://www.soundintown.com/mode
+ l/showbook/sep12-tumbler-ridge-fall-fair-bands-movie-1315\n\nSound in Town
+  - Russell Eggleston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - SEP12 Tumbler Ridge Fall Fair - Bands & Movie
+DTSTART;TZID=America/Dawson_Creek:20260912T090000
+DTEND;TZID=America/Dawson_Creek:20260912T170000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-3436@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: SEP12 Tumbler Ridge Fall Fair - 
+ Bands & Movie\nAllocated: 8.0h\nNote: EVENT: SEP12 Tumbler Ridge Fall Fair
+  - Bands & Movie\nhttps://www.soundintown.com/model/showbook/sep12-tumbler
+ -ridge-fall-fair-bands-movie-1315\n\nAuto planned shift. May need to be ad
+ justed by planning.\nhttps://www.soundintown.com/model/showbook/sep12-tumb
+ ler-ridge-fall-fair-bands-movie-1315\n\nSound in Town - Russell Eggleston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR1 - Setup & Strike Technician - SEP12 Tumbler Ridge Fall Fa
+ ir - Bands & Movie
+DTSTART;TZID=America/Dawson_Creek:20260913T090000
+DTEND;TZID=America/Dawson_Creek:20260913T140000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-3441@soundintown.com
+DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: SEP12 Tumbl
+ er Ridge Fall Fair - Bands & Movie\nAllocated: 5.0h\nNote: EVENT: SEP12 Tu
+ mbler Ridge Fall Fair - Bands & Movie\nhttps://www.soundintown.com/model/s
+ howbook/sep12-tumbler-ridge-fall-fair-bands-movie-1315\n\nAuto planned shi
+ ft. May need to be adjusted by planning.\nhttps://www.soundintown.com/mode
+ l/showbook/sep12-tumbler-ridge-fall-fair-bands-movie-1315\n\nSound in Town
+  - Russell Eggleston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AV1 - AV Tech (Senior Level) - SEP22-24 Healing The Land Conferenc
+ e
+DTSTART;TZID=America/Dawson_Creek:20260922T090000
+DTEND;TZID=America/Dawson_Creek:20260922T170000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-2794@soundintown.com
+DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: SEP22-24 Healing Th
+ e Land Conference\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Healing The Land
+  Conference\nhttps://www.soundintown.com/model/showbook/sep22-24-healing-t
+ he-land-conference-1122\n\nAuto planned shift. May need to be adjusted by 
+ planning.\n\n\nSound in Town - Russell Eggleston
+LOCATION:Saulteau Cultural Centre Gym
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AV1 - AV Tech (Senior Level) - SEP22-24 Healing The Land Conferenc
+ e
+DTSTART;TZID=America/Dawson_Creek:20260923T090000
+DTEND;TZID=America/Dawson_Creek:20260923T170000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-2796@soundintown.com
+DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: SEP22-24 Healing Th
+ e Land Conference\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Healing The Land
+  Conference\nhttps://www.soundintown.com/model/showbook/sep22-24-healing-t
+ he-land-conference-1122\n\nAuto planned shift. May need to be adjusted by 
+ planning.\n\n\nSound in Town - Russell Eggleston
+LOCATION:Saulteau Cultural Centre Gym
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AV1 - AV Tech (Senior Level) - SEP22-24 Healing The Land Conferenc
+ e
+DTSTART;TZID=America/Dawson_Creek:20260924T090000
+DTEND;TZID=America/Dawson_Creek:20260924T170000
+DTSTAMP:20260325T021921Z
+UID:planning-slot-2797@soundintown.com
+DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: SEP22-24 Healing Th
+ e Land Conference\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Healing The Land
+  Conference\nhttps://www.soundintown.com/model/showbook/sep22-24-healing-t
+ he-land-conference-1122\n\nAuto planned shift. May need to be adjusted by 
+ planning.\n\n\nSound in Town - Russell Eggleston
+LOCATION:Saulteau Cultural Centre Gym
 END:VEVENT
 END:VCALENDAR

@@ -17,11 +17,84 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY14 Ovintiv- Dawson Co-op AGM
 DTSTART;TZID=America/Creston:20260514T120000
 DTEND;TZID=America/Creston:20260514T220059
-DTSTAMP:20260325T020959Z
+DTSTAMP:20260325T021916Z
 UID:planning-slot-3969@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY14 Ovintiv- Dawson Co-op AG
  M\nAllocated: 8.0h\nNote: EVENT: MAY14 Ovintiv- Dawson Co-op AGM\nhttps://
  www.soundintown.com/r/Nib\n\nrough times\n\nSound in Town - James Mannion
 LOCATION:Ovintiv Events Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - JUL10-12 Saulteau First Nations Pemmican Days
+DTSTART;TZID=America/Creston:20260710T080000
+DTEND;TZID=America/Creston:20260710T160000
+DTSTAMP:20260325T021916Z
+UID:planning-slot-2155@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL10-12 Saulteau First Nations 
+ Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Saulteau First Natio
+ ns Pemmican Days\n\nROUGH TIMES\, will be all day\n\nSound in Town - James
+  Mannion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - JUL10-12 Saulteau First Nations Pemmican Days
+DTSTART;TZID=America/Creston:20260711T080000
+DTEND;TZID=America/Creston:20260711T160000
+DTSTAMP:20260325T021916Z
+UID:planning-slot-2156@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL10-12 Saulteau First Nations 
+ Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Saulteau First Natio
+ ns Pemmican Days\n\n\n\nSound in Town - James Mannion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - JUL10-12 Saulteau First Nations Pemmican Days
+DTSTART;TZID=America/Creston:20260712T080000
+DTEND;TZID=America/Creston:20260712T160000
+DTSTAMP:20260325T021916Z
+UID:planning-slot-2157@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL10-12 Saulteau First Nations 
+ Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Saulteau First Natio
+ ns Pemmican Days\n\n\n\nSound in Town - James Mannion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - SEP12 Tumbler Ridge Fall Fair - Bands & 
+ Movie
+DTSTART;TZID=America/Creston:20260911T160000
+DTEND;TZID=America/Creston:20260911T210000
+DTSTAMP:20260325T021916Z
+UID:planning-slot-3442@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: SEP12 Tumbler Ridge Fall
+  Fair - Bands & Movie\nAllocated: 5.0h\nNote: EVENT: SEP12 Tumbler Ridge F
+ all Fair - Bands & Movie\nhttps://www.soundintown.com/r/vWP\n\nAuto planne
+ d shift. May need to be adjusted by planning.\nhttps://www.soundintown.com
+ /model/showbook/sep12-tumbler-ridge-fall-fair-bands-movie-1315\n\nSound in
+  Town - James Mannion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - SEP12 Tumbler Ridge Fall Fair - Bands & 
+ Movie
+DTSTART;TZID=America/Creston:20260912T090000
+DTEND;TZID=America/Creston:20260912T170000
+DTSTAMP:20260325T021916Z
+UID:planning-slot-3443@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: SEP12 Tumbler Ridge Fall
+  Fair - Bands & Movie\nAllocated: 8.0h\nNote: EVENT: SEP12 Tumbler Ridge F
+ all Fair - Bands & Movie\nhttps://www.soundintown.com/r/vWP\n\nAuto planne
+ d shift. May need to be adjusted by planning.\nhttps://www.soundintown.com
+ /model/showbook/sep12-tumbler-ridge-fall-fair-bands-movie-1315\n\nSound in
+  Town - James Mannion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - SEP12 Tumbler Ridge Fall Fair - Bands & 
+ Movie
+DTSTART;TZID=America/Creston:20260913T090000
+DTEND;TZID=America/Creston:20260913T140000
+DTSTAMP:20260325T021916Z
+UID:planning-slot-3447@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: SEP12 Tumbler Ridge Fall
+  Fair - Bands & Movie\nAllocated: 5.0h\nNote: EVENT: SEP12 Tumbler Ridge F
+ all Fair - Bands & Movie\nhttps://www.soundintown.com/r/vWP\n\nAuto planne
+ d shift. May need to be adjusted by planning.\nhttps://www.soundintown.com
+ /model/showbook/sep12-tumbler-ridge-fall-fair-bands-movie-1315\n\nSound in
+  Town - James Mannion
 END:VEVENT
 END:VCALENDAR
