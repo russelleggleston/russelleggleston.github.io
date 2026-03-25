@@ -18,7 +18,7 @@ SUMMARY:SET/STR4 - Event Helper - FEB27-28 Wild Sheep Society - Penticton
  Fundraiser
 DTSTART;TZID=America/Dawson_Creek:20260225T170000
 DTEND;TZID=America/Dawson_Creek:20260225T220000
-DTSTAMP:20260325T171724Z
+DTSTAMP:20260325T205521Z
 UID:planning-slot-3414@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB27-28 Wild Sheep Soci
  ety - Penticton Fundraiser\nNote: EVENT: FEB27-28 Wild Sheep Society - Pen
@@ -31,12 +31,51 @@ SUMMARY:SET/STR4 - Event Helper - FEB27-28 Wild Sheep Society - Penticton
  Fundraiser
 DTSTART;TZID=America/Dawson_Creek:20260301T080000
 DTEND;TZID=America/Dawson_Creek:20260301T140059
-DTSTAMP:20260325T171724Z
+DTSTAMP:20260325T205521Z
 UID:planning-slot-3417@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB27-28 Wild Sheep Soci
  ety - Penticton Fundraiser\nAllocated: 6.0h\nNote: EVENT: FEB27-28 Wild Sh
  eep Society - Penticton Fundraiser\nhttps://www.soundintown.com/r/piL\n\n\
  n\nSound in Town - Calvin Senger
+LOCATION:Penticton Trade and Convention Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY22-23 Mine Rescue BC (P
+ enticton)
+DTSTART;TZID=America/Dawson_Creek:20260521T170000
+DTEND;TZID=America/Dawson_Creek:20260521T230000
+DTSTAMP:20260325T205521Z
+UID:planning-slot-2587@soundintown.com
+DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY22-23 M
+ ine Rescue BC (Penticton)\nNote: EVENT: MAY22-23 Mine Rescue BC (Penticton
+ )\nhttps://www.soundintown.com/r/0Si\n\nunload truck and hang points with 
+ Sam\n\nSound in Town - Calvin Senger
+LOCATION:Penticton Trade and Convention Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY22-23 Mine Rescue BC (P
+ enticton)
+DTSTART;TZID=America/Dawson_Creek:20260522T080000
+DTEND;TZID=America/Dawson_Creek:20260522T160000
+DTSTAMP:20260325T205521Z
+UID:planning-slot-3906@soundintown.com
+DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY22-23 M
+ ine Rescue BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Res
+ cue BC (Penticton)\nhttps://www.soundintown.com/r/0Si\n\n\n\nSound in Town
+  - Calvin Senger
+LOCATION:Penticton Trade and Convention Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY22-23 Mine Rescue BC (P
+ enticton)
+DTSTART;TZID=America/Dawson_Creek:20260524T080000
+DTEND;TZID=America/Dawson_Creek:20260524T120000
+DTSTAMP:20260325T205521Z
+UID:planning-slot-3907@soundintown.com
+DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY22-23 M
+ ine Rescue BC (Penticton)\nAllocated: 4.0h\nNote: EVENT: MAY22-23 Mine Res
+ cue BC (Penticton)\nhttps://www.soundintown.com/r/0Si\n\n\n\nSound in Town
+  - Calvin Senger
 LOCATION:Penticton Trade and Convention Center
 END:VEVENT
 END:VCALENDAR
