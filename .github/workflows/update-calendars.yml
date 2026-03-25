@@ -261,4 +261,5 @@ jobs:
           git add schedules/ .ical_tokens.json
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Update shift calendars ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          git pull --rebase origin master
           git push
