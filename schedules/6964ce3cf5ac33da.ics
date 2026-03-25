@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260128T093000
 DTEND;TZID=America/Dawson_Creek:20260128T110059
-DTSTAMP:20260325T134939Z
+DTSTAMP:20260325T171723Z
 UID:planning-slot-2914@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\n\nSound in Town - Amy 
  Seebaran
@@ -27,7 +27,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JAN30-31 Wild Sheep Norther
  n Fundraiser 2026
 DTSTART;TZID=America/Dawson_Creek:20260129T100000
 DTEND;TZID=America/Dawson_Creek:20260129T140000
-DTSTAMP:20260325T134939Z
+DTSTAMP:20260325T171723Z
 UID:planning-slot-1968@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JAN30-31 Wi
  ld Sheep Northern Fundraiser 2026\nAllocated: 4.0h\nNote: EVENT: JAN30-31 
@@ -41,7 +41,7 @@ SUMMARY:SET/STR4 - Event Helper - FEB25-26 Agriculture Conference Mercer H
  all
 DTSTART;TZID=America/Dawson_Creek:20260226T170000
 DTEND;TZID=America/Dawson_Creek:20260226T180000
-DTSTAMP:20260325T134939Z
+DTSTAMP:20260325T171723Z
 UID:planning-slot-3559@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB25-26 Agriculture Con
  ference Mercer Hall\nNote: EVENT: FEB25-26 Agriculture Conference Mercer H
@@ -55,7 +55,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - FEB27 NLC DC Bollywood Part
  y
 DTSTART;TZID=America/Dawson_Creek:20260227T090000
 DTEND;TZID=America/Dawson_Creek:20260227T140059
-DTSTAMP:20260325T134939Z
+DTSTAMP:20260325T171723Z
 UID:planning-slot-3428@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: FEB27 NLC D
  C Bollywood Party\nAllocated: 5.0h\nNote: EVENT: FEB27 NLC DC Bollywood Pa
@@ -69,7 +69,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - FEB27 NLC DC Bollywood Part
  y
 DTSTART;TZID=America/Dawson_Creek:20260228T100000
 DTEND;TZID=America/Dawson_Creek:20260228T120059
-DTSTAMP:20260325T134939Z
+DTSTAMP:20260325T171723Z
 UID:planning-slot-3543@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: FEB27 NLC D
  C Bollywood Party\nAllocated: 2.0h\nNote: EVENT: FEB27 NLC DC Bollywood Pa
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260324T103000
 DTEND;TZID=America/Dawson_Creek:20260324T120059
-DTSTAMP:20260325T134939Z
+DTSTAMP:20260325T171723Z
 UID:planning-slot-2922@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\n\nSound in Town - Amy 
  Seebaran
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260403T100000
 DTEND;TZID=America/Dawson_Creek:20260403T120000
-DTSTAMP:20260325T134939Z
+DTSTAMP:20260325T171723Z
 UID:planning-slot-3155@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 2.0h\nNote: END OF QUARTER R
  OCK REVIEW 2 HR MEETING\n\nSound in Town - Amy Seebaran
@@ -100,7 +100,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY07 NLC Service Awards G
  ala
 DTSTART;TZID=America/Dawson_Creek:20260506T093000
 DTEND;TZID=America/Dawson_Creek:20260506T140000
-DTSTAMP:20260325T134939Z
+DTSTAMP:20260325T171723Z
 UID:planning-slot-2068@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY07 NLC 
  Service Awards Gala\nAllocated: 4.5h\nNote: EVENT: MAY07 NLC Service Award
@@ -113,7 +113,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY07 NLC Service Awards Ga
  la
 DTSTART;TZID=America/Dawson_Creek:20260508T093000
 DTEND;TZID=America/Dawson_Creek:20260508T140000
-DTSTAMP:20260325T134939Z
+DTSTAMP:20260325T171723Z
 UID:planning-slot-2581@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY07 NLC S
  ervice Awards Gala\nAllocated: 4.5h\nNote: EVENT: MAY07 NLC Service Awards
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260528T080000
 DTEND;TZID=America/Dawson_Creek:20260528T160000
-DTSTAMP:20260325T134939Z
+DTSTAMP:20260325T171723Z
 UID:planning-slot-2612@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY28 - NLC
   DC Convocation\nAllocated: 8.0h\nNote: EVENT: MAY28 - NLC DC Convocation\
