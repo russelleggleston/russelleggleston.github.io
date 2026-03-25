@@ -2,7 +2,7 @@ name: Update Shift Calendars
 
 on:
   schedule:
-    - cron: '17,47 * * * *'  # Every 30 minutes (offset from :00/:30 to reduce load)
+    - cron: '17 */4 * * *'  # Every 4 hours (offset from :00 to reduce load)
   workflow_dispatch: # Allow manual trigger
 
 jobs:
