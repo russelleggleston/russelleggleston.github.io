@@ -9,155 +9,182 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAR19 - 3D Childrens Gala @
  GP Pomeroy
 DTSTART:20260318T230000Z
 DTEND:20260319T050000Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-3629@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAR19 - 3D 
- Childrens Gala @GP Pomeroy
+ Childrens Gala @GP Pomeroy\nAllocated: 6.0h\nNote: EVENT: MAR19 - 3D Child
+ rens Gala @GP Pomeroy\nhttps://www.soundintown.com/r/ryw\n\n\n\nSound in T
+ own - Matt Currie
+LOCATION:GP Pomeroy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAR19 - 3D Childrens Gala @
  GP Pomeroy
 DTSTART:20260320T150000Z
 DTEND:20260320T190059Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-3087@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAR19 - 3D 
- Childrens Gala @GP Pomeroy
+ Childrens Gala @GP Pomeroy\nAllocated: 4.0h\nNote: EVENT: MAR19 - 3D Child
+ rens Gala @GP Pomeroy\nhttps://www.soundintown.com/r/ryw\n\nRough rough ti
+ mes\, may change as we get closer\n\nSound in Town - Matt Currie
+LOCATION:GP Pomeroy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR12-15 AARFP 47th Confere
  nce
 DTSTART:20260411T150000Z
 DTEND:20260411T230059Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-3109@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR12-15 AA
- RFP 47th Conference
+ RFP 47th Conference\nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Con
+ ference\n\nTimes may change\n\nSound in Town - Matt Currie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR13 AARFP 47th Tradeshow
 DTSTART:20260412T230000Z
 DTEND:20260413T040000Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-2544@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR13 AARFP
-  47th Tradeshow
+  47th Tradeshow\nAllocated: 5.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\
+ n\n\n\nSound in Town - Matt Currie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART:20260414T040000Z
 DTEND:20260414T053059Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-3162@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
- ow
+ ow\nNote: EVENT: APR13 AARFP 47th Tradeshow\n\n\n\nSound in Town - Matt Cu
+ rrie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR12-15 AARFP 47th Confere
  nce
 DTSTART:20260416T000000Z
 DTEND:20260416T040059Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-3110@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR12-15 AA
- RFP 47th Conference
+ RFP 47th Conference\nAllocated: 4.0h\nNote: EVENT: APR12-15 AARFP 47th Con
+ ference\n\nIf we have access to strike this night\n\nSound in Town - Matt 
+ Currie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transport - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART:20260417T000000Z
 DTEND:20260417T060059Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-3115@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR16 Pomeroy GP Pembina Townhall 2026
+ \nAllocated: 0.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townhall 2026\nht
+ tps://www.soundintown.com/r/Ylw\n\nFinish strike\, load truck and drive to
+  FSJ\n\nSound in Town - Matt Currie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - APR18  Peace Passage Ice Show
 DTSTART:20260417T150000Z
 DTEND:20260417T230000Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-2127@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: APR18  Peace Passage Ice Sh
- ow
+ ow\nAllocated: 8.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps://w
+ ww.soundintown.com/r/k8I\n\n\n\nSound in Town - Matt Currie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - APR18  Peace Passage Ice Show
 DTSTART:20260418T160000Z
 DTEND:20260419T040000Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-2055@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: APR18  Peace Passage Ice 
- Show
+ Show\nAllocated: 8.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps:/
+ /www.soundintown.com/r/k8I\n\ntentative\n\nSound in Town - Matt Currie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR18  Peace Passage Ice Sh
  ow
 DTSTART:20260419T160000Z
 DTEND:20260419T230000Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-3259@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR18  Peac
- e Passage Ice Show
+ e Passage Ice Show\nAllocated: 7.0h\nNote: EVENT: APR18  Peace Passage Ice
+  Show\nhttps://www.soundintown.com/r/k8I\n\nAuto planned shift. May need t
+ o be adjusted by planning.\n\nSound in Town - Matt Currie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART:20260425T140000Z
 DTEND:20260427T000000Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-3968@soundintown.com
-DESCRIPTION:Role: WH3 - Warehouse Shop Hand
+DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 16.0h\nNote: Place
+ holder for this weekend\n\nSound in Town - Matt Currie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23-24 Northern Classic 2026 GP
 DTSTART:20260522T160000Z
 DTEND:20260523T040000Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-2072@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23-24 Northern Classic
-  2026 GP
+  2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\
+ nhttps://www.soundintown.com/r/NcK\n\nTIMES still rough\n\nSound in Town -
+  Matt Currie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23-24 Northern Classic 2026 GP
 DTSTART:20260523T160000Z
 DTEND:20260524T040000Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-2074@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23-24 Northern Classic
-  2026 GP
+  2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\
+ nhttps://www.soundintown.com/r/NcK\n\n\n\nSound in Town - Matt Currie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23-24 Northern Classic 2026 GP
 DTSTART:20260524T160000Z
 DTEND:20260525T040000Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-2076@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23-24 Northern Classic
-  2026 GP
+  2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\
+ nhttps://www.soundintown.com/r/NcK\n\nTimes still rough\n\nSound in Town -
+  Matt Currie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN13-14 - Party In White GP
 DTSTART:20260612T150000Z
 DTEND:20260613T063000Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-2478@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN13-14 - Party In White G
- P
+ P\nAllocated: 8.5h\nNote: EVENT: JUN13-14 - Party In White GP\nhttps://www
+ .soundintown.com/r/R8W\n\n\n\nSound in Town - Matt Currie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN13-14 - Party In White GP
 DTSTART:20260613T150000Z
 DTEND:20260614T063000Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-2149@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN13-14 - Party In White G
- P
+ P\nAllocated: 8.5h\nNote: EVENT: JUN13-14 - Party In White GP\nhttps://www
+ .soundintown.com/r/R8W\n\n\n\nSound in Town - Matt Currie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN13-14 - Party In White GP
 DTSTART:20260614T150000Z
 DTEND:20260615T063000Z
-DTSTAMP:20260325T011018Z
+DTSTAMP:20260325T011538Z
 UID:planning-slot-2480@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN13-14 - Party In White G
- P
+ P\nAllocated: 8.5h\nNote: EVENT: JUN13-14 - Party In White GP\nhttps://www
+ .soundintown.com/r/R8W\n\n\n\nSound in Town - Matt Currie
 END:VEVENT
 END:VCALENDAR

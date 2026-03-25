@@ -8,502 +8,643 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - MAR17 ST Patrick's Day
 DTSTART:20260317T190000Z
 DTEND:20260318T080000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3613@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAR17 ST Patrick's Day
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAR17 ST Patrick's Day\nAllocate
+ d: 10.0h\nNote: EVENT: MAR17 ST Patrick's Day\nhttps://www.soundintown.com
+ /r/QII\n\nAuto planned shift. May need to be adjusted by planning.\nhttps:
+ //www.soundintown.com/model/showbook/mar17-st-patricks-day-1350\n\nSound i
+ n Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech
 DTSTART:20260325T140000Z
 DTEND:20260329T220000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3939@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech
+DESCRIPTION:Role: A1 - Audio Tech\nAllocated: 32.0h\nNote: Russ booked Sam
+  these days\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAR31 NRM - FSJ Live Stream
  ed Event
 DTSTART:20260330T210000Z
 DTEND:20260331T010059Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3674@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAR31 NRM -
-  FSJ Live Streamed Event
+  FSJ Live Streamed Event\nAllocated: 4.0h\nNote: EVENT: MAR31 NRM - FSJ Li
+ ve Streamed Event\nhttps://www.soundintown.com/r/1Yy\n\n\n\nSound in Town 
+ - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - MAR31 NRM - FSJ Live Streamed Event
 DTSTART:20260331T140000Z
 DTEND:20260331T190000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3662@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAR31 NRM - FSJ Live Streamed Ev
- ent
+ ent\nAllocated: 5.0h\nNote: EVENT: MAR31 NRM - FSJ Live Streamed Event\nht
+ tps://www.soundintown.com/r/1Yy\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAR31 NRM - FSJ Live Stream
  ed Event
 DTSTART:20260331T190000Z
 DTEND:20260331T220000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3865@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAR31 NRM -
-  FSJ Live Streamed Event
+  FSJ Live Streamed Event\nAllocated: 3.0h\nNote: EVENT: MAR31 NRM - FSJ Li
+ ve Streamed Event\nhttps://www.soundintown.com/r/1Yy\n\n\n\nSound in Town 
+ - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - APR08-09 First Nations Heal
  th Authority
 DTSTART:20260407T160000Z
 DTEND:20260408T000000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3900@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: APR08-09 Fi
- rst Nations Health Authority
+ rst Nations Health Authority\nAllocated: 8.0h\nNote: EVENT: APR08-09 First
+  Nations Health Authority\nhttps://www.soundintown.com/r/0dY\n\nAuto plann
+ ed shift. May need to be adjusted by planning.\nhttps://www.soundintown.co
+ m/model/showbook/apr08-09-first-nations-health-authority-1299\n\nSound in 
+ Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR08-09 First Nations Health Autho
  rity
 DTSTART:20260408T140000Z
 DTEND:20260409T000000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3176@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR08-09 First Nati
- ons Health Authority
+ ons Health Authority\nAllocated: 8.0h\nNote: EVENT: APR08-09 First Nations
+  Health Authority\nhttps://www.soundintown.com/r/0dY\n\nAuto planned shift
+ . May need to be adjusted by planning.\nhttps://www.soundintown.com/model/
+ showbook/apr08-09-first-nations-health-authority-1299\n\nSound in Town - S
+ am Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR08-09 First Nations Health Autho
  rity
 DTSTART:20260409T143000Z
 DTEND:20260410T033000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3177@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR08-09 First Nati
- ons Health Authority
+ ons Health Authority\nAllocated: 8.0h\nNote: EVENT: APR08-09 First Nations
+  Health Authority\nhttps://www.soundintown.com/r/0dY\n\n\n\nSound in Town 
+ - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transport - APR13-15 Stageline Spring Training
 DTSTART:20260412T160000Z
 DTEND:20260413T040059Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3720@soundintown.com
-DESCRIPTION:Role: Transport\nEvent: APR13-15 Stageline Spring Training
+DESCRIPTION:Role: Transport\nEvent: APR13-15 Stageline Spring Training\nAl
+ located: 8.0h\nNote: EVENT: APR13-15 Stageline Spring Training\nhttps://ww
+ w.soundintown.com/r/iKG\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leadership Team - APR13-15 Stageline Spring Training
 DTSTART:20260413T153000Z
 DTEND:20260414T000059Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3717@soundintown.com
 DESCRIPTION:Role: Leadership Team\nEvent: APR13-15 Stageline Spring Traini
- ng
+ ng\nAllocated: 8.0h\nNote: EVENT: APR13-15 Stageline Spring Training\nhttp
+ s://www.soundintown.com/r/iKG\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leadership Team - APR13-15 Stageline Spring Training
 DTSTART:20260414T153000Z
 DTEND:20260415T000059Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3718@soundintown.com
 DESCRIPTION:Role: Leadership Team\nEvent: APR13-15 Stageline Spring Traini
- ng
+ ng\nAllocated: 8.0h\nNote: EVENT: APR13-15 Stageline Spring Training\nhttp
+ s://www.soundintown.com/r/iKG\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leadership Team - APR13-15 Stageline Spring Training
 DTSTART:20260415T153000Z
 DTEND:20260416T000059Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3719@soundintown.com
 DESCRIPTION:Role: Leadership Team\nEvent: APR13-15 Stageline Spring Traini
- ng
+ ng\nAllocated: 8.0h\nNote: EVENT: APR13-15 Stageline Spring Training\nhttp
+ s://www.soundintown.com/r/iKG\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transport - APR13-15 Stageline Spring Training
 DTSTART:20260416T160000Z
 DTEND:20260417T040059Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3721@soundintown.com
-DESCRIPTION:Role: Transport\nEvent: APR13-15 Stageline Spring Training
+DESCRIPTION:Role: Transport\nEvent: APR13-15 Stageline Spring Training\nAl
+ located: 8.0h\nNote: EVENT: APR13-15 Stageline Spring Training\nhttps://ww
+ w.soundintown.com/r/iKG\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - APR18  Peace Passage Ice Show
 DTSTART:20260417T160000Z
 DTEND:20260418T000000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3252@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: APR18  Peace Passage Ice Show
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: APR18  Peace Passage Ice Show\nA
+ llocated: 8.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps://www.so
+ undintown.com/model/showbook/apr18-peace-passage-ice-show-1094\n\nAuto pla
+ nned shift. May need to be adjusted by planning.\n\n\nSound in Town - Sam 
+ Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - APR18  Peace Passage Ice Show
 DTSTART:20260418T160000Z
 DTEND:20260419T000000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3251@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: APR18  Peace Passage Ice Show
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: APR18  Peace Passage Ice Show\nA
+ llocated: 8.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps://www.so
+ undintown.com/model/showbook/apr18-peace-passage-ice-show-1094\n\nAuto pla
+ nned shift. May need to be adjusted by planning.\n\n\nSound in Town - Sam 
+ Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - APR18  Peace Passage Ice Sh
  ow
 DTSTART:20260419T160000Z
 DTEND:20260419T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3258@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: APR18  Peac
- e Passage Ice Show
+ e Passage Ice Show\nAllocated: 7.0h\nNote: EVENT: APR18  Peace Passage Ice
+  Show\nhttps://www.soundintown.com/model/showbook/apr18-peace-passage-ice-
+ show-1094\n\nAuto planned shift. May need to be adjusted by planning.\n\n\
+ nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR22-24 NCLGMA (Prince George)
 DTSTART:20260420T160000Z
 DTEND:20260421T000000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2821@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR22-24 NCLGMA (Pr
- ince George)
+ ince George)\nAllocated: 8.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George
+ )\nhttps://www.soundintown.com/model/showbook/apr22-24-nclgma-prince-georg
+ e-1266\n\nAuto planned shift. May need to be adjusted by planning.\nhttps:
+ //www.soundintown.com/model/showbook/apr22-24-nclgma-prince-george-1266\n\
+ nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR22-24 NCLGMA (Prince George)
 DTSTART:20260421T160000Z
 DTEND:20260422T000000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2820@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR22-24 NCLGMA (Pr
- ince George)
+ ince George)\nAllocated: 8.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George
+ )\nhttps://www.soundintown.com/model/showbook/apr22-24-nclgma-prince-georg
+ e-1266\n\nAuto planned shift. May need to be adjusted by planning.\nhttps:
+ //www.soundintown.com/model/showbook/apr22-24-nclgma-prince-george-1266\n\
+ nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR22-24 NCLGMA (Prince George)
 DTSTART:20260422T160000Z
 DTEND:20260423T000000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2809@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR22-24 NCLGMA (Pr
- ince George)
+ ince George)\nAllocated: 8.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George
+ )\nhttps://www.soundintown.com/model/showbook/apr22-24-nclgma-prince-georg
+ e-1266\n\nAuto planned shift. May need to be adjusted by planning.\nhttps:
+ //www.soundintown.com/model/showbook/apr22-24-nclgma-prince-george-1266\n\
+ nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR22-24 NCLGMA (Prince George)
 DTSTART:20260423T160000Z
 DTEND:20260424T000000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2817@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR22-24 NCLGMA (Pr
- ince George)
+ ince George)\nAllocated: 8.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George
+ )\nhttps://www.soundintown.com/model/showbook/apr22-24-nclgma-prince-georg
+ e-1266\n\nAuto planned shift. May need to be adjusted by planning.\nhttps:
+ //www.soundintown.com/model/showbook/apr22-24-nclgma-prince-george-1266\n\
+ nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR22-24 NCLGMA (Prince George)
 DTSTART:20260424T160000Z
 DTEND:20260425T000000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2818@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR22-24 NCLGMA (Pr
- ince George)
+ ince George)\nAllocated: 8.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George
+ )\nhttps://www.soundintown.com/model/showbook/apr22-24-nclgma-prince-georg
+ e-1266\n\nAuto planned shift. May need to be adjusted by planning.\nhttps:
+ //www.soundintown.com/model/showbook/apr22-24-nclgma-prince-george-1266\n\
+ nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - APR22-24 NCLGMA (Prince George)
 DTSTART:20260425T160000Z
 DTEND:20260426T000000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2819@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR22-24 NCLGMA (Pr
- ince George)
+ ince George)\nAllocated: 8.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George
+ )\nhttps://www.soundintown.com/model/showbook/apr22-24-nclgma-prince-georg
+ e-1266\n\nAuto planned shift. May need to be adjusted by planning.\nhttps:
+ //www.soundintown.com/model/showbook/apr22-24-nclgma-prince-george-1266\n\
+ nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - APR30 - Eloiz Concert at Anne Roberts Young Scho
  ol
 DTSTART:20260430T150000Z
 DTEND:20260430T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3275@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: APR30 - Eloiz Concert at Anne Ro
- berts Young School
+ berts Young School\nAllocated: 8.0h\nNote: EVENT: APR30 - Eloiz Concert at
+  Anne Roberts Young School\nhttps://www.soundintown.com/model/showbook/apr
+ 30-eloiz-concert-at-anne-roberts-young-school-1204\n\n\nPlaceholder\, you 
+ might be doing something this night\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY02 Firefighters Ball
 DTSTART:20260501T150000Z
 DTEND:20260501T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2574@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY02 Firef
- ighters Ball
+ ighters Ball\nAllocated: 8.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps
+ ://www.soundintown.com/r/vUj\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY02 Firefighters Ball
 DTSTART:20260502T160000Z
 DTEND:20260503T064500Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2140@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY02 Firefighters 
- Ball
+ Ball\nAllocated: 8.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.s
+ oundintown.com/r/vUj\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY07 NLC Service Awards Gala
 DTSTART:20260503T160000Z
 DTEND:20260504T064500Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3277@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY07 NLC Service A
- wards Gala
+ wards Gala\nAllocated: 8.0h\nNote: EVENT: MAY07 NLC Service Awards Gala\nh
+ ttps://www.soundintown.com/model/showbook/may07-nlc-service-awards-gala-95
+ 6\n\n\nDrive and drop gear off at Ovintiv\, times TBD\n\n\nSound in Town -
+  Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY07 NLC Service Awards Gala
 DTSTART:20260506T150000Z
 DTEND:20260506T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3278@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY07 NLC Service A
- wards Gala
+ wards Gala\nAllocated: 8.0h\nNote: EVENT: MAY07 NLC Service Awards Gala\nh
+ ttps://www.soundintown.com/model/showbook/may07-nlc-service-awards-gala-95
+ 6\n\nPLaceholder to set this up\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY08 - SD60 Indigenous Learning Da
  y
 DTSTART:20260507T150000Z
 DTEND:20260507T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3276@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY08 - SD60 Indige
- nous Learning Day
+ nous Learning Day\nAllocated: 8.0h\nNote: EVENT: MAY08 - SD60 Aboriginal /
+  Indigenous Learning Day\nhttps://www.soundintown.com/model/showbook/may08
+ -sd60-aboriginal-indigenous-learning-day-1231\n\n\n\nSound in Town - Sam B
+ aker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY08 - SD60 Indigenous Learning Da
  y
 DTSTART:20260508T150000Z
 DTEND:20260508T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2142@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY08 - SD60 Indige
- nous Learning Day
+ nous Learning Day\nAllocated: 8.0h\nNote: EVENT: MAY08 - SD60 Aboriginal /
+  Indigenous Learning Day\nhttps://www.soundintown.com/model/showbook/may08
+ -sd60-aboriginal-indigenous-learning-day-1231\n\n\n\nSound in Town - Sam B
+ aker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY10 - Mothers Day Jazz
 DTSTART:20260509T160000Z
 DTEND:20260510T040000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3283@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY10 - Mot
- hers Day Jazz
+ hers Day Jazz\nAllocated: 8.0h\nNote: EVENT: MAY10 - Mothers Day Jazz\nhtt
+ ps://www.soundintown.com/model/showbook/may10-mothers-day-jazz-1281\n\n\n\
+ nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - MAY10 - Mothers Day Jazz
 DTSTART:20260510T160000Z
 DTEND:20260511T000000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3285@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAY10 - Mothers Day Jazz
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAY10 - Mothers Day Jazz\nAlloca
+ ted: 8.0h\nNote: EVENT: MAY10 - Mothers Day Jazz\nhttps://www.soundintown.
+ com/model/showbook/may10-mothers-day-jazz-1281\n\nAuto planned shift. May 
+ need to be adjusted by planning.\nhttps://www.soundintown.com/model/showbo
+ ok/may10-mothers-day-jazz-1281\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART:20260519T150000Z
 DTEND:20260519T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2529@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
- e BC (Penticton)
+ e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
+ enticton)\nhttps://www.soundintown.com/model/showbook/may22-23-mine-rescue
+ -bc-penticton-1227\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART:20260520T150000Z
 DTEND:20260520T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2487@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
- e BC (Penticton)
+ e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
+ enticton)\nhttps://www.soundintown.com/r/0Si\n\ndrive halfway to penticton
+ \n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART:20260521T150000Z
 DTEND:20260521T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2485@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
- e BC (Penticton)
+ e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
+ enticton)\nhttps://www.soundintown.com/r/0Si\n\ndrive the rest of the way\
+ n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY22-23 Mine Rescue BC (Pe
  nticton)
 DTSTART:20260522T000000Z
 DTEND:20260522T060000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3904@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY22-23 Mi
- ne Rescue BC (Penticton)
+ ne Rescue BC (Penticton)\nNote: EVENT: MAY22-23 Mine Rescue BC (Penticton)
+ \nhttps://www.soundintown.com/r/0Si\n\nunload truvk and hang points\n\nSou
+ nd in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART:20260522T150000Z
 DTEND:20260522T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2143@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
- e BC (Penticton)
+ e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
+ enticton)\nhttps://www.soundintown.com/model/showbook/may22-23-mine-rescue
+ -bc-penticton-1227\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART:20260523T150000Z
 DTEND:20260523T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2144@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
- e BC (Penticton)
+ e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
+ enticton)\nhttps://www.soundintown.com/model/showbook/may22-23-mine-rescue
+ -bc-penticton-1227\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART:20260524T150000Z
 DTEND:20260524T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2145@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
- e BC (Penticton)
+ e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
+ enticton)\nhttps://www.soundintown.com/model/showbook/may22-23-mine-rescue
+ -bc-penticton-1227\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART:20260525T150000Z
 DTEND:20260525T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2486@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY22-23 Mine Rescu
- e BC (Penticton)
+ e BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (P
+ enticton)\nhttps://www.soundintown.com/model/showbook/may22-23-mine-rescue
+ -bc-penticton-1227\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY28 - NLC DC Convocation
 DTSTART:20260526T160000Z
 DTEND:20260527T040000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2082@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY28 - NL
- C DC Convocation
+ C DC Convocation\nAllocated: 8.0h\nNote: EVENT: MAY28 - NLC DC Convocation
+ \nhttps://www.soundintown.com/model/showbook/may28-nlc-dc-convocation-867\
+ n\ntimes tbd\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - MAY28 - NLC DC Convocation
 DTSTART:20260527T160000Z
 DTEND:20260527T180000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2087@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAY28 - NLC DC Convocation
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAY28 - NLC DC Convocation\nAllo
+ cated: 2.0h\nNote: EVENT: MAY28 - NLC DC Convocation\nhttps://www.soundint
+ own.com/model/showbook/may28-nlc-dc-convocation-867\n\ntimes tbd\n\nSound 
+ in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - MAY27 FSJ CO-OP AGM
 DTSTART:20260527T190000Z
 DTEND:20260528T060000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2088@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY27 FSJ CO-OP AGM
+ \nAllocated: 8.0h\nNote: EVENT: MAY27 FSJ CO-OP AGM\nhttps://www.soundinto
+ wn.com/model/showbook/may27-fsj-co-op-agm-1106\n\n\n\nSound in Town - Sam 
+ Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - MAY28 - NLC DC Convocation
 DTSTART:20260528T160000Z
 DTEND:20260529T040000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2093@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAY28 - NLC DC Convocation
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAY28 - NLC DC Convocation\nAllo
+ cated: 8.0h\nNote: EVENT: MAY28 - NLC DC Convocation\nhttps://www.soundint
+ own.com/model/showbook/may28-nlc-dc-convocation-867\n\ntimes tbd\n\nSound 
+ in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - JUN04 - NLC FSJ Convocation
 DTSTART:20260602T160000Z
 DTEND:20260603T030000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2100@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: JUN04 - NLC
-  FSJ Convocation
+  FSJ Convocation\nAllocated: 8.0h\nNote: EVENT: JUN04 - NLC FSJ Convocatio
+ n\nhttps://www.soundintown.com/model/showbook/jun04-nlc-fsj-convocation-86
+ 8\n\nTIME TBd\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - JUN04 - NLC FSJ Convocation
 DTSTART:20260603T160000Z
 DTEND:20260604T030000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2102@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: JUN04 - NLC
-  FSJ Convocation
+  FSJ Convocation\nAllocated: 8.0h\nNote: EVENT: JUN04 - NLC FSJ Convocatio
+ n\nhttps://www.soundintown.com/model/showbook/jun04-nlc-fsj-convocation-86
+ 8\n\nTIME TBd\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN04 - NLC FSJ Convocation
 DTSTART:20260604T160000Z
 DTEND:20260605T030000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2104@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN04 - NLC FSJ Convocation
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN04 - NLC FSJ Convocation\nAll
+ ocated: 8.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nhttps://www.soundi
+ ntown.com/model/showbook/jun04-nlc-fsj-convocation-868\n\nTIME TBd\n\nSoun
+ d in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN05 - Oilmans BBQ Event
 DTSTART:20260605T150000Z
 DTEND:20260605T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2619@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN05 - Oilmans BBQ Event
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN05 - Oilmans BBQ Event\nAlloc
+ ated: 8.0h\nNote: EVENT: JUN05 - Oilmans BBQ Event\nhttps://www.soundintow
+ n.com/model/showbook/jun05-oilmans-bbq-event-1252\n\n\n\nSound in Town - S
+ am Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN06 North Peace Pride - Festival
 DTSTART:20260606T160000Z
 DTEND:20260607T040000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2111@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN06 North Peace Pride - Festiv
- al
+ al\nAllocated: 8.0h\nNote: EVENT: JUN06 North Peace Pride - Festival\nhttp
+ s://www.soundintown.com/model/showbook/jun06-north-peace-pride-festival-93
+ 7\n\nAutomated Prep Shift test https://www.soundintown.com/odoo/events/937
+ \n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - JUN08 - Terry Fator Comedy Show
 DTSTART:20260608T160000Z
 DTEND:20260609T060000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3341@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUN08 - Terry Fator Comedy Sho
- w
+ w\nAllocated: 8.0h\nNote: EVENT: JUN08 - Potential Comedy\nhttps://www.sou
+ ndintown.com/model/showbook/jun08-potential-comedy-1307\n\nAuto planned sh
+ ift. May need to be adjusted by planning.\nhttps://www.soundintown.com/mod
+ el/showbook/jun08-potential-comedy-1307\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN19 - NPSS GradFest 2026
 DTSTART:20260617T150000Z
 DTEND:20260617T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2643@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN19 - NPSS GradFe
- st 2026
+ st 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS GradFest 2026\nhttps:/
+ /www.soundintown.com/model/showbook/jun19-npss-gradfest-2026-990\n\n\n\nSo
+ und in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN19 - NPSS GradFest 2026
 DTSTART:20260618T150000Z
 DTEND:20260618T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2642@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN19 - NPSS GradFe
- st 2026
+ st 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS GradFest 2026\nhttps:/
+ /www.soundintown.com/model/showbook/jun19-npss-gradfest-2026-990\n\n\n\nSo
+ und in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN19 - NPSS GradFest 2026
 DTSTART:20260619T150000Z
 DTEND:20260619T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2153@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN19 - NPSS GradFe
- st 2026
+ st 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS GradFest 2026\nhttps:/
+ /www.soundintown.com/model/showbook/jun19-npss-gradfest-2026-990\n\n\n\nSo
+ und in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN19 - NPSS Grad Ceremony 2026
 DTSTART:20260619T170000Z
 DTEND:20260619T230000Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-2152@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN19 - NPSS Grad C
- eremony 2026
+ eremony 2026\nAllocated: 6.0h\nNote: EVENT: JUN19 - NPSS Grad Ceremony 202
+ 6\nhttps://www.soundintown.com/model/showbook/jun19-npss-grad-ceremony-202
+ 6-942\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN20-22 2026 Peace River Gold Cup
 DTSTART:20260620T000000Z
 DTEND:20260620T065959Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3377@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN20-22 2026 Peace River Gold C
- up
+ up\nNote: EVENT: JUN20-22 2026 Peace River Gold Cup\nhttps://www.soundinto
+ wn.com/model/showbook/jun20-22-2026-peace-river-gold-cup-1309\n\n\n\nSound
+  in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN20-22 2026 Peace River Gold Cup
 DTSTART:20260621T000000Z
 DTEND:20260621T065959Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3378@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN20-22 2026 Peace River Gold C
- up
+ up\nAllocated: 7.0h\nNote: EVENT: JUN20-22 2026 Peace River Gold Cup\nhttp
+ s://www.soundintown.com/model/showbook/jun20-22-2026-peace-river-gold-cup-
+ 1309\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN20-22 2026 Peace River Gold Cup
 DTSTART:20260622T000000Z
 DTEND:20260622T065959Z
-DTSTAMP:20260325T011021Z
+DTSTAMP:20260325T011540Z
 UID:planning-slot-3379@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN20-22 2026 Peace River Gold C
- up
+ up\nAllocated: 7.0h\nNote: EVENT: JUN20-22 2026 Peace River Gold Cup\nhttp
+ s://www.soundintown.com/model/showbook/jun20-22-2026-peace-river-gold-cup-
+ 1309\n\n\n\nSound in Town - Sam Baker
 END:VEVENT
 END:VCALENDAR

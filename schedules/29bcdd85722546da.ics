@@ -8,8 +8,11 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - JUN04 - NLC FSJ Convocation
 DTSTART:20260604T170000Z
 DTEND:20260605T000000Z
-DTSTAMP:20260325T011011Z
+DTSTAMP:20260325T011532Z
 UID:planning-slot-2106@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: JUN04 - NLC FSJ Convocation
+ \nAllocated: 7.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nhttps://www.s
+ oundintown.com/model/showbook/jun04-nlc-fsj-convocation-868\n\nTIME TBd\n\
+ nSound in Town - Emma Hawkins
 END:VEVENT
 END:VCALENDAR

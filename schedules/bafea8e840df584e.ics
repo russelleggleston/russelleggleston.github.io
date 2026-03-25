@@ -8,19 +8,24 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY23 - Bluey Day
 DTSTART:20260523T120000Z
 DTEND:20260524T000000Z
-DTSTAMP:20260325T011014Z
+DTSTAMP:20260325T011534Z
 UID:planning-slot-2471@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY23 - Blu
- ey Day
+ ey Day\nAllocated: 8.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.sound
+ intown.com/model/showbook/may23-bluey-day-1247\n\nAuto planned shift. May 
+ need to be adjusted by planning.\nhttps://www.soundintown.com/model/showbo
+ ok/may23-bluey-day-1247\n\nSound in Town - Jason Pratt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 North Peace Pride - 
  Festival
 DTSTART:20260606T160000Z
 DTEND:20260606T230000Z
-DTSTAMP:20260325T011014Z
+DTSTAMP:20260325T011534Z
 UID:planning-slot-2622@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 Nort
- h Peace Pride - Festival
+ h Peace Pride - Festival\nAllocated: 7.0h\nNote: EVENT: JUN06 North Peace 
+ Pride - Festival\nhttps://www.soundintown.com/model/showbook/jun06-north-p
+ eace-pride-festival-937\n\n\n\nSound in Town - Jason Pratt
 END:VEVENT
 END:VCALENDAR

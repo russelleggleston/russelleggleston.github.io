@@ -8,9 +8,10 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY14 Ovintiv- Dawson Co-op AGM
 DTSTART:20260514T190000Z
 DTEND:20260515T050059Z
-DTSTAMP:20260325T011013Z
+DTSTAMP:20260325T011534Z
 UID:planning-slot-3969@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY14 Ovintiv- Dawson Co-op AG
- M
+ M\nAllocated: 8.0h\nNote: EVENT: MAY14 Ovintiv- Dawson Co-op AGM\nhttps://
+ www.soundintown.com/r/Nib\n\nrough times\n\nSound in Town - James Mannion
 END:VEVENT
 END:VCALENDAR

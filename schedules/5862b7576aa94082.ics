@@ -8,117 +8,143 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAR31 NRM - FSJ Live Streamed Event
 DTSTART:20260330T160000Z
 DTEND:20260330T190000Z
-DTSTAMP:20260325T011016Z
+DTSTAMP:20260325T011536Z
 UID:planning-slot-3887@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR31 NRM - FSJ Live Stre
- amed Event
+ amed Event\nAllocated: 3.0h\nNote: EVENT: MAR31 NRM - FSJ Live Streamed Ev
+ ent\nhttps://www.soundintown.com/r/1Yy\n\nPotential to drop this gear off 
+ after prep\n\nSound in Town - Lindsay Brown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAR31 NRM - FSJ Live Streamed Event
 DTSTART:20260401T160000Z
 DTEND:20260401T190000Z
-DTSTAMP:20260325T011016Z
+DTSTAMP:20260325T011536Z
 UID:planning-slot-3886@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR31 NRM - FSJ Live Stre
- amed Event
+ amed Event\nAllocated: 3.0h\nNote: EVENT: MAR31 NRM - FSJ Live Streamed Ev
+ ent\nhttps://www.soundintown.com/r/1Yy\n\n\n\nSound in Town - Lindsay Brow
+ n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR02 NLC All Staff Meeting
 DTSTART:20260403T160000Z
 DTEND:20260403T190000Z
-DTSTAMP:20260325T011016Z
+DTSTAMP:20260325T011536Z
 UID:planning-slot-3888@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR02 NLC All Staff Meeti
- ng
+ ng\nAllocated: 3.0h\nNote: EVENT: APR02 NLC All Staff Meeting\n\nAuto plan
+ ned shift. May need to be adjusted by planning.\nhttps://www.soundintown.c
+ om/model/showbook/apr02-nlc-all-staff-meeting-1007\n\nSound in Town - Lind
+ say Brown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR08-09 First Nations Health Authority
 DTSTART:20260406T160000Z
 DTEND:20260406T190000Z
-DTSTAMP:20260325T011016Z
+DTSTAMP:20260325T011536Z
 UID:planning-slot-3767@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR08-09 First Nations He
- alth Authority
+ alth Authority\nAllocated: 3.0h\nNote: EVENT: APR08-09 First Nations Healt
+ h Authority\nhttps://www.soundintown.com/r/0dY\n\nAuto planned shift. May 
+ need to be adjusted by planning.\nhttps://www.soundintown.com/model/showbo
+ ok/apr08-09-first-nations-health-authority-1299\n\nSound in Town - Lindsay
+  Brown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR07 FSJ Co-op Staff Meeting @ Ramada
 DTSTART:20260408T160000Z
 DTEND:20260408T190059Z
-DTSTAMP:20260325T011016Z
+DTSTAMP:20260325T011536Z
 UID:planning-slot-3893@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR07 FSJ Co-op Staff Mee
- ting @ Ramada
+ ting @ Ramada\nAllocated: 3.0h\nNote: EVENT: APR07 FSJ Co-op Staff Meeting
+  @ Ramada\nhttps://www.soundintown.com/r/Ss9\n\n\n\nSound in Town - Lindsa
+ y Brown
+LOCATION:Ramada
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR12-15 AARFP 47th Conference
 DTSTART:20260410T160000Z
 DTEND:20260410T190000Z
-DTSTAMP:20260325T011016Z
+DTSTAMP:20260325T011536Z
 UID:planning-slot-3895@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR12-15 AARFP 47th Confe
- rence
+ rence\nAllocated: 3.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\n\n\
+ nSound in Town - Lindsay Brown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR18  Peace Passage Ice Show
 DTSTART:20260416T160000Z
 DTEND:20260416T190059Z
-DTSTAMP:20260325T011016Z
+DTSTAMP:20260325T011536Z
 UID:planning-slot-3775@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR18  Peace Passage
-  Ice Show
+  Ice Show\nAllocated: 3.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nht
+ tps://www.soundintown.com/r/k8I\n\n\n\nSound in Town - Lindsay Brown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR16 Pomeroy GP Pembina Townhall 20
  26
 DTSTART:20260417T160000Z
 DTEND:20260417T190059Z
-DTSTAMP:20260325T011016Z
+DTSTAMP:20260325T011536Z
 UID:planning-slot-3776@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR16 Pomeroy GP Pem
- bina Townhall 2026
+ bina Townhall 2026\nAllocated: 3.0h\nNote: EVENT: APR16 Pomeroy GP Pembina
+  Townhall 2026\nhttps://www.soundintown.com/r/Ylw\n\n\n\nSound in Town - L
+ indsay Brown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR18  Peace Passage Ice Show
 DTSTART:20260420T160000Z
 DTEND:20260420T190000Z
-DTSTAMP:20260325T011016Z
+DTSTAMP:20260325T011536Z
 UID:planning-slot-3929@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR18  Peace Passage Ice 
- Show
+ Show\nAllocated: 3.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps:/
+ /www.soundintown.com/r/k8I\n\n\n\nSound in Town - Lindsay Brown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR23 - MooseFM Job Fair
 DTSTART:20260422T160000Z
 DTEND:20260422T190000Z
-DTSTAMP:20260325T011016Z
+DTSTAMP:20260325T011536Z
 UID:planning-slot-3267@soundintown.com
-DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR23 - MooseFM Job Fair
+DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR23 - MooseFM Job Fair\
+ nAllocated: 3.0h\nNote: EVENT: APR23 - MooseFM Job Fair\n\nPrep and then s
+ tart setting up\n\nSound in Town - Lindsay Brown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR23 - MooseFM Job Fair
 DTSTART:20260424T160000Z
 DTEND:20260424T190000Z
-DTSTAMP:20260325T011016Z
+DTSTAMP:20260325T011536Z
 UID:planning-slot-3265@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR23 - MooseFM Job Fair
+ \nAllocated: 3.0h\nNote: EVENT: APR23 - MooseFM Job Fair\n\nStrike and sta
+ rt deprep when Ripley gets there\n\nSound in Town - Lindsay Brown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAR25 - Saulteau Evening Meeting
 DTSTART:20260428T160000Z
 DTEND:20260428T190000Z
-DTSTAMP:20260325T011016Z
+DTSTAMP:20260325T011536Z
 UID:planning-slot-3944@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR25 - Saulteau Evening 
- Meeting
+ Meeting\nAllocated: 3.0h\nNote: EVENT: MAR25 - Saulteau Evening Meeting\nh
+ ttps://www.soundintown.com/r/J1j\n\n\n\nSound in Town - Lindsay Brown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR30 - Eloiz Concert at Anne Roberts You
  ng School
 DTSTART:20260429T160000Z
 DTEND:20260429T190000Z
-DTSTAMP:20260325T011016Z
+DTSTAMP:20260325T011536Z
 UID:planning-slot-3946@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR30 - Eloiz Concert at 
- Anne Roberts Young School
+ Anne Roberts Young School\nAllocated: 3.0h\nNote: EVENT: APR30 - Eloiz Con
+ cert at Anne Roberts Young School\nhttps://www.soundintown.com/r/ZU6\n\n\n
+ \nSound in Town - Lindsay Brown
 END:VEVENT
 END:VCALENDAR

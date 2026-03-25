@@ -8,9 +8,12 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN04 - NLC FSJ Convocation
 DTSTART:20260605T000000Z
 DTEND:20260605T050000Z
-DTSTAMP:20260325T011017Z
+DTSTAMP:20260325T011537Z
 UID:planning-slot-2107@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN04 - NLC
-  FSJ Convocation
+  FSJ Convocation\nAllocated: 5.0h\nNote: EVENT: JUN04 - NLC FSJ Convocatio
+ n\nhttps://www.soundintown.com/model/showbook/jun04-nlc-fsj-convocation-86
+ 8\n\nI know this is far in advance\, just trying to get a snapshot of how 
+ many people I will need for this\n\nSound in Town - Lucie Janosek
 END:VEVENT
 END:VCALENDAR

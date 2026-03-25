@@ -8,45 +8,53 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART:20260324T173000Z
 DTEND:20260324T190059Z
-DTSTAMP:20260325T011008Z
+DTSTAMP:20260325T011530Z
 UID:planning-slot-2922@soundintown.com
-DESCRIPTION:Role: Leadership Team
+DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\n\nSound in Town - Amy 
+ Seebaran
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART:20260403T170000Z
 DTEND:20260403T190000Z
-DTSTAMP:20260325T011008Z
+DTSTAMP:20260325T011530Z
 UID:planning-slot-3155@soundintown.com
-DESCRIPTION:Role: Leadership Team
+DESCRIPTION:Role: Leadership Team\nAllocated: 2.0h\nNote: END OF QUARTER R
+ OCK REVIEW 2 HR MEETING\n\nSound in Town - Amy Seebaran
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY07 NLC Service Awards G
  ala
 DTSTART:20260506T163000Z
 DTEND:20260506T210000Z
-DTSTAMP:20260325T011008Z
+DTSTAMP:20260325T011530Z
 UID:planning-slot-2068@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY07 NLC 
- Service Awards Gala
+ Service Awards Gala\nAllocated: 4.5h\nNote: EVENT: MAY07 NLC Service Award
+ s Gala\nhttps://www.soundintown.com/model/showbook/may07-nlc-service-award
+ s-gala-956\n\ntimes TBD\n\nSound in Town - Amy Seebaran
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY07 NLC Service Awards Ga
  la
 DTSTART:20260508T163000Z
 DTEND:20260508T210000Z
-DTSTAMP:20260325T011008Z
+DTSTAMP:20260325T011530Z
 UID:planning-slot-2581@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY07 NLC S
- ervice Awards Gala
+ ervice Awards Gala\nAllocated: 4.5h\nNote: EVENT: MAY07 NLC Service Awards
+  Gala\nhttps://www.soundintown.com/model/showbook/may07-nlc-service-awards
+ -gala-956\n\n\n\nSound in Town - Amy Seebaran
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY28 - NLC DC Convocation
 DTSTART:20260528T150000Z
 DTEND:20260528T230000Z
-DTSTAMP:20260325T011008Z
+DTSTAMP:20260325T011530Z
 UID:planning-slot-2612@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY28 - NLC
-  DC Convocation
+  DC Convocation\nAllocated: 8.0h\nNote: EVENT: MAY28 - NLC DC Convocation\
+ nhttps://www.soundintown.com/model/showbook/may28-nlc-dc-convocation-867\n
+ \n\n\nSound in Town - Amy Seebaran
 END:VEVENT
 END:VCALENDAR

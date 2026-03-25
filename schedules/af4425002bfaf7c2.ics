@@ -8,106 +8,130 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAR17 ST Patrick's Day
 DTSTART:20260318T200000Z
 DTEND:20260318T230059Z
-DTSTAMP:20260325T011012Z
+DTSTAMP:20260325T011533Z
 UID:planning-slot-3618@soundintown.com
-DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR17 ST Patrick's Day
+DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR17 ST Patrick's Day\nA
+ llocated: 3.0h\nNote: EVENT: MAR17 ST Patrick's Day\nhttps://www.soundinto
+ wn.com/r/QII\n\n\n\nSound in Town - Harley Romanik
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAR19 - 3D Childrens Gala @GP Pomeroy
 DTSTART:20260321T160000Z
 DTEND:20260321T230000Z
-DTSTAMP:20260325T011012Z
+DTSTAMP:20260325T011533Z
 UID:planning-slot-3615@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR19 - 3D Childrens Gala
-  @GP Pomeroy
+  @GP Pomeroy\nAllocated: 7.0h\nNote: EVENT: MAR19 - 3D Childrens Gala @GP 
+ Pomeroy\n\nAutomated DePrep Shift test https://www.soundintown.com/odoo/ev
+ ents/1133\n\ndeprep at the spa\n\nSound in Town - Harley Romanik
+LOCATION:GP Pomeroy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR02 NLC All Staff Meeting
 DTSTART:20260401T200000Z
 DTEND:20260401T230000Z
-DTSTAMP:20260325T011012Z
+DTSTAMP:20260325T011533Z
 UID:planning-slot-3885@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR02 NLC All Staff Meet
- ing
+ ing\nAllocated: 3.0h\nNote: EVENT: APR02 NLC All Staff Meeting\n\nPrep and
+  hopefully drop off gear in the FSJ atrium\, still TBD as of March 18th\n\
+ nSound in Town - Harley Romanik
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR02 NLC All Staff Meeting
 DTSTART:20260402T210000Z
 DTEND:20260403T000000Z
-DTSTAMP:20260325T011012Z
+DTSTAMP:20260325T011533Z
 UID:planning-slot-3947@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR02 NLC All Staff Meet
- ing
+ ing\nAllocated: 3.0h\nNote: EVENT: APR02 NLC All Staff Meeting\n\nMeet Rus
+ s at the NLC Atrium in FSJ to help him strike\n\nSound in Town - Harley Ro
+ manik
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR12-15 AARFP 47th Conference
 DTSTART:20260410T160000Z
 DTEND:20260410T210000Z
-DTSTAMP:20260325T011012Z
+DTSTAMP:20260325T011533Z
 UID:planning-slot-3745@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR12-15 AARFP 47th Confe
- rence
+ rence\nAllocated: 5.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\n\n\
+ nSound in Town - Harley Romanik
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR13 AARFP 47th Tradeshow
 DTSTART:20260410T210000Z
 DTEND:20260410T230000Z
-DTSTAMP:20260325T011012Z
+DTSTAMP:20260325T011533Z
 UID:planning-slot-3771@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR13 AARFP 47th Tradesho
- w
+ w\nAllocated: 2.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\n\nAutomated P
+ rep Shift test https://www.soundintown.com/odoo/events/982\n\nSound in Tow
+ n - Harley Romanik
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR18  Peace Passage Ice Show
 DTSTART:20260416T160000Z
 DTEND:20260416T230000Z
-DTSTAMP:20260325T011012Z
+DTSTAMP:20260325T011533Z
 UID:planning-slot-3255@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR18  Peace Passage Ice 
- Show
+ Show\nAllocated: 7.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps:/
+ /www.soundintown.com/r/k8I\n\nAuto planned shift. May need to be adjusted 
+ by planning.\n\nSound in Town - Harley Romanik
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART:20260417T160000Z
 DTEND:20260417T200000Z
-DTSTAMP:20260325T011012Z
+DTSTAMP:20260325T011533Z
 UID:planning-slot-3878@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR16 Pomeroy GP Pembina 
- Townhall 2026
+ Townhall 2026\nAllocated: 4.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Town
+ hall 2026\nhttps://www.soundintown.com/r/Ylw\n\n\n\nSound in Town - Harley
+  Romanik
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART:20260418T210000Z
 DTEND:20260419T030059Z
-DTSTAMP:20260325T011012Z
+DTSTAMP:20260325T011533Z
 UID:planning-slot-3639@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR16 Pomeroy GP Pembina 
- Townhall 2026
+ Townhall 2026\nAllocated: 6.0h\nNote: EVENT: APR15-16 Pomeroy GP Pembina T
+ ownhall 2026\nhttps://www.soundintown.com/r/Ylw\n\n\n\nSound in Town - Har
+ ley Romanik
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR18  Peace Passage Ice Show
 DTSTART:20260419T160000Z
 DTEND:20260419T230000Z
-DTSTAMP:20260325T011012Z
+DTSTAMP:20260325T011533Z
 UID:planning-slot-3915@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR18  Peace Passage Ice
-  Show
+  Show\nAllocated: 7.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps:
+ //www.soundintown.com/r/k8I\n\nAuto planned shift. May need to be adjusted
+  by planning.\n\nSound in Town - Harley Romanik
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAR25 - Saulteau Evening Meeting
 DTSTART:20260428T200000Z
 DTEND:20260428T230000Z
-DTSTAMP:20260325T011012Z
+DTSTAMP:20260325T011533Z
 UID:planning-slot-3879@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR25 - Saulteau Evening 
- Meeting
+ Meeting\nAllocated: 3.0h\nNote: EVENT: MAR25 - Saulteau Evening Meeting\nh
+ ttps://www.soundintown.com/r/J1j\n\n\n\nSound in Town - Harley Romanik
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY02 Firefighters Ball
 DTSTART:20260502T210000Z
 DTEND:20260503T050000Z
-DTSTAMP:20260325T011012Z
+DTSTAMP:20260325T011533Z
 UID:planning-slot-2253@soundintown.com
-DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY02 Firefighters Ball
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY02 Firefighters Ball\nAlloc
+ ated: 8.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.soundintown.
+ com/r/vUj\n\nAuto planned shift. May need to be adjusted by planning.\n\nS
+ ound in Town - Harley Romanik
 END:VEVENT
 END:VCALENDAR

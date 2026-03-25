@@ -8,9 +8,11 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART:20260416T140000Z
 DTEND:20260416T200000Z
-DTSTAMP:20260325T011008Z
+DTSTAMP:20260325T011530Z
 UID:planning-slot-3880@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: APR16 Pomeroy GP Pembina To
- wnhall 2026
+ wnhall 2026\nAllocated: 6.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townha
+ ll 2026\nhttps://www.soundintown.com/r/Ylw\n\n\n\nSound in Town - Benjamin
+  Greentree
 END:VEVENT
 END:VCALENDAR
