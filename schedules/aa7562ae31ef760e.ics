@@ -26,7 +26,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - FEB13 - Guns for Hire at S
  aulteau Cultural Centre
 DTSTART;TZID=America/Edmonton:20260213T090000
 DTEND;TZID=America/Edmonton:20260213T230059
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3030@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: FEB13 - Gu
  ns for Hire at Saulteau Cultural Centre\nAllocated: 8.0h\nNote: EVENT: FEB
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech
 DTSTART;TZID=America/Edmonton:20260214T090000
 DTEND;TZID=America/Edmonton:20260214T230059
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3031@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nAllocated: 8.0h\n
  \nSound in Town - Matt Currie
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - FEB27 NLC DC Bollywood Party
 DTSTART;TZID=America/Edmonton:20260228T100000
 DTEND;TZID=America/Edmonton:20260228T120059
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3544@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: FEB27 NLC DC Bollywood Party\nAllocate
  d: 2.0h\nNote: EVENT: FEB27 NLC DC Bollywood Party\nhttps://www.soundintow
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - FEB25-26 Agriculture Conference Mercer Hall
 DTSTART;TZID=America/Edmonton:20260228T100000
 DTEND;TZID=America/Edmonton:20260228T120000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3138@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: FEB25-26 Agriculture Conference Mercer
   Hall\nAllocated: 2.0h\nNote: EVENT: FEB25-26 Agriculture Conference Merce
@@ -75,7 +75,7 @@ SUMMARY:Transport - MAR04-05 Cargill ThinkTank 2026 - Pomeroy (Grande Prai
  rie\, AB)
 DTSTART;TZID=America/Edmonton:20260228T170000
 DTEND;TZID=America/Edmonton:20260228T200059
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3545@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: MAR04-05 Cargill ThinkTank 2026 - Pome
  roy (Grande Prairie\, AB)\nAllocated: 3.0h\nNote: EVENT: MAR04-05 Cargill 
@@ -89,7 +89,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAR04-05 Cargill ThinkTank
   2026 - Pomeroy (Grande Prairie\, AB)
 DTSTART;TZID=America/Edmonton:20260301T090000
 DTEND;TZID=America/Edmonton:20260301T170059
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3546@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAR04-05 C
  argill ThinkTank 2026 - Pomeroy (Grande Prairie\, AB)\nAllocated: 8.0h\nNo
@@ -104,7 +104,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAR14 - Pomeroy GP Comedy N
  ight
 DTSTART;TZID=America/Edmonton:20260313T153000
 DTEND;TZID=America/Edmonton:20260314T000000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3628@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAR14 - Pom
  eroy GP Comedy Night\nAllocated: 8.0h\nNote: EVENT: MAR14 - Pomeroy GP Com
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260315T100000
 DTEND;TZID=America/Edmonton:20260315T130000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3582@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 3.0h\nN
  ote: help sam strike comedy \n\nSound in Town - Matt Currie
@@ -126,7 +126,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAR19 - 3D Childrens Gala @
  GP Pomeroy
 DTSTART;TZID=America/Edmonton:20260318T170000
 DTEND;TZID=America/Edmonton:20260318T230000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3629@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAR19 - 3D 
  Childrens Gala @GP Pomeroy\nAllocated: 6.0h\nNote: EVENT: MAR19 - 3D Child
@@ -139,7 +139,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAR19 - 3D Childrens Gala @
  GP Pomeroy
 DTSTART;TZID=America/Edmonton:20260320T090000
 DTEND;TZID=America/Edmonton:20260320T130059
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3087@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAR19 - 3D 
  Childrens Gala @GP Pomeroy\nAllocated: 4.0h\nNote: EVENT: MAR19 - 3D Child
@@ -152,7 +152,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR12-15 AARFP 47th Confere
  nce
 DTSTART;TZID=America/Edmonton:20260411T090000
 DTEND;TZID=America/Edmonton:20260411T170059
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3109@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR12-15 AA
  RFP 47th Conference\nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Con
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260412T170000
 DTEND;TZID=America/Edmonton:20260412T220000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2544@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR13 AARFP
   47th Tradeshow\nAllocated: 5.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260413T220000
 DTEND;TZID=America/Edmonton:20260413T233059
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3162@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nNote: EVENT: APR13 AARFP 47th Tradeshow\n\n\n\nSound in Town - Matt Cu
@@ -186,7 +186,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR12-15 AARFP 47th Confere
  nce
 DTSTART;TZID=America/Edmonton:20260415T180000
 DTEND;TZID=America/Edmonton:20260415T220059
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3110@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR12-15 AA
  RFP 47th Conference\nAllocated: 4.0h\nNote: EVENT: APR12-15 AARFP 47th Con
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260416T180000
 DTEND;TZID=America/Edmonton:20260417T000059
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3115@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR16 Pomeroy GP Pembina Townhall 2026
  \nAllocated: 0.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townhall 2026\nht
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - APR18  Peace Passage Ice Show
 DTSTART;TZID=America/Edmonton:20260417T090000
 DTEND;TZID=America/Edmonton:20260417T170000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2127@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: APR18  Peace Passage Ice Sh
  ow\nAllocated: 8.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps://w
@@ -221,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - APR18  Peace Passage Ice Show
 DTSTART;TZID=America/Edmonton:20260418T100000
 DTEND;TZID=America/Edmonton:20260418T220000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2055@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: APR18  Peace Passage Ice 
  Show\nAllocated: 8.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nhttps:/
@@ -233,7 +233,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR18  Peace Passage Ice Sh
  ow
 DTSTART;TZID=America/Edmonton:20260419T100000
 DTEND;TZID=America/Edmonton:20260419T170000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3259@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR18  Peac
  e Passage Ice Show\nAllocated: 7.0h\nNote: EVENT: APR18  Peace Passage Ice
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Edmonton:20260425T080000
 DTEND;TZID=America/Edmonton:20260426T180000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3968@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 16.0h\nNote: Place
  holder for this weekend\n\nSound in Town - Matt Currie
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23-24 Northern Classic 2026 GP
 DTSTART;TZID=America/Edmonton:20260522T100000
 DTEND;TZID=America/Edmonton:20260522T220000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2072@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23-24 Northern Classic
   2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23-24 Northern Classic 2026 GP
 DTSTART;TZID=America/Edmonton:20260523T100000
 DTEND;TZID=America/Edmonton:20260523T220000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2074@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23-24 Northern Classic
   2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23-24 Northern Classic 2026 GP
 DTSTART;TZID=America/Edmonton:20260524T100000
 DTEND;TZID=America/Edmonton:20260524T220000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2076@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23-24 Northern Classic
   2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN13-14 - Party In White GP
 DTSTART;TZID=America/Edmonton:20260612T090000
 DTEND;TZID=America/Edmonton:20260613T003000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2478@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN13-14 - Party In White G
  P\nAllocated: 8.5h\nNote: EVENT: JUN13-14 - Party In White GP\nhttps://www
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN13-14 - Party In White GP
 DTSTART;TZID=America/Edmonton:20260613T090000
 DTEND;TZID=America/Edmonton:20260614T003000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2149@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN13-14 - Party In White G
  P\nAllocated: 8.5h\nNote: EVENT: JUN13-14 - Party In White GP\nhttps://www
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN13-14 - Party In White GP
 DTSTART;TZID=America/Edmonton:20260614T090000
 DTEND;TZID=America/Edmonton:20260615T003000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2480@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN13-14 - Party In White G
  P\nAllocated: 8.5h\nNote: EVENT: JUN13-14 - Party In White GP\nhttps://www
@@ -320,7 +320,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 La Crete Ferry Family Campground Musi
  c Event
 DTSTART;TZID=America/Edmonton:20260716T100000
 DTEND;TZID=America/Edmonton:20260716T180000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2720@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 La Crete Ferry Family
   Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete F
@@ -333,7 +333,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 La Crete Ferry Family Campground Musi
  c Event
 DTSTART;TZID=America/Edmonton:20260717T100000
 DTEND;TZID=America/Edmonton:20260717T180000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2719@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 La Crete Ferry Family
   Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete F
@@ -346,7 +346,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 La Crete Ferry Family Campground Musi
  c Event
 DTSTART;TZID=America/Edmonton:20260718T100000
 DTEND;TZID=America/Edmonton:20260718T180000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2721@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 La Crete Ferry Family
   Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete F
@@ -359,7 +359,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 La Crete Ferry Family Campground Musi
  c Event
 DTSTART;TZID=America/Edmonton:20260719T090000
 DTEND;TZID=America/Edmonton:20260719T170000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3456@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 La Crete Ferry Family
   Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete F
@@ -370,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Edmonton:20260820T100000
 DTEND;TZID=America/Edmonton:20260820T180000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2760@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nhttps://www.soundintown
@@ -382,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Edmonton:20260821T100000
 DTEND;TZID=America/Edmonton:20260821T180000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2750@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nhttps://www.soundintown
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Edmonton:20260822T100000
 DTEND;TZID=America/Edmonton:20260822T180000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2759@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nhttps://www.soundintown
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - SEP04 - VJV Video Cattle Auction
 DTSTART;TZID=America/Edmonton:20260904T100000
 DTEND;TZID=America/Edmonton:20260904T180000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-3389@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: SEP04 - VJV Video Cattle Auction
  \nAllocated: 8.0h\nNote: EVENT: SEP04 - VJV Video Cattle Auction\nhttps://
@@ -419,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - SEP12 Moose FM Block Party 2026
 DTSTART;TZID=America/Edmonton:20260912T100000
 DTEND;TZID=America/Edmonton:20260912T220000
-DTSTAMP:20260325T090804Z
+DTSTAMP:20260325T134949Z
 UID:planning-slot-2775@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: SEP12 Moose FM Block Party 202
  6\nAllocated: 8.0h\nNote: EVENT: SEP12 Moose FM Block Party 2026\nhttps://
