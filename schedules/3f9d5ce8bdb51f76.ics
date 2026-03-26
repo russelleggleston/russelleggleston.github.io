@@ -18,7 +18,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JAN25 - Chances FSJ Annual
   Staff Party
 DTSTART;TZID=America/Dawson_Creek:20260126T090000
 DTEND;TZID=America/Dawson_Creek:20260126T100000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2905@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JAN25 - Ch
  ances FSJ Annual Staff Party\nAllocated: 1.0h\nNote: EVENT: JAN25 - Chance
@@ -32,7 +32,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JAN25 - Chances FSJ Annual Staff Par
  ty
 DTSTART;TZID=America/Dawson_Creek:20260126T100000
 DTEND;TZID=America/Dawson_Creek:20260126T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2906@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JAN25 - Chances FSJ 
  Annual Staff Party\nAllocated: 2.0h\nNote: EVENT: JAN25 - Chances FSJ Annu
@@ -46,7 +46,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JAN30-31 Wild Sheep Northern Fundrai
  ser 2026
 DTSTART;TZID=America/Dawson_Creek:20260126T130000
 DTEND;TZID=America/Dawson_Creek:20260126T170000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-1966@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JAN30-31 Wild Sheep 
  Northern Fundraiser 2026\nAllocated: 4.0h\nNote: EVENT: JAN30-31 Wild Shee
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - FEB01-28 City of FSJ - Winter Fest
 DTSTART;TZID=America/Dawson_Creek:20260127T090000
 DTEND;TZID=America/Dawson_Creek:20260127T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3022@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB01-28 City of FSJ
   - Winter Fest\nAllocated: 3.0h\nNote: EVENT: FEB01-28 City of FSJ - Winte
@@ -73,7 +73,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - FEB01-28 City of FSJ - Wint
  er Fest
 DTSTART;TZID=America/Dawson_Creek:20260128T100000
 DTEND;TZID=America/Dawson_Creek:20260128T180000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3021@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: FEB01-28 Ci
  ty of FSJ - Winter Fest\nAllocated: 8.0h\nNote: EVENT: FEB01-28 City of FS
@@ -95,7 +95,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - FEB01-28 City of FSJ - Win
  ter Fest
 DTSTART;TZID=America/Dawson_Creek:20260131T090000
 DTEND;TZID=America/Dawson_Creek:20260131T150000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3042@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: FEB01-28 C
  ity of FSJ - Winter Fest\nAllocated: 6.0h\nNote: EVENT: FEB01-28 City of F
@@ -108,7 +108,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB01 Browns Socialhouse - Photoboot
  h & Karaoke
 DTSTART;TZID=America/Dawson_Creek:20260131T150000
 DTEND;TZID=America/Dawson_Creek:20260131T160059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2835@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB01 Browns Socialh
  ouse - Photobooth & Karaoke\nAllocated: 1.0h\nNote: EVENT: FEB01 Browns So
@@ -122,7 +122,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JAN30-31 Wild Sheep Northern Fundrai
  ser 2026
 DTSTART;TZID=America/Dawson_Creek:20260201T140000
 DTEND;TZID=America/Dawson_Creek:20260201T180000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-1979@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JAN30-31 Wild Sheep 
  Northern Fundraiser 2026\nAllocated: 4.0h\nNote: EVENT: JAN30-31 Wild Shee
@@ -137,7 +137,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB04-05 Cargill ThinkTank '26 - Edm
  onton\, AB
 DTSTART;TZID=America/Dawson_Creek:20260201T180000
 DTEND;TZID=America/Dawson_Creek:20260201T210000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2463@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB04-05 Cargill Thi
  nkTank '26 - Edmonton\, AB\nAllocated: 3.0h\nNote: EVENT: FEB04-05 Cargill
@@ -151,7 +151,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB01 Browns Socialhouse - Photoboot
  h & Karaoke
 DTSTART;TZID=America/Dawson_Creek:20260202T090000
 DTEND;TZID=America/Dawson_Creek:20260202T110000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2837@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB01 Browns Socialh
  ouse - Photobooth & Karaoke\nAllocated: 2.0h\nNote: EVENT: FEB01 Browns So
@@ -167,7 +167,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB07 - Starry Skyes Gala Event Fund
  raiser
 DTSTART;TZID=America/Dawson_Creek:20260202T120000
 DTEND;TZID=America/Dawson_Creek:20260202T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2512@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB07 - Starry Skyes
   Gala Event Fundraiser\nAllocated: 4.0h\nNote: EVENT: FEB07 - Starry Skyes
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260203T090000
 DTEND;TZID=America/Dawson_Creek:20260203T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3228@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\n\nSound in
   Town - Ripley Kidner
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - FEB08 Mr Mikes FSJ Awards Party
 DTSTART;TZID=America/Dawson_Creek:20260205T090000
 DTEND;TZID=America/Dawson_Creek:20260205T110000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2183@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB08 Mr Mikes FSJ A
  wards Party\nAllocated: 2.0h\nNote: EVENT: FEB08 Mr Mikes FSJ Awards Party
@@ -201,7 +201,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - FEB01-28 City of FSJ - Win
  ter Fest
 DTSTART;TZID=America/Dawson_Creek:20260205T110000
 DTEND;TZID=America/Dawson_Creek:20260205T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-1981@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: FEB01-28 C
  ity of FSJ - Winter Fest\nAllocated: 5.0h\nNote: EVENT: FEB01-28 City of F
@@ -215,7 +215,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - FEB07 - Starry Skyes Gala E
  vent Fundraiser
 DTSTART;TZID=America/Dawson_Creek:20260208T090000
 DTEND;TZID=America/Dawson_Creek:20260208T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-1984@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: FEB07 - Sta
  rry Skyes Gala Event Fundraiser\nAllocated: 3.0h\nNote: EVENT: FEB07 - Sta
@@ -230,7 +230,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB07 - Starry Skyes Gala Event Fund
  raiser
 DTSTART;TZID=America/Dawson_Creek:20260208T130000
 DTEND;TZID=America/Dawson_Creek:20260208T160059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2873@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB07 - Starry Skyes
   Gala Event Fundraiser\nAllocated: 3.0h\nNote: EVENT: FEB07 - Starry Skyes
@@ -243,7 +243,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB07 - Starry Skyes Gala Event Fund
  raiser
 DTSTART;TZID=America/Dawson_Creek:20260209T090000
 DTEND;TZID=America/Dawson_Creek:20260209T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-1985@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB07 - Starry Skyes
   Gala Event Fundraiser\nAllocated: 5.0h\nNote: EVENT: FEB07 - Starry Skyes
@@ -257,7 +257,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB11 - Dale Bumstead Leadership Mee
  ting
 DTSTART;TZID=America/Dawson_Creek:20260209T140000
 DTEND;TZID=America/Dawson_Creek:20260209T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2492@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB11 - Dale Bumstea
  d Leadership Meeting\nAllocated: 2.0h\nNote: EVENT: FEB11 - Dale Bumstead 
@@ -271,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - FEB09 Mr Mikes DC Awards Party
 DTSTART;TZID=America/Dawson_Creek:20260210T090000
 DTEND;TZID=America/Dawson_Creek:20260210T110000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3016@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB09 Mr Mikes DC Aw
  ards Party\nAllocated: 2.0h\nNote: EVENT: FEB09 Mr Mikes DC Awards Party\n
@@ -286,7 +286,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB12-15 Totem Figure Skating Compet
  ition
 DTSTART;TZID=America/Dawson_Creek:20260210T133000
 DTEND;TZID=America/Dawson_Creek:20260210T163059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2898@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB12-15 Totem Figur
  e Skating Competition\nAllocated: 3.0h\nNote: EVENT: FEB12-15 Totem Figure
@@ -299,7 +299,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB13 - Guns for Hire at Saulteau Cu
  ltural Centre
 DTSTART;TZID=America/Dawson_Creek:20260211T090000
 DTEND;TZID=America/Dawson_Creek:20260211T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3026@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB13 - Guns for Hir
  e at Saulteau Cultural Centre\nAllocated: 5.0h\nNote: EVENT: FEB13 - Guns 
@@ -313,7 +313,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - FEB12-15 Totem Figure Skati
  ng Competition
 DTSTART;TZID=America/Dawson_Creek:20260212T090000
 DTEND;TZID=America/Dawson_Creek:20260212T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3262@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: FEB12-15 To
  tem Figure Skating Competition\nAllocated: 7.0h\nNote: EVENT: FEB12-15 Tot
@@ -326,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - FEB14 North Peace Pride - Dance
 DTSTART;TZID=America/Dawson_Creek:20260215T090000
 DTEND;TZID=America/Dawson_Creek:20260215T093059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3178@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB14 North Peace Pr
  ide - Dance\nAllocated: 0.5h\nNote: EVENT: FEB14 North Peace Pride - Dance
@@ -339,7 +339,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB11-12 Cargill ThinkTank 2026 - Re
  gina Hotel Saskatchewan
 DTSTART;TZID=America/Dawson_Creek:20260215T093000
 DTEND;TZID=America/Dawson_Creek:20260215T123059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2879@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB11-12 Cargill Thi
  nkTank 2026 - Regina Hotel Saskatchewan\nAllocated: 3.0h\nNote: EVENT: FEB
@@ -352,7 +352,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - FEB12-15 Totem Figure Skati
  ng Competition
 DTSTART;TZID=America/Dawson_Creek:20260215T133000
 DTEND;TZID=America/Dawson_Creek:20260215T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3395@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: FEB12-15 To
  tem Figure Skating Competition\nAllocated: 2.5h\nNote: EVENT: FEB12-15 Tot
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - FEB20-22 2026 Crystal Cup
 DTSTART;TZID=America/Dawson_Creek:20260218T130000
 DTEND;TZID=America/Dawson_Creek:20260218T170000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3051@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB20-22 2026 Crysta
  l Cup\nAllocated: 4.0h\nNote: EVENT: FEB20-22 2026 Crystal Cup\nhttps://ww
@@ -380,7 +380,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB12-15 Totem Figure Skating Compet
  ition
 DTSTART;TZID=America/Dawson_Creek:20260219T090000
 DTEND;TZID=America/Dawson_Creek:20260219T110059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2899@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB12-15 Totem Figur
  e Skating Competition\nAllocated: 2.0h\nNote: EVENT: FEB12-15 Totem Figure
@@ -393,7 +393,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB27 - AMY Crescent Park DIY DJ and
   lights
 DTSTART;TZID=America/Dawson_Creek:20260219T110000
 DTEND;TZID=America/Dawson_Creek:20260219T113000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3498@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB27 - AMY Crescent
   Park DIY DJ and lights\nAllocated: 0.5h\nNote: EVENT: FEB27 - AMY Crescen
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - FEB20-22 2026 Crystal Cup
 DTSTART;TZID=America/Dawson_Creek:20260219T113000
 DTEND;TZID=America/Dawson_Creek:20260219T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-1999@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: FEB20-22 2
  026 Crystal Cup\nAllocated: 4.5h\nNote: EVENT: FEB20-22 2026 Crystal Cup\n
@@ -421,7 +421,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB21 - Tumbler Ridge Funeral Servic
  e
 DTSTART;TZID=America/Dawson_Creek:20260220T090000
 DTEND;TZID=America/Dawson_Creek:20260220T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3427@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB21 - Tumbler Ridg
  e Funeral Service\nAllocated: 3.0h\nNote: EVENT: FEB21 - Tumbler Ridge Fun
@@ -434,7 +434,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB25-26 Agriculture Conference Merc
  er Hall
 DTSTART;TZID=America/Dawson_Creek:20260220T120000
 DTEND;TZID=America/Dawson_Creek:20260220T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3137@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB25-26 Agriculture
   Conference Mercer Hall\nAllocated: 2.0h\nNote: EVENT: FEB25-26 Agricultur
@@ -447,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - FEB27 NLC DC Bollywood Party
 DTSTART;TZID=America/Dawson_Creek:20260220T140000
 DTEND;TZID=America/Dawson_Creek:20260220T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3426@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB27 NLC DC Bollywo
  od Party\nAllocated: 2.0h\nNote: EVENT: FEB27 NLC DC Bollywood Party\nhttp
@@ -463,7 +463,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - FEB27-28 Wild Sheep Societ
  y - Penticton Fundraiser
 DTSTART;TZID=America/Dawson_Creek:20260222T100000
 DTEND;TZID=America/Dawson_Creek:20260222T130000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3071@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: FEB27-28 W
  ild Sheep Society - Penticton Fundraiser\nAllocated: 3.0h\nNote: EVENT: FE
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - FEB20-22 2026 Crystal Cup
 DTSTART;TZID=America/Dawson_Creek:20260222T130000
 DTEND;TZID=America/Dawson_Creek:20260222T180000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3412@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: FEB20-22 2
  026 Crystal Cup\nAllocated: 5.0h\nNote: EVENT: FEB20-22 2026 Crystal Cup\n
@@ -489,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - FEB20-22 2026 Crystal Cup
 DTSTART;TZID=America/Dawson_Creek:20260223T090000
 DTEND;TZID=America/Dawson_Creek:20260223T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3053@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB20-22 2026 Crysta
  l Cup\nAllocated: 3.0h\nNote: EVENT: FEB20-22 2026 Crystal Cup\nhttps://ww
@@ -502,7 +502,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB27-28 Wild Sheep Society - Pentic
  ton Fundraiser
 DTSTART;TZID=America/Dawson_Creek:20260223T120000
 DTEND;TZID=America/Dawson_Creek:20260223T170000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3501@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB27-28 Wild Sheep 
  Society - Penticton Fundraiser\nAllocated: 5.0h\nNote: EVENT: FEB27-28 Wil
@@ -515,7 +515,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - FEB01-28 City of FSJ - Win
  ter Fest
 DTSTART;TZID=America/Dawson_Creek:20260224T090000
 DTEND;TZID=America/Dawson_Creek:20260224T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3473@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: FEB01-28 C
  ity of FSJ - Winter Fest\nAllocated: 7.0h\nNote: EVENT: FEB01-28 City of F
@@ -531,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - FEB01-28 City of FSJ - Winter Fest
 DTSTART;TZID=America/Dawson_Creek:20260225T090000
 DTEND;TZID=America/Dawson_Creek:20260225T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3500@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB01-28 City of FSJ
   - Winter Fest\nAllocated: 3.0h\nNote: EVENT: FEB01-28 City of FSJ - Winte
@@ -544,7 +544,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260225T120000
 DTEND;TZID=America/Dawson_Creek:20260225T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3059@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nAllocated: 4.0h\n
  Note: When you get your deprep from winter fest done can you set up the ba
@@ -556,7 +556,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - FEB01-28 City of FSJ - Wint
  er Fest
 DTSTART;TZID=America/Dawson_Creek:20260228T090000
 DTEND;TZID=America/Dawson_Creek:20260228T120059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3547@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: FEB01-28 Ci
  ty of FSJ - Winter Fest\nAllocated: 3.0h\nNote: EVENT: FEB01-28 City of FS
@@ -568,7 +568,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - FEB27 NLC DC Bollywood Party
 DTSTART;TZID=America/Dawson_Creek:20260228T130000
 DTEND;TZID=America/Dawson_Creek:20260228T140059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3548@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB27 NLC DC Bollywo
  od Party\nAllocated: 1.0h\nNote: EVENT: FEB27 NLC DC Bollywood Party\nhttp
@@ -582,7 +582,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB27 - AMY Crescent Park DIY DJ and
   lights
 DTSTART;TZID=America/Dawson_Creek:20260228T130000
 DTEND;TZID=America/Dawson_Creek:20260228T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3499@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB27 - AMY Crescent
   Park DIY DJ and lights\nAllocated: 1.0h\nNote: EVENT: FEB27 - AMY Crescen
@@ -596,7 +596,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB25-26 Agriculture Conference Merc
  er Hall
 DTSTART;TZID=America/Dawson_Creek:20260228T140000
 DTEND;TZID=America/Dawson_Creek:20260228T160059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3558@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB25-26 Agriculture
   Conference Mercer Hall\nAllocated: 2.0h\nNote: EVENT: FEB25-26 Agricultur
@@ -608,7 +608,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - FEB01-28 City of FSJ - Winter Fest
 DTSTART;TZID=America/Dawson_Creek:20260301T090000
 DTEND;TZID=America/Dawson_Creek:20260301T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3121@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB01-28 City of FSJ
   - Winter Fest\nAllocated: 3.0h\nNote: EVENT: FEB01-28 City of FSJ - Winte
@@ -620,7 +620,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - FEB28 - Rod and Gun Club Fundraiser
 DTSTART;TZID=America/Dawson_Creek:20260301T120000
 DTEND;TZID=America/Dawson_Creek:20260301T140059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3485@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB28 - Rod and Gun 
  Club Fundraiser\nAllocated: 2.0h\nNote: EVENT: FEB28 - Rod and Gun Club Fu
@@ -633,7 +633,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAR04 Peace Region Forage Seed Assoc
  iation
 DTSTART;TZID=America/Dawson_Creek:20260301T140000
 DTEND;TZID=America/Dawson_Creek:20260301T160059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3568@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR04 Peace Region F
  orage Seed Association\nAllocated: 2.0h\nNote: EVENT: MAR04 Peace Region F
@@ -645,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - FEB01-28 City of FSJ - Winter Fest
 DTSTART;TZID=America/Dawson_Creek:20260302T090000
 DTEND;TZID=America/Dawson_Creek:20260302T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-1940@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB01-28 City of FSJ
   - Winter Fest\nAllocated: 7.0h\nNote: EVENT: FEB01-28 City of FSJ - Winte
@@ -659,7 +659,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - FEB27-28 Wild Sheep Society - Pentic
  ton Fundraiser
 DTSTART;TZID=America/Dawson_Creek:20260303T090000
 DTEND;TZID=America/Dawson_Creek:20260303T120059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3151@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: FEB27-28 Wild Sheep 
  Society - Penticton Fundraiser\nAllocated: 3.0h\nNote: EVENT: FEB27-28 Wil
@@ -671,7 +671,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR06 - CDC 53rd Annual Talent Show
 DTSTART;TZID=America/Dawson_Creek:20260303T130000
 DTEND;TZID=America/Dawson_Creek:20260303T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2858@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR06 - CDC 53rd Ann
  ual Talent Show\nAllocated: 3.0h\nNote: EVENT: MAR06 - CDC 53rd Annual Tal
@@ -684,7 +684,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAR04 Peace Region Forage
  Seed Association
 DTSTART;TZID=America/Dawson_Creek:20260305T090000
 DTEND;TZID=America/Dawson_Creek:20260305T110000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3572@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAR04 Peac
  e Region Forage Seed Association\nAllocated: 2.0h\nNote: EVENT: MAR04 Peac
@@ -699,7 +699,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAR04 Peace Region Forage Seed Assoc
  iation
 DTSTART;TZID=America/Dawson_Creek:20260305T110000
 DTEND;TZID=America/Dawson_Creek:20260305T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3122@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR04 Peace Region F
  orage Seed Association\nAllocated: 3.0h\nNote: EVENT: MAR04 Peace Region F
@@ -713,7 +713,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - MAR06 - CDC 53rd Annual Talent Show
 DTSTART;TZID=America/Dawson_Creek:20260305T140000
 DTEND;TZID=America/Dawson_Creek:20260305T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3584@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: MAR06 - CDC 53rd Annual Talent Show\nA
  llocated: 2.0h\nNote: EVENT: MAR06 - CDC 53rd Annual Talent Show\nhttps://
@@ -726,7 +726,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAR11-12 Cargill ThinkTank 2026 - De
  lta Downtown (Saskatoon\, SK)
 DTSTART;TZID=America/Dawson_Creek:20260306T090000
 DTEND;TZID=America/Dawson_Creek:20260306T160059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3633@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR11-12 Cargill Thi
  nkTank 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 7.0h\nNote: EVEN
@@ -738,7 +738,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR06 - CDC 53rd Annual Talent Show
 DTSTART;TZID=America/Dawson_Creek:20260308T090000
 DTEND;TZID=America/Dawson_Creek:20260308T110000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2859@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR06 - CDC 53rd Ann
  ual Talent Show\nAllocated: 2.0h\nNote: EVENT: MAR06 - CDC 53rd Annual Tal
@@ -751,7 +751,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAR10-11 FSJ BEO NDIT Northern Devel
  opment Meeting/#14873-1 (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20260308T113000
 DTEND;TZID=America/Dawson_Creek:20260308T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3670@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR10-11 FSJ BEO NDI
  T Northern Development Meeting/#14873-1 (CUSTOM)\nAllocated: 4.5h\nNote: E
@@ -765,7 +765,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAR10-11 Collaborative Stewardship F
  orum
 DTSTART;TZID=America/Dawson_Creek:20260309T090000
 DTEND;TZID=America/Dawson_Creek:20260309T110000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3169@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR10-11 Collaborati
  ve Stewardship Forum\nAllocated: 2.0h\nNote: EVENT: MAR10-11 Collaborative
@@ -780,7 +780,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAR10-11 Collaborative Ste
  wardship Forum
 DTSTART;TZID=America/Dawson_Creek:20260309T114000
 DTEND;TZID=America/Dawson_Creek:20260309T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3173@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAR10-11 C
  ollaborative Stewardship Forum\nAllocated: 4.3h\nNote: EVENT: MAR10-11 Col
@@ -795,7 +795,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAR10-11 Collaborative Stew
  ardship Forum
 DTSTART;TZID=America/Dawson_Creek:20260312T090000
 DTEND;TZID=America/Dawson_Creek:20260312T110000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3170@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAR10-11 Co
  llaborative Stewardship Forum\nAllocated: 2.0h\nNote: EVENT: MAR10-11 Coll
@@ -808,7 +808,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAR10-11 Collaborative Stewardship F
  orum
 DTSTART;TZID=America/Dawson_Creek:20260312T120000
 DTEND;TZID=America/Dawson_Creek:20260312T150000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3577@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR10-11 Collaborati
  ve Stewardship Forum\nAllocated: 3.0h\nNote: EVENT: MAR10-11 Collaborative
@@ -821,7 +821,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAR14-18 City of FSJ Provincials - P
  &D
 DTSTART;TZID=America/Dawson_Creek:20260312T150000
 DTEND;TZID=America/Dawson_Creek:20260312T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3728@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR14-18 City of FSJ
   Provincials - P&D\nAllocated: 1.0h\nNote: EVENT: MAR14-15 City of FSJ Pro
@@ -834,7 +834,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAR14-18 City of FSJ Provin
  cials - P&D
 DTSTART;TZID=America/Dawson_Creek:20260313T090000
 DTEND;TZID=America/Dawson_Creek:20260313T100000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3730@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAR14-18 Ci
  ty of FSJ Provincials - P&D\nAllocated: 1.0h\nNote: EVENT: MAR14-15 City o
@@ -848,7 +848,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAR14 Taylor Montney Coulees Music E
  vent
 DTSTART;TZID=America/Dawson_Creek:20260313T100000
 DTEND;TZID=America/Dawson_Creek:20260313T130000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3524@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR14 Taylor Montney
   Coulees Music Event\nAllocated: 3.0h\nNote: EVENT: MAR14 Taylor Montney C
@@ -860,7 +860,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - MAR14 Taylor Montney Coulees Music Event
 DTSTART;TZID=America/Dawson_Creek:20260313T130000
 DTEND;TZID=America/Dawson_Creek:20260313T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3578@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: MAR14 Taylor Montney Coulees Music Eve
  nt\nAllocated: 3.0h\nNote: EVENT: MAR14 Taylor Montney Coulees Music Event
@@ -873,7 +873,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAR11-12 Cargill ThinkTank 2026 - De
  lta Downtown (Saskatoon\, SK)
 DTSTART;TZID=America/Dawson_Creek:20260314T100000
 DTEND;TZID=America/Dawson_Creek:20260314T180000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2539@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR11-12 Cargill Thi
  nkTank 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 8.0h\nNote: EVEN
@@ -886,7 +886,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAR14 Taylor Montney Coulees Music E
  vent
 DTSTART;TZID=America/Dawson_Creek:20260315T110000
 DTEND;TZID=America/Dawson_Creek:20260315T150000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3522@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR14 Taylor Montney
   Coulees Music Event\nAllocated: 4.0h\nNote: EVENT: MAR14 Taylor Montney C
@@ -900,7 +900,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAR17 ST Patrick's Day
 DTSTART;TZID=America/Dawson_Creek:20260318T110000
 DTEND;TZID=America/Dawson_Creek:20260318T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3612@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAR17 ST Pa
  trick's Day\nAllocated: 1.0h\nNote: EVENT: MAR17 ST Patrick's Day\nhttps:/
@@ -912,7 +912,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR17 ST Patrick's Day
 DTSTART;TZID=America/Dawson_Creek:20260318T120000
 DTEND;TZID=America/Dawson_Creek:20260318T160059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3617@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR17 ST Patrick's D
  ay\nAllocated: 4.0h\nNote: EVENT: MAR17 ST Patrick's Day\nhttps://www.soun
@@ -924,7 +924,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAR19 - 3D Childrens Gala @GP Pomero
  y
 DTSTART;TZID=America/Dawson_Creek:20260321T090000
 DTEND;TZID=America/Dawson_Creek:20260321T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2024@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR19 - 3D Childrens
   Gala @GP Pomeroy\nAllocated: 7.0h\nNote: EVENT: MAR19 - 3D Childrens Gala
@@ -936,7 +936,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260324T090000
 DTEND;TZID=America/Dawson_Creek:20260324T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3961@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 3.0h\nNote: depr
  ep\n\nSound in Town - Ripley Kidner
@@ -945,7 +945,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR25 - Saulteau Evening Meeting
 DTSTART;TZID=America/Dawson_Creek:20260324T130000
 DTEND;TZID=America/Dawson_Creek:20260324T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3750@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR25 - Saulteau Eve
  ning Meeting\nAllocated: 3.0h\nNote: EVENT: MAR25 - Saulteau Evening Meeti
@@ -957,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR25 - Saulteau Evening Meeting
 DTSTART;TZID=America/Dawson_Creek:20260326T090000
 DTEND;TZID=America/Dawson_Creek:20260326T120059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3974@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR25 - Saulteau Eve
  ning Meeting\nAllocated: 3.0h\nNote: EVENT: MAR25 - Saulteau Evening Meeti
@@ -968,7 +968,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260326T121500
 DTEND;TZID=America/Dawson_Creek:20260326T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3970@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 3.8h\n\nSound in
   Town - Ripley Kidner
@@ -977,7 +977,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR28 - Ron Folk Funeral
 DTSTART;TZID=America/Dawson_Creek:20260327T120000
 DTEND;TZID=America/Dawson_Creek:20260327T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3763@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR28 - Ron Folk Fun
  eral\nAllocated: 2.0h\nNote: EVENT: MAR28 - Ron Folk Funeral\nhttps://www.
@@ -989,7 +989,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAR28 - Ron Folk Funeral
 DTSTART;TZID=America/Dawson_Creek:20260327T140000
 DTEND;TZID=America/Dawson_Creek:20260327T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3940@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAR28 - Ron
   Folk Funeral\nAllocated: 2.0h\nNote: EVENT: MAR28 - Ron Folk Funeral\nhtt
@@ -1002,7 +1002,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR28 - Ron Folk Funeral
 DTSTART;TZID=America/Dawson_Creek:20260329T090000
 DTEND;TZID=America/Dawson_Creek:20260329T130000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3764@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR28 - Ron Folk Fun
  eral\nAllocated: 4.0h\nNote: EVENT: MAR28 - Ron Folk Funeral\nhttps://www.
@@ -1014,7 +1014,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR31 NRM - FSJ Live Streamed Event
 DTSTART;TZID=America/Dawson_Creek:20260330T090000
 DTEND;TZID=America/Dawson_Creek:20260330T110059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3665@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR31 NRM - FSJ Live
   Streamed Event\nAllocated: 2.0h\nNote: EVENT: MAR31 NRM - FSJ Live Stream
@@ -1026,7 +1026,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR31 Saulteau - Governance Workshop
 DTSTART;TZID=America/Dawson_Creek:20260330T140000
 DTEND;TZID=America/Dawson_Creek:20260330T160059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3975@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR31 Saulteau - Gov
  ernance Workshop\nAllocated: 2.0h\nNote: EVENT: MAR31 Saulteau - Governanc
@@ -1038,7 +1038,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR02 NLC All Staff Meeting
 DTSTART;TZID=America/Dawson_Creek:20260331T130000
 DTEND;TZID=America/Dawson_Creek:20260331T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3889@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR02 NLC All Staff 
  Meeting\nAllocated: 3.0h\nNote: EVENT: APR02 NLC All Staff Meeting\n\n\n\n
@@ -1050,7 +1050,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR31 NRM - FSJ Live Streamed Event
 DTSTART;TZID=America/Dawson_Creek:20260401T090000
 DTEND;TZID=America/Dawson_Creek:20260401T130059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3675@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR31 NRM - FSJ Live
   Streamed Event\nAllocated: 4.0h\nNote: EVENT: MAR31 NRM - FSJ Live Stream
@@ -1062,7 +1062,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR02 NLC All Staff Meeting
 DTSTART;TZID=America/Dawson_Creek:20260401T131500
 DTEND;TZID=America/Dawson_Creek:20260401T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2865@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR02 NLC A
  ll Staff Meeting\nAllocated: 2.8h\nNote: EVENT: APR02 NLC All Staff Meetin
@@ -1075,7 +1075,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR31 Saulteau - Governance Workshop
 DTSTART;TZID=America/Dawson_Creek:20260402T090000
 DTEND;TZID=America/Dawson_Creek:20260402T130059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3977@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR31 Saulteau - Gov
  ernance Workshop\nAllocated: 4.0h\nNote: EVENT: MAR31 Saulteau - Governanc
@@ -1087,7 +1087,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR02 NLC All Staff Meeting
 DTSTART;TZID=America/Dawson_Creek:20260403T090000
 DTEND;TZID=America/Dawson_Creek:20260403T130000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2866@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR02 NLC All Staff 
  Meeting\nAllocated: 4.0h\nNote: EVENT: APR02 NLC All Staff Meeting\n\nAuto
@@ -1102,7 +1102,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR04 District of Taylor - Easter Ph
  otobooth
 DTSTART;TZID=America/Dawson_Creek:20260403T150000
 DTEND;TZID=America/Dawson_Creek:20260403T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3711@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR04 District of Ta
  ylor - Easter Photobooth\nAllocated: 1.0h\nNote: EVENT: APR04 District of 
@@ -1115,7 +1115,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR08-09 First Nations Health Author
  ity
 DTSTART;TZID=America/Dawson_Creek:20260406T090000
 DTEND;TZID=America/Dawson_Creek:20260406T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3174@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR08-09 First Natio
  ns Health Authority\nAllocated: 3.0h\nNote: EVENT: APR08-09 First Nations 
@@ -1130,7 +1130,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR07 FSJ Co-op Staff Meeting @ Rama
  da
 DTSTART;TZID=America/Dawson_Creek:20260406T120000
 DTEND;TZID=America/Dawson_Creek:20260406T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3694@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR07 FSJ Co-op Staf
  f Meeting @ Ramada\nAllocated: 2.0h\nNote: EVENT: APR07 FSJ Co-op Staff Me
@@ -1144,7 +1144,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR04 District of Taylor - Easter Ph
  otobooth
 DTSTART;TZID=America/Dawson_Creek:20260406T140000
 DTEND;TZID=America/Dawson_Creek:20260406T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3712@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR04 District of Ta
  ylor - Easter Photobooth\nAllocated: 2.0h\nNote: EVENT: APR04 District of 
@@ -1157,7 +1157,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR07 FSJ Co-op Staff Meeti
  ng @ Ramada
 DTSTART;TZID=America/Dawson_Creek:20260407T090000
 DTEND;TZID=America/Dawson_Creek:20260407T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3892@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR07 FSJ C
  o-op Staff Meeting @ Ramada\nAllocated: 3.0h\nNote: EVENT: APR07 FSJ Co-op
@@ -1171,7 +1171,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR07 FSJ Co-op Staff Meeting @ Rama
  da
 DTSTART;TZID=America/Dawson_Creek:20260408T090000
 DTEND;TZID=America/Dawson_Creek:20260408T114559
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3874@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR07 FSJ Co-op Staf
  f Meeting @ Ramada\nAllocated: 2.8h\nNote: EVENT: APR07 FSJ Co-op Staff Me
@@ -1185,7 +1185,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR10-12 Fort St. John Tradeshow Boo
  th for Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260408T120000
 DTEND;TZID=America/Dawson_Creek:20260408T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2682@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR10-12 Fort St. Jo
  hn Tradeshow Booth for Ovintiv\nAllocated: 4.0h\nNote: EVENT: APR10-12 For
@@ -1200,7 +1200,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR16 - ELEMENT GP BEO (Custom) 6366
  69
 DTSTART;TZID=America/Dawson_Creek:20260410T090000
 DTEND;TZID=America/Dawson_Creek:20260410T100000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2847@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR16 - ELEMENT GP B
  EO (Custom) 636669\nAllocated: 1.0h\nNote: EVENT: APR16 - ELEMENT GP BEO (
@@ -1212,7 +1212,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260410T100000
 DTEND;TZID=America/Dawson_Creek:20260410T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2033@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR12-15 AARFP 47th 
  Conference\nAllocated: 4.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n
@@ -1224,7 +1224,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Dawson_Creek:20260410T140000
 DTEND;TZID=America/Dawson_Creek:20260410T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3770@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR13 AARFP 47th Tra
  deshow\nAllocated: 2.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\n\nAutoma
@@ -1237,7 +1237,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - APR10-12 Fort St. John Tra
  deshow Booth for Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260412T170000
 DTEND;TZID=America/Dawson_Creek:20260412T210000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2683@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: APR10-12 F
  ort St. John Tradeshow Booth for Ovintiv\nNote: EVENT: APR10-12 Fort St. J
@@ -1250,7 +1250,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR10-12 Fort St. John Tradeshow Boo
  th for Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260412T210000
 DTEND;TZID=America/Dawson_Creek:20260412T230059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3097@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR10-12 Fort St. Jo
  hn Tradeshow Booth for Ovintiv\nNote: EVENT: APR10-12 Fort St. John Trades
@@ -1263,7 +1263,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR18  Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260416T090000
 DTEND;TZID=America/Dawson_Creek:20260416T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2048@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR18  Peace Passage
   Ice Show\nAllocated: 7.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nht
@@ -1277,7 +1277,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR16 Pomeroy GP Pembina Townhall 20
  26
 DTSTART;TZID=America/Dawson_Creek:20260417T090000
 DTEND;TZID=America/Dawson_Creek:20260417T150059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3979@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR16 Pomeroy GP Pem
  bina Townhall 2026\nAllocated: 6.0h\nNote: EVENT: APR16 Pomeroy GP Pembina
@@ -1289,7 +1289,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR05 - Photobooth for Easter
 DTSTART;TZID=America/Dawson_Creek:20260417T150000
 DTEND;TZID=America/Dawson_Creek:20260417T160059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3981@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR05 - Photobooth f
  or Easter\nAllocated: 1.0h\nNote: EVENT: APR05 - Photobooth for Easter\nht
@@ -1301,7 +1301,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR16 Pomeroy GP Pembina Townhall 20
  26
 DTSTART;TZID=America/Dawson_Creek:20260418T140000
 DTEND;TZID=America/Dawson_Creek:20260418T200059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3638@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR16 Pomeroy GP Pem
  bina Townhall 2026\nAllocated: 6.0h\nNote: EVENT: APR15-16 Pomeroy GP Pemb
@@ -1314,7 +1314,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR23-25 Beauty and the Beast Microp
  hone Rental
 DTSTART;TZID=America/Dawson_Creek:20260419T110000
 DTEND;TZID=America/Dawson_Creek:20260419T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3925@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR23-25 Beauty and 
  the Beast Microphone Rental\nAllocated: 1.0h\nNote: EVENT: APR23-25 Beauty
@@ -1326,7 +1326,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR22-24 NCLGMA (Prince George)
 DTSTART;TZID=America/Dawson_Creek:20260419T120000
 DTEND;TZID=America/Dawson_Creek:20260419T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2807@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR22-24 NCLGMA (Pri
  nce George)\nAllocated: 4.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George)
@@ -1340,7 +1340,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR18  Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260420T090000
 DTEND;TZID=America/Dawson_Creek:20260420T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2240@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR18  Peace Passage
   Ice Show\nAllocated: 7.0h\nNote: EVENT: APR18  Peace Passage Ice Show\nht
@@ -1353,7 +1353,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR22 NLC Dawson - Dual Credit Night
 DTSTART;TZID=America/Dawson_Creek:20260421T120000
 DTEND;TZID=America/Dawson_Creek:20260421T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3821@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR22 NLC Dawson - D
  ual Credit Night\nAllocated: 2.0h\nNote: EVENT: APR22 NLC Dawson - Dual Cr
@@ -1366,7 +1366,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR24 - South Peace Crime Prevention
   Symposium and AGM
 DTSTART;TZID=America/Dawson_Creek:20260421T140000
 DTEND;TZID=America/Dawson_Creek:20260421T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3876@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR24 - South Peace 
  Crime Prevention Symposium and AGM\nAllocated: 2.0h\nNote: EVENT: APR24 - 
@@ -1379,7 +1379,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR23 - MooseFM Job Fair
 DTSTART;TZID=America/Dawson_Creek:20260422T090000
 DTEND;TZID=America/Dawson_Creek:20260422T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3264@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR23 - MooseFM Job 
  Fair\nAllocated: 3.0h\nNote: EVENT: APR23 - MooseFM Job Fair\n\nPrep and t
@@ -1390,7 +1390,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR23 - MooseFM Job Fair
 DTSTART;TZID=America/Dawson_Creek:20260424T110000
 DTEND;TZID=America/Dawson_Creek:20260424T130000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3269@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR23 - MooseFM Job 
  Fair\nAllocated: 2.0h\nNote: EVENT: APR23 - MooseFM Job Fair\n\ndeprep\n\n
@@ -1401,7 +1401,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR22-24 NCLGMA (Prince George)
 DTSTART;TZID=America/Dawson_Creek:20260426T090000
 DTEND;TZID=America/Dawson_Creek:20260426T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2808@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR22-24 NCLGMA (Pri
  nce George)\nAllocated: 5.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George)
@@ -1415,7 +1415,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR23-25 Beauty and the Beast Microp
  hone Rental
 DTSTART;TZID=America/Dawson_Creek:20260426T090000
 DTEND;TZID=America/Dawson_Creek:20260426T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3926@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR23-25 Beauty and 
  the Beast Microphone Rental\nAllocated: 3.0h\nNote: EVENT: APR23-25 Beauty
@@ -1427,7 +1427,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR25 - Saulteau Evening Meeting
 DTSTART;TZID=America/Dawson_Creek:20260428T090000
 DTEND;TZID=America/Dawson_Creek:20260428T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3773@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR25 - Saulteau Eve
  ning Meeting\nAllocated: 3.0h\nNote: EVENT: MAR25 - Saulteau Evening Meeti
@@ -1439,7 +1439,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAY02-03 - Fort Nelson Trade Show 20
  26
 DTSTART;TZID=America/Dawson_Creek:20260428T120000
 DTEND;TZID=America/Dawson_Creek:20260428T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2566@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY02-03 - Fort Nels
  on Trade Show 2026\nAllocated: 2.0h\nNote: EVENT: MAY02-03 - Fort Nelson T
@@ -1449,7 +1449,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR29 NLC FSJ - Dual Credit Night
 DTSTART;TZID=America/Dawson_Creek:20260428T140000
 DTEND;TZID=America/Dawson_Creek:20260428T170000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3824@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR29 NLC FSJ - Dual
   Credit Night\nAllocated: 3.0h\nNote: EVENT: APR29 NLC FSJ - Dual Credit N
@@ -1462,7 +1462,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR30 - Eloiz Concert at Anne Robert
  s Young School
 DTSTART;TZID=America/Dawson_Creek:20260429T090000
 DTEND;TZID=America/Dawson_Creek:20260429T100000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3396@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR30 - Eloiz Concer
  t at Anne Roberts Young School\nAllocated: 1.0h\nNote: EVENT: APR30 - Eloi
@@ -1477,7 +1477,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAY01 Ovintiv - DC Art Gallery Light
  ing
 DTSTART;TZID=America/Dawson_Creek:20260429T100000
 DTEND;TZID=America/Dawson_Creek:20260429T110059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3308@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY01 Ovintiv - DC A
  rt Gallery Lighting\nAllocated: 1.0h\nNote: EVENT: MAY01 Ovintiv - DC Art 
@@ -1489,7 +1489,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260429T130000
 DTEND;TZID=America/Dawson_Creek:20260429T160059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3273@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY02 Firefighters B
  all\nAllocated: 3.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.so
@@ -1500,7 +1500,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR29 NLC FSJ - Dual Credit Night
 DTSTART;TZID=America/Dawson_Creek:20260430T090000
 DTEND;TZID=America/Dawson_Creek:20260430T170000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3825@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR29 NLC FSJ - Dual
   Credit Night\nAllocated: 8.0h\nNote: EVENT: APR29 NLC FSJ - Dual Credit N
@@ -1512,7 +1512,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY07 NLC Service Awards Gala
 DTSTART;TZID=America/Dawson_Creek:20260502T090000
 DTEND;TZID=America/Dawson_Creek:20260502T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2576@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY07 NLC Service Aw
  ards Gala\nAllocated: 3.0h\nNote: EVENT: MAY07 NLC Service Awards Gala\nht
@@ -1525,7 +1525,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAY01 Ovintiv - DC Art Gallery Light
  ing
 DTSTART;TZID=America/Dawson_Creek:20260502T120000
 DTEND;TZID=America/Dawson_Creek:20260502T140059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3310@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY01 Ovintiv - DC A
  rt Gallery Lighting\nAllocated: 2.0h\nNote: EVENT: MAY01 Ovintiv - DC Art 
@@ -1537,7 +1537,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260503T090000
 DTEND;TZID=America/Dawson_Creek:20260503T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2575@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY02 Firef
  ighters Ball\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.soundintow
@@ -1548,7 +1548,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260522T090000
 DTEND;TZID=America/Dawson_Creek:20260522T130000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2469@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY23 - Bluey Day\nA
  llocated: 4.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.co
@@ -1561,7 +1561,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260524T090000
 DTEND;TZID=America/Dawson_Creek:20260524T130000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2470@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY23 - Bluey Day\nA
  llocated: 4.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.co
@@ -1574,7 +1574,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260524T120000
 DTEND;TZID=America/Dawson_Creek:20260524T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2077@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY28 - NLC DC Convo
  cation\nAllocated: 4.0h\nNote: EVENT: MAY28 - NLC DC Convocation\nhttps://
@@ -1587,7 +1587,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Dawson_Creek:20260525T160000
 DTEND;TZID=America/Dawson_Creek:20260525T210000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2489@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY22-23 Mine Rescue
   BC (Penticton)\nAllocated: 5.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (Pe
@@ -1599,7 +1599,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY27 FSJ CO-OP AGM
 DTSTART;TZID=America/Dawson_Creek:20260526T090000
 DTEND;TZID=America/Dawson_Creek:20260526T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2080@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY27 FSJ CO-OP AGM\
  nAllocated: 3.0h\nNote: EVENT: MAY27 FSJ CO-OP AGM\nhttps://www.soundintow
@@ -1613,7 +1613,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAY28 - PRRD Board Meeting - Chetwyn
  d
 DTSTART;TZID=America/Dawson_Creek:20260526T120000
 DTEND;TZID=America/Dawson_Creek:20260526T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2083@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY28 - PRRD Board M
  eeting - Chetwynd\nAllocated: 4.0h\nNote: EVENT: MAY28 - PRRD Board Meetin
@@ -1626,7 +1626,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY27 FSJ CO-OP AGM
 DTSTART;TZID=America/Dawson_Creek:20260527T090000
 DTEND;TZID=America/Dawson_Creek:20260527T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2086@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY27 FSJ C
  O-OP AGM\nAllocated: 3.0h\nNote: EVENT: MAY27 FSJ CO-OP AGM\nhttps://www.s
@@ -1638,7 +1638,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY27 FSJ CO-OP AGM
 DTSTART;TZID=America/Dawson_Creek:20260528T090000
 DTEND;TZID=America/Dawson_Creek:20260528T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2091@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY27 FSJ 
  CO-OP AGM\nAllocated: 5.0h\nNote: EVENT: MAY27 FSJ CO-OP AGM\nhttps://www.
@@ -1651,7 +1651,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY27 FSJ CO-OP AGM
 DTSTART;TZID=America/Dawson_Creek:20260528T140000
 DTEND;TZID=America/Dawson_Creek:20260528T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2094@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY27 FSJ CO-OP AGM\
  nAllocated: 2.0h\nNote: EVENT: MAY27 FSJ CO-OP AGM\nhttps://www.soundintow
@@ -1665,7 +1665,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAY28 - PRRD Board Meeting - Chetwyn
  d
 DTSTART;TZID=America/Dawson_Creek:20260529T090000
 DTEND;TZID=America/Dawson_Creek:20260529T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2096@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY28 - PRRD Board M
  eeting - Chetwynd\nAllocated: 3.0h\nNote: EVENT: MAY28 - PRRD Board Meetin
@@ -1679,7 +1679,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY30 North Peace Pride -
  Dance
 DTSTART;TZID=America/Dawson_Creek:20260529T120000
 DTEND;TZID=America/Dawson_Creek:20260529T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2098@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY30 Nort
  h Peace Pride - Dance\nAllocated: 4.0h\nNote: EVENT: MAY30 North Peace Pri
@@ -1691,7 +1691,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260530T090000
 DTEND;TZID=America/Dawson_Creek:20260530T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2604@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY28 - NLC DC Convo
  cation\nAllocated: 5.0h\nNote: EVENT: MAY28 - NLC DC Convocation\nhttps://
@@ -1703,7 +1703,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY31 - Annual Colour Run
 DTSTART;TZID=America/Dawson_Creek:20260530T140000
 DTEND;TZID=America/Dawson_Creek:20260530T170000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3298@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY31 - Annual Colou
  r Run\nAllocated: 3.0h\nNote: EVENT: MAY31 - Annual Colour Run\nhttps://ww
@@ -1716,7 +1716,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY31 - Annual Colour Run
 DTSTART;TZID=America/Dawson_Creek:20260531T140000
 DTEND;TZID=America/Dawson_Creek:20260531T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3304@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY31 - Ann
  ual Colour Run\nAllocated: 2.0h\nNote: EVENT: MAY31 - Annual Colour Run\nh
@@ -1729,7 +1729,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY31 - Annual Colour Run
 DTSTART;TZID=America/Dawson_Creek:20260531T160000
 DTEND;TZID=America/Dawson_Creek:20260531T180000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3299@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY31 - Annual Colou
  r Run\nAllocated: 2.0h\nNote: EVENT: MAY31 - Annual Colour Run\nhttps://ww
@@ -1742,7 +1742,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Dawson_Creek:20260602T090000
 DTEND;TZID=America/Dawson_Creek:20260602T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2101@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN04 - NLC FSJ Conv
  ocation\nAllocated: 7.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nhttps:
@@ -1755,7 +1755,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUN05 UNBC - Event Production (Stagi
  ng\, Drape\, Audio)
 DTSTART;TZID=America/Dawson_Creek:20260604T090000
 DTEND;TZID=America/Dawson_Creek:20260604T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3352@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN05 UNBC - Event P
  roduction (Staging\, Drape\, Audio)\nAllocated: 7.0h\nNote: EVENT: JUN05 U
@@ -1768,7 +1768,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN05 - Oilmans BBQ Event
 DTSTART;TZID=America/Dawson_Creek:20260605T040000
 DTEND;TZID=America/Dawson_Creek:20260605T100000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2822@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN05 - Oilmans BBQ 
  Event\nAllocated: 6.0h\nNote: EVENT: JUN05 - Oilmans BBQ Event\nhttps://ww
@@ -1782,7 +1782,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN06 North Peace Pride - Festival
 DTSTART;TZID=America/Dawson_Creek:20260605T090000
 DTEND;TZID=America/Dawson_Creek:20260605T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2620@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN06 North Peace Pr
  ide - Festival\nAllocated: 5.0h\nNote: EVENT: JUN06 North Peace Pride - Fe
@@ -1794,7 +1794,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=America/Dawson_Creek:20260605T090000
 DTEND;TZID=America/Dawson_Creek:20260605T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3339@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN08 - Terry Fator 
  Comedy Show\nAllocated: 7.0h\nNote: EVENT: JUN08 - Potential Comedy\nhttps
@@ -1808,7 +1808,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Dawson_Creek:20260606T090000
 DTEND;TZID=America/Dawson_Creek:20260606T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2614@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN04 - NLC FSJ Conv
  ocation\nAllocated: 7.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nhttps:
@@ -1820,7 +1820,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN05 - Oilmans BBQ Event
 DTSTART;TZID=America/Dawson_Creek:20260606T100000
 DTEND;TZID=America/Dawson_Creek:20260606T180000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2823@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN05 - Oilmans BBQ 
  Event\nAllocated: 8.0h\nNote: EVENT: JUN05 - Oilmans BBQ Event\nhttps://ww
@@ -1835,7 +1835,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUN05 UNBC - Event Production (Stagi
  ng\, Drape\, Audio)
 DTSTART;TZID=America/Dawson_Creek:20260606T120000
 DTEND;TZID=America/Dawson_Creek:20260606T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3353@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN05 UNBC - Event P
  roduction (Staging\, Drape\, Audio)\nAllocated: 4.0h\nNote: EVENT: JUN05 U
@@ -1849,7 +1849,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN06 North Peace Pride - Festival
 DTSTART;TZID=America/Dawson_Creek:20260607T090000
 DTEND;TZID=America/Dawson_Creek:20260607T140000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2621@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN06 North Peace Pr
  ide - Festival\nAllocated: 5.0h\nNote: EVENT: JUN06 North Peace Pride - Fe
@@ -1861,7 +1861,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=America/Dawson_Creek:20260609T170000
 DTEND;TZID=America/Dawson_Creek:20260609T220000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3340@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN08 - Terry Fator 
  Comedy Show\nNote: EVENT: JUN08 - Potential Comedy\nhttps://www.soundintow
@@ -1874,7 +1874,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=America/Dawson_Creek:20260610T090000
 DTEND;TZID=America/Dawson_Creek:20260610T120059
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3350@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN08 - Terry Fator 
  Comedy Show\nAllocated: 3.0h\nNote: EVENT: JUN08 - Potential Comedy\nhttps
@@ -1886,7 +1886,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN13-14 - Party In White GP
 DTSTART;TZID=America/Dawson_Creek:20260610T090000
 DTEND;TZID=America/Dawson_Creek:20260610T170000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2632@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN13-14 - Party In 
  White GP\nAllocated: 8.0h\nNote: EVENT: JUN13 - Party In White GP\nhttps:/
@@ -1898,7 +1898,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN13-14 - Party In White GP
 DTSTART;TZID=America/Dawson_Creek:20260615T080000
 DTEND;TZID=America/Dawson_Creek:20260615T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2640@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN13-14 - Party In 
  White GP\nAllocated: 8.0h\nNote: EVENT: JUN13 - Party In White GP\nhttps:/
@@ -1910,7 +1910,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUL05 - TNT Bodybuilding Edmonton 20
  26
 DTSTART;TZID=America/Dawson_Creek:20260702T050000
 DTEND;TZID=America/Dawson_Creek:20260702T110000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2678@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL05 - TNT Bodybuil
  ding Edmonton 2026\nAllocated: 6.0h\nNote: EVENT: JUL05 - TNT Bodybuilding
@@ -1924,7 +1924,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUL10-12 Saulteau First Nations Pemm
  ican Days
 DTSTART;TZID=America/Dawson_Creek:20260709T080000
 DTEND;TZID=America/Dawson_Creek:20260709T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2439@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL10-12 Saulteau Fi
  rst Nations Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Saulteau
@@ -1935,7 +1935,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUL10-12 Saulteau First Nations Pemm
  ican Days
 DTSTART;TZID=America/Dawson_Creek:20260713T080000
 DTEND;TZID=America/Dawson_Creek:20260713T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2438@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL10-12 Saulteau Fi
  rst Nations Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Saulteau
@@ -1946,7 +1946,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUL17-18 La Crete Ferry Family Campg
  round Music Event
 DTSTART;TZID=America/Dawson_Creek:20260715T100000
 DTEND;TZID=America/Dawson_Creek:20260715T160000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2716@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL17-18 La Crete Fe
  rry Family Campground Music Event\nAllocated: 6.0h\nNote: EVENT: JUL17-18 
@@ -1961,7 +1961,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUL20-24 BFN Pink Mountain Culture C
  amp
 DTSTART;TZID=America/Dawson_Creek:20260719T070000
 DTEND;TZID=America/Dawson_Creek:20260719T130000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2727@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL20-24 BFN Pink Mo
  untain Culture Camp\nAllocated: 6.0h\nNote: EVENT: JUL20-24 BFN Pink Mount
@@ -1974,7 +1974,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUL17-18 La Crete Ferry Family Campg
  round Music Event
 DTSTART;TZID=America/Dawson_Creek:20260719T170000
 DTEND;TZID=America/Dawson_Creek:20260719T220000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2717@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL17-18 La Crete Fe
  rry Family Campground Music Event\nNote: EVENT: JUL17-18 La Crete Ferry Fa
@@ -1988,7 +1988,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260818T060000
 DTEND;TZID=America/Dawson_Creek:20260818T120000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2746@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: AUG21-22 Fredfest 20
  26\nAllocated: 6.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nhttps://www.soun
@@ -2000,7 +2000,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260819T120000
 DTEND;TZID=America/Dawson_Creek:20260819T200000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2763@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: AUG21-22 Fredfest 20
  26\nAllocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nhttps://www.soun
@@ -2012,7 +2012,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260823T120000
 DTEND;TZID=America/Dawson_Creek:20260823T200000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2747@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: AUG21-22 Fredfest 20
  26\nAllocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nhttps://www.soun
@@ -2025,7 +2025,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - SEP12 Tumbler Ridge Fall Fair - Band
  s & Movie
 DTSTART;TZID=America/Dawson_Creek:20260910T120000
 DTEND;TZID=America/Dawson_Creek:20260910T180000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3434@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP12 Tumbler Ridge 
  Fall Fair - Bands & Movie\nAllocated: 6.0h\nNote: EVENT: SEP12 Tumbler Rid
@@ -2039,7 +2039,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP12 Moose FM Block Party 2026
 DTSTART;TZID=America/Dawson_Creek:20260911T090000
 DTEND;TZID=America/Dawson_Creek:20260911T150000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2773@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP12 Moose FM Block
   Party 2026\nAllocated: 6.0h\nNote: EVENT: SEP12 Moose FM Block Party 2026
@@ -2051,7 +2051,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP12 Moose FM Block Party 2026
 DTSTART;TZID=America/Dawson_Creek:20260913T150000
 DTEND;TZID=America/Dawson_Creek:20260913T230000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2774@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP12 Moose FM Block
   Party 2026\nAllocated: 8.0h\nNote: EVENT: SEP12 Moose FM Block Party 2026
@@ -2064,7 +2064,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - SEP12 Tumbler Ridge Fall Fair - Band
  s & Movie
 DTSTART;TZID=America/Dawson_Creek:20260913T170000
 DTEND;TZID=America/Dawson_Creek:20260913T220000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-3435@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP12 Tumbler Ridge 
  Fall Fair - Bands & Movie\nNote: EVENT: SEP12 Tumbler Ridge Fall Fair - Ba
@@ -2077,7 +2077,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP22-24 Healing The Land Conference
 DTSTART;TZID=America/Dawson_Creek:20260920T090000
 DTEND;TZID=America/Dawson_Creek:20260920T170000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2791@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP22-24 Healing The
   Land Conference\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Healing The Land 
@@ -2090,7 +2090,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP22-24 Healing The Land Conference
 DTSTART;TZID=America/Dawson_Creek:20260926T100000
 DTEND;TZID=America/Dawson_Creek:20260926T180000
-DTSTAMP:20260326T171847Z
+DTSTAMP:20260326T205048Z
 UID:planning-slot-2792@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP22-24 Healing The
   Land Conference\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Healing The Land 
