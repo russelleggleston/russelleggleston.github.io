@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - FEB21 - Tumbler Ridge Funeral Service
 DTSTART;TZID=America/Creston:20260221T120000
 DTEND;TZID=America/Creston:20260221T170000
-DTSTAMP:20260326T032700Z
+DTSTAMP:20260326T054943Z
 UID:planning-slot-3516@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: FEB21 - Tumbler Ridge Funeral 
  Service\nAllocated: 5.0h\nNote: EVENT: FEB21 - Tumbler Ridge Funeral Servi
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - FEB24 - Tumbler Ridge Funeral Service
 DTSTART;TZID=America/Creston:20260224T120000
 DTEND;TZID=America/Creston:20260224T180000
-DTSTAMP:20260326T032700Z
+DTSTAMP:20260326T054943Z
 UID:planning-slot-3505@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: FEB24 - Tumbler Ridge Funeral 
  Service\nAllocated: 6.0h\nNote: EVENT: FEB24 - Tumbler Ridge Funeral Servi
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - FEB28 - Tumbler Ridge Funeral Service
 DTSTART;TZID=America/Creston:20260228T120000
 DTEND;TZID=America/Creston:20260228T180000
-DTSTAMP:20260326T032700Z
+DTSTAMP:20260326T054943Z
 UID:planning-slot-3508@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: FEB28 - Tumbler Ridge Funeral 
  Service\nAllocated: 6.0h\nNote: EVENT: FEB28 - Tumbler Ridge Funeral Servi
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAR07 - Tumbler Ridge Funeral Service
 DTSTART;TZID=America/Creston:20260307T120000
 DTEND;TZID=America/Creston:20260307T180059
-DTSTAMP:20260326T032700Z
+DTSTAMP:20260326T054943Z
 UID:planning-slot-3620@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAR07 - Tumbler Ridge Funeral 
  Service\nAllocated: 6.0h\nNote: EVENT: MAR07 - Tumbler Ridge Funeral Servi
@@ -66,7 +66,7 @@ SUMMARY:AV2 - AV Tech (Mid Level) - MAR10-11 Collaborative Stewardship For
  um
 DTSTART;TZID=America/Creston:20260310T080000
 DTEND;TZID=America/Creston:20260310T160000
-DTSTAMP:20260326T032700Z
+DTSTAMP:20260326T054943Z
 UID:planning-slot-3172@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: MAR10-11 Collaborative
   Stewardship Forum\nAllocated: 8.0h\nNote: EVENT: MAR10-11 Collaborative S
@@ -81,7 +81,7 @@ SUMMARY:AV2 - AV Tech (Mid Level) - MAR10-11 Collaborative Stewardship For
  um
 DTSTART;TZID=America/Creston:20260311T080000
 DTEND;TZID=America/Creston:20260311T160000
-DTSTAMP:20260326T032700Z
+DTSTAMP:20260326T054943Z
 UID:planning-slot-3171@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: MAR10-11 Collaborative
   Stewardship Forum\nAllocated: 8.0h\nNote: EVENT: MAR10-11 Collaborative S
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY14 Ovintiv- Dawson Co-op AGM
 DTSTART;TZID=America/Creston:20260514T120000
 DTEND;TZID=America/Creston:20260514T220059
-DTSTAMP:20260326T032700Z
+DTSTAMP:20260326T054943Z
 UID:planning-slot-3969@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY14 Ovintiv- Dawson Co-op AG
  M\nAllocated: 8.0h\nNote: EVENT: MAY14 Ovintiv- Dawson Co-op AGM\nhttps://
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL10-12 Saulteau First Nations Pemmican Days
 DTSTART;TZID=America/Creston:20260710T080000
 DTEND;TZID=America/Creston:20260710T160000
-DTSTAMP:20260326T032700Z
+DTSTAMP:20260326T054943Z
 UID:planning-slot-2155@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL10-12 Saulteau First Nations 
  Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Saulteau First Natio
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL10-12 Saulteau First Nations Pemmican Days
 DTSTART;TZID=America/Creston:20260711T080000
 DTEND;TZID=America/Creston:20260711T160000
-DTSTAMP:20260326T032700Z
+DTSTAMP:20260326T054943Z
 UID:planning-slot-2156@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL10-12 Saulteau First Nations 
  Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Saulteau First Natio
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL10-12 Saulteau First Nations Pemmican Days
 DTSTART;TZID=America/Creston:20260712T080000
 DTEND;TZID=America/Creston:20260712T160000
-DTSTAMP:20260326T032700Z
+DTSTAMP:20260326T054943Z
 UID:planning-slot-2157@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL10-12 Saulteau First Nations 
  Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Saulteau First Natio
@@ -138,7 +138,7 @@ SUMMARY:SET/STR4 - Event Helper - SEP12 Tumbler Ridge Fall Fair - Bands &
  Movie
 DTSTART;TZID=America/Creston:20260911T160000
 DTEND;TZID=America/Creston:20260911T210000
-DTSTAMP:20260326T032700Z
+DTSTAMP:20260326T054943Z
 UID:planning-slot-3442@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: SEP12 Tumbler Ridge Fall
   Fair - Bands & Movie\nAllocated: 5.0h\nNote: EVENT: SEP12 Tumbler Ridge F
@@ -152,7 +152,7 @@ SUMMARY:SET/STR4 - Event Helper - SEP12 Tumbler Ridge Fall Fair - Bands &
  Movie
 DTSTART;TZID=America/Creston:20260912T090000
 DTEND;TZID=America/Creston:20260912T170000
-DTSTAMP:20260326T032700Z
+DTSTAMP:20260326T054943Z
 UID:planning-slot-3443@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: SEP12 Tumbler Ridge Fall
   Fair - Bands & Movie\nAllocated: 8.0h\nNote: EVENT: SEP12 Tumbler Ridge F
@@ -166,7 +166,7 @@ SUMMARY:SET/STR4 - Event Helper - SEP12 Tumbler Ridge Fall Fair - Bands &
  Movie
 DTSTART;TZID=America/Creston:20260913T090000
 DTEND;TZID=America/Creston:20260913T140000
-DTSTAMP:20260326T032700Z
+DTSTAMP:20260326T054943Z
 UID:planning-slot-3447@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: SEP12 Tumbler Ridge Fall
   Fair - Bands & Movie\nAllocated: 5.0h\nNote: EVENT: SEP12 Tumbler Ridge F
