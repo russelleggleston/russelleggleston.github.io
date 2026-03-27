@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260128T100000
 DTEND;TZID=America/Dawson_Creek:20260128T113059
-DTSTAMP:20260327T171018Z
+DTSTAMP:20260327T205524Z
 UID:planning-slot-2989@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\n\nSound in Town - Sand
  ra Estudillo
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team - JAN26-FEB01 FSJ BEOs 2025
 DTSTART;TZID=America/Dawson_Creek:20260129T170000
 DTEND;TZID=America/Dawson_Creek:20260129T235959
-DTSTAMP:20260327T171018Z
+DTSTAMP:20260327T205524Z
 UID:planning-slot-3130@soundintown.com
 DESCRIPTION:Role: Leadership Team\nEvent: JAN26-FEB01 FSJ BEOs 2025\nNote:
   EVENT: JAN26-FEB01 FSJ BEOs 2025\nhttps://www.soundintown.com/model/showb
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260318T100000
 DTEND;TZID=America/Dawson_Creek:20260318T110000
-DTSTAMP:20260327T171018Z
+DTSTAMP:20260327T205524Z
 UID:planning-slot-3862@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.0h\nNote: Discuss Grant Re
  quirements/Tasks\n\nSound in Town - Sandra Estudillo
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260324T103000
 DTEND;TZID=America/Dawson_Creek:20260324T120059
-DTSTAMP:20260327T171018Z
+DTSTAMP:20260327T205524Z
 UID:planning-slot-2997@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\n\nSound in Town - Sand
  ra Estudillo
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260403T100000
 DTEND;TZID=America/Dawson_Creek:20260403T120000
-DTSTAMP:20260327T171018Z
+DTSTAMP:20260327T205524Z
 UID:planning-slot-3157@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 2.0h\nNote: END OF QUARTER R
  OCK REVIEW 2 HR MEETING\n\nSound in Town - Sandra Estudillo
