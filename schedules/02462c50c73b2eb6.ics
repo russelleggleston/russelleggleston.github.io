@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - FEB01-28 City of FSJ - Winter Fest
 DTSTART;TZID=America/Dawson_Creek:20260131T090000
 DTEND;TZID=America/Dawson_Creek:20260131T130059
-DTSTAMP:20260328T085742Z
+DTSTAMP:20260328T131858Z
 UID:planning-slot-3043@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB01-28 City of FSJ - W
  inter Fest\nAllocated: 4.0h\nNote: EVENT: FEB01-28 City of FSJ - Winter Fe
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Dawson_Creek:20260604T170000
 DTEND;TZID=America/Dawson_Creek:20260604T220000
-DTSTAMP:20260328T085742Z
+DTSTAMP:20260328T131858Z
 UID:planning-slot-2107@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN04 - NLC
   FSJ Convocation\nAllocated: 5.0h\nNote: EVENT: JUN04 - NLC FSJ Convocatio
