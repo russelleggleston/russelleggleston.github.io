@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAR19 - 3D Childrens Gala @GP Pomeroy
 DTSTART;TZID=America/Dawson_Creek:20260321T213000
 DTEND;TZID=America/Dawson_Creek:20260321T230000
-DTSTAMP:20260330T060628Z
+DTSTAMP:20260330T094716Z
 UID:planning-slot-3953@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR19 - 3D Childrens Gala
   @GP Pomeroy\nNote: EVENT: MAR19 - 3D Childrens Gala @GP Pomeroy\nhttps://
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260328T190000
 DTEND;TZID=America/Dawson_Creek:20260328T220000
-DTSTAMP:20260330T060628Z
+DTSTAMP:20260330T094716Z
 UID:planning-slot-3956@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\n\nSound in Town - Jessica Beaumo
  nt
@@ -38,36 +38,36 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260404T180000
 DTEND;TZID=America/Dawson_Creek:20260404T220000
-DTSTAMP:20260330T060628Z
+DTSTAMP:20260330T094716Z
 UID:planning-slot-3957@soundintown.com
-DESCRIPTION:Role: WH4 - Warehouse Helper\n\nSound in Town - Jessica Beaumo
- nt
+DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 4.0h\n\nSound in Town
+  - Jessica Beaumont
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260411T180000
 DTEND;TZID=America/Dawson_Creek:20260411T220000
-DTSTAMP:20260330T060628Z
+DTSTAMP:20260330T094716Z
 UID:planning-slot-3959@soundintown.com
-DESCRIPTION:Role: WH4 - Warehouse Helper\n\nSound in Town - Jessica Beaumo
- nt
+DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 4.0h\n\nSound in Town
+  - Jessica Beaumont
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260418T180000
 DTEND;TZID=America/Dawson_Creek:20260418T220000
-DTSTAMP:20260330T060628Z
+DTSTAMP:20260330T094716Z
 UID:planning-slot-3958@soundintown.com
-DESCRIPTION:Role: WH4 - Warehouse Helper\n\nSound in Town - Jessica Beaumo
- nt
+DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 4.0h\n\nSound in Town
+  - Jessica Beaumont
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260425T190000
 DTEND;TZID=America/Dawson_Creek:20260425T220000
-DTSTAMP:20260330T060628Z
+DTSTAMP:20260330T094716Z
 UID:planning-slot-3960@soundintown.com
-DESCRIPTION:Role: WH4 - Warehouse Helper\n\nSound in Town - Jessica Beaumo
- nt
+DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\n\nSound in Town
+  - Jessica Beaumont
 END:VEVENT
 END:VCALENDAR

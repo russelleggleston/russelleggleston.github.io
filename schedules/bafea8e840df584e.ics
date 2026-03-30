@@ -17,13 +17,13 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T050000
 DTEND;TZID=America/Dawson_Creek:20260523T170000
-DTSTAMP:20260330T060627Z
+DTSTAMP:20260330T094715Z
 UID:planning-slot-2471@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY23 - Blu
  ey Day\nAllocated: 8.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.sound
- intown.com/model/showbook/may23-bluey-day-1247\n\nAuto planned shift. May 
- need to be adjusted by planning.\nhttps://www.soundintown.com/model/showbo
- ok/may23-bluey-day-1247\n\nSound in Town - Jason Pratt
+ intown.com/r/kwQ\n\nAuto planned shift. May need to be adjusted by plannin
+ g.\nhttps://www.soundintown.com/model/showbook/may23-bluey-day-1247\n\nSou
+ nd in Town - Jason Pratt
 LOCATION:Centennial Park
 END:VEVENT
 BEGIN:VEVENT
@@ -31,24 +31,22 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 North Peace Pride -
  Festival
 DTSTART;TZID=America/Dawson_Creek:20260606T090000
 DTEND;TZID=America/Dawson_Creek:20260606T160000
-DTSTAMP:20260330T060627Z
+DTSTAMP:20260330T094715Z
 UID:planning-slot-2622@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 Nort
  h Peace Pride - Festival\nAllocated: 7.0h\nNote: EVENT: JUN06 North Peace 
- Pride - Festival\nhttps://www.soundintown.com/model/showbook/jun06-north-p
- eace-pride-festival-937\n\n\n\nSound in Town - Jason Pratt
+ Pride - Festival\n\n\n\nSound in Town - Jason Pratt
 LOCATION:Centennial Park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV2 - AV Tech (Mid Level) - SEP12 Moose FM Block Party 2026
 DTSTART;TZID=America/Dawson_Creek:20260912T090000
 DTEND;TZID=America/Dawson_Creek:20260912T170000
-DTSTAMP:20260330T060627Z
+DTSTAMP:20260330T094715Z
 UID:planning-slot-2776@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: SEP12 Moose FM Block P
  arty 2026\nAllocated: 8.0h\nNote: EVENT: SEP12 Moose FM Block Party 2026\n
- https://www.soundintown.com/model/showbook/sep12-moose-fm-block-party-2026
- -885\n\nAuto planned shift. May need to be adjusted by planning.\n\n\nSoun
- d in Town - Jason Pratt
+ \nAuto planned shift. May need to be adjusted by planning.\n\nSound in Tow
+ n - Jason Pratt
 END:VEVENT
 END:VCALENDAR
