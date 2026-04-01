@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAR19 - 3D Childrens Gala @GP Pomeroy
 DTSTART;TZID=America/Dawson_Creek:20260321T213000
 DTEND;TZID=America/Dawson_Creek:20260321T230000
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-3953@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR19 - 3D Childrens Gala
   @GP Pomeroy\nNote: EVENT: MAR19 - 3D Childrens Gala @GP Pomeroy\nhttps://
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260328T190000
 DTEND;TZID=America/Dawson_Creek:20260328T220000
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-3956@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\n\nSound in Town - Jessica Beaumo
  nt
@@ -39,7 +39,7 @@ SUMMARY:WH4 - Warehouse Helper - APR04 District of Taylor - Easter Photobo
  oth
 DTSTART;TZID=America/Dawson_Creek:20260404T180000
 DTEND;TZID=America/Dawson_Creek:20260404T220000
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-3957@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR04 District of Taylor 
  - Easter Photobooth\nAllocated: 4.0h\nNote: EVENT: APR04 District of Taylo
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260411T180000
 DTEND;TZID=America/Dawson_Creek:20260411T220000
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-3959@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 4.0h\n\nSound in Town
   - Jessica Beaumont
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260418T180000
 DTEND;TZID=America/Dawson_Creek:20260418T220000
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-3958@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 4.0h\n\nSound in Town
   - Jessica Beaumont
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260425T190000
 DTEND;TZID=America/Dawson_Creek:20260425T220000
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-3960@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\n\nSound in Town
   - Jessica Beaumont
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260502T180000
 DTEND;TZID=America/Dawson_Creek:20260502T220000
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-4115@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\n\nSound in Town - Jessica Bea
  umont
@@ -88,7 +88,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - MAY05-07 Margaret May Pipe and Drape &
   Lights
 DTSTART;TZID=America/Dawson_Creek:20260504T090000
 DTEND;TZID=America/Dawson_Creek:20260504T140059
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-3989@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY05-07 Margaret May 
  Pipe and Drape & Lights\nAllocated: 5.0h\nNote: EVENT: MAY05-07 Margaret M
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY02-03 - Fort Nelson Trade Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260505T090000
 DTEND;TZID=America/Dawson_Creek:20260505T160000
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-2569@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY02-03 - Fort Nelson Tr
  ade Show 2026\nAllocated: 7.0h\nNote: EVENT: MAY02-03 - Fort Nelson Trade 
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY08 - SD60 Indigenous Learning Day
 DTSTART;TZID=America/Dawson_Creek:20260507T090000
 DTEND;TZID=America/Dawson_Creek:20260507T160059
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-4059@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY08 - SD60 Indigenou
  s Learning Day\nAllocated: 7.0h\nNote: EVENT: MAY08 - SD60 Indigenous Lear
@@ -123,7 +123,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - MAY05-07 Margaret May Pipe and Drape &
   Lights
 DTSTART;TZID=America/Dawson_Creek:20260508T090000
 DTEND;TZID=America/Dawson_Creek:20260508T120059
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-3994@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY05-07 Margaret May 
  Pipe and Drape & Lights\nAllocated: 3.0h\nNote: EVENT: MAY05-07 Margaret M
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY10 - Mothers Day Jazz Event
 DTSTART;TZID=America/Dawson_Creek:20260508T120000
 DTEND;TZID=America/Dawson_Creek:20260508T160059
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-3286@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY10 - Mothers Day 
  Jazz Event\nAllocated: 4.0h\nNote: EVENT: MAY10 - Mothers Day Jazz Event\n
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY08 - SD60 Indigenous Learning Day
 DTSTART;TZID=America/Dawson_Creek:20260509T090000
 DTEND;TZID=America/Dawson_Creek:20260509T160059
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-4060@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY08 - SD60 Indigenou
  s Learning Day\nAllocated: 7.0h\nNote: EVENT: MAY08 - SD60 Indigenous Lear
@@ -159,7 +159,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - MAY09 Hamres - Kathy Miller Live Strea
  m Service
 DTSTART;TZID=America/Dawson_Creek:20260509T170000
 DTEND;TZID=America/Dawson_Creek:20260509T220059
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-4005@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY09 Hamres - Kathy M
  iller Live Stream Service\nAllocated: 5.0h\nNote: EVENT: MAY09 Hamres - Ka
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY13 - Petronas Town Hall
 DTSTART;TZID=America/Dawson_Creek:20260511T090000
 DTEND;TZID=America/Dawson_Creek:20260511T160000
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-4065@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY13 - Petronas Town 
  Hall\nAllocated: 7.0h\nNote: EVENT: MAY13 - Petronas Town Hall\nhttps://ww
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY10 - Mothers Day Jazz Event
 DTSTART;TZID=America/Dawson_Creek:20260512T090000
 DTEND;TZID=America/Dawson_Creek:20260512T160000
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-3284@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY10 - Mothers Day 
  Jazz Event\nAllocated: 7.0h\nNote: EVENT: MAY10 - Mothers Day Jazz Event\n
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY13 - Petronas Town Hall
 DTSTART;TZID=America/Dawson_Creek:20260514T090000
 DTEND;TZID=America/Dawson_Creek:20260514T160000
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-3605@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY13 - Petronas Town 
  Hall\nAllocated: 7.0h\nNote: EVENT: MAY13 - Petronas Town Hall\nhttps://ww
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Dawson_Creek:20260518T090000
 DTEND;TZID=America/Dawson_Creek:20260518T160000
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-3287@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY22-23 Mine Rescue
   BC (Penticton)\nAllocated: 7.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (Pe
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Dawson_Creek:20260526T090000
 DTEND;TZID=America/Dawson_Creek:20260526T170059
-DTSTAMP:20260401T034444Z
+DTSTAMP:20260401T060335Z
 UID:planning-slot-3911@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY22-23 Mine Rescue
   BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (Pe
