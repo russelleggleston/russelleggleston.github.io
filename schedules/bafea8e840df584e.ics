@@ -14,10 +14,74 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist
+DTSTART;TZID=America/Dawson_Creek:20260403T080000
+DTEND;TZID=America/Dawson_Creek:20260403T200000
+DTSTAMP:20260402T205345Z
+UID:planning-slot-4142@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: Will send shif
+ t notes and location asap\n\nSound in Town - Jason Pratt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
+DTSTART;TZID=America/Dawson_Creek:20260411T090000
+DTEND;TZID=America/Dawson_Creek:20260411T210000
+DTSTAMP:20260402T205345Z
+UID:planning-slot-4141@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
+ \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\n\n\nSoun
+ d in Town - Jason Pratt
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
+DTSTART;TZID=America/Dawson_Creek:20260412T090000
+DTEND;TZID=America/Dawson_Creek:20260412T210000
+DTSTAMP:20260402T205345Z
+UID:planning-slot-4138@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
+ \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\n\n\nSoun
+ d in Town - Jason Pratt
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
+DTSTART;TZID=America/Dawson_Creek:20260413T090000
+DTEND;TZID=America/Dawson_Creek:20260413T210000
+DTSTAMP:20260402T205345Z
+UID:planning-slot-4140@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
+ \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\n\n\nSoun
+ d in Town - Jason Pratt
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
+DTSTART;TZID=America/Dawson_Creek:20260414T090000
+DTEND;TZID=America/Dawson_Creek:20260414T210000
+DTSTAMP:20260402T205345Z
+UID:planning-slot-4137@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
+ \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\n\n\nSoun
+ d in Town - Jason Pratt
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
+DTSTART;TZID=America/Dawson_Creek:20260415T090000
+DTEND;TZID=America/Dawson_Creek:20260415T170000
+DTSTAMP:20260402T205345Z
+UID:planning-slot-4136@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
+ \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\n\n\nSoun
+ d in Town - Jason Pratt
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T050000
 DTEND;TZID=America/Dawson_Creek:20260523T170000
-DTSTAMP:20260402T170854Z
+DTSTAMP:20260402T205345Z
 UID:planning-slot-2471@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY23 - Blu
  ey Day\nAllocated: 8.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.sound
@@ -31,7 +95,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 North Peace Pride -
  Festival
 DTSTART;TZID=America/Dawson_Creek:20260606T090000
 DTEND;TZID=America/Dawson_Creek:20260606T160000
-DTSTAMP:20260402T170854Z
+DTSTAMP:20260402T205345Z
 UID:planning-slot-2622@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 Nort
  h Peace Pride - Festival\nAllocated: 7.0h\nNote: EVENT: JUN06 North Peace 
@@ -42,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:AV2 - AV Tech (Mid Level) - SEP12 Moose FM Block Party 2026
 DTSTART;TZID=America/Dawson_Creek:20260912T090000
 DTEND;TZID=America/Dawson_Creek:20260912T170000
-DTSTAMP:20260402T170854Z
+DTSTAMP:20260402T205345Z
 UID:planning-slot-2776@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: SEP12 Moose FM Block P
  arty 2026\nAllocated: 8.0h\nNote: EVENT: SEP12 Moose FM Block Party 2026\n
