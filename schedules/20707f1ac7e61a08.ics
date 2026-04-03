@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - FEB21 - Tumbler Ridge Funeral Service
 DTSTART;TZID=America/Creston:20260221T120000
 DTEND;TZID=America/Creston:20260221T170000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-3516@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: FEB21 - Tumbler Ridge Funeral 
  Service\nAllocated: 5.0h\nNote: EVENT: FEB21 - Tumbler Ridge Funeral Servi
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - FEB24 - Tumbler Ridge Funeral Service
 DTSTART;TZID=America/Creston:20260224T120000
 DTEND;TZID=America/Creston:20260224T180000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-3505@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: FEB24 - Tumbler Ridge Funeral 
  Service\nAllocated: 6.0h\nNote: EVENT: FEB24 - Tumbler Ridge Funeral Servi
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - FEB28 - Tumbler Ridge Funeral Service
 DTSTART;TZID=America/Creston:20260228T120000
 DTEND;TZID=America/Creston:20260228T180000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-3508@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: FEB28 - Tumbler Ridge Funeral 
  Service\nAllocated: 6.0h\nNote: EVENT: FEB28 - Tumbler Ridge Funeral Servi
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAR07 - Tumbler Ridge Funeral Service
 DTSTART;TZID=America/Creston:20260307T120000
 DTEND;TZID=America/Creston:20260307T180059
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-3620@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAR07 - Tumbler Ridge Funeral 
  Service\nAllocated: 6.0h\nNote: EVENT: MAR07 - Tumbler Ridge Funeral Servi
@@ -66,7 +66,7 @@ SUMMARY:AV2 - AV Tech (Mid Level) - MAR10-11 Collaborative Stewardship For
  um
 DTSTART;TZID=America/Creston:20260310T080000
 DTEND;TZID=America/Creston:20260310T160000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-3172@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: MAR10-11 Collaborative
   Stewardship Forum\nAllocated: 8.0h\nNote: EVENT: MAR10-11 Collaborative S
@@ -81,7 +81,7 @@ SUMMARY:AV2 - AV Tech (Mid Level) - MAR10-11 Collaborative Stewardship For
  um
 DTSTART;TZID=America/Creston:20260311T080000
 DTEND;TZID=America/Creston:20260311T160000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-3171@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: MAR10-11 Collaborative
   Stewardship Forum\nAllocated: 8.0h\nNote: EVENT: MAR10-11 Collaborative S
@@ -92,21 +92,19 @@ DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: MAR10-11 Collaborative
 LOCATION:Pomeroy Hotel Fort St. John
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A2 - Audio Assist - APR24 Funeral Service at FSJ Curling Rink
-DTSTART;TZID=America/Creston:20260401T090000
-DTEND;TZID=America/Creston:20260401T210059
-DTSTAMP:20260402T205344Z
-UID:planning-slot-4143@soundintown.com
-DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR24 Funeral Service at FSJ C
- urling Rink\nNote: EVENT: APR24 Funeral Service at FSJ Curling Rink\nhttps
- ://www.soundintown.com/r/Htz\n\nTimes TBD\n\nSound in Town - James Mannion
-LOCATION:Downstairs Curling Rink - Downstairs Curling Rink
+SUMMARY:A2 - Audio Assist
+DTSTART;TZID=America/Creston:20260404T090000
+DTEND;TZID=America/Creston:20260404T170000
+DTSTAMP:20260403T032712Z
+UID:planning-slot-4148@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nNote: \n\n\n\nSound in Town - James M
+ annion
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR22 NLC Dawson - Dual Credit Night
 DTSTART;TZID=America/Creston:20260421T090000
 DTEND;TZID=America/Creston:20260421T210059
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-4036@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR22 NLC Dawson - Dual Credit
   Night\nAllocated: 8.0h\nNote: EVENT: APR22 NLC Dawson - Dual Credit Night
@@ -118,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR22 NLC Dawson - Dual Credit Night
 DTSTART;TZID=America/Creston:20260422T090000
 DTEND;TZID=America/Creston:20260422T210059
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-4037@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR22 NLC Dawson - Dual Credit
   Night\nAllocated: 8.0h\nNote: EVENT: APR22 NLC Dawson - Dual Credit Night
@@ -130,7 +128,7 @@ SUMMARY:A2 - Audio Assist - APR24 - South Peace Crime Prevention Symposium
   and AGM
 DTSTART;TZID=America/Creston:20260423T080000
 DTEND;TZID=America/Creston:20260423T180059
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-4042@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR24 - South Peace Crime Prev
  ention Symposium and AGM\nAllocated: 8.0h\nNote: EVENT: APR24 - South Peac
@@ -143,7 +141,7 @@ SUMMARY:A2 - Audio Assist - APR24 - South Peace Crime Prevention Symposium
   and AGM
 DTSTART;TZID=America/Creston:20260424T080000
 DTEND;TZID=America/Creston:20260424T180059
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-4038@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR24 - South Peace Crime Prev
  ention Symposium and AGM\nAllocated: 8.0h\nNote: EVENT: APR24 - South Peac
@@ -152,10 +150,22 @@ DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR24 - South Peace Crime Prev
 LOCATION:Ovintiv Events Centre - Mercer Hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist - APR24 Funeral Service at FSJ Curling Rink
+DTSTART;TZID=America/Creston:20260424T090000
+DTEND;TZID=America/Creston:20260424T210059
+DTSTAMP:20260403T032712Z
+UID:planning-slot-4143@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR24 Funeral Service at FSJ C
+ urling Rink\nAllocated: 8.0h\nNote: EVENT: APR24 Funeral Service at FSJ Cu
+ rling Rink\nhttps://www.soundintown.com/r/Htz\n\nTimes TBD\n\nSound in Tow
+ n - James Mannion
+LOCATION:Downstairs Curling Rink - Downstairs Curling Rink
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR22-24 NCLGMA (Prince George)
 DTSTART;TZID=America/Creston:20260425T090000
 DTEND;TZID=America/Creston:20260425T210000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-4041@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR22-24 NCLGMA (Prince G
  eorge)\nAllocated: 8.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George)\n\nA
@@ -165,10 +175,22 @@ DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR22-24 NCLGMA (Prince G
 LOCATION:Civic Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist - APR27 Saulteau FN - Swearing in Ceremony
+DTSTART;TZID=America/Creston:20260427T110000
+DTEND;TZID=America/Creston:20260427T234500
+DTSTAMP:20260403T032712Z
+UID:planning-slot-4144@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR27 Saulteau FN - Swearing i
+ n Ceremony\nAllocated: 8.0h\nNote: EVENT: APR27 Saulteau FN - Swearing in 
+ Ceremony\nhttps://www.soundintown.com/r/WT3\n\n\n\nSound in Town - James M
+ annion
+LOCATION:Saulteau Cultural Centre Gym - Saulteau Cultural Centre Gym
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR29 NLC FSJ - Dual Credit Night
 DTSTART;TZID=America/Creston:20260429T100000
 DTEND;TZID=America/Creston:20260429T235959
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-4039@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR29 NLC FSJ - Dual Credit Ni
  ght\nAllocated: 8.0h\nNote: EVENT: APR29 NLC FSJ - Dual Credit Night\nhttp
@@ -181,7 +203,7 @@ SUMMARY:A2 - Audio Assist - APR30 - Eloiz Concert at Anne Roberts Young Sc
  hool
 DTSTART;TZID=America/Creston:20260430T080000
 DTEND;TZID=America/Creston:20260430T160000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-4040@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR30 - Eloiz Concert at Anne 
  Roberts Young School\nAllocated: 8.0h\nNote: EVENT: APR30 - Eloiz Concert 
@@ -194,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY02 Firefighters Ball
 DTSTART;TZID=America/Creston:20260502T140000
 DTEND;TZID=America/Creston:20260502T220000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-2253@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY02 Firefighters Ball\nAlloc
  ated: 8.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.soundintown.
@@ -207,7 +229,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY08 - SD60 Indigenous Lea
  rning Day
 DTSTART;TZID=America/Creston:20260507T160000
 DTEND;TZID=America/Creston:20260507T220000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-4058@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY08 - SD6
  0 Indigenous Learning Day\nAllocated: 6.0h\nNote: EVENT: MAY08 - SD60 Indi
@@ -220,7 +242,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAY05-07 Margaret May Pipe
  and Drape & Lights
 DTSTART;TZID=America/Creston:20260507T203000
 DTEND;TZID=America/Creston:20260507T220059
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-3993@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY05-07 Ma
  rgaret May Pipe and Drape & Lights\nNote: EVENT: MAY05-07 Margaret May Pip
@@ -232,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY08 - SD60 Indigenous Learning Day
 DTSTART;TZID=America/Creston:20260508T080000
 DTEND;TZID=America/Creston:20260508T160000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-4057@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY08 - SD60 Indigenous Learni
  ng Day\nAllocated: 8.0h\nNote: EVENT: MAY08 - SD60 Indigenous Learning Day
@@ -243,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY07 NLC Service Awards Gala
 DTSTART;TZID=America/Creston:20260509T090000
 DTEND;TZID=America/Creston:20260509T230059
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-4116@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY07 NLC Service Awar
  ds Gala\nAllocated: 8.0h\nNote: EVENT: MAY07 NLC Service Awards Gala\nhttp
@@ -255,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY13 - Petronas Town Hall
 DTSTART;TZID=America/Creston:20260512T090000
 DTEND;TZID=America/Creston:20260512T220059
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-4120@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY13 - Pet
  ronas Town Hall\nAllocated: 8.0h\nNote: EVENT: MAY13 - Petronas Town Hall\
@@ -267,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Creston:20260513T090000
 DTEND;TZID=America/Creston:20260513T220059
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-4119@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: TIMES TBD\n\nSound in Town - James Mannion
@@ -276,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY14 Ovintiv- Dawson Co-op AGM
 DTSTART;TZID=America/Creston:20260514T120000
 DTEND;TZID=America/Creston:20260514T220059
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-3969@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY14 Ovintiv- Dawson Co-op AG
  M\nAllocated: 8.0h\nNote: EVENT: MAY14 Ovintiv- Dawson Co-op AGM\nhttps://
@@ -287,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY23 - Bluey Day
 DTSTART;TZID=America/Creston:20260523T070000
 DTEND;TZID=America/Creston:20260523T170000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-3291@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY23 - Blu
  ey Day\nAllocated: 8.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.sound
@@ -300,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL10-12 Saulteau First Nations Pemmican Days
 DTSTART;TZID=America/Creston:20260710T080000
 DTEND;TZID=America/Creston:20260710T160000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-2155@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL10-12 Saulteau First Nations 
  Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Saulteau First Natio
@@ -311,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL10-12 Saulteau First Nations Pemmican Days
 DTSTART;TZID=America/Creston:20260711T080000
 DTEND;TZID=America/Creston:20260711T160000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-2156@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL10-12 Saulteau First Nations 
  Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Saulteau First Natio
@@ -321,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL10-12 Saulteau First Nations Pemmican Days
 DTSTART;TZID=America/Creston:20260712T080000
 DTEND;TZID=America/Creston:20260712T160000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-2157@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL10-12 Saulteau First Nations 
  Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Saulteau First Natio
@@ -332,7 +354,7 @@ SUMMARY:SET/STR4 - Event Helper - SEP05 Tumbler Ridge Fall Fair - Bands &
  Movie
 DTSTART;TZID=America/Creston:20260904T160000
 DTEND;TZID=America/Creston:20260904T210000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-3442@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: SEP05 Tumbler Ridge Fall
   Fair - Bands & Movie\nAllocated: 5.0h\nNote: EVENT: SEP05 Tumbler Ridge F
@@ -345,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - SEP05 Tumbler Ridge Fall Fair - Bands & Movie
 DTSTART;TZID=America/Creston:20260905T090000
 DTEND;TZID=America/Creston:20260905T170000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-3443@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: SEP05 Tumbler Ridge Fall Fair 
  - Bands & Movie\nAllocated: 8.0h\nNote: EVENT: SEP05 Tumbler Ridge Fall Fa
@@ -359,7 +381,7 @@ SUMMARY:SET/STR4 - Event Helper - SEP05 Tumbler Ridge Fall Fair - Bands &
  Movie
 DTSTART;TZID=America/Creston:20260906T090000
 DTEND;TZID=America/Creston:20260906T140000
-DTSTAMP:20260402T205344Z
+DTSTAMP:20260403T032712Z
 UID:planning-slot-3447@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: SEP05 Tumbler Ridge Fall
   Fair - Bands & Movie\nAllocated: 5.0h\nNote: EVENT: SEP05 Tumbler Ridge F
