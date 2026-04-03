@@ -26,7 +26,7 @@ SUMMARY:SET/STR4 - Event Helper - FEB04-05 Cargill ThinkTank '26 - Edmonto
  n\, AB
 DTSTART;TZID=America/Edmonton:20260203T090000
 DTEND;TZID=America/Edmonton:20260203T170000
-DTSTAMP:20260403T165650Z
+DTSTAMP:20260403T205301Z
 UID:planning-slot-2508@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB04-05 Cargill ThinkTa
  nk '26 - Edmonton\, AB\nAllocated: 2.0h\nNote: EVENT: FEB04-05 Cargill Thi
@@ -40,7 +40,7 @@ SUMMARY:SET/STR4 - Event Helper - FEB04-05 Cargill ThinkTank '26 - Edmonto
  n\, AB
 DTSTART;TZID=America/Edmonton:20260205T163000
 DTEND;TZID=America/Edmonton:20260205T203000
-DTSTAMP:20260403T165650Z
+DTSTAMP:20260403T205301Z
 UID:planning-slot-2476@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB04-05 Cargill ThinkTa
  nk '26 - Edmonton\, AB\nAllocated: 2.0h\nNote: EVENT: FEB04-05 Cargill Thi
