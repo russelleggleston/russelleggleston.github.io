@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260416T080000
 DTEND;TZID=America/Edmonton:20260416T140000
-DTSTAMP:20260403T032708Z
+DTSTAMP:20260403T054927Z
 UID:planning-slot-3880@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: APR16 Pomeroy GP Pembina To
  wnhall 2026\nAllocated: 6.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townha
