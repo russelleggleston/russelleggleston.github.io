@@ -24,23 +24,9 @@ END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - FEB04-05 Cargill ThinkTank '26 - Edmonto
  n\, AB
-DTSTART;TZID=America/Edmonton:20260203T090000
-DTEND;TZID=America/Edmonton:20260203T170000
-DTSTAMP:20260404T132005Z
-UID:planning-slot-2508@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB04-05 Cargill ThinkTa
- nk '26 - Edmonton\, AB\nAllocated: 2.0h\nNote: EVENT: FEB04-05 Cargill Thi
- nkTank '26 - Edmonton\, AB\nhttps://www.soundintown.com/model/showbook/feb
- 04-05-cargill-thinktank-26-edmonton-ab-715\n\n\n\nSound in Town - Helge Li
- pphardt
-LOCATION:Double Tree Edmonton West
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - FEB04-05 Cargill ThinkTank '26 - Edmonto
- n\, AB
 DTSTART;TZID=America/Edmonton:20260205T163000
 DTEND;TZID=America/Edmonton:20260205T203000
-DTSTAMP:20260404T132005Z
+DTSTAMP:20260404T165242Z
 UID:planning-slot-2476@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB04-05 Cargill ThinkTa
  nk '26 - Edmonton\, AB\nAllocated: 2.0h\nNote: EVENT: FEB04-05 Cargill Thi
