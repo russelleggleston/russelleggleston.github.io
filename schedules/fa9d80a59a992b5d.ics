@@ -26,7 +26,7 @@ SUMMARY:SET/STR4 - Event Helper - MAR04-05 Cargill ThinkTank 2026 - Pomero
  y (Grande Prairie\, AB)
 DTSTART;TZID=America/Edmonton:20260303T090000
 DTEND;TZID=America/Edmonton:20260303T170000
-DTSTAMP:20260403T205305Z
+DTSTAMP:20260404T031509Z
 UID:planning-slot-3064@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR04-05 Cargill ThinkTa
  nk 2026 - Pomeroy (Grande Prairie\, AB)\nAllocated: 8.0h\nNote: EVENT: MAR
@@ -41,7 +41,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - APR05 - Photobooth for East
  er
 DTSTART;TZID=America/Edmonton:20260405T070000
 DTEND;TZID=America/Edmonton:20260405T093000
-DTSTAMP:20260403T205305Z
+DTSTAMP:20260404T031509Z
 UID:planning-slot-3103@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: APR05 - Pho
  tobooth for Easter\nAllocated: 2.5h\nNote: EVENT: APR05 - Photobooth for E
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:PB1 - Onsite Photo booth Tech - APR05 - Photobooth for Easter
 DTSTART;TZID=America/Edmonton:20260405T100000
 DTEND;TZID=America/Edmonton:20260405T140059
-DTSTAMP:20260403T205305Z
+DTSTAMP:20260404T031509Z
 UID:planning-slot-3105@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: APR05 - Photobooth
   for Easter\nAllocated: 4.0h\nNote: EVENT: APR05 - Photobooth for Easter\n
@@ -66,7 +66,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - APR05 - Photobooth for East
  er
 DTSTART;TZID=America/Edmonton:20260405T141500
 DTEND;TZID=America/Edmonton:20260405T160059
-DTSTAMP:20260403T205305Z
+DTSTAMP:20260404T031509Z
 UID:planning-slot-3955@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: APR05 - Pho
  tobooth for Easter\nAllocated: 1.8h\nNote: EVENT: APR05 - Photobooth for E
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260412T170000
 DTEND;TZID=America/Edmonton:20260412T220059
-DTSTAMP:20260403T205305Z
+DTSTAMP:20260404T031509Z
 UID:planning-slot-3111@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nAllocated: 5.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260413T090000
 DTEND;TZID=America/Edmonton:20260413T130059
-DTSTAMP:20260403T205305Z
+DTSTAMP:20260404T031509Z
 UID:planning-slot-3161@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260413T220000
 DTEND;TZID=America/Edmonton:20260413T233059
-DTSTAMP:20260403T205305Z
+DTSTAMP:20260404T031509Z
 UID:planning-slot-3113@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nAllocated: 1.5h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
@@ -112,7 +112,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR16 Pomeroy GP Pembina To
  wnhall 2026
 DTSTART;TZID=America/Edmonton:20260416T130000
 DTEND;TZID=America/Edmonton:20260416T170059
-DTSTAMP:20260403T205305Z
+DTSTAMP:20260404T031509Z
 UID:planning-slot-3116@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR16 Pomer
  oy GP Pembina Townhall 2026\nAllocated: 4.0h\nNote: EVENT: APR16 Pomeroy G
@@ -126,7 +126,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY23-24 Northern Classic
  2026 GP
 DTSTART;TZID=America/Edmonton:20260521T100000
 DTEND;TZID=America/Edmonton:20260521T220000
-DTSTAMP:20260403T205305Z
+DTSTAMP:20260404T031509Z
 UID:planning-slot-3288@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY23-24 N
  orthern Classic 2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23-24 Northern C
