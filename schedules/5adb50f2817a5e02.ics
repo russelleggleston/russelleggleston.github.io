@@ -18,7 +18,7 @@ SUMMARY:SET/STR4 - Event Helper - MAR11-12 Cargill ThinkTank 2026 - Delta
  Downtown (Saskatoon\, SK)
 DTSTART;TZID=America/Regina:20260310T100000
 DTEND;TZID=America/Regina:20260310T180000
-DTSTAMP:20260404T053529Z
+DTSTAMP:20260404T085829Z
 UID:planning-slot-3238@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR11-12 Cargill ThinkTa
  nk 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 8.0h\nNote: EVENT: M
@@ -31,7 +31,7 @@ SUMMARY:SET/STR4 - Event Helper - MAR11-12 Cargill ThinkTank 2026 - Delta
  Downtown (Saskatoon\, SK)
 DTSTART;TZID=America/Regina:20260312T170000
 DTEND;TZID=America/Regina:20260312T220059
-DTSTAMP:20260404T053529Z
+DTSTAMP:20260404T085829Z
 UID:planning-slot-3239@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR11-12 Cargill ThinkTa
  nk 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 5.0h\nNote: EVENT: M
