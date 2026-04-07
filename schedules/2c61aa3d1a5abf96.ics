@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Ian Seebaran
+X-WR-TIMEZONE:America/Dawson_Creek
+BEGIN:VTIMEZONE
+TZID:America/Dawson_Creek
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:MST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SB2 - Standby Helper - APR07 - Standby Crew
+DTSTART;TZID=America/Dawson_Creek:20260407T080000
+DTEND;TZID=America/Dawson_Creek:20260407T180000
+DTSTAMP:20260407T032958Z
+UID:planning-slot-4165@soundintown.com
+DESCRIPTION:Role: SB2 - Standby Helper\nEvent: APR07 - Standby Crew\nAlloc
+ ated: 8.0h\nNote: EVENT: APR07 - Standby Crew\nhttps://www.soundintown.com
+ /r/y7n\n\n\n\nSound in Town - Ian Seebaran
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SB2 - Standby Helper - APR07 - Standby Crew
+DTSTART;TZID=America/Dawson_Creek:20260408T080000
+DTEND;TZID=America/Dawson_Creek:20260408T180000
+DTSTAMP:20260407T032958Z
+UID:planning-slot-4213@soundintown.com
+DESCRIPTION:Role: SB2 - Standby Helper\nEvent: APR07 - Standby Crew\nAlloc
+ ated: 8.0h\nNote: EVENT: APR07 - Standby Crew\nhttps://www.soundintown.com
+ /r/y7n\n\n\n\nSound in Town - Ian Seebaran
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SB2 - Standby Helper - APR08 - Standby Crew
+DTSTART;TZID=America/Dawson_Creek:20260409T080000
+DTEND;TZID=America/Dawson_Creek:20260409T180000
+DTSTAMP:20260407T032958Z
+UID:planning-slot-4166@soundintown.com
+DESCRIPTION:Role: SB2 - Standby Helper\nEvent: APR08 - Standby Crew\nAlloc
+ ated: 8.0h\nNote: EVENT: APR08 - Standby Crew\nhttps://www.soundintown.com
+ /r/oie\n\n\n\nSound in Town - Ian Seebaran
+END:VEVENT
+END:VCALENDAR
