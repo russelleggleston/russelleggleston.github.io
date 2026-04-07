@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - APR07 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20260407T080000
 DTEND;TZID=America/Dawson_Creek:20260407T180000
-DTSTAMP:20260407T091935Z
+DTSTAMP:20260407T140056Z
 UID:planning-slot-4165@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: APR07 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: APR07 - Standby Crew\nhttps://www.soundintown.com
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - APR07 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20260408T080000
 DTEND;TZID=America/Dawson_Creek:20260408T180000
-DTSTAMP:20260407T091935Z
+DTSTAMP:20260407T140056Z
 UID:planning-slot-4213@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: APR07 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: APR07 - Standby Crew\nhttps://www.soundintown.com
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - APR08 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20260409T080000
 DTEND;TZID=America/Dawson_Creek:20260409T180000
-DTSTAMP:20260407T091935Z
+DTSTAMP:20260407T140056Z
 UID:planning-slot-4166@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: APR08 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: APR08 - Standby Crew\nhttps://www.soundintown.com
