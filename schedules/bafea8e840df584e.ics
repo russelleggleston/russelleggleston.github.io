@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Dawson_Creek:20260331T080000
 DTEND;TZID=America/Dawson_Creek:20260331T160000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-4158@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\n\nSound in Town - Ja
  son Pratt
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Dawson_Creek:20260401T080000
 DTEND;TZID=America/Dawson_Creek:20260401T160000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-4159@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\n\nSound in Town - Ja
  son Pratt
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Dawson_Creek:20260402T080000
 DTEND;TZID=America/Dawson_Creek:20260402T160000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-4160@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\n\nSound in Town - Ja
  son Pratt
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Installation Tech - APR03 - NRM Install
 DTSTART;TZID=America/Dawson_Creek:20260403T100000
 DTEND;TZID=America/Dawson_Creek:20260403T220059
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-4147@soundintown.com
 DESCRIPTION:Role: Installation Tech\nEvent: APR03 - NRM Install\nAllocated
  : 8.0h\nNote: EVENT: APR03 - NRM Install\nhttps://www.soundintown.com/r/9W
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - APR07 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20260407T080000
 DTEND;TZID=America/Dawson_Creek:20260407T180000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-4165@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: APR07 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: APR07 - Standby Crew\nhttps://www.soundintown.com
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - APR07 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20260408T080000
 DTEND;TZID=America/Dawson_Creek:20260408T180000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-4213@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: APR07 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: APR07 - Standby Crew\nhttps://www.soundintown.com
@@ -76,7 +76,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - APR10-12 City of FSJ - Trad
  eshow Screen
 DTSTART;TZID=America/Dawson_Creek:20260409T080000
 DTEND;TZID=America/Dawson_Creek:20260409T140000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-4166@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: APR10-12 Ci
  ty of FSJ - Tradeshow Screen\nAllocated: 6.0h\nNote: EVENT: APR10-12 City 
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260411T090000
 DTEND;TZID=America/Dawson_Creek:20260411T210000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-4141@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\n\n\nSoun
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260412T090000
 DTEND;TZID=America/Dawson_Creek:20260412T210000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-4138@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\n\n\nSoun
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260413T090000
 DTEND;TZID=America/Dawson_Creek:20260413T210000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-4140@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\n\n\nSoun
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260414T090000
 DTEND;TZID=America/Dawson_Creek:20260414T210000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-4137@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\n\n\nSoun
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260415T090000
 DTEND;TZID=America/Dawson_Creek:20260415T170000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-4136@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\n\n\nSoun
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T050000
 DTEND;TZID=America/Dawson_Creek:20260523T170000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-2471@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY23 - Blu
  ey Day\nAllocated: 8.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.sound
@@ -157,7 +157,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 North Peace Pride -
  Festival
 DTSTART;TZID=America/Dawson_Creek:20260606T090000
 DTEND;TZID=America/Dawson_Creek:20260606T160000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-2622@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 Nort
  h Peace Pride - Festival\nAllocated: 7.0h\nNote: EVENT: JUN06 North Peace 
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:AV2 - AV Tech (Mid Level) - SEP12 Moose FM Block Party 2026
 DTSTART;TZID=America/Dawson_Creek:20260912T090000
 DTEND;TZID=America/Dawson_Creek:20260912T170000
-DTSTAMP:20260408T055707Z
+DTSTAMP:20260408T091825Z
 UID:planning-slot-2776@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: SEP12 Moose FM Block P
  arty 2026\nAllocated: 8.0h\nNote: EVENT: SEP12 Moose FM Block Party 2026\n
