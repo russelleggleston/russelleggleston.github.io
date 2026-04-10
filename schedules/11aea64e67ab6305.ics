@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Keegan Lynch
+X-WR-TIMEZONE:America/Dawson_Creek
+BEGIN:VTIMEZONE
+TZID:America/Dawson_Creek
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:MST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - APR18 Peace Passage Ice Show
+DTSTART;TZID=America/Dawson_Creek:20260418T190000
+DTEND;TZID=America/Dawson_Creek:20260419T000000
+DTSTAMP:20260410T205601Z
+UID:planning-slot-4334@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR18 Peace Passage Ice 
+ Show\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://www.soundintown.c
+ om/r/k8I\n\n\n\nSound in Town - Keegan Lynch
+LOCATION:District Ice Centre - District of Taylor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - MAY23 - Bluey Day
+DTSTART;TZID=America/Dawson_Creek:20260523T053000
+DTEND;TZID=America/Dawson_Creek:20260523T090059
+DTSTAMP:20260410T205601Z
+UID:planning-slot-4067@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 - Bluey Day\nAlloc
+ ated: 3.5h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.com/r/
+ kwQ\n\n\n\nSound in Town - Keegan Lynch
+LOCATION:Centennial Park - Centennial Park
+END:VEVENT
+END:VCALENDAR
