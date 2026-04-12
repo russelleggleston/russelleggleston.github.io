@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Shift - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260410T080000
 DTEND;TZID=America/Edmonton:20260410T123059
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-3769@soundintown.com
 DESCRIPTION:Role: Shift\nEvent: APR12-15 AARFP 47th Conference\nAllocated:
   4.5h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\nFlight from YEG-FSJ\
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260410T140000
 DTEND;TZID=America/Edmonton:20260410T170059
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-3772@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR12-15 AARFP 47th Conference\nAlloca
  ted: 3.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nhttps://www.soundi
@@ -48,7 +48,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR12-15 AARFP 47th Confere
  nce
 DTSTART;TZID=America/Edmonton:20260410T170000
 DTEND;TZID=America/Edmonton:20260410T200059
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-3768@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR12-15 AA
  RFP 47th Conference\nAllocated: 3.0h\nNote: EVENT: APR12-15 AARFP 47th Con
@@ -61,7 +61,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - APR12-15 AARFP 47th Confer
  ence
 DTSTART;TZID=America/Edmonton:20260411T080000
 DTEND;TZID=America/Edmonton:20260411T170000
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-2545@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: APR12-15 A
  ARFP 47th Conference\nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Co
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260412T100000
 DTEND;TZID=America/Edmonton:20260412T140000
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-2035@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 4.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nhttps://ww
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260412T153000
 DTEND;TZID=America/Edmonton:20260412T170000
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-4280@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR13 AARFP
   47th Tradeshow\nAllocated: 1.5h\nNote: EVENT: APR13 AARFP 47th Tradeshow\
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260412T170000
 DTEND;TZID=America/Edmonton:20260412T210059
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-3163@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260413T090000
 DTEND;TZID=America/Edmonton:20260413T130059
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-3654@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260413T150000
 DTEND;TZID=America/Edmonton:20260413T210000
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-3723@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 6.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nhttps://ww
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260413T220000
 DTEND;TZID=America/Edmonton:20260414T000059
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-3653@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nAllocated: 2.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260414T070000
 DTEND;TZID=America/Edmonton:20260414T100059
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-3112@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nAllocated: 3.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260414T100000
 DTEND;TZID=America/Edmonton:20260414T220000
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-3722@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nhttps://ww
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260414T180000
 DTEND;TZID=America/Edmonton:20260415T005959
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-4267@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: APR13 AARFP 47th Trade
  show\nAllocated: 1.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://ww
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260415T180000
 DTEND;TZID=America/Edmonton:20260416T000000
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-3782@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR16 Pomeroy GP Pembina
   Townhall 2026\nAllocated: 6.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Tow
@@ -190,11 +190,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260416T080000
-DTEND;TZID=America/Edmonton:20260416T140000
-DTSTAMP:20260412T165706Z
+DTEND;TZID=America/Edmonton:20260416T123000
+DTSTAMP:20260412T205239Z
 UID:planning-slot-3777@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: APR16 Pomeroy GP Pembina To
- wnhall 2026\nAllocated: 6.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townha
+ wnhall 2026\nAllocated: 4.5h\nNote: EVENT: APR16 Pomeroy GP Pembina Townha
  ll 2026\nhttps://www.soundintown.com/r/Ylw\n\n\n\nSound in Town - Amanda R
  obinson
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
@@ -204,7 +204,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR16 Pomeroy GP Pembina To
  wnhall 2026
 DTSTART;TZID=America/Edmonton:20260416T140000
 DTEND;TZID=America/Edmonton:20260416T190000
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-3783@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR16 Pomer
  oy GP Pembina Townhall 2026\nAllocated: 5.0h\nNote: EVENT: APR16 Pomeroy G
@@ -213,16 +213,15 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR16 Pomer
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR16 Pomeroy GP Pembina To
- wnhall 2026
+SUMMARY:Transport - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260417T070000
 DTEND;TZID=America/Edmonton:20260417T090000
-DTSTAMP:20260412T165706Z
+DTSTAMP:20260412T205239Z
 UID:planning-slot-3980@soundintown.com
-DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR16 Pomer
- oy GP Pembina Townhall 2026\nAllocated: 2.0h\nNote: EVENT: APR16 Pomeroy G
- P Pembina Townhall 2026\nhttps://www.soundintown.com/r/Ylw\n\nFlight from 
- GP -yeg\n\nSound in Town - Amanda Robinson
+DESCRIPTION:Role: Transport\nEvent: APR16 Pomeroy GP Pembina Townhall 2026
+ \nAllocated: 2.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townhall 2026\nht
+ tps://www.soundintown.com/r/Ylw\n\nFlight from GP -yeg\n\nSound in Town - 
+ Amanda Robinson
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
 END:VEVENT
 END:VCALENDAR
