@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260417T160000
 DTEND;TZID=America/Dawson_Creek:20260417T210000
-DTSTAMP:20260417T061354Z
+DTSTAMP:20260417T094601Z
 UID:planning-slot-4366@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR18 Peace Passage Ice 
  Show\nAllocated: 5.0h\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260418T190000
 DTEND;TZID=America/Dawson_Creek:20260419T000000
-DTSTAMP:20260417T061354Z
+DTSTAMP:20260417T094601Z
 UID:planning-slot-4334@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR18 Peace Passage Ice 
  Show\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://www.soundintown.c
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T053000
 DTEND;TZID=America/Dawson_Creek:20260523T090059
-DTSTAMP:20260417T061354Z
+DTSTAMP:20260417T094601Z
 UID:planning-slot-4067@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 - Bluey Day\nAlloc
  ated: 3.5h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.com/r/
