@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260417T160000
 DTEND;TZID=America/Dawson_Creek:20260417T210000
-DTSTAMP:20260421T210441Z
+DTSTAMP:20260422T034142Z
 UID:planning-slot-4366@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR18 Peace Passage Ice 
  Show\nAllocated: 5.0h\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260418T190000
 DTEND;TZID=America/Dawson_Creek:20260419T000000
-DTSTAMP:20260421T210441Z
+DTSTAMP:20260422T034142Z
 UID:planning-slot-4334@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR18 Peace Passage Ice 
  Show\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://www.soundintown.c
@@ -40,7 +40,7 @@ SUMMARY:SET/STR4 - Event Helper - APR24 Funeral Service at FSJ Curling Rin
  k
 DTSTART;TZID=America/Dawson_Creek:20260423T170000
 DTEND;TZID=America/Dawson_Creek:20260423T210059
-DTSTAMP:20260421T210441Z
+DTSTAMP:20260422T034142Z
 UID:planning-slot-4370@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR24 Funeral Service at
   FSJ Curling Rink\nNote: EVENT: APR24 Funeral Service at FSJ Curling Rink\
@@ -53,7 +53,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR24 Funeral Service at FS
  J Curling Rink
 DTSTART;TZID=America/Dawson_Creek:20260424T150000
 DTEND;TZID=America/Dawson_Creek:20260424T170059
-DTSTAMP:20260421T210441Z
+DTSTAMP:20260422T034142Z
 UID:planning-slot-4371@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR24 Funer
  al Service at FSJ Curling Rink\nAllocated: 2.0h\nNote: EVENT: APR24 Funera
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper
 DTSTART;TZID=America/Dawson_Creek:20260426T090000
 DTEND;TZID=America/Dawson_Creek:20260426T160000
-DTSTAMP:20260421T210441Z
+DTSTAMP:20260422T034142Z
 UID:planning-slot-4397@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nAllocated: 7.0h\nNote: MEETING 
  POINT: Venue\n\n\n\nSound in Town - Keegan Lynch
@@ -76,7 +76,7 @@ SUMMARY:SET/STR4 - Event Helper - APR30 - Eloiz Concert at Anne Roberts Yo
  ung School
 DTSTART;TZID=America/Dawson_Creek:20260429T190000
 DTEND;TZID=America/Dawson_Creek:20260429T220000
-DTSTAMP:20260421T210441Z
+DTSTAMP:20260422T034142Z
 UID:planning-slot-4395@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR30 - Eloiz Concert at
   Anne Roberts Young School\nNote: EVENT: APR30 - Eloiz Concert at Anne Rob
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260502T140000
 DTEND;TZID=America/Dawson_Creek:20260502T220000
-DTSTAMP:20260421T210441Z
+DTSTAMP:20260422T034142Z
 UID:planning-slot-2253@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY02 Firefighters Ball\nAlloc
  ated: 8.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.soundintown.
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T053000
 DTEND;TZID=America/Dawson_Creek:20260523T090059
-DTSTAMP:20260421T210441Z
+DTSTAMP:20260422T034142Z
 UID:planning-slot-4067@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 - Bluey Day\nAlloc
  ated: 3.5h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.com/r/
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T150000
 DTEND;TZID=America/Dawson_Creek:20260523T190059
-DTSTAMP:20260421T210441Z
+DTSTAMP:20260422T034142Z
 UID:planning-slot-4376@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 - Bluey Day\nAlloc
  ated: 4.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.com/r/
