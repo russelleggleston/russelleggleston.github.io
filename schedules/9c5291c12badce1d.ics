@@ -14,10 +14,34 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - APR29 NLC FSJ - Dual Credit Night
+DTSTART;TZID=America/Dawson_Creek:20260429T130000
+DTEND;TZID=America/Dawson_Creek:20260429T160000
+DTSTAMP:20260422T210844Z
+UID:planning-slot-4407@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR29 NLC FSJ - Dual Cre
+ dit Night\nAllocated: 3.0h\nNote: EVENT: APR29 NLC FSJ - Dual Credit Night
+ \nhttps://www.soundintown.com/r/5ej\nMEETING POINT: Northern Lights Colleg
+ e Fort St John Campus\n\n\n\nSound in Town - Bethany Kay
+LOCATION:Northern Lights College Fort St John Campus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - APR29 NLC FSJ - Dual Credit Night
+DTSTART;TZID=America/Dawson_Creek:20260429T200000
+DTEND;TZID=America/Dawson_Creek:20260429T220059
+DTSTAMP:20260422T210844Z
+UID:planning-slot-4408@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR29 NLC FSJ - Dual Cre
+ dit Night\nNote: EVENT: APR29 NLC FSJ - Dual Credit Night\nhttps://www.sou
+ ndintown.com/r/5ej\nMEETING POINT: Northern Lights College Fort St John Ca
+ mpus\n\n\n\nSound in Town - Bethany Kay
+LOCATION:Northern Lights College Fort St John Campus
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260501T090000
 DTEND;TZID=America/Dawson_Creek:20260501T160000
-DTSTAMP:20260422T171439Z
+DTSTAMP:20260422T210844Z
 UID:planning-slot-2251@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY02 Firefighters Ball\
  nAllocated: 7.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.soundi
