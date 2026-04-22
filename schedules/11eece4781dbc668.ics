@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - FEB20-22 2026 Crystal Cup
 DTSTART;TZID=America/Dawson_Creek:20260222T130000
 DTEND;TZID=America/Dawson_Creek:20260222T180000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3413@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: FEB20-22 2
  026 Crystal Cup\nAllocated: 5.0h\nNote: EVENT: FEB20-22 2026 Crystal Cup\n
@@ -31,7 +31,7 @@ SUMMARY:WH4 - Warehouse Helper - FEB27-28 Wild Sheep Society - Penticton F
  undraiser
 DTSTART;TZID=America/Dawson_Creek:20260223T120000
 DTEND;TZID=America/Dawson_Creek:20260223T170000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-1921@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: FEB27-28 Wild Sheep Socie
  ty - Penticton Fundraiser\nAllocated: 5.0h\nNote: EVENT: FEB27-28 Wild She
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - FEB01-28 City of FSJ - Winter Fest
 DTSTART;TZID=America/Dawson_Creek:20260224T090000
 DTEND;TZID=America/Dawson_Creek:20260224T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3472@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB01-28 City of FSJ - W
  inter Fest\nAllocated: 7.0h\nNote: EVENT: FEB01-28 City of FSJ - Winter Fe
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - FEB01-28 City of FSJ - Winter Fest
 DTSTART;TZID=America/Dawson_Creek:20260228T090000
 DTEND;TZID=America/Dawson_Creek:20260228T120000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3557@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB01-28 City of FSJ - W
  inter Fest\nAllocated: 3.0h\nNote: EVENT: FEB01-28 City of FSJ - Winter Fe
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - FEB01-28 City of FSJ - Winter Fest
 DTSTART;TZID=America/Dawson_Creek:20260228T130000
 DTEND;TZID=America/Dawson_Creek:20260228T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3570@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB01-28 City of FSJ - W
  inter Fest\nAllocated: 3.0h\nNote: EVENT: FEB01-28 City of FSJ - Winter Fe
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - FEB28 - Rod and Gun Club Fundraiser
 DTSTART;TZID=America/Dawson_Creek:20260301T090000
 DTEND;TZID=America/Dawson_Creek:20260301T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3565@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: FEB28 - Rod and Gun Club 
  Fundraiser\nAllocated: 7.0h\nNote: EVENT: FEB28 - Rod and Gun Club Fundrai
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - FEB01-28 City of FSJ - Winter Fest
 DTSTART;TZID=America/Dawson_Creek:20260302T090000
 DTEND;TZID=America/Dawson_Creek:20260302T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3512@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: FEB01-28 City of FSJ - Wi
  nter Fest\nAllocated: 7.0h\nNote: EVENT: FEB01-28 City of FSJ - Winter Fes
@@ -109,7 +109,7 @@ SUMMARY:WH4 - Warehouse Helper - FEB27-28 Wild Sheep Society - Penticton F
  undraiser
 DTSTART;TZID=America/Dawson_Creek:20260303T090000
 DTEND;TZID=America/Dawson_Creek:20260303T120059
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3560@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: FEB27-28 Wild Sheep Socie
  ty - Penticton Fundraiser\nAllocated: 3.0h\nNote: EVENT: FEB27-28 Wild She
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAR06 - CDC 53rd Annual Talent Show
 DTSTART;TZID=America/Dawson_Creek:20260303T130000
 DTEND;TZID=America/Dawson_Creek:20260303T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3561@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR06 - CDC 53rd Annual T
  alent Show\nAllocated: 3.0h\nNote: EVENT: MAR06 - CDC 53rd Annual Talent S
@@ -134,7 +134,7 @@ SUMMARY:WH4 - Warehouse Helper - MAR11-12 Cargill ThinkTank 2026 - Delta D
  owntown (Saskatoon\, SK)
 DTSTART;TZID=America/Dawson_Creek:20260306T100000
 DTEND;TZID=America/Dawson_Creek:20260306T130000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3688@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR11-12 Cargill ThinkTan
  k 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 3.0h\nNote: EVENT: MA
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAR14 Taylor Montney Coulees Music Event
 DTSTART;TZID=America/Dawson_Creek:20260313T130000
 DTEND;TZID=America/Dawson_Creek:20260313T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3583@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR14 Taylor Montney Cou
  lees Music Event\nAllocated: 3.0h\nNote: EVENT: MAR14 Taylor Montney Coule
@@ -159,7 +159,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAR11-12 Cargill ThinkTank 2026 - De
  lta Downtown (Saskatoon\, SK)
 DTSTART;TZID=America/Dawson_Creek:20260314T100000
 DTEND;TZID=America/Dawson_Creek:20260314T180000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3515@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR11-12 Cargill Thi
  nkTank 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 8.0h\nNote: EVEN
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAR14 Taylor Montney Coulees Music Event
 DTSTART;TZID=America/Dawson_Creek:20260315T110000
 DTEND;TZID=America/Dawson_Creek:20260315T150000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3592@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR14 Taylor Montney Coul
  ees Music Event\nNote: EVENT: MAR14 Taylor Montney Coulees Music Event\nht
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR02 NLC All Staff Meeting
 DTSTART;TZID=America/Dawson_Creek:20260401T090000
 DTEND;TZID=America/Dawson_Creek:20260401T120000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-4025@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR02 NLC All Staff Meet
  ing\nAllocated: 3.0h\nNote: EVENT: APR02 NLC All Staff Meeting\nhttps://ww
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR02 NLC All Staff Meeting
 DTSTART;TZID=America/Dawson_Creek:20260404T090000
 DTEND;TZID=America/Dawson_Creek:20260404T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3888@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR02 NLC All Staff Meeti
  ng\nAllocated: 7.0h\nNote: EVENT: APR02 NLC All Staff Meeting\nhttps://www
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR07 - Funeral Live Stream
 DTSTART;TZID=America/Dawson_Creek:20260405T100000
 DTEND;TZID=America/Dawson_Creek:20260405T140000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-4016@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR07 - Funeral Live Str
  eam\nAllocated: 4.0h\nNote: EVENT: APR07 - Funeral Live Stream\nhttps://ww
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260406T090000
 DTEND;TZID=America/Dawson_Creek:20260406T130000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-4022@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 4.0h\nNote: Help Ripl
  ey in Warehouse\n\n\nSound in Town - Braden Doherty
@@ -227,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR08-09 First Nations Health Authority
 DTSTART;TZID=America/Dawson_Creek:20260407T130000
 DTEND;TZID=America/Dawson_Creek:20260407T150000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3247@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR08-09 First Nations H
  ealth Authority\nAllocated: 2.0h\nNote: EVENT: APR08-09 First Nations Heal
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR07 FSJ Co-op Staff Meeting @ Ramada
 DTSTART;TZID=America/Dawson_Creek:20260407T200000
 DTEND;TZID=America/Dawson_Creek:20260407T220059
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-4155@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR07 FSJ Co-op Staff Me
  eting @ Ramada\nNote: EVENT: APR07 FSJ Co-op Staff Meeting @ Ramada\nhttps
@@ -254,7 +254,7 @@ SUMMARY:WH4 - Warehouse Helper - APR10-12 Fort St. John Tradeshow Booth fo
  r Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260408T120000
 DTEND;TZID=America/Dawson_Creek:20260408T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3246@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR10-12 Fort St. John Tr
  adeshow Booth for Ovintiv\nAllocated: 4.0h\nNote: EVENT: APR10-12 Fort St.
@@ -267,7 +267,7 @@ SUMMARY:SET/STR4 - Event Helper - APR10-12 Fort St. John Tradeshow Booth f
  or Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260409T113000
 DTEND;TZID=America/Dawson_Creek:20260409T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3096@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR10-12 Fort St. John T
  radeshow Booth for Ovintiv\nAllocated: 4.5h\nNote: EVENT: APR10-12 Fort St
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR08-09 First Nations Health Authority
 DTSTART;TZID=America/Dawson_Creek:20260409T160000
 DTEND;TZID=America/Dawson_Creek:20260409T190000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3901@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR08-09 First Nations H
  ealth Authority\nAllocated: 3.0h\nNote: EVENT: APR08-09 First Nations Heal
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR10-12 City of FSJ - Tradeshow Screen
 DTSTART;TZID=America/Dawson_Creek:20260412T173000
 DTEND;TZID=America/Dawson_Creek:20260412T210059
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-4251@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR10-12 City of FSJ - T
  radeshow Screen\nNote: EVENT: APR10-12 City of FSJ - Tradeshow Screen\nhtt
@@ -304,7 +304,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - APR10-12 Fort St. John Tra
  deshow Booth for Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260412T173000
 DTEND;TZID=America/Dawson_Creek:20260412T210000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3098@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: APR10-12 F
  ort St. John Tradeshow Booth for Ovintiv\nNote: EVENT: APR10-12 Fort St. J
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR10-12 City of FSJ - Tradeshow Screen
 DTSTART;TZID=America/Dawson_Creek:20260412T210000
 DTEND;TZID=America/Dawson_Creek:20260412T230059
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-4253@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR10-12 City of FSJ - Tr
  adeshow Screen\nNote: EVENT: APR10-12 City of FSJ - Tradeshow Screen\nhttp
@@ -328,7 +328,7 @@ SUMMARY:WH4 - Warehouse Helper - APR10-12 Fort St. John Tradeshow Booth fo
  r Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260412T210000
 DTEND;TZID=America/Dawson_Creek:20260412T230059
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3245@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR10-12 Fort St. John Tr
  adeshow Booth for Ovintiv\nAllocated: 2.0h\nNote: EVENT: APR10-12 Fort St.
@@ -340,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260416T093000
 DTEND;TZID=America/Dawson_Creek:20260416T130000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3249@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR18 Peace Passage Ice S
  how\nAllocated: 3.5h\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://w
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260417T093000
 DTEND;TZID=America/Dawson_Creek:20260417T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3978@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR18 Peace Passage Ice 
  Show\nAllocated: 6.5h\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260418T190000
 DTEND;TZID=America/Dawson_Creek:20260419T000000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-4333@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR18 Peace Passage Ice 
  Show\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://www.soundintown.c
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260420T093000
 DTEND;TZID=America/Dawson_Creek:20260420T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3260@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR18 Peace Passage Ice S
  how\nAllocated: 6.5h\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://w
@@ -384,7 +384,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260503T090000
 DTEND;TZID=America/Dawson_Creek:20260503T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-2252@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY02 Firef
  ighters Ball\nAllocated: 7.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps
@@ -397,7 +397,7 @@ SUMMARY:SET/STR4 - Event Helper - MAY05-07 Margaret May Pipe and Drape & L
  ights
 DTSTART;TZID=America/Dawson_Creek:20260505T080000
 DTEND;TZID=America/Dawson_Creek:20260505T120000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3995@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY05-07 Margaret May Pi
  pe and Drape & Lights\nAllocated: 4.0h\nNote: EVENT: MAY05-07 Margaret May
@@ -409,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY07 NLC Service Awards Gala
 DTSTART;TZID=America/Dawson_Creek:20260506T080000
 DTEND;TZID=America/Dawson_Creek:20260506T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3280@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY07 NLC Service Awards
   Gala\nAllocated: 8.0h\nNote: EVENT: MAY07 NLC Service Awards Gala\nhttps:
@@ -422,7 +422,7 @@ SUMMARY:SET/STR4 - Event Helper - MAY09 Hamres - Kathy Miller Live Stream
  Service
 DTSTART;TZID=America/Dawson_Creek:20260508T170000
 DTEND;TZID=America/Dawson_Creek:20260508T235959
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-4004@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY09 Hamres - Kathy Mil
  ler Live Stream Service\nAllocated: 7.0h\nNote: EVENT: MAY09 Hamres - Kath
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Dawson_Creek:20260518T090000
 DTEND;TZID=America/Dawson_Creek:20260518T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-2488@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY22-23 Mine Rescue BC (
  Penticton)\nAllocated: 7.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (Pentict
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T053000
 DTEND;TZID=America/Dawson_Creek:20260523T090059
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-4375@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 - Bluey Day\nAlloc
  ated: 3.5h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.com/r/
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T150000
 DTEND;TZID=America/Dawson_Creek:20260523T190059
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-4377@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 - Bluey Day\nAlloc
  ated: 4.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.com/r/
@@ -468,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY22-23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Dawson_Creek:20260525T160000
 DTEND;TZID=America/Dawson_Creek:20260525T210000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-2491@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY22-23 Mine Rescue BC (
  Penticton)\nAllocated: 5.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (Pentict
@@ -480,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY31 - Annual Colour Run
 DTSTART;TZID=America/Dawson_Creek:20260530T140000
 DTEND;TZID=America/Dawson_Creek:20260530T170000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3302@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY31 - Annual Colour Run
  \nAllocated: 3.0h\nNote: EVENT: MAY31 - Annual Colour Run\n\nAuto planned 
@@ -492,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY31 - Annual Colour Run
 DTSTART;TZID=America/Dawson_Creek:20260531T070000
 DTEND;TZID=America/Dawson_Creek:20260531T110000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3300@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY31 - Ann
  ual Colour Run\nAllocated: 4.0h\nNote: EVENT: MAY31 - Annual Colour Run\n\
@@ -504,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY31 - Annual Colour Run
 DTSTART;TZID=America/Dawson_Creek:20260531T140000
 DTEND;TZID=America/Dawson_Creek:20260531T160000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3303@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY31 - Ann
  ual Colour Run\nAllocated: 2.0h\nNote: EVENT: MAY31 - Annual Colour Run\n\
@@ -516,7 +516,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY31 - Annual Colour Run
 DTSTART;TZID=America/Dawson_Creek:20260531T160000
 DTEND;TZID=America/Dawson_Creek:20260531T180000
-DTSTAMP:20260422T095100Z
+DTSTAMP:20260422T140755Z
 UID:planning-slot-3305@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY31 - Annual Colour Run
  \nAllocated: 2.0h\nNote: EVENT: MAY31 - Annual Colour Run\n\nAuto planned 
