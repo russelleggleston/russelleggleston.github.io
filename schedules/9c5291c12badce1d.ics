@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260501T090000
 DTEND;TZID=America/Dawson_Creek:20260501T160000
-DTSTAMP:20260422T140755Z
+DTSTAMP:20260422T171439Z
 UID:planning-slot-2251@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY02 Firefighters Ball\
  nAllocated: 7.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.soundi
