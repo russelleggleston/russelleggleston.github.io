@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR29 NLC FSJ - Dual Credit Night
 DTSTART;TZID=America/Dawson_Creek:20260429T130000
 DTEND;TZID=America/Dawson_Creek:20260429T160000
-DTSTAMP:20260423T140936Z
+DTSTAMP:20260423T174408Z
 UID:planning-slot-4407@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR29 NLC FSJ - Dual Cre
  dit Night\nAllocated: 3.0h\nNote: EVENT: APR29 NLC FSJ - Dual Credit Night
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR29 NLC FSJ - Dual Credit Night
 DTSTART;TZID=America/Dawson_Creek:20260429T200000
 DTEND;TZID=America/Dawson_Creek:20260429T220059
-DTSTAMP:20260423T140936Z
+DTSTAMP:20260423T174408Z
 UID:planning-slot-4408@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR29 NLC FSJ - Dual Cre
  dit Night\nNote: EVENT: APR29 NLC FSJ - Dual Credit Night\nhttps://www.sou
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260501T090000
 DTEND;TZID=America/Dawson_Creek:20260501T160000
-DTSTAMP:20260423T140936Z
+DTSTAMP:20260423T174408Z
 UID:planning-slot-2251@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY02 Firefighters Ball\
  nAllocated: 7.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.soundi
@@ -54,7 +54,7 @@ SUMMARY:SET/STR4 - Event Helper - MAY05-07 Margaret May Pipe and Drape & L
  ights
 DTSTART;TZID=America/Dawson_Creek:20260505T080000
 DTEND;TZID=America/Dawson_Creek:20260505T120000
-DTSTAMP:20260423T140936Z
+DTSTAMP:20260423T174408Z
 UID:planning-slot-3995@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY05-07 Margaret May Pi
  pe and Drape & Lights\nAllocated: 4.0h\nNote: EVENT: MAY05-07 Margaret May
@@ -67,12 +67,24 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY07 NLC Service Awards Gala
 DTSTART;TZID=America/Dawson_Creek:20260506T080000
 DTEND;TZID=America/Dawson_Creek:20260506T160000
-DTSTAMP:20260423T140936Z
+DTSTAMP:20260423T174408Z
 UID:planning-slot-3280@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY07 NLC Service Awards
   Gala\nAllocated: 8.0h\nNote: EVENT: MAY07 NLC Service Awards Gala\nhttps:
  //www.soundintown.com/r/mw7\nMEETING POINT: Mercer Hall\n\nPLaceholder to 
  set this up in DC TIMES TBD\n\nSound in Town - Bethany Kay
 LOCATION:Ovintiv Events Centre - Mercer Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - JUN04 - NLC FSJ Convocation
+DTSTART;TZID=America/Dawson_Creek:20260605T090000
+DTEND;TZID=America/Dawson_Creek:20260605T120000
+DTSTAMP:20260423T174408Z
+UID:planning-slot-2108@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN04 - NLC FSJ Convocat
+ ion\nAllocated: 3.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nMEETING PO
+ INT: Downstairs Curling Rink\n\nMaybe grabbing leftovr gear\n\nSound in To
+ wn - Bethany Kay
+LOCATION:Downstairs Curling Rink
 END:VEVENT
 END:VCALENDAR
