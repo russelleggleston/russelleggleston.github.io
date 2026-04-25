@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260417T160000
 DTEND;TZID=America/Dawson_Creek:20260417T210000
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-4366@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR18 Peace Passage Ice 
  Show\nAllocated: 5.0h\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260418T190000
 DTEND;TZID=America/Dawson_Creek:20260419T000000
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-4334@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR18 Peace Passage Ice 
  Show\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://www.soundintown.c
@@ -40,7 +40,7 @@ SUMMARY:SET/STR4 - Event Helper - APR24 Funeral Service at FSJ Curling Rin
  k
 DTSTART;TZID=America/Dawson_Creek:20260423T150000
 DTEND;TZID=America/Dawson_Creek:20260423T200059
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-4370@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR24 Funeral Service at
   FSJ Curling Rink\nAllocated: 5.0h\nNote: EVENT: APR24 Funeral Service at 
@@ -53,7 +53,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - APR23 - MooseFM Job Fair T
  Vs
 DTSTART;TZID=America/Dawson_Creek:20260423T200000
 DTEND;TZID=America/Dawson_Creek:20260423T210000
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-4422@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: APR23 - Mo
  oseFM Job Fair TVs\nNote: EVENT: APR23 - MooseFM Job Fair TVs\nhttps://www
@@ -64,12 +64,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR24 Funeral Service at FS
  J Curling Rink
-DTSTART;TZID=America/Dawson_Creek:20260424T153000
+DTSTART;TZID=America/Dawson_Creek:20260424T150000
 DTEND;TZID=America/Dawson_Creek:20260424T210000
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-4371@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR24 Funer
- al Service at FSJ Curling Rink\nAllocated: 5.5h\nNote: EVENT: APR24 Funera
+ al Service at FSJ Curling Rink\nAllocated: 6.0h\nNote: EVENT: APR24 Funera
  l Service at FSJ Curling Rink\nhttps://www.soundintown.com/r/Htz\nMEETING 
  POINT: Downstairs Curling Rink\n\nWhenever you are done school\, Meet at t
  he curling rink\n\nSound in Town - Keegan Lynch
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260426T090000
 DTEND;TZID=America/Dawson_Creek:20260426T160000
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-4397@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 7.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Keegan Lynch
@@ -89,7 +89,7 @@ SUMMARY:SET/STR4 - Event Helper - APR30 - Eloiz Concert at Anne Roberts Yo
  ung School
 DTSTART;TZID=America/Dawson_Creek:20260429T190000
 DTEND;TZID=America/Dawson_Creek:20260429T220000
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-4395@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR30 - Eloiz Concert at
   Anne Roberts Young School\nNote: EVENT: APR30 - Eloiz Concert at Anne Rob
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260501T153000
 DTEND;TZID=America/Dawson_Creek:20260501T220000
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-4404@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY02 Firefighters Ball\
  nAllocated: 6.5h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.soundi
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260502T140000
 DTEND;TZID=America/Dawson_Creek:20260502T220000
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-2253@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY02 Firefighters Ball\nAlloc
  ated: 8.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.soundintown.
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260503T090000
 DTEND;TZID=America/Dawson_Creek:20260503T160000
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-2252@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY02 Firef
  ighters Ball\nAllocated: 7.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps
@@ -139,7 +139,7 @@ SUMMARY:SET/STR4 - Event Helper - MAY09 Hamres - Kathy Miller Live Stream
  Service
 DTSTART;TZID=America/Dawson_Creek:20260508T170000
 DTEND;TZID=America/Dawson_Creek:20260508T235959
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-4004@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY09 Hamres - Kathy Mil
  ler Live Stream Service\nNote: EVENT: MAY09 Hamres - Kathy Miller Live Str
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY13 - Petronas Town Hall
 DTSTART;TZID=America/Dawson_Creek:20260513T170000
 DTEND;TZID=America/Dawson_Creek:20260513T210000
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-3605@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY13 - Petronas Town Ha
  ll\nNote: EVENT: MAY13 - Petronas Town Hall\nhttps://www.soundintown.com/r
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T053000
 DTEND;TZID=America/Dawson_Creek:20260523T090059
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-4067@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 - Bluey Day\nAlloc
  ated: 3.5h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.com/r/
@@ -175,11 +175,23 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T150000
 DTEND;TZID=America/Dawson_Creek:20260523T190059
-DTSTAMP:20260424T210542Z
+DTSTAMP:20260425T033120Z
 UID:planning-slot-4376@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 - Bluey Day\nAlloc
  ated: 4.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.com/r/
  kwQ\nMEETING POINT: Centennial Park\n\n\n\nSound in Town - Keegan Lynch
 LOCATION:Centennial Park - Centennial Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WH4 - Warehouse Helper - MAY22-23 Mine Rescue BC (Penticton)
+DTSTART;TZID=America/Dawson_Creek:20260525T160000
+DTEND;TZID=America/Dawson_Creek:20260525T210000
+DTSTAMP:20260425T033120Z
+UID:planning-slot-2491@soundintown.com
+DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY22-23 Mine Rescue BC (
+ Penticton)\nAllocated: 5.0h\nNote: EVENT: MAY22-23 Mine Rescue BC (Pentict
+ on)\nhttps://www.soundintown.com/r/0Si\nMEETING POINT: Sound In Town Wareh
+ ouse\n\n\n\nSound in Town - Keegan Lynch
+LOCATION:Penticton Trade and Convention Center
 END:VEVENT
 END:VCALENDAR
