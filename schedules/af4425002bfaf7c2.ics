@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - FEB01-28 City of FSJ - Winter Fest
 DTSTART;TZID=America/Dawson_Creek:20260228T090000
 DTEND;TZID=America/Dawson_Creek:20260228T120000
-DTSTAMP:20260425T090910Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3556@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB01-28 City of FSJ - W
  inter Fest\nAllocated: 3.0h\nNote: EVENT: FEB01-28 City of FSJ - Winter Fe
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - FEB01-28 City of FSJ - Winter Fest
 DTSTART;TZID=America/Dawson_Creek:20260228T130000
 DTEND;TZID=America/Dawson_Creek:20260228T160000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3569@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: FEB01-28 City of FSJ - Wi
  nter Fest\nAllocated: 3.0h\nNote: EVENT: FEB01-28 City of FSJ - Winter Fes
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - FEB01-28 City of FSJ - Winter Fest
 DTSTART;TZID=America/Dawson_Creek:20260302T090000
 DTEND;TZID=America/Dawson_Creek:20260302T160000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3514@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: FEB01-28 City of FSJ - Wi
  nter Fest\nAllocated: 7.0h\nNote: EVENT: FEB01-28 City of FSJ - Winter Fes
@@ -57,7 +57,7 @@ SUMMARY:SET/STR4 - Event Helper - MAR04 Peace Region Forage Seed Associati
  on
 DTSTART;TZID=America/Dawson_Creek:20260305T090000
 DTEND;TZID=America/Dawson_Creek:20260305T110000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3587@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR04 Peace Region Forag
  e Seed Association\nAllocated: 2.0h\nNote: EVENT: MAR04 Peace Region Forag
@@ -70,7 +70,7 @@ SUMMARY:WH4 - Warehouse Helper - MAR04 Peace Region Forage Seed Associatio
  n
 DTSTART;TZID=America/Dawson_Creek:20260305T110000
 DTEND;TZID=America/Dawson_Creek:20260305T140000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3585@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR04 Peace Region Forage
   Seed Association\nAllocated: 3.0h\nNote: EVENT: MAR04 Peace Region Forage
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAR06 - CDC 53rd Annual Talent Show
 DTSTART;TZID=America/Dawson_Creek:20260305T140000
 DTEND;TZID=America/Dawson_Creek:20260305T160000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3586@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR06 - CDC 53rd Annual 
  Talent Show\nAllocated: 2.0h\nNote: EVENT: MAR06 - CDC 53rd Annual Talent 
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper
 DTSTART;TZID=America/Dawson_Creek:20260309T090000
 DTEND;TZID=America/Dawson_Creek:20260309T160000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3687@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nAllocated: 7.0h\n\nSound in Tow
  n - Harley Romanik
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAR17 ST Patrick's Day
 DTSTART;TZID=America/Dawson_Creek:20260318T130000
 DTEND;TZID=America/Dawson_Creek:20260318T160059
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3618@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR17 ST Patrick's Day\nA
  llocated: 3.0h\nNote: EVENT: MAR17 ST Patrick's Day\nhttps://www.soundinto
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAR19 - 3D Childrens Gala @GP Pomeroy
 DTSTART;TZID=America/Dawson_Creek:20260321T090000
 DTEND;TZID=America/Dawson_Creek:20260321T160000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3615@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAR19 - 3D Childrens Gala
   @GP Pomeroy\nAllocated: 7.0h\nNote: EVENT: MAR19 - 3D Childrens Gala @GP 
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR02 NLC All Staff Meeting
 DTSTART;TZID=America/Dawson_Creek:20260401T090000
 DTEND;TZID=America/Dawson_Creek:20260401T120000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3885@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR02 NLC All Staff Meet
  ing\nAllocated: 3.0h\nNote: EVENT: APR02 NLC All Staff Meeting\nhttps://ww
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR02 NLC All Staff Meeting
 DTSTART;TZID=America/Dawson_Creek:20260402T130000
 DTEND;TZID=America/Dawson_Creek:20260402T210000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3947@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR02 NLC All Staff Meet
  ing\nAllocated: 8.0h\nNote: EVENT: APR02 NLC All Staff Meeting\nhttps://ww
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR07 FSJ Co-op Staff Meeting @ Ramada
 DTSTART;TZID=America/Dawson_Creek:20260405T160000
 DTEND;TZID=America/Dawson_Creek:20260405T210000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-4123@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR07 FSJ Co-op Staff Mee
  ting @ Ramada\nAllocated: 5.0h\nNote: EVENT: APR07 FSJ Co-op Staff Meeting
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR07 - Funeral Live Stream
 DTSTART;TZID=America/Dawson_Creek:20260407T143000
 DTEND;TZID=America/Dawson_Creek:20260407T163000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-4131@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR07 - Funeral Live Str
  eam\nAllocated: 2.0h\nNote: EVENT: APR07 - Funeral Live Stream\nhttps://ww
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260409T090000
 DTEND;TZID=America/Dawson_Creek:20260409T140000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-4126@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR12-15 AARFP 47th Confe
  rence\nAllocated: 5.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\n\n\
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Dawson_Creek:20260409T140000
 DTEND;TZID=America/Dawson_Creek:20260409T160000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-4127@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR13 AARFP 47th Tradesho
  w\nAllocated: 2.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.s
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260410T093000
 DTEND;TZID=America/Dawson_Creek:20260410T140000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3745@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 4.5h\n\nSound in Town
   - Harley Romanik
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260410T140000
 DTEND;TZID=America/Dawson_Creek:20260410T160000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3771@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 2.0h\nNote: Automated
   Prep Shift test https://www.soundintown.com/odoo/events/982\n\nSound in T
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260416T093000
 DTEND;TZID=America/Dawson_Creek:20260416T130000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3255@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR18 Peace Passage Ice S
  how\nAllocated: 3.5h\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://w
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260416T130000
 DTEND;TZID=America/Dawson_Creek:20260416T160000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-4362@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR18 Peace Passage Ice 
  Show\nAllocated: 3.0h\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Dawson_Creek:20260417T093000
 DTEND;TZID=America/Dawson_Creek:20260417T160000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3878@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR16 Pomeroy GP Pembina 
  Townhall 2026\nAllocated: 6.5h\nNote: EVENT: APR16 Pomeroy GP Pembina Town
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Dawson_Creek:20260418T090000
 DTEND;TZID=America/Dawson_Creek:20260418T170059
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3639@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR16 Pomeroy GP Pembina 
  Townhall 2026\nAllocated: 8.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Town
@@ -265,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260419T093000
 DTEND;TZID=America/Dawson_Creek:20260419T160000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-3915@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 6.5h\n\nSound in Town
   - Harley Romanik
@@ -275,7 +275,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR24 Funeral Service at FS
  J Curling Rink
 DTSTART;TZID=America/Dawson_Creek:20260424T150000
 DTEND;TZID=America/Dawson_Creek:20260424T210059
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-4320@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR24 Funer
  al Service at FSJ Curling Rink\nAllocated: 6.0h\nNote: EVENT: APR24 Funera
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR29 NLC FSJ - Dual Credit Night
 DTSTART;TZID=America/Dawson_Creek:20260428T170000
 DTEND;TZID=America/Dawson_Creek:20260428T210000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-4456@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR29 NLC FSJ - Dual Cre
  dit Night\nNote: EVENT: APR29 NLC FSJ - Dual Credit Night\nhttps://www.sou
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR29 NLC FSJ - Dual Credit Night
 DTSTART;TZID=America/Dawson_Creek:20260429T200000
 DTEND;TZID=America/Dawson_Creek:20260429T220059
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-4344@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR29 NLC FSJ - Dual Cre
  dit Night\nNote: EVENT: APR29 NLC FSJ - Dual Credit Night\nhttps://www.sou
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY08 - SD60 Indigenous Learning Day
 DTSTART;TZID=America/Dawson_Creek:20260510T090000
 DTEND;TZID=America/Dawson_Creek:20260510T160059
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-4212@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY08 - SD60 Indigenous L
  earning Day\nAllocated: 7.0h\nNote: EVENT: MAY08 - SD60 Indigenous Learnin
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY23 Northern Classic 2026 GP
 DTSTART;TZID=America/Dawson_Creek:20260525T170000
 DTEND;TZID=America/Dawson_Creek:20260525T210000
-DTSTAMP:20260425T090911Z
+DTSTAMP:20260425T133824Z
 UID:planning-slot-2079@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY23 Northern Classic 20
  26 GP\nNote: EVENT: MAY23-24 Northern Classic 2026 GP\nhttps://www.soundin
