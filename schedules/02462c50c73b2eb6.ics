@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260503T090000
 DTEND;TZID=America/Dawson_Creek:20260503T160059
-DTSTAMP:20260425T170047Z
+DTSTAMP:20260425T205628Z
 UID:planning-slot-4461@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY02 Firefighters Ball\
  nAllocated: 7.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.soundi
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Dawson_Creek:20260604T170000
 DTEND;TZID=America/Dawson_Creek:20260604T220000
-DTSTAMP:20260425T170047Z
+DTSTAMP:20260425T205628Z
 UID:planning-slot-2107@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN04 - NLC
   FSJ Convocation\nAllocated: 5.0h\nNote: EVENT: JUN04 - NLC FSJ Convocatio
