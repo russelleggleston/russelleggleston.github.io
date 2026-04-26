@@ -15,21 +15,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - FEB25-26 Agriculture Conference Mercer Hall
-DTSTART;TZID=America/Dawson_Creek:20260225T094500
-DTEND;TZID=America/Dawson_Creek:20260225T210000
-DTSTAMP:20260426T134036Z
-UID:planning-slot-1925@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: FEB25-26 Agriculture Conference 
- Mercer Hall\nAllocated: 8.0h\nNote: EVENT: FEB25-26 Agriculture Conference
-  Mercer Hall\nhttps://www.soundintown.com/r/pn3\n\nClient will be on site 
- at 10am\n\nSound in Town - Kurtis Nguyen
-LOCATION:Ovintiv Events Centre - Mercer Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A1 - Audio Tech - FEB25-26 Agriculture Conference Mercer Hall
 DTSTART;TZID=America/Dawson_Creek:20260226T080000
 DTEND;TZID=America/Dawson_Creek:20260226T170000
-DTSTAMP:20260426T134036Z
+DTSTAMP:20260426T170128Z
 UID:planning-slot-1928@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: FEB25-26 Agriculture Conference 
  Mercer Hall\nAllocated: 8.0h\nNote: EVENT: FEB25-26 Agriculture Conference
@@ -43,7 +31,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - FEB25-26 Agriculture Confe
  rence Mercer Hall
 DTSTART;TZID=America/Dawson_Creek:20260226T170000
 DTEND;TZID=America/Dawson_Creek:20260226T180000
-DTSTAMP:20260426T134036Z
+DTSTAMP:20260426T170128Z
 UID:planning-slot-1931@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: FEB25-26 A
  griculture Conference Mercer Hall\nNote: EVENT: FEB25-26 Agriculture Confe
