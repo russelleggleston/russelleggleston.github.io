@@ -17,13 +17,12 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - FEB25-26 Agriculture Conference Mercer Hall
 DTSTART;TZID=America/Dawson_Creek:20260226T080000
 DTEND;TZID=America/Dawson_Creek:20260226T170000
-DTSTAMP:20260427T035926Z
+DTSTAMP:20260427T064059Z
 UID:planning-slot-1928@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: FEB25-26 Agriculture Conference 
  Mercer Hall\nAllocated: 8.0h\nNote: EVENT: FEB25-26 Agriculture Conference
-  Mercer Hall\nhttps://www.soundintown.com/model/showbook/feb25-26-agricult
- ure-conference-mercer-hall-632\n\nTimes TBD\n\nSound in Town - Kurtis Nguy
- en
+  Mercer Hall\nMEETING POINT: Mercer Hall\n\nTimes TBD\n\nSound in Town - K
+ urtis Nguyen
 LOCATION:Ovintiv Events Centre - Mercer Hall
 END:VEVENT
 BEGIN:VEVENT
@@ -31,13 +30,13 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - FEB25-26 Agriculture Confe
  rence Mercer Hall
 DTSTART;TZID=America/Dawson_Creek:20260226T170000
 DTEND;TZID=America/Dawson_Creek:20260226T180000
-DTSTAMP:20260427T035926Z
+DTSTAMP:20260427T064059Z
 UID:planning-slot-1931@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: FEB25-26 A
  griculture Conference Mercer Hall\nNote: EVENT: FEB25-26 Agriculture Confe
- rence Mercer Hall\nhttps://www.soundintown.com/r/pn3\n\nThis gear will nee
- d to be struck and put into the "future room" Russ will show you\n\nSound 
- in Town - Kurtis Nguyen
+ rence Mercer Hall\nMEETING POINT: Mercer Hall\n\nThis gear will need to be
+  struck and put into the "future room" Russ will show you\n\nSound in Town
+  - Kurtis Nguyen
 LOCATION:Ovintiv Events Centre - Mercer Hall
 END:VEVENT
 END:VCALENDAR

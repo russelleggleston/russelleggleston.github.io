@@ -18,13 +18,13 @@ SUMMARY:SET/STR4 - Event Helper - FEB25-26 Agriculture Conference Mercer H
  all
 DTSTART;TZID=America/Dawson_Creek:20260226T170000
 DTEND;TZID=America/Dawson_Creek:20260226T180000
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-3559@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB25-26 Agriculture Con
  ference Mercer Hall\nNote: EVENT: FEB25-26 Agriculture Conference Mercer H
- all\nhttps://www.soundintown.com/r/pn3\n\nThis gear will need to be struck
-  and put into the "future room" Russ will show you\n\nSound in Town - Amy 
- Seebaran
+ all\nMEETING POINT: Mercer Hall\n\nThis gear will need to be struck and pu
+ t into the "future room" Russ will show you\n\nSound in Town - Amy Seebara
+ n
 LOCATION:Ovintiv Events Centre - Mercer Hall
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - FEB27 NLC DC Bollywood Part
  y
 DTSTART;TZID=America/Dawson_Creek:20260227T090000
 DTEND;TZID=America/Dawson_Creek:20260227T140059
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-3428@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: FEB27 NLC D
  C Bollywood Party\nAllocated: 5.0h\nNote: EVENT: FEB27 NLC DC Bollywood Pa
@@ -46,7 +46,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - FEB27 NLC DC Bollywood Part
  y
 DTSTART;TZID=America/Dawson_Creek:20260228T100000
 DTEND;TZID=America/Dawson_Creek:20260228T120059
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-3543@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: FEB27 NLC D
  C Bollywood Party\nAllocated: 2.0h\nNote: EVENT: FEB27 NLC DC Bollywood Pa
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260324T103000
 DTEND;TZID=America/Dawson_Creek:20260324T120059
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-2922@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\n\nSound in Town - Amy 
  Seebaran
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260330T121500
 DTEND;TZID=America/Dawson_Creek:20260330T160000
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-4023@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 3.8h\n\
  nSound in Town - Amy Seebaran
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260330T130000
 DTEND;TZID=America/Dawson_Creek:20260330T160000
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-4024@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 3.0h\n\
  nSound in Town - Amy Seebaran
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260401T100000
 DTEND;TZID=America/Dawson_Creek:20260401T113059
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-2923@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\n\nSound in Town - Amy 
  Seebaran
@@ -94,69 +94,69 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260403T100000
 DTEND;TZID=America/Dawson_Creek:20260403T120000
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-3155@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 2.0h\nNote: END OF QUARTER R
  OCK REVIEW 2 HR MEETING\n\nSound in Town - Amy Seebaran
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - APR17-19 Ovintiv DC Tradeshow - TV Stand
-DTSTART;TZID=America/Dawson_Creek:20260417T100000
-DTEND;TZID=America/Dawson_Creek:20260417T120059
-DTSTAMP:20260427T035917Z
-UID:planning-slot-4329@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR17-19 Ovintiv DC Trad
- eshow - TV Stand\nAllocated: 2.0h\nNote: EVENT: APR17-19 Ovintiv DC Trades
- how - TV Wall\nhttps://www.soundintown.com/r/jLN\n\n\n\nSound in Town - Am
- y Seebaran
-LOCATION:Ovintiv Events Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR17-19 Moose FM - TV DC Trade Show
 DTSTART;TZID=America/Dawson_Creek:20260417T100000
 DTEND;TZID=America/Dawson_Creek:20260417T120059
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-4328@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR17-19 Moose FM - TV D
  C Trade Show\nAllocated: 2.0h\nNote: EVENT: APR17-19 Moose FM - TV DC Trad
- e Show\nhttps://www.soundintown.com/r/QCU\n\n\n\nSound in Town - Amy Seeba
- ran
+ e Show\nMEETING POINT: Ovintiv Events Centre\n\n\n\nSound in Town - Amy Se
+ ebaran
+LOCATION:Ovintiv Events Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - APR17-19 Ovintiv DC Tradeshow - TV Stand
+DTSTART;TZID=America/Dawson_Creek:20260417T100000
+DTEND;TZID=America/Dawson_Creek:20260417T120059
+DTSTAMP:20260427T064051Z
+UID:planning-slot-4329@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR17-19 Ovintiv DC Trad
+ eshow - TV Stand\nAllocated: 2.0h\nNote: EVENT: APR17-19 Ovintiv DC Trades
+ how - TV Stand\nMEETING POINT: Ovintiv Events Centre\n\n\n\nSound in Town 
+ - Amy Seebaran
 LOCATION:Ovintiv Events Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR17-19 Ovintiv DC Tradeshow - TV Stand
 DTSTART;TZID=America/Dawson_Creek:20260419T150000
 DTEND;TZID=America/Dawson_Creek:20260419T160059
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-4330@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR17-19 Ovintiv DC Trad
  eshow - TV Stand\nAllocated: 1.0h\nNote: EVENT: APR17-19 Ovintiv DC Trades
- how - TV Wall\nhttps://www.soundintown.com/r/jLN\n\n\n\nSound in Town - Am
- y Seebaran
+ how - TV Stand\nMEETING POINT: Ovintiv Events Centre\n\n\n\nSound in Town 
+ - Amy Seebaran
 LOCATION:Ovintiv Events Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR17-19 Moose FM - TV DC Trade Show
 DTSTART;TZID=America/Dawson_Creek:20260419T150000
 DTEND;TZID=America/Dawson_Creek:20260419T160059
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-4262@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR17-19 Moose FM - TV D
  C Trade Show\nAllocated: 1.0h\nNote: EVENT: APR17-19 Moose FM - TV DC Trad
- e Show\nhttps://www.soundintown.com/r/QCU\n\n\n\nSound in Town - Amy Seeba
- ran
+ e Show\nMEETING POINT: Ovintiv Events Centre\n\n\n\nSound in Town - Amy Se
+ ebaran
 LOCATION:Ovintiv Events Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY01 Ovintiv - DC Art Gallery Lighting
 DTSTART;TZID=America/Dawson_Creek:20260501T120000
 DTEND;TZID=America/Dawson_Creek:20260501T140059
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-4409@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY01 Ovintiv - DC Art G
  allery Lighting\nAllocated: 2.0h\nNote: EVENT: MAY01 Ovintiv - DC Art Gall
- ery Lighting\nhttps://www.soundintown.com/r/TS0\nMEETING POINT: Ovintiv Ev
- ents Centre\n\n\n\nSound in Town - Amy Seebaran
+ ery Lighting\nhttps://www.soundintown.com/r/TS0\nMEETING POINT: Lower Lobb
+ y\n\n\n\nSound in Town - Amy Seebaran
 LOCATION:Ovintiv Events Centre - Lower Lobby
 END:VEVENT
 BEGIN:VEVENT
@@ -164,12 +164,12 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY01 Ovintiv - DC Art Gal
  lery Lighting
 DTSTART;TZID=America/Dawson_Creek:20260502T090000
 DTEND;TZID=America/Dawson_Creek:20260502T110059
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-3309@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY01 Ovin
  tiv - DC Art Gallery Lighting\nAllocated: 2.0h\nNote: EVENT: MAY01 Ovintiv
   - DC Art Gallery Lighting\nhttps://www.soundintown.com/r/TS0\nMEETING POI
- NT: Ovintiv Events Centre\n\n\n\nSound in Town - Amy Seebaran
+ NT: Lower Lobby\n\n\n\nSound in Town - Amy Seebaran
 LOCATION:Ovintiv Events Centre - Lower Lobby
 END:VEVENT
 BEGIN:VEVENT
@@ -177,12 +177,12 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY07 NLC Service Awards Ga
  la
 DTSTART;TZID=America/Dawson_Creek:20260506T093000
 DTEND;TZID=America/Dawson_Creek:20260506T140000
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-2068@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY07 NLC S
  ervice Awards Gala\nAllocated: 4.5h\nNote: EVENT: MAY07 NLC Service Awards
-  Gala\nhttps://www.soundintown.com/r/mw7\n\ntimes TBD\n\nSound in Town - A
- my Seebaran
+  Gala\nhttps://www.soundintown.com/r/mw7\nMEETING POINT: Mercer Hall\n\nti
+ mes TBD\n\nSound in Town - Amy Seebaran
 LOCATION:Ovintiv Events Centre - Mercer Hall
 END:VEVENT
 BEGIN:VEVENT
@@ -190,23 +190,23 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY07 NLC Service Awards Ga
  la
 DTSTART;TZID=America/Dawson_Creek:20260508T093000
 DTEND;TZID=America/Dawson_Creek:20260508T140000
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-2581@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY07 NLC S
  ervice Awards Gala\nAllocated: 4.5h\nNote: EVENT: MAY07 NLC Service Awards
-  Gala\nhttps://www.soundintown.com/r/mw7\n\n\n\nSound in Town - Amy Seebar
- an
+  Gala\nhttps://www.soundintown.com/r/mw7\nMEETING POINT: Mercer Hall\n\n\n
+ \nSound in Town - Amy Seebaran
 LOCATION:Ovintiv Events Centre - Mercer Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260528T080000
 DTEND;TZID=America/Dawson_Creek:20260528T160000
-DTSTAMP:20260427T035917Z
+DTSTAMP:20260427T064051Z
 UID:planning-slot-2612@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY28 - NLC
   DC Convocation\nAllocated: 8.0h\nNote: EVENT: MAY28 - NLC DC Convocation\
- n\n\n\nSound in Town - Amy Seebaran
+ nMEETING POINT: Ovintiv Events Centre\n\n\n\nSound in Town - Amy Seebaran
 LOCATION:Ovintiv Events Centre
 END:VEVENT
 END:VCALENDAR
