@@ -18,7 +18,7 @@ SUMMARY:SET/STR4 - Event Helper - MAR11-12 Cargill ThinkTank 2026 - Delta
  Downtown (Saskatoon\, SK)
 DTSTART;TZID=America/Regina:20260310T100000
 DTEND;TZID=America/Regina:20260310T180000
-DTSTAMP:20260428T175559Z
+DTSTAMP:20260428T211904Z
 UID:planning-slot-3237@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR11-12 Cargill ThinkTa
  nk 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 8.0h\nNote: EVENT: M
@@ -32,7 +32,7 @@ SUMMARY:SET/STR4 - Event Helper - MAR11-12 Cargill ThinkTank 2026 - Delta
  Downtown (Saskatoon\, SK)
 DTSTART;TZID=America/Regina:20260312T170000
 DTEND;TZID=America/Regina:20260312T220059
-DTSTAMP:20260428T175559Z
+DTSTAMP:20260428T211904Z
 UID:planning-slot-3240@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR11-12 Cargill ThinkTa
  nk 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 5.0h\nNote: EVENT: M
@@ -41,5 +41,29 @@ DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR11-12 Cargill ThinkTa
  owntown-saskatoon-sk-718\n\nThis should be 4pm-9pm local time\, let me kno
  w if that's what its showing\n\nSound in Town - Jeffrey Kirzinger
 LOCATION:Delta Hotels By Marriott Saskatoon Downtown
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AV2 - AV Tech (Mid Level) - JUN08 - Terry Fator Comedy Show
+DTSTART;TZID=America/Regina:20260608T100000
+DTEND;TZID=America/Regina:20260609T000059
+DTSTAMP:20260428T211904Z
+UID:planning-slot-4524@soundintown.com
+DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: JUN08 - Terry Fator Co
+ medy Show\nAllocated: 8.0h\nNote: EVENT: JUN08 - Terry Fator Comedy Show\n
+ https://www.soundintown.com/r/g3n\nMEETING POINT: Main Arena Floor\n\nTIME
+ S STILL ROUGH\n\nSound in Town - Jeffrey Kirzinger
+LOCATION:Ovintiv Events Centre - Main Arena Floor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - JUN08 - Terry Fator Comedy Show
+DTSTART;TZID=America/Regina:20260609T100000
+DTEND;TZID=America/Regina:20260609T220059
+DTSTAMP:20260428T211904Z
+UID:planning-slot-3347@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN08 - Terry Fator Come
+ dy Show\nAllocated: 8.0h\nNote: EVENT: JUN08 - Terry Fator Comedy Show\nht
+ tps://www.soundintown.com/r/g3n\nMEETING POINT: Main Arena Floor\n\nPlaceh
+ older shift\n\nSound in Town - Jeffrey Kirzinger
+LOCATION:Ovintiv Events Centre - Main Arena Floor
 END:VEVENT
 END:VCALENDAR
