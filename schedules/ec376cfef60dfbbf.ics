@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUL05 - TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Edmonton:20260704T080000
 DTEND;TZID=America/Edmonton:20260704T200000
-DTSTAMP:20260428T211905Z
+DTSTAMP:20260429T040202Z
 UID:planning-slot-2691@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 - TNT Bodybuilding
   Edmonton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 - TNT Bodybuilding Edm
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUL05 - TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Edmonton:20260705T190000
 DTEND;TZID=America/Edmonton:20260706T010000
-DTSTAMP:20260428T211905Z
+DTSTAMP:20260429T040202Z
 UID:planning-slot-4472@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 - TNT Bodybuilding
   Edmonton 2026\nAllocated: 1.0h\nNote: EVENT: JUL05 - TNT Bodybuilding Edm
