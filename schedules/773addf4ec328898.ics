@@ -18,7 +18,7 @@ SUMMARY:SET/STR4 - Event Helper - FEB27-28 Wild Sheep Society - Penticton
  Fundraiser
 DTSTART;TZID=America/Dawson_Creek:20260301T080000
 DTEND;TZID=America/Dawson_Creek:20260301T140059
-DTSTAMP:20260430T040232Z
+DTSTAMP:20260430T064053Z
 UID:planning-slot-3417@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: FEB27-28 Wild Sheep Soci
  ety - Penticton Fundraiser\nAllocated: 6.0h\nNote: EVENT: FEB27-28 Wild Sh
@@ -31,7 +31,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY23 Mine Rescue BC (Pent
  icton)
 DTSTART;TZID=America/Dawson_Creek:20260522T080000
 DTEND;TZID=America/Dawson_Creek:20260522T160000
-DTSTAMP:20260430T040232Z
+DTSTAMP:20260430T064053Z
 UID:planning-slot-3906@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY23 Mine
   Rescue BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue
@@ -44,7 +44,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY23 Mine Rescue BC (Pent
  icton)
 DTSTART;TZID=America/Dawson_Creek:20260524T080000
 DTEND;TZID=America/Dawson_Creek:20260524T140000
-DTSTAMP:20260430T040232Z
+DTSTAMP:20260430T064053Z
 UID:planning-slot-3907@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY23 Mine
   Rescue BC (Penticton)\nAllocated: 6.0h\nNote: EVENT: MAY23 Mine Rescue BC
