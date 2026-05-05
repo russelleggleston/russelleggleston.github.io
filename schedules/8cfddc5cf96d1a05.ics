@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Lukas Bellamy
+X-WR-TIMEZONE:America/Dawson_Creek
+BEGIN:VTIMEZONE
+TZID:America/Dawson_Creek
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:MST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist - MAY23 Mine Rescue BC (Penticton)
+DTSTART;TZID=America/Dawson_Creek:20260521T080000
+DTEND;TZID=America/Dawson_Creek:20260521T160000
+DTSTAMP:20260505T211340Z
+UID:planning-slot-4603@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY23 Mine Rescue BC (Penticto
+ n)\nAllocated: 8.0h\nNote: EVENT: MAY23 Mine Rescue BC (Penticton)\nhttps:
+ //www.soundintown.com/r/0Si\nMEETING POINT: Penticton Trade and Convention
+  Center\n\nSam will pick you up this morning\n\nSound in Town - Lukas Bell
+ amy
+LOCATION:Penticton Trade and Convention Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist - MAY23 Mine Rescue BC (Penticton)
+DTSTART;TZID=America/Dawson_Creek:20260522T080000
+DTEND;TZID=America/Dawson_Creek:20260522T200000
+DTSTAMP:20260505T211340Z
+UID:planning-slot-4604@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY23 Mine Rescue BC (Penticto
+ n)\nAllocated: 8.0h\nNote: EVENT: MAY23 Mine Rescue BC (Penticton)\nhttps:
+ //www.soundintown.com/r/0Si\nMEETING POINT: Penticton Trade and Convention
+  Center\n\nSet up day\n\nSound in Town - Lukas Bellamy
+LOCATION:Penticton Trade and Convention Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist - MAY23 Mine Rescue BC (Penticton)
+DTSTART;TZID=America/Dawson_Creek:20260523T080000
+DTEND;TZID=America/Dawson_Creek:20260523T200000
+DTSTAMP:20260505T211340Z
+UID:planning-slot-4605@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY23 Mine Rescue BC (Penticto
+ n)\nAllocated: 8.0h\nNote: EVENT: MAY23 Mine Rescue BC (Penticton)\nhttps:
+ //www.soundintown.com/r/0Si\nMEETING POINT: Penticton Trade and Convention
+  Center\n\nThis day is still pending a plan\, I am thinking you come in in
+  the morning to help with finishing touches\, and then you come in after t
+ he event to start strike\n\nSound in Town - Lukas Bellamy
+LOCATION:Penticton Trade and Convention Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist - MAY23 Mine Rescue BC (Penticton)
+DTSTART;TZID=America/Dawson_Creek:20260524T080000
+DTEND;TZID=America/Dawson_Creek:20260524T200000
+DTSTAMP:20260505T211340Z
+UID:planning-slot-4606@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY23 Mine Rescue BC (Penticto
+ n)\nAllocated: 8.0h\nNote: EVENT: MAY23 Mine Rescue BC (Penticton)\nhttps:
+ //www.soundintown.com/r/0Si\nMEETING POINT: Penticton Trade and Convention
+  Center\n\nFinish strike and head home\n\nSound in Town - Lukas Bellamy
+LOCATION:Penticton Trade and Convention Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - JUN04-07 - Prophet River First Nation Treaty Day
+ s
+DTSTART;TZID=America/Dawson_Creek:20260604T090000
+DTEND;TZID=America/Dawson_Creek:20260604T170000
+DTSTAMP:20260505T211340Z
+UID:planning-slot-4433@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN04-07 - Prophet River First N
+ ation Treaty Days\nAllocated: 8.0h\nNote: EVENT: JUN04-07 - Prophet River 
+ First Nation Treaty Days\nhttps://www.soundintown.com/r/iVe\nMEETING POINT
+ : Venue\n\nAuto planned shift. May need to be adjusted by planning.\n\nSou
+ nd in Town - Lukas Bellamy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - JUN04-07 - Prophet River First Nation Treaty Day
+ s
+DTSTART;TZID=America/Dawson_Creek:20260605T090000
+DTEND;TZID=America/Dawson_Creek:20260605T170000
+DTSTAMP:20260505T211340Z
+UID:planning-slot-4426@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN04-07 - Prophet River First N
+ ation Treaty Days\nAllocated: 8.0h\nNote: EVENT: JUN04-07 - Prophet River 
+ First Nation Treaty Days\nhttps://www.soundintown.com/r/iVe\nMEETING POINT
+ : Venue\n\nAuto planned shift. May need to be adjusted by planning.\n\nSou
+ nd in Town - Lukas Bellamy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - JUN04-07 - Prophet River First Nation Treaty Day
+ s
+DTSTART;TZID=America/Dawson_Creek:20260606T090000
+DTEND;TZID=America/Dawson_Creek:20260606T170000
+DTSTAMP:20260505T211340Z
+UID:planning-slot-4432@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN04-07 - Prophet River First N
+ ation Treaty Days\nAllocated: 8.0h\nNote: EVENT: JUN04-07 - Prophet River 
+ First Nation Treaty Days\nhttps://www.soundintown.com/r/iVe\nMEETING POINT
+ : Venue\n\nAuto planned shift. May need to be adjusted by planning.\n\nSou
+ nd in Town - Lukas Bellamy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - JUN04-07 - Prophet River First Nation Treaty Day
+ s
+DTSTART;TZID=America/Dawson_Creek:20260607T090000
+DTEND;TZID=America/Dawson_Creek:20260607T170000
+DTSTAMP:20260505T211340Z
+UID:planning-slot-4607@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN04-07 - Prophet River First N
+ ation Treaty Days\nAllocated: 8.0h\nNote: EVENT: JUN04-07 - Prophet River 
+ First Nation Treaty Days\nhttps://www.soundintown.com/r/iVe\nMEETING POINT
+ : Venue\n\nAuto planned shift. May need to be adjusted by planning.\n\nSou
+ nd in Town - Lukas Bellamy
+END:VEVENT
+END:VCALENDAR
