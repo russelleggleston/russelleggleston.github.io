@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAR07 - Tumbler Ridge Funeral Service
 DTSTART;TZID=America/Dawson_Creek:20260307T120000
 DTEND;TZID=America/Dawson_Creek:20260307T180059
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-3620@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAR07 - Tumbler Ridge Funeral 
  Service\nAllocated: 6.0h\nNote: EVENT: MAR07 - Tumbler Ridge Funeral Servi
@@ -29,7 +29,7 @@ SUMMARY:AV2 - AV Tech (Mid Level) - MAR10-11 Collaborative Stewardship For
  um
 DTSTART;TZID=America/Dawson_Creek:20260310T080000
 DTEND;TZID=America/Dawson_Creek:20260310T160000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-3172@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: MAR10-11 Collaborative
   Stewardship Forum\nAllocated: 8.0h\nNote: EVENT: MAR10-11 Collaborative S
@@ -44,7 +44,7 @@ SUMMARY:AV2 - AV Tech (Mid Level) - MAR10-11 Collaborative Stewardship For
  um
 DTSTART;TZID=America/Dawson_Creek:20260311T080000
 DTEND;TZID=America/Dawson_Creek:20260311T160000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-3171@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: MAR10-11 Collaborative
   Stewardship Forum\nAllocated: 8.0h\nNote: EVENT: MAR10-11 Collaborative S
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Dawson_Creek:20260404T090000
 DTEND;TZID=America/Dawson_Creek:20260404T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4148@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nNote: \n\n\n\nSound in Town - James M
  annion
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR22 NLC Dawson - Dual Credit Night
 DTSTART;TZID=America/Dawson_Creek:20260422T090000
 DTEND;TZID=America/Dawson_Creek:20260422T173000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4037@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR22 NLC Dawson - Dual Credit
   Night\nAllocated: 8.0h\nNote: EVENT: APR22 NLC Dawson - Dual Credit Night
@@ -81,7 +81,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR24 Funeral Service at FS
  J Curling Rink
 DTSTART;TZID=America/Dawson_Creek:20260423T150000
 DTEND;TZID=America/Dawson_Creek:20260423T180059
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4318@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR24 Funer
  al Service at FSJ Curling Rink\nAllocated: 3.0h\nNote: EVENT: APR24 Funera
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR24 - South Peace Crime Prevention Symposium and AGM
 DTSTART;TZID=America/Dawson_Creek:20260423T180000
 DTEND;TZID=America/Dawson_Creek:20260423T190059
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4423@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR24 - South Peace Crime Prevention S
  ymposium and AGM\nNote: EVENT: APR24 - South Peace Crime Prevention Sympos
@@ -106,7 +106,7 @@ SUMMARY:A2 - Audio Assist - APR24 - South Peace Crime Prevention Symposium
   and AGM
 DTSTART;TZID=America/Dawson_Creek:20260424T060000
 DTEND;TZID=America/Dawson_Creek:20260424T070000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4281@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR24 - South Peace Crime Prev
  ention Symposium and AGM\nAllocated: 1.0h\nNote: EVENT: APR24 - South Peac
@@ -120,7 +120,7 @@ SUMMARY:AV2 - AV Tech (Mid Level) - APR24 - South Peace Crime Prevention S
  ymposium and AGM
 DTSTART;TZID=America/Dawson_Creek:20260424T080000
 DTEND;TZID=America/Dawson_Creek:20260424T170059
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4038@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: APR24 - South Peace Cr
  ime Prevention Symposium and AGM\nAllocated: 8.0h\nNote: EVENT: APR24 - So
@@ -133,7 +133,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - APR24 - South Peace Crime
  Prevention Symposium and AGM
 DTSTART;TZID=America/Dawson_Creek:20260424T170000
 DTEND;TZID=America/Dawson_Creek:20260424T200059
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-3883@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: APR24 - So
  uth Peace Crime Prevention Symposium and AGM\nAllocated: 3.0h\nNote: EVENT
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR24 - South Peace Crime Prevention Symposium and AGM
 DTSTART;TZID=America/Dawson_Creek:20260424T200000
 DTEND;TZID=America/Dawson_Creek:20260424T210059
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4282@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR24 - South Peace Crime Prevention S
  ymposium and AGM\nAllocated: 1.0h\nNote: EVENT: APR24 - South Peace Crime 
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR27 Saulteau FN - Swearing in Ceremony
 DTSTART;TZID=America/Dawson_Creek:20260427T120000
 DTEND;TZID=America/Dawson_Creek:20260427T234500
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4144@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR27 Saulteau FN - Swearing i
  n Ceremony\nAllocated: 8.0h\nNote: EVENT: APR27 Saulteau FN - Swearing in 
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Dawson_Creek:20260428T120000
 DTEND;TZID=America/Dawson_Creek:20260428T210000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4403@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
   Venue\n\nHelping Ripley prep the Fort Nelson trade show and maybe some Fi
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260429T090000
 DTEND;TZID=America/Dawson_Creek:20260429T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4462@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY02 Firefighters Ball\nAlloc
  ated: 8.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.soundintown.
@@ -194,7 +194,7 @@ SUMMARY:A2 - Audio Assist - MAY08 Dale Swanberg Celebration of Life at Cha
  rlie Lake Hall
 DTSTART;TZID=America/Dawson_Creek:20260507T100000
 DTEND;TZID=America/Dawson_Creek:20260507T130000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4522@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY08 Dale Swanberg Celebratio
  n of Life at Charlie Lake Hall\nAllocated: 3.0h\nNote: EVENT: MAY08 Dale S
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY08 - SD60 Indigenous Learning Day
 DTSTART;TZID=America/Dawson_Creek:20260507T130000
 DTEND;TZID=America/Dawson_Creek:20260507T210000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4571@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY08 - SD60 Indigenous Learni
  ng Day\nAllocated: 8.0h\nNote: EVENT: MAY08 - SD60 Indigenous Learning Day
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY13 - Petronas Town Hall
 DTSTART;TZID=America/Dawson_Creek:20260512T090000
 DTEND;TZID=America/Dawson_Creek:20260512T220059
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4120@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY13 - Pet
  ronas Town Hall\nAllocated: 8.0h\nNote: EVENT: MAY13 - Petronas Town Hall\
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY13 - Petronas Town Hall
 DTSTART;TZID=America/Dawson_Creek:20260514T090000
 DTEND;TZID=America/Dawson_Creek:20260514T120059
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4450@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY13 - Petronas Town Hall\nAl
  located: 3.0h\nNote: EVENT: MAY13 - Petronas Town Hall\nhttps://www.soundi
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY14 Ovintiv- Dawson Co-op AGM
 DTSTART;TZID=America/Dawson_Creek:20260514T120000
 DTEND;TZID=America/Dawson_Creek:20260514T220059
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-3969@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY14 Ovintiv- Dawson Co-op AG
  M\nAllocated: 8.0h\nNote: EVENT: MAY14 Ovintiv- Dawson Co-op AGM\nhttps://
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T070000
 DTEND;TZID=America/Dawson_Creek:20260523T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-3291@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY23 - Bluey Day\nAllocated: 
  8.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.com/r/kwQ\n\
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260526T090000
 DTEND;TZID=America/Dawson_Creek:20260526T210000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-2081@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY28 - NL
  C DC Convocation\nAllocated: 8.0h\nNote: EVENT: MAY28 - NLC DC Convocation
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260527T090000
 DTEND;TZID=America/Dawson_Creek:20260527T210000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-2085@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY28 - NL
  C DC Convocation\nAllocated: 8.0h\nNote: EVENT: MAY28 - NLC DC Convocation
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260528T090000
 DTEND;TZID=America/Dawson_Creek:20260528T210000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-3351@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY28 - NLC DC Convocation\nAl
  located: 8.0h\nNote: EVENT: MAY28 - NLC DC Convocation\nMEETING POINT: Ovi
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN19 - Tumbler Ridge Grad
 DTSTART;TZID=America/Dawson_Creek:20260617T090000
 DTEND;TZID=America/Dawson_Creek:20260620T170059
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4413@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN19 - Tumbler Ridge Grad\nAllo
  cated: 32.0h\nNote: EVENT: JUN19 - Tumbler Ridge Grad\nhttps://www.soundin
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - JUL03-05 Tumbler Ridge Medical Conference
 DTSTART;TZID=America/Dawson_Creek:20260703T090000
 DTEND;TZID=America/Dawson_Creek:20260705T170059
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4412@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL03-05 Tumbler Ridge Medical
   Conference\nAllocated: 24.0h\nNote: EVENT: JUL03-05 Tumbler Ridge Medical
@@ -327,7 +327,7 @@ SUMMARY:A2 - Audio Assist - JUL12-19 Prophet River First Nation Gathering
  of Drummers
 DTSTART;TZID=America/Dawson_Creek:20260715T090000
 DTEND;TZID=America/Dawson_Creek:20260715T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4294@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL12-19 Prophet River First N
  ation Gathering of Drummers\nAllocated: 8.0h\nNote: EVENT: JUL12-19 Prophe
@@ -340,7 +340,7 @@ SUMMARY:A2 - Audio Assist - JUL12-19 Prophet River First Nation Gathering
  of Drummers
 DTSTART;TZID=America/Dawson_Creek:20260716T090000
 DTEND;TZID=America/Dawson_Creek:20260716T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4295@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL12-19 Prophet River First N
  ation Gathering of Drummers\nAllocated: 8.0h\nNote: EVENT: JUL12-19 Prophe
@@ -353,7 +353,7 @@ SUMMARY:A2 - Audio Assist - JUL12-19 Prophet River First Nation Gathering
  of Drummers
 DTSTART;TZID=America/Dawson_Creek:20260717T090000
 DTEND;TZID=America/Dawson_Creek:20260717T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4296@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL12-19 Prophet River First N
  ation Gathering of Drummers\nAllocated: 8.0h\nNote: EVENT: JUL12-19 Prophe
@@ -366,7 +366,7 @@ SUMMARY:A2 - Audio Assist - JUL12-19 Prophet River First Nation Gathering
  of Drummers
 DTSTART;TZID=America/Dawson_Creek:20260718T090000
 DTEND;TZID=America/Dawson_Creek:20260718T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4297@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL12-19 Prophet River First N
  ation Gathering of Drummers\nAllocated: 8.0h\nNote: EVENT: JUL12-19 Prophe
@@ -379,7 +379,7 @@ SUMMARY:A2 - Audio Assist - JUL12-19 Prophet River First Nation Gathering
  of Drummers
 DTSTART;TZID=America/Dawson_Creek:20260719T090000
 DTEND;TZID=America/Dawson_Creek:20260719T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4298@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL12-19 Prophet River First N
  ation Gathering of Drummers\nAllocated: 8.0h\nNote: EVENT: JUL12-19 Prophe
@@ -392,7 +392,7 @@ SUMMARY:A2 - Audio Assist - JUL12-19 Prophet River First Nation Gathering
  of Drummers
 DTSTART;TZID=America/Dawson_Creek:20260720T090000
 DTEND;TZID=America/Dawson_Creek:20260720T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4299@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL12-19 Prophet River First N
  ation Gathering of Drummers\nAllocated: 8.0h\nNote: EVENT: JUL12-19 Prophe
@@ -405,7 +405,7 @@ SUMMARY:SET/STR4 - Event Helper - AUG29 - Conuma 10 Year Anniversary Party
   & BBQs (2 of 2)
 DTSTART;TZID=America/Dawson_Creek:20260829T090000
 DTEND;TZID=America/Dawson_Creek:20260829T235959
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-4416@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: AUG29 - Conuma 10 Year A
  nniversary Party & BBQs (2 of 2)\nAllocated: 8.0h\nNote: EVENT: AUG29 - Co
@@ -417,7 +417,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - SEP22-24 Healing The Land
  Conference AV
 DTSTART;TZID=America/Dawson_Creek:20260921T090000
 DTEND;TZID=America/Dawson_Creek:20260921T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-2800@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: SEP22-24 H
  ealing The Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Heal
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - SEP22-24 Healing The Land Conference AV
 DTSTART;TZID=America/Dawson_Creek:20260922T090000
 DTEND;TZID=America/Dawson_Creek:20260922T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-2795@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: SEP22-24 Healing The Land C
  onference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Healing The Land Conf
@@ -440,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - SEP22-24 Healing The Land Conference AV
 DTSTART;TZID=America/Dawson_Creek:20260923T090000
 DTEND;TZID=America/Dawson_Creek:20260923T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-2798@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: SEP22-24 Healing The Land C
  onference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Healing The Land Conf
@@ -452,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - SEP22-24 Healing The Land Conference AV
 DTSTART;TZID=America/Dawson_Creek:20260924T090000
 DTEND;TZID=America/Dawson_Creek:20260924T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-2799@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: SEP22-24 Healing The Land C
  onference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Healing The Land Conf
@@ -465,7 +465,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - SEP22-24 Healing The Land
  Conference AV
 DTSTART;TZID=America/Dawson_Creek:20260925T090000
 DTEND;TZID=America/Dawson_Creek:20260925T170000
-DTSTAMP:20260505T211335Z
+DTSTAMP:20260506T040316Z
 UID:planning-slot-2801@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: SEP22-24 H
  ealing The Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Heal
