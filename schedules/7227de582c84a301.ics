@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260505T110000
 DTEND;TZID=America/Dawson_Creek:20260505T140000
-DTSTAMP:20260507T144843Z
+DTSTAMP:20260507T175741Z
 UID:planning-slot-4586@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\nDrape folding extravaganza\n\nSound in To
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY08 - SD60 Indigenous Learning Day
 DTSTART;TZID=America/Dawson_Creek:20260507T153000
 DTEND;TZID=America/Dawson_Creek:20260507T220000
-DTSTAMP:20260507T144843Z
+DTSTAMP:20260507T175741Z
 UID:planning-slot-4600@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY08 - SD60 Indigenous 
  Learning Day\nAllocated: 6.5h\nNote: EVENT: MAY08 - SD60 Indigenous Learni
@@ -39,12 +39,25 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY08 - SD60 Indigenous Learning Day
 DTSTART;TZID=America/Dawson_Creek:20260508T150000
 DTEND;TZID=America/Dawson_Creek:20260508T220059
-DTSTAMP:20260507T144843Z
+DTSTAMP:20260507T175741Z
 UID:planning-slot-4601@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY08 - SD60 Indigenous 
  Learning Day\nAllocated: 7.0h\nNote: EVENT: MAY08 - SD60 Indigenous Learni
  ng Day\nhttps://www.soundintown.com/r/cwm\nMEETING POINT: NPSS Gymnasium\n
  \n\n\nSound in Town - Judah Kay
 LOCATION:North Peace Secondary School - NPSS Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WH4 - Warehouse Helper - MAY08 - Reynars Connie Patterson 1PM Serv
+ ice
+DTSTART;TZID=America/Dawson_Creek:20260510T090000
+DTEND;TZID=America/Dawson_Creek:20260510T160000
+DTSTAMP:20260507T175741Z
+UID:planning-slot-4620@soundintown.com
+DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY08 - Reynars Connie Pa
+ tterson 1PM Service\nAllocated: 7.0h\nNote: EVENT: MAY08 - Reynars Connie 
+ Patterson 1PM Service\nhttps://www.soundintown.com/r/rOi\nMEETING POINT: S
+ ound In Town Warehouse\n\n\n\nSound in Town - Judah Kay
+LOCATION:Dawson Creek Memorial arena
 END:VEVENT
 END:VCALENDAR
