@@ -18,7 +18,7 @@ SUMMARY:SET/STR4 - Event Helper - MAR11-12 Cargill ThinkTank 2026 - Delta
  Downtown (Saskatoon\, SK)
 DTSTART;TZID=America/Regina:20260310T100000
 DTEND;TZID=America/Regina:20260310T180000
-DTSTAMP:20260509T094315Z
+DTSTAMP:20260509T135132Z
 UID:planning-slot-3237@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR11-12 Cargill ThinkTa
  nk 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 8.0h\nNote: EVENT: M
@@ -32,7 +32,7 @@ SUMMARY:SET/STR4 - Event Helper - MAR11-12 Cargill ThinkTank 2026 - Delta
  Downtown (Saskatoon\, SK)
 DTSTART;TZID=America/Regina:20260312T170000
 DTEND;TZID=America/Regina:20260312T220059
-DTSTAMP:20260509T094315Z
+DTSTAMP:20260509T135132Z
 UID:planning-slot-3240@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAR11-12 Cargill ThinkTa
  nk 2026 - Delta Downtown (Saskatoon\, SK)\nAllocated: 5.0h\nNote: EVENT: M
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:AV2 - AV Tech (Mid Level) - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=America/Regina:20260608T100000
 DTEND;TZID=America/Regina:20260609T000059
-DTSTAMP:20260509T094315Z
+DTSTAMP:20260509T135132Z
 UID:planning-slot-4524@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: JUN08 - Terry Fator Co
  medy Show\nAllocated: 8.0h\nNote: EVENT: JUN08 - Terry Fator Comedy Show\n
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=America/Regina:20260609T100000
 DTEND;TZID=America/Regina:20260609T220059
-DTSTAMP:20260509T094315Z
+DTSTAMP:20260509T135132Z
 UID:planning-slot-3347@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN08 - Terry Fator Come
  dy Show\nAllocated: 8.0h\nNote: EVENT: JUN08 - Terry Fator Comedy Show\nht
