@@ -14,17 +14,30 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CO - Camera Operator - JAN30-31 Wild Sheep Northern Fundraiser 202
- 6
-DTSTART;TZID=America/Dawson_Creek:20260131T183000
-DTEND;TZID=America/Dawson_Creek:20260201T023000
-DTSTAMP:20260401T171031Z
-UID:planning-slot-1977@soundintown.com
-DESCRIPTION:Role: CO - Camera Operator\nEvent: JAN30-31 Wild Sheep Norther
- n Fundraiser 2026\nAllocated: 2.5h\nNote: EVENT: JAN30-31 Wild Sheep North
- ern Fundraiser 2026\nhttps://www.soundintown.com/model/showbook/jan30-31-w
- ild-sheep-northern-fundraiser-2026-726\n\nYou will start Strike after you 
- finish on camera for the evening\n\n\n\nSound in Town - Aden Fulford
-LOCATION:Ovintiv Events Centre - Main Arena Floor
+SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY23 Northern Classic 2026
+  GP
+DTSTART;TZID=America/Dawson_Creek:20260522T100000
+DTEND;TZID=America/Dawson_Creek:20260522T180000
+DTSTAMP:20260511T214053Z
+UID:planning-slot-4659@soundintown.com
+DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY23 North
+ ern Classic 2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23 Northern Classic 
+ 2026 GP\nhttps://www.soundintown.com/r/NcK\nMEETING POINT: Pomeroy Lodging
+  LP o/a GP Pomeroy Hotel\n\n\n\nSound in Town - Aden Fulford
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY23 Northern Classic 2026
+  GP
+DTSTART;TZID=America/Dawson_Creek:20260524T090000
+DTEND;TZID=America/Dawson_Creek:20260524T210000
+DTSTAMP:20260511T214053Z
+UID:planning-slot-4660@soundintown.com
+DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY23 North
+ ern Classic 2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23 Northern Classic 
+ 2026 GP\nhttps://www.soundintown.com/r/NcK\nMEETING POINT: Pomeroy Lodging
+  LP o/a GP Pomeroy Hotel\n\nTimes still rough\n\nSound in Town - Aden Fulf
+ ord
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 END:VCALENDAR
