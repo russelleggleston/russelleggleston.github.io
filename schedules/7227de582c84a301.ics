@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260505T110000
 DTEND;TZID=America/Dawson_Creek:20260505T140000
-DTSTAMP:20260511T043507Z
+DTSTAMP:20260511T113532Z
 UID:planning-slot-4586@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\nDrape folding extravaganza\n\nSound in To
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY08 - SD60 Indigenous Learning Day
 DTSTART;TZID=America/Dawson_Creek:20260507T153000
 DTEND;TZID=America/Dawson_Creek:20260507T220000
-DTSTAMP:20260511T043507Z
+DTSTAMP:20260511T113532Z
 UID:planning-slot-4600@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY08 - SD60 Indigenous 
  Learning Day\nAllocated: 6.5h\nNote: EVENT: MAY08 - SD60 Indigenous Learni
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY08 - SD60 Indigenous Learning Day
 DTSTART;TZID=America/Dawson_Creek:20260508T150000
 DTEND;TZID=America/Dawson_Creek:20260508T180059
-DTSTAMP:20260511T043507Z
+DTSTAMP:20260511T113532Z
 UID:planning-slot-4601@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY08 - SD60 Indigenous 
  Learning Day\nAllocated: 3.0h\nNote: EVENT: MAY08 - SD60 Indigenous Learni
@@ -52,7 +52,7 @@ SUMMARY:WH4 - Warehouse Helper - MAY05-06 Margaret Ma Pipe and Drape & Lig
  hts
 DTSTART;TZID=America/Dawson_Creek:20260509T120000
 DTEND;TZID=America/Dawson_Creek:20260509T160059
-DTSTAMP:20260511T043507Z
+DTSTAMP:20260511T113532Z
 UID:planning-slot-4626@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY05-06 Margaret Ma Pipe
   and Drape & Lights\nAllocated: 4.0h\nNote: EVENT: MAY05-06 Margaret Ma Pi
@@ -65,7 +65,7 @@ SUMMARY:WH4 - Warehouse Helper - MAY08 - Reynars Connie Patterson 1PM Serv
  ice
 DTSTART;TZID=America/Dawson_Creek:20260510T090000
 DTEND;TZID=America/Dawson_Creek:20260510T160000
-DTSTAMP:20260511T043507Z
+DTSTAMP:20260511T113532Z
 UID:planning-slot-4620@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY08 - Reynars Connie Pa
  tterson 1PM Service\nAllocated: 7.0h\nNote: EVENT: MAY08 - Reynars Connie 
