@@ -18,11 +18,39 @@ SUMMARY:SET/STR4 - Event Helper - MAY08 - Drape for Connie Patterson Funer
  al
 DTSTART;TZID=America/Dawson_Creek:20260506T150000
 DTEND;TZID=America/Dawson_Creek:20260506T210000
-DTSTAMP:20260511T153453Z
+DTSTAMP:20260511T180330Z
 UID:planning-slot-4584@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY08 - Drape for Connie
   Patterson Funeral\nAllocated: 6.0h\nNote: EVENT: MAY08 - Drape for Connie
   Patterson Funeral\nhttps://www.soundintown.com/r/3AN\nMEETING POINT: Venu
  e\n\n\n\nSound in Town - Natali Wisekal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - MAY14 - Pathways to Indigenous Futures 2
+ 026
+DTSTART;TZID=America/Dawson_Creek:20260513T130000
+DTEND;TZID=America/Dawson_Creek:20260513T200000
+DTSTAMP:20260511T180330Z
+UID:planning-slot-4589@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY14 - Pathways to Indi
+ genous Futures 2026\nAllocated: 7.0h\nNote: EVENT: MAY14 - Pathways to Ind
+ igenous Futures 2026\nhttps://www.soundintown.com/r/O28\nMEETING POINT: No
+ rthern Lights College Dawson Creek Campus\n\n\n\nSound in Town - Natali Wi
+ sekal
+LOCATION:Northern Lights College Dawson Creek Campus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - MAY14 - Pathways to Indigenous Futures 2
+ 026
+DTSTART;TZID=America/Dawson_Creek:20260514T130000
+DTEND;TZID=America/Dawson_Creek:20260514T163000
+DTSTAMP:20260511T180330Z
+UID:planning-slot-4646@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY14 - Pathways to Indi
+ genous Futures 2026\nAllocated: 3.5h\nNote: EVENT: MAY14 - Pathways to Ind
+ igenous Futures 2026\nhttps://www.soundintown.com/r/O28\nMEETING POINT: No
+ rthern Lights College Dawson Creek Campus\n\n\n\nSound in Town - Natali Wi
+ sekal
+LOCATION:Northern Lights College Dawson Creek Campus
 END:VEVENT
 END:VCALENDAR
