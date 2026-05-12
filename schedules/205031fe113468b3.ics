@@ -18,7 +18,7 @@ SUMMARY:SET/STR4 - Event Helper - MAY08 - Drape for Connie Patterson Funer
  al
 DTSTART;TZID=America/Dawson_Creek:20260506T150000
 DTEND;TZID=America/Dawson_Creek:20260506T210000
-DTSTAMP:20260511T214105Z
+DTSTAMP:20260512T040351Z
 UID:planning-slot-4584@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY08 - Drape for Connie
   Patterson Funeral\nAllocated: 6.0h\nNote: EVENT: MAY08 - Drape for Connie
@@ -26,17 +26,17 @@ DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY08 - Drape for Connie
  e\n\n\n\nSound in Town - Natali Wisekal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - MAY14 - Pathways to Indigenous Futures 2
- 026
-DTSTART;TZID=America/Dawson_Creek:20260513T113000
-DTEND;TZID=America/Dawson_Creek:20260513T200000
-DTSTAMP:20260511T214105Z
-UID:planning-slot-4589@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY14 - Pathways to Indi
- genous Futures 2026\nAllocated: 8.0h\nNote: EVENT: MAY14 - Pathways to Ind
- igenous Futures 2026\nhttps://www.soundintown.com/r/O28\nMEETING POINT: No
- rthern Lights College Dawson Creek Campus\n\n\n\nSound in Town - Natali Wi
- sekal
+SUMMARY:SET/STR1 - Setup & Strike Technician - MAY14 - Pathways to Indigen
+ ous Futures 2026
+DTSTART;TZID=America/Dawson_Creek:20260512T170000
+DTEND;TZID=America/Dawson_Creek:20260512T220000
+DTSTAMP:20260512T040351Z
+UID:planning-slot-4664@soundintown.com
+DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY14 - Pat
+ hways to Indigenous Futures 2026\nNote: EVENT: MAY14 - Pathways to Indigen
+ ous Futures 2026\nhttps://www.soundintown.com/r/O28\nMEETING POINT: Northe
+ rn Lights College Dawson Creek Campus\n\n\n\nSound in Town - Natali Wiseka
+ l
 LOCATION:Northern Lights College Dawson Creek Campus
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +44,7 @@ SUMMARY:SET/STR4 - Event Helper - MAY14 - Pathways to Indigenous Futures 2
  026
 DTSTART;TZID=America/Dawson_Creek:20260514T133000
 DTEND;TZID=America/Dawson_Creek:20260514T183000
-DTSTAMP:20260511T214105Z
+DTSTAMP:20260512T040351Z
 UID:planning-slot-4646@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY14 - Pathways to Indi
  genous Futures 2026\nAllocated: 5.0h\nNote: EVENT: MAY14 - Pathways to Ind
