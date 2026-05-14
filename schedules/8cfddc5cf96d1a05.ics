@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Dawson_Creek:20260521T080000
 DTEND;TZID=America/Dawson_Creek:20260521T160000
-DTSTAMP:20260514T143913Z
+DTSTAMP:20260514T180657Z
 UID:planning-slot-4603@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY23 Mine Rescue BC (Penticto
  n)\nAllocated: 8.0h\nNote: EVENT: MAY23 Mine Rescue BC (Penticton)\nhttps:
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Dawson_Creek:20260522T080000
 DTEND;TZID=America/Dawson_Creek:20260522T200000
-DTSTAMP:20260514T143913Z
+DTSTAMP:20260514T180657Z
 UID:planning-slot-4604@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY23 Mine Rescue BC (Penticto
  n)\nAllocated: 8.0h\nNote: EVENT: MAY23 Mine Rescue BC (Penticton)\nhttps:
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Dawson_Creek:20260523T080000
 DTEND;TZID=America/Dawson_Creek:20260523T200000
-DTSTAMP:20260514T143913Z
+DTSTAMP:20260514T180657Z
 UID:planning-slot-4605@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY23 Mine Rescue BC (Penticto
  n)\nAllocated: 8.0h\nNote: EVENT: MAY23 Mine Rescue BC (Penticton)\nhttps:
@@ -56,64 +56,12 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - MAY23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Dawson_Creek:20260524T080000
 DTEND;TZID=America/Dawson_Creek:20260524T200000
-DTSTAMP:20260514T143913Z
+DTSTAMP:20260514T180657Z
 UID:planning-slot-4606@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY23 Mine Rescue BC (Penticto
  n)\nAllocated: 8.0h\nNote: EVENT: MAY23 Mine Rescue BC (Penticton)\nhttps:
  //www.soundintown.com/r/0Si\nMEETING POINT: Penticton Trade and Convention
   Center\n\nFinish strike and head home\n\nSound in Town - Lukas Bellamy
 LOCATION:Penticton Trade and Convention Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A1 - Audio Tech - JUN04-07 - Prophet River First Nation Treaty Day
- s
-DTSTART;TZID=America/Dawson_Creek:20260604T090000
-DTEND;TZID=America/Dawson_Creek:20260604T170000
-DTSTAMP:20260514T143913Z
-UID:planning-slot-4433@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN04-07 - Prophet River First N
- ation Treaty Days\nAllocated: 8.0h\nNote: EVENT: JUN04-07 - Prophet River 
- First Nation Treaty Days\nhttps://www.soundintown.com/r/iVe\nMEETING POINT
- : Venue\n\nAuto planned shift. May need to be adjusted by planning.\n\nSou
- nd in Town - Lukas Bellamy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A1 - Audio Tech - JUN04-07 - Prophet River First Nation Treaty Day
- s
-DTSTART;TZID=America/Dawson_Creek:20260605T090000
-DTEND;TZID=America/Dawson_Creek:20260605T170000
-DTSTAMP:20260514T143913Z
-UID:planning-slot-4426@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN04-07 - Prophet River First N
- ation Treaty Days\nAllocated: 8.0h\nNote: EVENT: JUN04-07 - Prophet River 
- First Nation Treaty Days\nhttps://www.soundintown.com/r/iVe\nMEETING POINT
- : Venue\n\nAuto planned shift. May need to be adjusted by planning.\n\nSou
- nd in Town - Lukas Bellamy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A1 - Audio Tech - JUN04-07 - Prophet River First Nation Treaty Day
- s
-DTSTART;TZID=America/Dawson_Creek:20260606T090000
-DTEND;TZID=America/Dawson_Creek:20260606T170000
-DTSTAMP:20260514T143913Z
-UID:planning-slot-4432@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN04-07 - Prophet River First N
- ation Treaty Days\nAllocated: 8.0h\nNote: EVENT: JUN04-07 - Prophet River 
- First Nation Treaty Days\nhttps://www.soundintown.com/r/iVe\nMEETING POINT
- : Venue\n\nAuto planned shift. May need to be adjusted by planning.\n\nSou
- nd in Town - Lukas Bellamy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A1 - Audio Tech - JUN04-07 - Prophet River First Nation Treaty Day
- s
-DTSTART;TZID=America/Dawson_Creek:20260607T090000
-DTEND;TZID=America/Dawson_Creek:20260607T170000
-DTSTAMP:20260514T143913Z
-UID:planning-slot-4607@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN04-07 - Prophet River First N
- ation Treaty Days\nAllocated: 8.0h\nNote: EVENT: JUN04-07 - Prophet River 
- First Nation Treaty Days\nhttps://www.soundintown.com/r/iVe\nMEETING POINT
- : Venue\n\nAuto planned shift. May need to be adjusted by planning.\n\nSou
- nd in Town - Lukas Bellamy
 END:VEVENT
 END:VCALENDAR
