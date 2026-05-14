@@ -18,7 +18,7 @@ SUMMARY:SET/STR4 - Event Helper - MAY08 - Drape for Connie Patterson Funer
  al
 DTSTART;TZID=America/Dawson_Creek:20260506T150000
 DTEND;TZID=America/Dawson_Creek:20260506T210000
-DTSTAMP:20260513T214408Z
+DTSTAMP:20260514T041122Z
 UID:planning-slot-4584@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY08 - Drape for Connie
   Patterson Funeral\nAllocated: 6.0h\nNote: EVENT: MAY08 - Drape for Connie
@@ -30,7 +30,7 @@ SUMMARY:SET/STR4 - Event Helper - MAY14 - Pathways to Indigenous Futures 2
  026
 DTSTART;TZID=America/Dawson_Creek:20260513T100000
 DTEND;TZID=America/Dawson_Creek:20260513T140000
-DTSTAMP:20260513T214408Z
+DTSTAMP:20260514T041122Z
 UID:planning-slot-4670@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY14 - Pathways to Indi
  genous Futures 2026\nAllocated: 4.0h\nNote: EVENT: MAY14 - Pathways to Ind
@@ -44,7 +44,7 @@ SUMMARY:SET/STR4 - Event Helper - MAY14 - Pathways to Indigenous Futures 2
  026
 DTSTART;TZID=America/Dawson_Creek:20260514T133000
 DTEND;TZID=America/Dawson_Creek:20260514T183000
-DTSTAMP:20260513T214408Z
+DTSTAMP:20260514T041122Z
 UID:planning-slot-4646@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY14 - Pathways to Indi
  genous Futures 2026\nAllocated: 5.0h\nNote: EVENT: MAY14 - Pathways to Ind
