@@ -14,29 +14,27 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY23 Mine Rescue BC (Pent
- icton)
+SUMMARY:SET/STR4 - Event Helper - MAY23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Dawson_Creek:20260522T080000
 DTEND;TZID=America/Dawson_Creek:20260522T160000
-DTSTAMP:20260518T180931Z
+DTSTAMP:20260518T213711Z
 UID:planning-slot-3906@soundintown.com
-DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY23 Mine
-  Rescue BC (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY22-23 Mine Rescue
-  BC (Penticton)\nhttps://www.soundintown.com/r/0Si\n\n\n\nSound in Town - 
- Calvin Senger
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 Mine Rescue BC (Pe
+ nticton)\nAllocated: 8.0h\nNote: EVENT: MAY23 Mine Rescue BC (Penticton)\n
+ https://www.soundintown.com/r/0Si\nMEETING POINT: Penticton Trade and Conv
+ ention Center\n\n\n\nSound in Town - Calvin Senger
 LOCATION:Penticton Trade and Convention Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY23 Mine Rescue BC (Pent
- icton)
+SUMMARY:SET/STR4 - Event Helper - MAY23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Dawson_Creek:20260524T080000
 DTEND;TZID=America/Dawson_Creek:20260524T140000
-DTSTAMP:20260518T180931Z
+DTSTAMP:20260518T213711Z
 UID:planning-slot-3907@soundintown.com
-DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY23 Mine
-  Rescue BC (Penticton)\nAllocated: 6.0h\nNote: EVENT: MAY23 Mine Rescue BC
-  (Penticton)\nhttps://www.soundintown.com/r/0Si\nMEETING POINT: Penticton 
- Trade and Convention Center\n\n\n\nSound in Town - Calvin Senger
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 Mine Rescue BC (Pe
+ nticton)\nAllocated: 6.0h\nNote: EVENT: MAY23 Mine Rescue BC (Penticton)\n
+ https://www.soundintown.com/r/0Si\nMEETING POINT: Penticton Trade and Conv
+ ention Center\n\n\n\nSound in Town - Calvin Senger
 LOCATION:Penticton Trade and Convention Center
 END:VEVENT
 END:VCALENDAR
