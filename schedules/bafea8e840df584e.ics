@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Dawson_Creek:20260331T080000
 DTEND;TZID=America/Dawson_Creek:20260331T160000
-DTSTAMP:20260519T154752Z
+DTSTAMP:20260519T181504Z
 UID:planning-slot-4158@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\n\nSound in Town - Ja
  son Pratt
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Dawson_Creek:20260401T080000
 DTEND;TZID=America/Dawson_Creek:20260401T160000
-DTSTAMP:20260519T154752Z
+DTSTAMP:20260519T181504Z
 UID:planning-slot-4159@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\n\nSound in Town - Ja
  son Pratt
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Dawson_Creek:20260402T080000
 DTEND;TZID=America/Dawson_Creek:20260402T160000
-DTSTAMP:20260519T154752Z
+DTSTAMP:20260519T181504Z
 UID:planning-slot-4160@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\n\nSound in Town - Ja
  son Pratt
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Installation Tech - APR03 - NRM Install
 DTSTART;TZID=America/Dawson_Creek:20260403T100000
 DTEND;TZID=America/Dawson_Creek:20260403T220059
-DTSTAMP:20260519T154752Z
+DTSTAMP:20260519T181504Z
 UID:planning-slot-4147@soundintown.com
 DESCRIPTION:Role: Installation Tech\nEvent: APR03 - NRM Install\nAllocated
  : 8.0h\nNote: EVENT: APR03 - NRM Install\nhttps://www.soundintown.com/r/9W
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - APR07 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20260407T080000
 DTEND;TZID=America/Dawson_Creek:20260407T180000
-DTSTAMP:20260519T154752Z
+DTSTAMP:20260519T181504Z
 UID:planning-slot-4165@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: APR07 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: APR07 - Standby Crew\nhttps://www.soundintown.com
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - APR07 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20260408T080000
 DTEND;TZID=America/Dawson_Creek:20260408T180000
-DTSTAMP:20260519T154752Z
+DTSTAMP:20260519T181504Z
 UID:planning-slot-4213@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: APR07 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: APR07 - Standby Crew\nhttps://www.soundintown.com
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260411T090000
 DTEND;TZID=America/Dawson_Creek:20260411T220000
-DTSTAMP:20260519T154752Z
+DTSTAMP:20260519T181504Z
 UID:planning-slot-4141@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nhttps://ww
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260412T090000
 DTEND;TZID=America/Dawson_Creek:20260412T210000
-DTSTAMP:20260519T154752Z
+DTSTAMP:20260519T181504Z
 UID:planning-slot-4138@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nhttps://ww
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Dawson_Creek:20260413T080000
 DTEND;TZID=America/Dawson_Creek:20260413T120059
-DTSTAMP:20260519T154752Z
+DTSTAMP:20260519T181504Z
 UID:planning-slot-3161@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260413T120000
 DTEND;TZID=America/Dawson_Creek:20260413T200000
-DTSTAMP:20260519T154752Z
+DTSTAMP:20260519T181504Z
 UID:planning-slot-4140@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nhttps://ww
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260522T170000
 DTEND;TZID=America/Dawson_Creek:20260522T210000
-DTSTAMP:20260519T154752Z
+DTSTAMP:20260519T181504Z
 UID:planning-slot-4378@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY23 - Bl
  uey Day\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.com/r/kwQ
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T070000
 DTEND;TZID=America/Dawson_Creek:20260523T170000
-DTSTAMP:20260519T154752Z
+DTSTAMP:20260519T181504Z
 UID:planning-slot-2471@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY23 - Bl
  uey Day\nAllocated: 8.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soun
