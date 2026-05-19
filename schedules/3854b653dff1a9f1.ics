@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260513T093000
 DTEND;TZID=America/Dawson_Creek:20260513T183000
-DTSTAMP:20260519T181512Z
+DTSTAMP:20260519T214421Z
 UID:planning-slot-4642@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 8.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260514T093000
 DTEND;TZID=America/Dawson_Creek:20260514T183000
-DTSTAMP:20260519T181512Z
+DTSTAMP:20260519T214421Z
 UID:planning-slot-4643@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 8.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260515T093000
 DTEND;TZID=America/Dawson_Creek:20260515T183000
-DTSTAMP:20260519T181512Z
+DTSTAMP:20260519T214421Z
 UID:planning-slot-4644@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 8.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260516T093000
 DTEND;TZID=America/Dawson_Creek:20260516T183000
-DTSTAMP:20260519T181512Z
+DTSTAMP:20260519T214421Z
 UID:planning-slot-4645@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 8.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260520T090000
 DTEND;TZID=America/Dawson_Creek:20260520T180000
-DTSTAMP:20260519T181512Z
+DTSTAMP:20260519T214421Z
 UID:planning-slot-4723@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 8.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260521T090000
 DTEND;TZID=America/Dawson_Creek:20260521T180000
-DTSTAMP:20260519T181512Z
+DTSTAMP:20260519T214421Z
 UID:planning-slot-4724@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 8.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -72,7 +72,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - MAY21 City of FSJ - Mental Health Conf
  erence
 DTSTART;TZID=America/Dawson_Creek:20260522T093000
 DTEND;TZID=America/Dawson_Creek:20260522T180000
-DTSTAMP:20260519T181512Z
+DTSTAMP:20260519T214421Z
 UID:planning-slot-3622@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY21 City of FSJ - Me
  ntal Health Conference\nAllocated: 8.0h\nNote: EVENT: MAY21 City of FSJ - 
@@ -85,7 +85,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - MAY22 FSJ BEO Meeting BlueberryFN/#15
  001-1
 DTSTART;TZID=America/Dawson_Creek:20260522T163000
 DTEND;TZID=America/Dawson_Creek:20260522T173059
-DTSTAMP:20260519T181512Z
+DTSTAMP:20260519T214421Z
 UID:planning-slot-4710@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: MAY22 FSJ BEO Meeting
   BlueberryFN/#15001-1\nAllocated: 1.0h\nNote: EVENT: MAY22 FSJ BEO Meeting
@@ -98,12 +98,48 @@ SUMMARY:WH3 - Warehouse Shop Hand - MAY21 City of FSJ - Mental Health Conf
  erence
 DTSTART;TZID=America/Dawson_Creek:20260523T090000
 DTEND;TZID=America/Dawson_Creek:20260523T180000
-DTSTAMP:20260519T181512Z
+DTSTAMP:20260519T214421Z
 UID:planning-slot-4725@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY21 City of FSJ - Me
  ntal Health Conference\nAllocated: 8.0h\nNote: EVENT: MAY21 City of FSJ - 
  Mental Health Conference\nhttps://www.soundintown.com/r/SDz\nMEETING POINT
  : Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
 LOCATION:Pomeroy Hotel Fort St. John
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WH4 - Warehouse Helper
+DTSTART;TZID=America/Dawson_Creek:20260527T090000
+DTEND;TZID=America/Dawson_Creek:20260527T180000
+DTSTAMP:20260519T214421Z
+UID:planning-slot-4768@soundintown.com
+DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 8.0h\nNote: MEETING P
+ OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WH4 - Warehouse Helper
+DTSTART;TZID=America/Dawson_Creek:20260528T090000
+DTEND;TZID=America/Dawson_Creek:20260528T180000
+DTSTAMP:20260519T214421Z
+UID:planning-slot-4769@soundintown.com
+DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 8.0h\nNote: MEETING P
+ OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WH4 - Warehouse Helper
+DTSTART;TZID=America/Dawson_Creek:20260529T090000
+DTEND;TZID=America/Dawson_Creek:20260529T180000
+DTSTAMP:20260519T214421Z
+UID:planning-slot-4770@soundintown.com
+DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 8.0h\nNote: MEETING P
+ OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WH4 - Warehouse Helper
+DTSTART;TZID=America/Dawson_Creek:20260530T090000
+DTEND;TZID=America/Dawson_Creek:20260530T180000
+DTSTAMP:20260519T214421Z
+UID:planning-slot-4771@soundintown.com
+DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 8.0h\nNote: MEETING P
+ OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
 END:VEVENT
 END:VCALENDAR
