@@ -25,36 +25,36 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260412T170000
 DTEND;TZID=America/Edmonton:20260412T210059
-DTSTAMP:20260520T220315Z
+DTSTAMP:20260521T044224Z
 UID:planning-slot-3111@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
- ow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
- soundintown.com/r/zDr\n\nMEET AT KEYERA PLACE\n\nSound in Town - Kayla Pel
- grim
+ ow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING POIN
+ T: Keyera Place Grande Prairie\n\nMEET AT KEYERA PLACE\n\nSound in Town - 
+ Kayla Pelgrim
 LOCATION:Keyera Place Grande Prairie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260413T220000
 DTEND;TZID=America/Edmonton:20260414T000059
-DTSTAMP:20260520T220315Z
+DTSTAMP:20260521T044224Z
 UID:planning-slot-4343@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
- ow\nAllocated: 0.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
- soundintown.com/r/zDr\n\nMEET AT KEYERA PLACE\n\nSound in Town - Kayla Pel
- grim
+ ow\nAllocated: 0.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING POIN
+ T: Keyera Place Grande Prairie\n\nMEET AT KEYERA PLACE\n\nSound in Town - 
+ Kayla Pelgrim
 LOCATION:Keyera Place Grande Prairie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260416T130000
 DTEND;TZID=America/Edmonton:20260416T190059
-DTSTAMP:20260520T220315Z
+DTSTAMP:20260521T044224Z
 UID:planning-slot-4348@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: APR16 Pomeroy GP Pembina To
  wnhall 2026\nAllocated: 6.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townha
- ll 2026\nhttps://www.soundintown.com/r/Ylw\n\n\n\nSound in Town - Kayla Pe
- lgrim
+ ll 2026\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Kay
+ la Pelgrim
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
 END:VEVENT
 END:VCALENDAR

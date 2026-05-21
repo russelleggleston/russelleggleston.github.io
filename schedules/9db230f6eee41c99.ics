@@ -25,22 +25,22 @@ BEGIN:VEVENT
 SUMMARY:Shift - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260410T080000
 DTEND;TZID=America/Edmonton:20260410T123059
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-3769@soundintown.com
 DESCRIPTION:Role: Shift\nEvent: APR12-15 AARFP 47th Conference\nAllocated:
-  4.5h\nNote: EVENT: APR12-15 AARFP 47th Conference\nhttps://www.soundintow
- n.com/r/1Y1\n\nFlight from YEG-FSJ v2\n\nSound in Town - Amanda Robinson
+  4.5h\nNote: EVENT: APR12-15 AARFP 47th Conference\n\nFlight from YEG-FSJ 
+ v2\n\nSound in Town - Amanda Robinson
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transport - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260410T140000
 DTEND;TZID=America/Edmonton:20260410T170059
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-3772@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR12-15 AARFP 47th Conference\nAlloca
- ted: 3.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nhttps://www.soundi
- ntown.com/r/1Y1\n\nDRIVE TO GP\n\nSound in Town - Amanda Robinson
+ ted: 3.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nMEETING POINT: Sou
+ nd In Town Warehouse\n\nDRIVE TO GP\n\nSound in Town - Amanda Robinson
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 BEGIN:VEVENT
@@ -48,12 +48,12 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR12-15 AARFP 47th Confere
  nce
 DTSTART;TZID=America/Edmonton:20260410T170000
 DTEND;TZID=America/Edmonton:20260410T200059
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-3768@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR12-15 AA
  RFP 47th Conference\nAllocated: 3.0h\nNote: EVENT: APR12-15 AARFP 47th Con
- ference\nhttps://www.soundintown.com/r/1Y1\n\nUNLOAD TRUCK WITH RUSS IN GP
-  AT THE POMEROY\n\nSound in Town - Amanda Robinson
+ ference\nMEETING POINT: Pomeroy Lodging LP o/a GP Pomeroy Hotel\n\nUNLOAD 
+ TRUCK WITH RUSS IN GP AT THE POMEROY\n\nSound in Town - Amanda Robinson
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 BEGIN:VEVENT
@@ -61,142 +61,145 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - APR12-15 AARFP 47th Confer
  ence
 DTSTART;TZID=America/Edmonton:20260411T080000
 DTEND;TZID=America/Edmonton:20260411T170000
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-2545@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: APR12-15 A
  ARFP 47th Conference\nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Co
- nference\nhttps://www.soundintown.com/r/1Y1\n\n\n\nSound in Town - Amanda 
- Robinson
+ nference\nMEETING POINT: Pomeroy Lodging LP o/a GP Pomeroy Hotel\n\n\n\nSo
+ und in Town - Amanda Robinson
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260412T100000
 DTEND;TZID=America/Edmonton:20260412T140000
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-2035@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
- \nAllocated: 4.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nhttps://ww
- w.soundintown.com/r/1Y1\n\n\n\nSound in Town - Amanda Robinson
+ \nAllocated: 4.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nMEETING PO
+ INT: Pomeroy Lodging LP o/a GP Pomeroy Hotel\n\n\n\nSound in Town - Amanda
+  Robinson
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260412T153000
 DTEND;TZID=America/Edmonton:20260412T170000
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-4280@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR13 AARFP
   47th Tradeshow\nAllocated: 1.5h\nNote: EVENT: APR13 AARFP 47th Tradeshow\
- nhttps://www.soundintown.com/r/zDr\n\nGO WITH MATT CURRIE FROM POMEROY AND
-  DRIVE TO AFFORDABLE ELEGANCE TO PICK UP TABLES AND CHAIRS\n\nSound in Tow
- n - Amanda Robinson
+ nMEETING POINT: Keyera Place Grande Prairie\n\nGO WITH MATT CURRIE FROM PO
+ MEROY AND DRIVE TO AFFORDABLE ELEGANCE TO PICK UP TABLES AND CHAIRS\n\nSou
+ nd in Town - Amanda Robinson
 LOCATION:Keyera Place Grande Prairie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260412T170000
 DTEND;TZID=America/Edmonton:20260412T210059
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-3163@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
- ow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
- soundintown.com/r/zDr\n\n\n\nSound in Town - Amanda Robinson
+ ow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING POIN
+ T: Keyera Place Grande Prairie\n\n\n\nSound in Town - Amanda Robinson
 LOCATION:Keyera Place Grande Prairie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260413T090000
 DTEND;TZID=America/Edmonton:20260413T130059
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-3654@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
- ow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
- soundintown.com/r/zDr\n\nFINISH SET UP IF WE DON'T FINISH THE NIGHT PRIOR\
- n\nSound in Town - Amanda Robinson
+ ow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING POIN
+ T: Keyera Place Grande Prairie\n\nFINISH SET UP IF WE DON'T FINISH THE NIG
+ HT PRIOR\n\nSound in Town - Amanda Robinson
 LOCATION:Keyera Place Grande Prairie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260413T150000
 DTEND;TZID=America/Edmonton:20260413T210000
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-3723@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
- \nAllocated: 6.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nhttps://ww
- w.soundintown.com/r/1Y1\n\n\n\nSound in Town - Amanda Robinson
+ \nAllocated: 6.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nMEETING PO
+ INT: Pomeroy Lodging LP o/a GP Pomeroy Hotel\n\n\n\nSound in Town - Amanda
+  Robinson
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260413T220000
 DTEND;TZID=America/Edmonton:20260414T000059
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-3653@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
- ow\nAllocated: 2.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
- soundintown.com/r/zDr\n\nGO WITH MATT FROM POMEROY IN THE TRUCK TO KEYERA 
- PLACE\n\nSound in Town - Amanda Robinson
+ ow\nAllocated: 2.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING POIN
+ T: Keyera Place Grande Prairie\n\nGO WITH MATT FROM POMEROY IN THE TRUCK T
+ O KEYERA PLACE\n\nSound in Town - Amanda Robinson
 LOCATION:Keyera Place Grande Prairie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260414T070000
 DTEND;TZID=America/Edmonton:20260414T100059
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-3112@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
- ow\nAllocated: 3.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://www.
- soundintown.com/r/zDr\n\nif we don't get it all done the night prior\n\nSo
- und in Town - Amanda Robinson
+ ow\nAllocated: 3.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING POIN
+ T: Keyera Place Grande Prairie\n\nif we don't get it all done the night pr
+ ior\n\nSound in Town - Amanda Robinson
 LOCATION:Keyera Place Grande Prairie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260414T100000
 DTEND;TZID=America/Edmonton:20260414T220000
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-3722@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
- \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nhttps://ww
- w.soundintown.com/r/1Y1\n\n\n\nSound in Town - Amanda Robinson
+ \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nMEETING PO
+ INT: Pomeroy Lodging LP o/a GP Pomeroy Hotel\n\n\n\nSound in Town - Amanda
+  Robinson
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260414T180000
 DTEND;TZID=America/Edmonton:20260415T005959
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-4267@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: APR13 AARFP 47th Trade
- show\nAllocated: 1.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://ww
- w.soundintown.com/r/zDr\n\nThis is a placeholder for the tradeshow drape t
- o be deprepped while you guys are in GP so it can go straight to another j
- ob when it gets back to FSJ\n\nSound in Town - Amanda Robinson
+ show\nAllocated: 1.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING PO
+ INT: Sound In Town Warehouse\n\nThis is a placeholder for the tradeshow dr
+ ape to be deprepped while you guys are in GP so it can go straight to anot
+ her job when it gets back to FSJ\n\nSound in Town - Amanda Robinson
 LOCATION:Keyera Place Grande Prairie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260415T170000
 DTEND;TZID=America/Edmonton:20260416T000000
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-3782@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR16 Pomeroy GP Pembina
   Townhall 2026\nAllocated: 7.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Tow
- nhall 2026\nhttps://www.soundintown.com/r/Ylw\n\n\n\nSound in Town - Amand
- a Robinson
+ nhall 2026\nMEETING POINT: Grande Ballroom\n\n\n\nSound in Town - Amanda R
+ obinson
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260416T080000
 DTEND;TZID=America/Edmonton:20260416T123000
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-3777@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: APR16 Pomeroy GP Pembina To
  wnhall 2026\nAllocated: 4.5h\nNote: EVENT: APR16 Pomeroy GP Pembina Townha
- ll 2026\nhttps://www.soundintown.com/r/Ylw\n\n\n\nSound in Town - Amanda R
- obinson
+ ll 2026\nMEETING POINT: Grande Ballroom\n\n\n\nSound in Town - Amanda Robi
+ nson
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
@@ -204,24 +207,24 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR16 Pomeroy GP Pembina To
  wnhall 2026
 DTSTART;TZID=America/Edmonton:20260416T140000
 DTEND;TZID=America/Edmonton:20260416T190000
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-3783@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR16 Pomer
  oy GP Pembina Townhall 2026\nAllocated: 5.0h\nNote: EVENT: APR16 Pomeroy G
- P Pembina Townhall 2026\nhttps://www.soundintown.com/r/Ylw\n\n\n\nSound in
-  Town - Amanda Robinson
+ P Pembina Townhall 2026\nMEETING POINT: Grande Ballroom\n\n\n\nSound in To
+ wn - Amanda Robinson
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transport - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260417T070000
 DTEND;TZID=America/Edmonton:20260417T090000
-DTSTAMP:20260520T220307Z
+DTSTAMP:20260521T044217Z
 UID:planning-slot-3980@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR16 Pomeroy GP Pembina Townhall 2026
- \nAllocated: 2.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townhall 2026\nht
- tps://www.soundintown.com/r/Ylw\n\nFlight from GP -yeg\n\nSound in Town - 
- Amanda Robinson
+ \nAllocated: 2.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townhall 2026\nME
+ ETING POINT: Sound In Town Warehouse\n\nFlight from GP -yeg\n\nSound in To
+ wn - Amanda Robinson
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
 END:VEVENT
 END:VCALENDAR

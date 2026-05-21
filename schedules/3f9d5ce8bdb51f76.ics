@@ -17,163 +17,165 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260324T090000
 DTEND;TZID=America/Dawson_Creek:20260324T120000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3961@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 3.0h\nNote: depr
- ep\n\nSound in Town - Ripley Kidner
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 3.0h\nNote: MEET
+ ING POINT: Sound In Town Warehouse\n\ndeprep\n\nSound in Town - Ripley Kid
+ ner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR25 - Saulteau Evening Meeting
 DTSTART;TZID=America/Dawson_Creek:20260324T130000
 DTEND;TZID=America/Dawson_Creek:20260324T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3750@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR25 - Saulteau Eve
  ning Meeting\nAllocated: 3.0h\nNote: EVENT: MAR25 - Saulteau Evening Meeti
- ng\nhttps://www.soundintown.com/r/J1j\n\nAuto planned shift. May need to b
- e adjusted by planning.\n\nSound in Town - Ripley Kidner
+ ng\nMEETING POINT: Sound In Town Warehouse\n\nAuto planned shift. May need
+  to be adjusted by planning.\n\nSound in Town - Ripley Kidner
 LOCATION:Saulteau Cultural Centre Gym
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260326T121500
 DTEND;TZID=America/Dawson_Creek:20260326T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3970@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 3.8h\n\nSound in
-  Town - Ripley Kidner
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 3.8h\nNote: MEET
+ ING POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR28 - Ron Folk Funeral
 DTSTART;TZID=America/Dawson_Creek:20260327T120000
 DTEND;TZID=America/Dawson_Creek:20260327T140000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3763@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR28 - Ron Folk Fun
- eral\nAllocated: 2.0h\nNote: EVENT: MAR28 - Ron Folk Funeral\nhttps://www.
- soundintown.com/r/mwK\n\nAs soon as you have this prepped you can head to 
- the FSJ legion\, they open at 2\n\nSound in Town - Ripley Kidner
+ eral\nAllocated: 2.0h\nNote: EVENT: MAR28 - Ron Folk Funeral\nMEETING POIN
+ T: Sound In Town Warehouse\n\nAs soon as you have this prepped you can hea
+ d to the FSJ legion\, they open at 2\n\nSound in Town - Ripley Kidner
 LOCATION:Fort St John Legion
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAR28 - Ron Folk Funeral
 DTSTART;TZID=America/Dawson_Creek:20260327T140000
 DTEND;TZID=America/Dawson_Creek:20260327T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3940@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAR28 - Ron
-  Folk Funeral\nAllocated: 2.0h\nNote: EVENT: MAR28 - Ron Folk Funeral\nhtt
- ps://www.soundintown.com/r/mwK\n\nDrop off gear at the FSJ legion and set 
- up as much as you can. Call Russ for Layout\n\nSound in Town - Ripley Kidn
- er
+  Folk Funeral\nAllocated: 2.0h\nNote: EVENT: MAR28 - Ron Folk Funeral\nMEE
+ TING POINT: Fort St John Legion\n\nDrop off gear at the FSJ legion and set
+  up as much as you can. Call Russ for Layout\n\nSound in Town - Ripley Kid
+ ner
 LOCATION:Fort St John Legion
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR28 - Ron Folk Funeral
 DTSTART;TZID=America/Dawson_Creek:20260329T090000
 DTEND;TZID=America/Dawson_Creek:20260329T130000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3764@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR28 - Ron Folk Fun
- eral\nAllocated: 4.0h\nNote: EVENT: MAR28 - Ron Folk Funeral\nhttps://www.
- soundintown.com/r/mwK\n\nAuto planned shift. May need to be adjusted by pl
- anning.\n\nSound in Town - Ripley Kidner
+ eral\nAllocated: 4.0h\nNote: EVENT: MAR28 - Ron Folk Funeral\nMEETING POIN
+ T: Sound In Town Warehouse\n\nAuto planned shift. May need to be adjusted 
+ by planning.\n\nSound in Town - Ripley Kidner
 LOCATION:Fort St John Legion
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR31 NRM - FSJ Live Streamed Event
 DTSTART;TZID=America/Dawson_Creek:20260330T090000
 DTEND;TZID=America/Dawson_Creek:20260330T110059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3665@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR31 NRM - FSJ Live
   Streamed Event\nAllocated: 2.0h\nNote: EVENT: MAR31 NRM - FSJ Live Stream
- ed Event\nhttps://www.soundintown.com/r/1Yy\n\nPotential to drop this gear
-  off after prep\n\nSound in Town - Ripley Kidner
+ ed Event\nMEETING POINT: Sound In Town Warehouse\n\nPotential to drop this
+  gear off after prep\n\nSound in Town - Ripley Kidner
 LOCATION:Ramada by Wyndham Northern Grand Hotel & Conference Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260331T090000
 DTEND;TZID=America/Dawson_Creek:20260331T130059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3990@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 4.0h\nNote: Assi
- st Lindsay with the rest of the NLC all staff meeting prep\n\nSound in Tow
- n - Ripley Kidner
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 4.0h\nNote: MEET
+ ING POINT: Sound In Town Warehouse\n\nAssist Lindsay with the rest of the 
+ NLC all staff meeting prep\n\nSound in Town - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAR31 NRM - FSJ Live Stream
  ed Event
 DTSTART;TZID=America/Dawson_Creek:20260331T130000
 DTEND;TZID=America/Dawson_Creek:20260331T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3889@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAR31 NRM -
   FSJ Live Streamed Event\nAllocated: 3.0h\nNote: EVENT: MAR31 NRM - FSJ Li
- ve Streamed Event\nhttps://www.soundintown.com/r/1Yy\n\nHelp Sam strike at
-  Ramada\, then move gear over to NLC atrium\n\nSound in Town - Ripley Kidn
- er
+ ve Streamed Event\nMEETING POINT: Ramada by Wyndham Northern Grand Hotel &
+  Conference Centre\n\nHelp Sam strike at Ramada\, then move gear over to N
+ LC atrium\n\nSound in Town - Ripley Kidner
 LOCATION:Ramada by Wyndham Northern Grand Hotel & Conference Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR02 NLC All Staff Meeting
 DTSTART;TZID=America/Dawson_Creek:20260401T090000
 DTEND;TZID=America/Dawson_Creek:20260401T130059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3675@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR02 NLC A
  ll Staff Meeting\nAllocated: 4.0h\nNote: EVENT: APR02 NLC All Staff Meetin
- g\nhttps://www.soundintown.com/r/IO9\n\nwork with Braden and Harley and Da
- na at NLC atrium\n\nSound in Town - Ripley Kidner
+ g\nMEETING POINT: FSJ NLC Atrium\n\nwork with Braden and Harley and Dana a
+ t NLC atrium\n\nSound in Town - Ripley Kidner
 LOCATION:Northern Lights College Fort St John Campus - FSJ NLC Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260401T133000
 DTEND;TZID=America/Dawson_Creek:20260401T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4027@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 2.5h\nNote: proj
- ects grab extra CARGO VAN KEYS FROM SPA and take home in order to grab car
- go van from NLC tomorrow morning\n\nSound in Town - Ripley Kidner
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 2.5h\nNote: MEET
+ ING POINT: Sound In Town Warehouse\n\nprojects grab extra CARGO VAN KEYS F
+ ROM SPA and take home in order to grab cargo van from NLC tomorrow morning
+ \n\nSound in Town - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAR25 - Saulteau Evening Meeting
 DTSTART;TZID=America/Dawson_Creek:20260402T090000
 DTEND;TZID=America/Dawson_Creek:20260402T120000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3773@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAR25 - Saulteau Eve
  ning Meeting\nAllocated: 3.0h\nNote: EVENT: MAR25 - Saulteau Evening Meeti
- ng\nhttps://www.soundintown.com/r/J1j\n\nGRAB CARGO VAN FROM NLC TO DEPREP
- \n\nSound in Town - Ripley Kidner
+ ng\nMEETING POINT: Sound In Town Warehouse\n\nGRAB CARGO VAN FROM NLC TO D
+ EPREP\n\nSound in Town - Ripley Kidner
 LOCATION:Saulteau Cultural Centre Gym
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260402T130000
 DTEND;TZID=America/Dawson_Creek:20260402T144500
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3991@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 1.8h\nNote: Ware
- house projects!\n\nBring Cargo Van back to NLC (so they can strike NLC all
-  staff into it )when unloaded and grab own vehicle\n\nSound in Town - Ripl
- ey Kidner
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 1.8h\nNote: MEET
+ ING POINT: Sound In Town Warehouse\n\nWarehouse projects!\n\nBring Cargo V
+ an back to NLC (so they can strike NLC all staff into it )when unloaded an
+ d grab own vehicle\n\nSound in Town - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR08-09 First Nations Health Author
  ity
 DTSTART;TZID=America/Dawson_Creek:20260406T090000
 DTEND;TZID=America/Dawson_Creek:20260406T130000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3174@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR08-09 First Natio
  ns Health Authority\nAllocated: 4.0h\nNote: EVENT: APR08-09 First Nations 
- Health Authority\nhttps://www.soundintown.com/r/0dY\n\nAuto planned shift.
-  May need to be adjusted by planning.\nhttps://www.soundintown.com/model/s
- howbook/apr08-09-first-nations-health-authority-1299\n\nSound in Town - Ri
- pley Kidner
+ Health Authority\nMEETING POINT: Sound In Town Warehouse\n\nAuto planned s
+ hift. May need to be adjusted by planning.\nhttps://www.soundintown.com/mo
+ del/showbook/apr08-09-first-nations-health-authority-1299\n\nSound in Town
+  - Ripley Kidner
 LOCATION:Treaty 8 Tribal Association
 END:VEVENT
 BEGIN:VEVENT
@@ -181,13 +183,13 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR08-09 First Nations Health Author
  ity
 DTSTART;TZID=America/Dawson_Creek:20260407T090000
 DTEND;TZID=America/Dawson_Creek:20260407T130000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4162@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR08-09 First Natio
  ns Health Authority\nAllocated: 4.0h\nNote: EVENT: APR08-09 First Nations 
- Health Authority\nhttps://www.soundintown.com/r/0dY\n\nHelp Sam unload cub
- e van\, Load FNHA\, grab any farm projects\n\nSound in Town - Ripley Kidne
- r
+ Health Authority\nMEETING POINT: Sound In Town Warehouse\n\nHelp Sam unloa
+ d cube van\, Load FNHA\, grab any farm projects\n\nSound in Town - Ripley 
+ Kidner
 LOCATION:Treaty 8 Tribal Association
 END:VEVENT
 BEGIN:VEVENT
@@ -195,12 +197,12 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR07 FSJ Co-op Staff Meeting @ Rama
  da
 DTSTART;TZID=America/Dawson_Creek:20260408T090000
 DTEND;TZID=America/Dawson_Creek:20260408T120059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3874@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR07 FSJ Co-op Staf
  f Meeting @ Ramada\nAllocated: 3.0h\nNote: EVENT: APR07 FSJ Co-op Staff Me
- eting @ Ramada\nhttps://www.soundintown.com/r/Ss9\n\n\n\nSound in Town - R
- ipley Kidner
+ eting @ Ramada\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Tow
+ n - Ripley Kidner
 LOCATION:Ramada by Wyndham Northern Grand Hotel & Conference Centre - Gran
  d 1 Ramada Ballroom
 END:VEVENT
@@ -209,12 +211,12 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR10-12 City of FSJ - Tradeshow Scr
  een
 DTSTART;TZID=America/Dawson_Creek:20260408T120000
 DTEND;TZID=America/Dawson_Creek:20260408T140059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4249@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR10-12 City of FSJ
   - Tradeshow Screen\nAllocated: 2.0h\nNote: EVENT: APR10-12 City of FSJ - 
- Tradeshow Screen\nhttps://www.soundintown.com/r/dpi\n\n\n\nSound in Town -
-  Ripley Kidner
+ Tradeshow Screen\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in T
+ own - Ripley Kidner
 LOCATION:Pomeroy Sports Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -222,14 +224,14 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR10-12 Fort St. John Tradeshow Boo
  th for Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260408T140000
 DTEND;TZID=America/Dawson_Creek:20260408T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2682@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR10-12 Fort St. Jo
  hn Tradeshow Booth for Ovintiv\nAllocated: 2.0h\nNote: EVENT: APR10-12 For
- t St. John Tradeshow Booth for Ovintiv\nhttps://www.soundintown.com/r/MGO\
- n\nAuto planned shift. May need to be adjusted by planning.\nhttps://www.s
- oundintown.com/model/showbook/apr10-12-fort-st-john-tradeshow-booth-for-ov
- intiv-1251\n\nSound in Town - Ripley Kidner
+ t St. John Tradeshow Booth for Ovintiv\nMEETING POINT: Sound In Town Wareh
+ ouse\n\nAuto planned shift. May need to be adjusted by planning.\nhttps://
+ www.soundintown.com/model/showbook/apr10-12-fort-st-john-tradeshow-booth-f
+ or-ovintiv-1251\n\nSound in Town - Ripley Kidner
 LOCATION:Pomeroy Sports Centre\, Main Room
 END:VEVENT
 BEGIN:VEVENT
@@ -237,36 +239,36 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR16 - ELEMENT GP BEO (Custom) 6366
  69
 DTSTART;TZID=America/Dawson_Creek:20260409T090000
 DTEND;TZID=America/Dawson_Creek:20260409T100000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2847@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR16 - ELEMENT GP B
  EO (Custom) 636669\nAllocated: 1.0h\nNote: EVENT: APR16 - ELEMENT GP BEO (
- Custom) 636669\nhttps://www.soundintown.com/r/NbN\n\n\n\nSound in Town - R
- ipley Kidner
+ Custom) 636669\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Tow
+ n - Ripley Kidner
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Salon Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260409T100000
 DTEND;TZID=America/Dawson_Creek:20260409T140000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2033@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR12-15 AARFP 47th 
  Conference\nAllocated: 4.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\n
- https://www.soundintown.com/r/1Y1\nMEETING POINT: Sound In Town Warehouse\
- n\nadf adfadf\n\nSound in Town - Ripley Kidner
+ MEETING POINT: Sound In Town Warehouse\n\nadf adfadf\n\nSound in Town - Ri
+ pley Kidner
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Dawson_Creek:20260409T140000
 DTEND;TZID=America/Dawson_Creek:20260409T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3770@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR13 AARFP 47th Tra
- deshow\nAllocated: 2.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nhttps://
- www.soundintown.com/r/zDr\n\nAutomated Prep Shift test https://www.soundin
- town.com/odoo/events/982\n\nSound in Town - Ripley Kidner
+ deshow\nAllocated: 2.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING 
+ POINT: Sound In Town Warehouse\n\nAutomated Prep Shift test https://www.so
+ undintown.com/odoo/events/982\n\nSound in Town - Ripley Kidner
 LOCATION:Keyera Place Grande Prairie
 END:VEVENT
 BEGIN:VEVENT
@@ -274,12 +276,12 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR16 Pomeroy GP Pembina Townhall 20
  26
 DTSTART;TZID=America/Dawson_Creek:20260409T150000
 DTEND;TZID=America/Dawson_Creek:20260409T160059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4268@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR16 Pomeroy GP Pem
  bina Townhall 2026\nAllocated: 1.0h\nNote: EVENT: APR16 Pomeroy GP Pembina
-  Townhall 2026\nhttps://www.soundintown.com/r/Ylw\n\nTHIS JOB IS BEING SHI
- PPED WITH THE AARPF Conference\n\nSound in Town - Ripley Kidner
+  Townhall 2026\nMEETING POINT: Sound In Town Warehouse\n\nTHIS JOB IS BEIN
+ G SHIPPED WITH THE AARPF Conference\n\nSound in Town - Ripley Kidner
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
@@ -287,12 +289,12 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR08-09 First Nations Health Author
  ity
 DTSTART;TZID=America/Dawson_Creek:20260410T090000
 DTEND;TZID=America/Dawson_Creek:20260410T130059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3902@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR08-09 First Natio
  ns Health Authority\nAllocated: 4.0h\nNote: EVENT: APR08-09 First Nations 
- Health Authority\nhttps://www.soundintown.com/r/0dY\n\n\n\nSound in Town -
-  Ripley Kidner
+ Health Authority\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in T
+ own - Ripley Kidner
 LOCATION:Treaty 8 Tribal Association
 END:VEVENT
 BEGIN:VEVENT
@@ -300,12 +302,12 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR16 Saulteau FN - Chiefs Election
  Forum
 DTSTART;TZID=America/Dawson_Creek:20260410T140000
 DTEND;TZID=America/Dawson_Creek:20260410T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4128@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR16 Saulteau FN - 
  Chiefs Election Forum\nAllocated: 2.0h\nNote: EVENT: APR16 Saulteau FN - C
- hiefs Election Forum\nhttps://www.soundintown.com/r/lSN\n\n\n\nSound in To
- wn - Ripley Kidner
+ hiefs Election Forum\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound 
+ in Town - Ripley Kidner
 LOCATION:Saulteau Band Hall Gym - Saulteau Cultural Centre Gymnasium
 END:VEVENT
 BEGIN:VEVENT
@@ -313,13 +315,13 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - APR10-12 Fort St. John Tra
  deshow Booth for Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260412T170000
 DTEND;TZID=America/Dawson_Creek:20260412T210000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2683@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: APR10-12 F
  ort St. John Tradeshow Booth for Ovintiv\nAllocated: 4.0h\nNote: EVENT: AP
- R10-12 Fort St. John Tradeshow Booth for Ovintiv\nhttps://www.soundintown.
- com/r/MGO\n\nPICK UP CUBE VAN AND HEAD TO TRADE SHOW\, YOU WILL MEET BRADE
- N THERE\n\nSound in Town - Ripley Kidner
+ R10-12 Fort St. John Tradeshow Booth for Ovintiv\nMEETING POINT: Pomeroy S
+ ports Centre\, Main Room\n\nPICK UP CUBE VAN AND HEAD TO TRADE SHOW\, YOU 
+ WILL MEET BRADEN THERE\n\nSound in Town - Ripley Kidner
 LOCATION:Pomeroy Sports Centre\, Main Room
 END:VEVENT
 BEGIN:VEVENT
@@ -327,12 +329,12 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR10-12 City of FSJ - Trad
  eshow Screen
 DTSTART;TZID=America/Dawson_Creek:20260412T170000
 DTEND;TZID=America/Dawson_Creek:20260412T210059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4250@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR10-12 Ci
  ty of FSJ - Tradeshow Screen\nNote: EVENT: APR10-12 City of FSJ - Tradesho
- w Screen\nhttps://www.soundintown.com/r/dpi\n\n\n\nSound in Town - Ripley 
- Kidner
+ w Screen\nMEETING POINT: Pomeroy Sports Centre\n\n\n\nSound in Town - Ripl
+ ey Kidner
 LOCATION:Pomeroy Sports Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -340,11 +342,12 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR10-12 City of FSJ - Tradeshow Scr
  een
 DTSTART;TZID=America/Dawson_Creek:20260412T210000
 DTEND;TZID=America/Dawson_Creek:20260412T230059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4252@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR10-12 City of FSJ
   - Tradeshow Screen\nNote: EVENT: APR10-12 City of FSJ - Tradeshow Screen\
- nhttps://www.soundintown.com/r/dpi\n\n\n\nSound in Town - Ripley Kidner
+ nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Ripley Kidn
+ er
 LOCATION:Pomeroy Sports Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -352,20 +355,32 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR10-12 Fort St. John Tradeshow Boo
  th for Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260412T210000
 DTEND;TZID=America/Dawson_Creek:20260412T230059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3097@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR10-12 Fort St. Jo
  hn Tradeshow Booth for Ovintiv\nAllocated: 2.0h\nNote: EVENT: APR10-12 For
- t St. John Tradeshow Booth for Ovintiv\nhttps://www.soundintown.com/r/MGO\
- n\n\n\nSound in Town - Ripley Kidner
+ t St. John Tradeshow Booth for Ovintiv\nMEETING POINT: Sound In Town Wareh
+ ouse\n\n\n\nSound in Town - Ripley Kidner
 LOCATION:Pomeroy Sports Centre\, Main Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WH2 - Warehouse Junior Tech - APR17-19 Moose FM - TV DC Trade Show
+DTSTART;TZID=America/Dawson_Creek:20260413T090000
+DTEND;TZID=America/Dawson_Creek:20260413T100000
+DTSTAMP:20260521T044228Z
+UID:planning-slot-4197@soundintown.com
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR17-19 Moose FM - 
+ TV DC Trade Show\nAllocated: 1.0h\nNote: EVENT: APR17-19 Moose FM - TV DC 
+ Trade Show\nMEETING POINT: Sound In Town Warehouse\n\nPrep tv into cube va
+ n for Dana to leave for DC that morning\n\nSound in Town - Ripley Kidner
+LOCATION:Ovintiv Events Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR17-19 Ovintiv DC Tradeshow - TV S
  tand
 DTSTART;TZID=America/Dawson_Creek:20260413T090000
 DTEND;TZID=America/Dawson_Creek:20260413T100000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4327@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR17-19 Ovintiv DC 
  Tradeshow - TV Stand\nAllocated: 1.0h\nNote: EVENT: APR17-19 Ovintiv DC Tr
@@ -375,51 +390,39 @@ DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR17-19 Ovintiv DC
 LOCATION:Ovintiv Events Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WH2 - Warehouse Junior Tech - APR17-19 Moose FM - TV DC Trade Show
-DTSTART;TZID=America/Dawson_Creek:20260413T090000
-DTEND;TZID=America/Dawson_Creek:20260413T100000
-DTSTAMP:20260520T220320Z
-UID:planning-slot-4197@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR17-19 Moose FM - 
- TV DC Trade Show\nAllocated: 1.0h\nNote: EVENT: APR17-19 Moose FM - TV DC 
- Trade Show\nMEETING POINT: Sound In Town Warehouse\n\nPrep tv into cube va
- n for Dana to leave for DC that morning\n\nSound in Town - Ripley Kidner
-LOCATION:Ovintiv Events Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR10-12 Fort St. John Tradeshow Boo
  th for Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260413T100000
 DTEND;TZID=America/Dawson_Creek:20260413T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4260@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR10-12 Fort St. Jo
  hn Tradeshow Booth for Ovintiv\nAllocated: 6.0h\nNote: EVENT: APR10-12 For
- t St. John Tradeshow Booth for Ovintiv\nhttps://www.soundintown.com/r/MGO\
- n\n\n\nSound in Town - Ripley Kidner
+ t St. John Tradeshow Booth for Ovintiv\nMEETING POINT: Sound In Town Wareh
+ ouse\n\n\n\nSound in Town - Ripley Kidner
 LOCATION:Pomeroy Sports Centre\, Main Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260416T090000
 DTEND;TZID=America/Dawson_Creek:20260416T130000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2048@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR18 Peace Passage 
- Ice Show\nAllocated: 4.0h\nNote: EVENT: APR18 Peace Passage Ice Show\nhttp
- s://www.soundintown.com/r/k8I\n\n\n\nSound in Town - Ripley Kidner
+ Ice Show\nAllocated: 4.0h\nNote: EVENT: APR18 Peace Passage Ice Show\nMEET
+ ING POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Ripley Kidner
 LOCATION:District Ice Centre - District of Taylor
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transport - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260416T130000
 DTEND;TZID=America/Dawson_Creek:20260416T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4361@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR18 Peace Passage Ice Show\nAllocate
- d: 3.0h\nNote: EVENT: APR18 Peace Passage Ice Show\nhttps://www.soundintow
- n.com/r/k8I\n\nDrop off gear in Taylor at arena with helper\n\nSound in To
- wn - Ripley Kidner
+ d: 3.0h\nNote: EVENT: APR18 Peace Passage Ice Show\nMEETING POINT: Sound I
+ n Town Warehouse\n\nDrop off gear in Taylor at arena with helper\n\nSound 
+ in Town - Ripley Kidner
 LOCATION:District Ice Centre - District of Taylor
 END:VEVENT
 BEGIN:VEVENT
@@ -427,12 +430,12 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR16 Pomeroy GP Pembina Townhall 20
  26
 DTSTART;TZID=America/Dawson_Creek:20260417T090000
 DTEND;TZID=America/Dawson_Creek:20260417T140059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3979@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR16 Pomeroy GP Pem
  bina Townhall 2026\nAllocated: 5.0h\nNote: EVENT: APR16 Pomeroy GP Pembina
-  Townhall 2026\nhttps://www.soundintown.com/r/Ylw\n\n\n\nSound in Town - R
- ipley Kidner
+  Townhall 2026\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Tow
+ n - Ripley Kidner
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
@@ -440,12 +443,12 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR16 Saulteau FN - Chiefs Election
  Forum
 DTSTART;TZID=America/Dawson_Creek:20260417T140000
 DTEND;TZID=America/Dawson_Creek:20260417T170000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4231@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR16 Saulteau FN - 
  Chiefs Election Forum\nAllocated: 3.0h\nNote: EVENT: APR16 Saulteau FN - C
- hiefs Election Forum\nhttps://www.soundintown.com/r/lSN\n\n\n\nSound in To
- wn - Ripley Kidner
+ hiefs Election Forum\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound 
+ in Town - Ripley Kidner
 LOCATION:Saulteau Band Hall Gym - Saulteau Cultural Centre Gymnasium
 END:VEVENT
 BEGIN:VEVENT
@@ -453,25 +456,25 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR16 Pomeroy GP Pembina Townhall 20
  26
 DTSTART;TZID=America/Dawson_Creek:20260418T090000
 DTEND;TZID=America/Dawson_Creek:20260418T170059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3638@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR16 Pomeroy GP Pem
  bina Townhall 2026\nAllocated: 8.0h\nNote: EVENT: APR16 Pomeroy GP Pembina
-  Townhall 2026\nhttps://www.soundintown.com/r/Ylw\n\n\n\nSound in Town - R
- ipley Kidner
+  Townhall 2026\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Tow
+ n - Ripley Kidner
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Dawson_Creek:20260419T090000
 DTEND;TZID=America/Dawson_Creek:20260419T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2240@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR18 Peace Passage 
- Ice Show\nAllocated: 7.0h\nNote: EVENT: APR18 Peace Passage Ice Show\nhttp
- s://www.soundintown.com/r/k8I\n\nIf you end up having time\, can you prep 
- tomorrows wireless mics for beauty and the beast?\n\nSound in Town - Riple
- y Kidner
+ Ice Show\nAllocated: 7.0h\nNote: EVENT: APR18 Peace Passage Ice Show\nMEET
+ ING POINT: Sound In Town Warehouse\n\nIf you end up having time\, can you 
+ prep tomorrows wireless mics for beauty and the beast?\n\nSound in Town - 
+ Ripley Kidner
 LOCATION:District Ice Centre - District of Taylor
 END:VEVENT
 BEGIN:VEVENT
@@ -479,19 +482,19 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR23-25 Beauty and the Beast Microp
  hone Rental
 DTSTART;TZID=America/Dawson_Creek:20260420T090000
 DTEND;TZID=America/Dawson_Creek:20260420T093000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3925@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR23-25 Beauty and 
  the Beast Microphone Rental\nAllocated: 0.5h\nNote: EVENT: APR23-25 Beauty
-  and the Beast Microphone Rental\nhttps://www.soundintown.com/r/fqa\n\nQui
- ck prep for Sam to take to DC this morning\n\nSound in Town - Ripley Kidne
- r
+  and the Beast Microphone Rental\nMEETING POINT: Sound In Town Warehouse\n
+ \nQuick prep for Sam to take to DC this morning\n\nSound in Town - Ripley 
+ Kidner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR22-24 NCLGMA (Prince George)
 DTSTART;TZID=America/Dawson_Creek:20260420T100000
 DTEND;TZID=America/Dawson_Creek:20260420T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2807@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR22-24 NCLGMA (Pri
  nce George)\nAllocated: 6.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George)
@@ -503,7 +506,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260421T090000
 DTEND;TZID=America/Dawson_Creek:20260421T120000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4384@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 3.0h\nNote: MEET
  ING POINT: Sound In Town Warehouse\n\nFinish Deprep\n\nSound in Town - Rip
@@ -513,12 +516,13 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR22 NLC Dawson - Dual Credit Night
 DTSTART;TZID=America/Dawson_Creek:20260421T120000
 DTEND;TZID=America/Dawson_Creek:20260421T140000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3821@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR22 NLC Dawson - D
  ual Credit Night\nAllocated: 2.0h\nNote: EVENT: APR22 NLC Dawson - Dual Cr
- edit Night\nhttps://www.soundintown.com/r/sUL\n\nGoing to DC with Symposiu
- m\, separate shows. No gear crossover\n\nSound in Town - Ripley Kidner
+ edit Night\nMEETING POINT: Sound In Town Warehouse\n\nGoing to DC with Sym
+ posium\, separate shows. No gear crossover\n\nSound in Town - Ripley Kidne
+ r
 LOCATION:Northern Lights College Dawson Creek Campus - Northern Lights Col
  lege Dawson Creek Campus- Arctic Corridor (Trades Building)
 END:VEVENT
@@ -527,13 +531,12 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR24 - South Peace Crime Prevention
   Symposium and AGM
 DTSTART;TZID=America/Dawson_Creek:20260421T140000
 DTEND;TZID=America/Dawson_Creek:20260421T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3876@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR24 - South Peace 
  Crime Prevention Symposium and AGM\nAllocated: 2.0h\nNote: EVENT: APR24 - 
- South Peace Crime Prevention Symposium and AGM\nhttps://www.soundintown.co
- m/r/ZQe\nMEETING POINT: Sound In Town Warehouse\n\nOk\n\nSound in Town - R
- ipley Kidner
+ South Peace Crime Prevention Symposium and AGM\nMEETING POINT: Sound In To
+ wn Warehouse\n\nOk\n\nSound in Town - Ripley Kidner
 LOCATION:Ovintiv Events Centre - Mercer Hall
 END:VEVENT
 BEGIN:VEVENT
@@ -541,24 +544,23 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR24 Funeral Service at FSJ Curling
   Rink
 DTSTART;TZID=America/Dawson_Creek:20260422T090000
 DTEND;TZID=America/Dawson_Creek:20260422T120000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3264@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR24 Funeral Servic
  e at FSJ Curling Rink\nAllocated: 3.0h\nNote: EVENT: APR24 Funeral Service
-  at FSJ Curling Rink\nhttps://www.soundintown.com/r/Htz\nMEETING POINT: So
- und In Town Warehouse\n\nPrep funeral\n\nSound in Town - Ripley Kidner
+  at FSJ Curling Rink\nMEETING POINT: Sound In Town Warehouse\n\nPrep funer
+ al\n\nSound in Town - Ripley Kidner
 LOCATION:Downstairs Curling Rink - Downstairs Curling Rink
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR23 - MooseFM Job Fair TVs
 DTSTART;TZID=America/Dawson_Creek:20260422T120000
 DTEND;TZID=America/Dawson_Creek:20260422T160059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4317@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR23 - MooseFM Job 
- Fair TVs\nAllocated: 4.0h\nNote: EVENT: APR23 - MooseFM Job Fair TVs\nhttp
- s://www.soundintown.com/r/1rx\nMEETING POINT: Sound In Town Warehouse\n\n\
- n\nSound in Town - Ripley Kidner
+ Fair TVs\nAllocated: 4.0h\nNote: EVENT: APR23 - MooseFM Job Fair TVs\nMEET
+ ING POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Ripley Kidner
 LOCATION:Pomeroy Hotel Fort St. John
 END:VEVENT
 BEGIN:VEVENT
@@ -566,20 +568,19 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR24 - South Peace Crime Prevention
   Symposium and AGM
 DTSTART;TZID=America/Dawson_Creek:20260425T090000
 DTEND;TZID=America/Dawson_Creek:20260425T120059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4283@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR24 - South Peace 
  Crime Prevention Symposium and AGM\nAllocated: 3.0h\nNote: EVENT: APR24 - 
- South Peace Crime Prevention Symposium and AGM\nhttps://www.soundintown.co
- m/r/ZQe\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Rip
- ley Kidner
+ South Peace Crime Prevention Symposium and AGM\nMEETING POINT: Sound In To
+ wn Warehouse\n\n\n\nSound in Town - Ripley Kidner
 LOCATION:Ovintiv Events Centre - Mercer Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR22-24 NCLGMA (Prince George)
 DTSTART;TZID=America/Dawson_Creek:20260425T120000
 DTEND;TZID=America/Dawson_Creek:20260425T140000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2808@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR22-24 NCLGMA (Pri
  nce George)\nAllocated: 2.0h\nNote: EVENT: APR22-24 NCLGMA (Prince George)
@@ -591,14 +592,13 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR22 NLC Dawson - Dual Credit Night
 DTSTART;TZID=America/Dawson_Creek:20260425T140000
 DTEND;TZID=America/Dawson_Creek:20260425T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4457@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR22 NLC Dawson - D
  ual Credit Night\nAllocated: 2.0h\nNote: EVENT: APR22 NLC Dawson - Dual Cr
- edit Night\nhttps://www.soundintown.com/r/sUL\nMEETING POINT: Sound In Tow
- n Warehouse\n\nIs prepped already in the spa\, you will load it into the c
- ube van making sure you still have everything\n\nSound in Town - Ripley Ki
- dner
+ edit Night\nMEETING POINT: Sound In Town Warehouse\n\nIs prepped already i
+ n the spa\, you will load it into the cube van making sure you still have 
+ everything\n\nSound in Town - Ripley Kidner
 LOCATION:Northern Lights College Dawson Creek Campus - Northern Lights Col
  lege Dawson Creek Campus- Arctic Corridor (Trades Building)
 END:VEVENT
@@ -607,24 +607,24 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR23-25 Beauty and the Beast Microp
  hone Rental
 DTSTART;TZID=America/Dawson_Creek:20260426T090000
 DTEND;TZID=America/Dawson_Creek:20260426T110000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3926@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR23-25 Beauty and 
  the Beast Microphone Rental\nAllocated: 2.0h\nNote: EVENT: APR23-25 Beauty
-  and the Beast Microphone Rental\nhttps://www.soundintown.com/r/fqa\nMEETI
- NG POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Ripley Kidner
+  and the Beast Microphone Rental\nMEETING POINT: Sound In Town Warehouse\n
+ \n\n\nSound in Town - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR27 Saulteau FN - Swearing in Cere
  mony
 DTSTART;TZID=America/Dawson_Creek:20260426T110000
 DTEND;TZID=America/Dawson_Creek:20260426T160059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4163@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR27 Saulteau FN - 
  Swearing in Ceremony\nAllocated: 5.0h\nNote: EVENT: APR27 Saulteau FN - Sw
- earing in Ceremony\nhttps://www.soundintown.com/r/WT3\nMEETING POINT: Soun
- d In Town Warehouse\n\n\n\nSound in Town - Ripley Kidner
+ earing in Ceremony\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in
+  Town - Ripley Kidner
 LOCATION:Saulteau Cultural Centre Gym - Saulteau Cultural Centre Gym
 END:VEVENT
 BEGIN:VEVENT
@@ -632,24 +632,23 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR27 Saulteau FN - Swearing in Cere
  mony
 DTSTART;TZID=America/Dawson_Creek:20260428T090000
 DTEND;TZID=America/Dawson_Creek:20260428T120059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4398@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR27 Saulteau FN - 
  Swearing in Ceremony\nAllocated: 3.0h\nNote: EVENT: APR27 Saulteau FN - Sw
- earing in Ceremony\nhttps://www.soundintown.com/r/WT3\nMEETING POINT: Soun
- d In Town Warehouse\n\n\n\nSound in Town - Ripley Kidner
+ earing in Ceremony\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in
+  Town - Ripley Kidner
 LOCATION:Saulteau Cultural Centre Gym - Saulteau Cultural Centre Gym
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260428T130000
 DTEND;TZID=America/Dawson_Creek:20260428T160059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3273@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY02 Firefighters B
- all\nAllocated: 3.0h\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.so
- undintown.com/r/vUj\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound i
- n Town - Ripley Kidner
+ all\nAllocated: 3.0h\nNote: EVENT: MAY02 Firefighters Ball\nMEETING POINT:
+  Sound In Town Warehouse\n\n\n\nSound in Town - Ripley Kidner
 LOCATION:Pomeroy Hotel Fort St. John - Ralph Room
 END:VEVENT
 BEGIN:VEVENT
@@ -657,13 +656,12 @@ SUMMARY:WH2 - Warehouse Junior Tech - APR30 - Eloiz Concert at Anne Robert
  s Young School
 DTSTART;TZID=America/Dawson_Creek:20260429T090000
 DTEND;TZID=America/Dawson_Creek:20260429T110000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3396@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR30 - Eloiz Concer
  t at Anne Roberts Young School\nAllocated: 2.0h\nNote: EVENT: APR30 - Eloi
- z Concert at Anne Roberts Young School\nhttps://www.soundintown.com/r/ZU6\
- nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Ripley Kidn
- er
+ z Concert at Anne Roberts Young School\nMEETING POINT: Sound In Town Wareh
+ ouse\n\n\n\nSound in Town - Ripley Kidner
 LOCATION:Anne Roberts Young School
 END:VEVENT
 BEGIN:VEVENT
@@ -671,24 +669,24 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAY02-03 - Fort Nelson Trade Show 20
  26
 DTSTART;TZID=America/Dawson_Creek:20260429T110000
 DTEND;TZID=America/Dawson_Creek:20260429T170000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2566@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY02-03 - Fort Nels
  on Trade Show 2026\nAllocated: 6.0h\nNote: EVENT: MAY02-03 - Fort Nelson T
- rade Show 2026\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Tow
- n - Ripley Kidner
+ rade Show 2026\nhttps://www.soundintown.com/r/fU7\nMEETING POINT: Sound In
+  Town Warehouse\n\n\n\nSound in Town - Ripley Kidner
 LOCATION:Northern Rockies Regional Recreation Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - APR22 NLC Dawson - Dual Credit Night
 DTSTART;TZID=America/Dawson_Creek:20260430T090000
 DTEND;TZID=America/Dawson_Creek:20260430T140000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3822@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: APR22 NLC Dawson - D
  ual Credit Night\nAllocated: 5.0h\nNote: EVENT: APR22 NLC Dawson - Dual Cr
- edit Night\nhttps://www.soundintown.com/r/sUL\nMEETING POINT: Sound In Tow
- n Warehouse\n\n\n\nSound in Town - Ripley Kidner
+ edit Night\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Town - 
+ Ripley Kidner
 LOCATION:Northern Lights College Dawson Creek Campus - Northern Lights Col
  lege Dawson Creek Campus- Arctic Corridor (Trades Building)
 END:VEVENT
@@ -697,25 +695,25 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAY02 Keith Diehl Funeral Service at
   CLC
 DTSTART;TZID=America/Dawson_Creek:20260430T140000
 DTEND;TZID=America/Dawson_Creek:20260430T160059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4509@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY02 Keith Diehl Fu
- neral Service at CLC\nAllocated: 2.0h\nNote: EVENT: MAY02 Funeral Service 
- at Christian Life Centre\nhttps://www.soundintown.com/r/bbq\nMEETING POINT
- : Sound In Town Warehouse\n\n\n\nSound in Town - Ripley Kidner
+ neral Service at CLC\nAllocated: 2.0h\nNote: EVENT: MAY02 Keith Diehl Fune
+ ral Service at CLC\nhttps://www.soundintown.com/r/bbq\nMEETING POINT: Soun
+ d In Town Warehouse\n\n\n\nSound in Town - Ripley Kidner
 LOCATION:Christian Life Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY07 NLC Service Awards Gala
 DTSTART;TZID=America/Dawson_Creek:20260502T090000
 DTEND;TZID=America/Dawson_Creek:20260502T130000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2576@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY07 NLC Service Aw
- ards Gala\nAllocated: 4.0h\nNote: EVENT: MAY07 NLC Service Awards Gala\nht
- tps://www.soundintown.com/r/mw7\nMEETING POINT: Sound In Town Warehouse\n\
- nThe lobby uplights are the same ones used for the Art Gallery event so th
- ose are already in DC\n\nSound in Town - Ripley Kidner
+ ards Gala\nAllocated: 4.0h\nNote: EVENT: MAY07 NLC Service Awards Gala\nME
+ ETING POINT: Sound In Town Warehouse\n\nThe lobby uplights are the same on
+ es used for the Art Gallery event so those are already in DC\n\nSound in T
+ own - Ripley Kidner
 LOCATION:Ovintiv Events Centre - Mercer Hall
 END:VEVENT
 BEGIN:VEVENT
@@ -723,37 +721,35 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY02 Keith Diehl Funeral S
  ervice at CLC
 DTSTART;TZID=America/Dawson_Creek:20260502T130000
 DTEND;TZID=America/Dawson_Creek:20260502T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4530@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY02 Keith
-  Diehl Funeral Service at CLC\nAllocated: 3.0h\nNote: EVENT: MAY02 Funeral
-  Service at Christian Life Centre\nhttps://www.soundintown.com/r/bbq\nMEET
- ING POINT: Christian Life Centre\n\nStrike this funeral with Keegan\n\nSou
- nd in Town - Ripley Kidner
+  Diehl Funeral Service at CLC\nAllocated: 3.0h\nNote: EVENT: MAY02 Keith D
+ iehl Funeral Service at CLC\nhttps://www.soundintown.com/r/bbq\nMEETING PO
+ INT: Christian Life Centre\n\nStrike this funeral with Keegan\n\nSound in 
+ Town - Ripley Kidner
 LOCATION:Christian Life Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260503T090000
 DTEND;TZID=America/Dawson_Creek:20260503T120059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3272@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY02 Firef
- ighters Ball\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.soundintow
- n.com/r/vUj\nMEETING POINT: Ralph Room\n\n\n\nSound in Town - Ripley Kidne
- r
+ ighters Ball\nNote: EVENT: MAY02 Firefighters Ball\nMEETING POINT: Ralph R
+ oom\n\n\n\nSound in Town - Ripley Kidner
 LOCATION:Pomeroy Hotel Fort St. John - Ralph Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260503T120000
 DTEND;TZID=America/Dawson_Creek:20260503T160059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4512@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY02 Firefighters B
- all\nNote: EVENT: MAY02 Firefighters Ball\nhttps://www.soundintown.com/r/v
- Uj\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Ripley K
- idner
+ all\nNote: EVENT: MAY02 Firefighters Ball\nMEETING POINT: Sound In Town Wa
+ rehouse\n\n\n\nSound in Town - Ripley Kidner
 LOCATION:Pomeroy Hotel Fort St. John - Ralph Room
 END:VEVENT
 BEGIN:VEVENT
@@ -761,7 +757,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAY21 City of FSJ - Mental Health Co
  nference
 DTSTART;TZID=America/Dawson_Creek:20260522T090000
 DTEND;TZID=America/Dawson_Creek:20260522T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2469@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY21 City of FSJ - 
  Mental Health Conference\nAllocated: 7.0h\nNote: EVENT: MAY21 City of FSJ 
@@ -773,7 +769,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260523T120000
 DTEND;TZID=America/Dawson_Creek:20260523T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4730@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY28 - NLC DC Convo
  cation\nAllocated: 4.0h\nNote: EVENT: MAY28 - NLC DC Convocation\nMEETING 
@@ -785,7 +781,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T160000
 DTEND;TZID=America/Dawson_Creek:20260523T200000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4732@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY23 - Bluey Day\nA
  llocated: 4.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.co
@@ -797,7 +793,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260524T090000
 DTEND;TZID=America/Dawson_Creek:20260524T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2470@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY23 - Bluey Day\nA
  llocated: 7.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.co
@@ -810,7 +806,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY27 FSJ CO-OP AGM
 DTSTART;TZID=America/Dawson_Creek:20260525T090000
 DTEND;TZID=America/Dawson_Creek:20260525T120000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2080@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY27 FSJ CO-OP AGM\
  nAllocated: 3.0h\nNote: EVENT: MAY27 FSJ CO-OP AGM\nhttps://www.soundintow
@@ -824,7 +820,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260525T120000
 DTEND;TZID=America/Dawson_Creek:20260525T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2077@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY28 - NLC DC Convo
  cation\nAllocated: 4.0h\nNote: EVENT: MAY28 - NLC DC Convocation\nMEETING 
@@ -836,7 +832,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Dawson_Creek:20260526T090000
 DTEND;TZID=America/Dawson_Creek:20260526T170059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3911@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY23 Mine Rescue BC
   (Penticton)\nAllocated: 8.0h\nNote: EVENT: MAY23 Mine Rescue BC (Penticto
@@ -848,7 +844,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY27 FSJ CO-OP AGM
 DTSTART;TZID=America/Dawson_Creek:20260528T090000
 DTEND;TZID=America/Dawson_Creek:20260528T140000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4767@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY27 FSJ C
  O-OP AGM\nAllocated: 5.0h\nNote: EVENT: MAY27 FSJ CO-OP AGM\nhttps://www.s
@@ -862,7 +858,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY27 FSJ CO-OP AGM
 DTSTART;TZID=America/Dawson_Creek:20260528T140000
 DTEND;TZID=America/Dawson_Creek:20260528T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2094@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY27 FSJ CO-OP AGM\nA
  llocated: 2.0h\nNote: EVENT: MAY27 FSJ CO-OP AGM\nhttps://www.soundintown.
@@ -876,7 +872,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY27 FSJ CO-OP AGM
 DTSTART;TZID=America/Dawson_Creek:20260529T090000
 DTEND;TZID=America/Dawson_Creek:20260529T120059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4695@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY27 FSJ CO-OP AGM\nA
  llocated: 3.0h\nNote: EVENT: MAY27 FSJ CO-OP AGM\nhttps://www.soundintown.
@@ -890,7 +886,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - MAY28 - PRRD Board Meeting - Chetwyn
  d
 DTSTART;TZID=America/Dawson_Creek:20260529T120000
 DTEND;TZID=America/Dawson_Creek:20260529T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2096@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY28 - PRRD Board M
  eeting - Chetwynd\nAllocated: 4.0h\nNote: EVENT: MAY28 - PRRD Board Meetin
@@ -902,7 +898,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260530T090000
 DTEND;TZID=America/Dawson_Creek:20260530T140000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2604@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY28 - NLC DC Convo
  cation\nAllocated: 5.0h\nNote: EVENT: MAY28 - NLC DC Convocation\nMEETING 
@@ -913,7 +909,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY31 - Annual Colour Run
 DTSTART;TZID=America/Dawson_Creek:20260530T140000
 DTEND;TZID=America/Dawson_Creek:20260530T170000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3298@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY31 - Annual Colou
  r Run\nAllocated: 3.0h\nNote: EVENT: MAY31 - Annual Colour Run\nhttps://ww
@@ -926,7 +922,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUN01 FSJ Chamber Welcome Reception
  Band
 DTSTART;TZID=America/Dawson_Creek:20260531T090000
 DTEND;TZID=America/Dawson_Creek:20260531T120000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4638@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN01 FSJ Chamber We
  lcome Reception Band\nAllocated: 3.0h\nNote: EVENT: JUN01 FSJ Chamber Welc
@@ -938,7 +934,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY31 - Annual Colour Run
 DTSTART;TZID=America/Dawson_Creek:20260531T140000
 DTEND;TZID=America/Dawson_Creek:20260531T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3304@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY31 - Annual Colour 
  Run\nAllocated: 2.0h\nNote: EVENT: MAY31 - Annual Colour Run\nhttps://www.
@@ -952,7 +948,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Dawson_Creek:20260601T090000
 DTEND;TZID=America/Dawson_Creek:20260601T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2101@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN04 - NLC FSJ Conv
  ocation\nAllocated: 7.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nMEETIN
@@ -965,7 +961,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUN04-07 - Prophet River First Natio
  n Treaty Days
 DTSTART;TZID=America/Dawson_Creek:20260602T090000
 DTEND;TZID=America/Dawson_Creek:20260602T120000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4424@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN04-07 - Prophet R
  iver First Nation Treaty Days\nAllocated: 3.0h\nNote: EVENT: JUN04-07 - Pr
@@ -978,7 +974,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUN05 UNBC - Event Production (Stagi
  ng\, Drape\, Audio)
 DTSTART;TZID=America/Dawson_Creek:20260603T090000
 DTEND;TZID=America/Dawson_Creek:20260603T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3352@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN05 UNBC - Event P
  roduction (Staging\, Drape\, Audio)\nAllocated: 7.0h\nNote: EVENT: JUN05 U
@@ -990,7 +986,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=America/Dawson_Creek:20260605T090000
 DTEND;TZID=America/Dawson_Creek:20260605T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3339@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN08 - Terry Fator 
  Comedy Show\nAllocated: 7.0h\nNote: EVENT: JUN08 - Terry Fator Comedy Show
@@ -1004,24 +1000,25 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Dawson_Creek:20260606T090000
 DTEND;TZID=America/Dawson_Creek:20260606T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2614@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN04 - NLC FSJ Conv
- ocation\nAllocated: 7.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\n\n\n\n
- Sound in Town - Ripley Kidner
+ ocation\nAllocated: 7.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nMEETIN
+ G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Ripley Kidner
 LOCATION:Downstairs Curling Rink
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN05 - Oilmans BBQ Event
 DTSTART;TZID=America/Dawson_Creek:20260606T100000
 DTEND;TZID=America/Dawson_Creek:20260606T180000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2823@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN05 - Oilmans BBQ 
  Event\nAllocated: 8.0h\nNote: EVENT: JUN05 - Oilmans BBQ Event\nhttps://ww
- w.soundintown.com/r/M9N\n\nAuto planned shift. May need to be adjusted by 
- planning.\nhttps://www.soundintown.com/model/showbook/jun05-oilmans-bbq-ev
- ent-1252\n\nSound in Town - Ripley Kidner
+ w.soundintown.com/r/M9N\nMEETING POINT: Sound In Town Warehouse\n\nAuto pl
+ anned shift. May need to be adjusted by planning.\nhttps://www.soundintown
+ .com/model/showbook/jun05-oilmans-bbq-event-1252\n\nSound in Town - Ripley
+  Kidner
 LOCATION:Fort St. John Curling Club
 END:VEVENT
 BEGIN:VEVENT
@@ -1029,23 +1026,25 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUN05 UNBC - Event Production (Stagi
  ng\, Drape\, Audio)
 DTSTART;TZID=America/Dawson_Creek:20260606T120000
 DTEND;TZID=America/Dawson_Creek:20260606T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3353@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN05 UNBC - Event P
  roduction (Staging\, Drape\, Audio)\nAllocated: 4.0h\nNote: EVENT: JUN05 U
- NBC - Event Production (Staging\, Drape\, Audio)\n\nAuto planned shift. Ma
- y need to be adjusted by planning.\n\nSound in Town - Ripley Kidner
+ NBC - Event Production (Staging\, Drape\, Audio)\nMEETING POINT: Sound In 
+ Town Warehouse\n\nAuto planned shift. May need to be adjusted by planning.
+ \n\nSound in Town - Ripley Kidner
 LOCATION:Pomeroy Hotel Fort St. John - Scotty Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN06 North Peace Pride - Festival
 DTSTART;TZID=America/Dawson_Creek:20260607T090000
 DTEND;TZID=America/Dawson_Creek:20260607T140000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2621@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN06 North Peace Pr
  ide - Festival\nAllocated: 5.0h\nNote: EVENT: JUN06 North Peace Pride - Fe
- stival\n\n\n\nSound in Town - Ripley Kidner
+ stival\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Ripl
+ ey Kidner
 LOCATION:Centennial Park
 END:VEVENT
 BEGIN:VEVENT
@@ -1053,7 +1052,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUN04-07 - Prophet River First Natio
  n Treaty Days
 DTSTART;TZID=America/Dawson_Creek:20260607T140000
 DTEND;TZID=America/Dawson_Creek:20260607T220000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4425@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN04-07 - Prophet R
  iver First Nation Treaty Days\nAllocated: 8.0h\nNote: EVENT: JUN04-07 - Pr
@@ -1066,7 +1065,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUN09-10 Collaborative Stewardship F
  orum Meeting
 DTSTART;TZID=America/Dawson_Creek:20260608T090000
 DTEND;TZID=America/Dawson_Creek:20260608T120059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4468@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN09-10 Collaborati
  ve Stewardship Forum Meeting\nAllocated: 3.0h\nNote: EVENT: JUN09-10 Colla
@@ -1078,7 +1077,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=America/Dawson_Creek:20260609T170000
 DTEND;TZID=America/Dawson_Creek:20260609T220000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3340@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN08 - Terry Fator 
  Comedy Show\nAllocated: 5.0h\nNote: EVENT: JUN08 - Terry Fator Comedy Show
@@ -1092,10 +1091,10 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN12-13 - Party In White GP
 DTSTART;TZID=America/Dawson_Creek:20260610T090000
 DTEND;TZID=America/Dawson_Creek:20260610T170000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2632@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN12-13 - Party In 
- White GP\nAllocated: 8.0h\nNote: EVENT: JUN13-14 - Party In White GP\nhttp
+ White GP\nAllocated: 8.0h\nNote: EVENT: JUN12-13 - Party In White GP\nhttp
  s://www.soundintown.com/r/R8W\nMEETING POINT: Sound In Town Warehouse\n\nA
  uto planned shift. May need to be adjusted by planning.\n\nSound in Town -
   Ripley Kidner
@@ -1105,7 +1104,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=America/Dawson_Creek:20260610T090000
 DTEND;TZID=America/Dawson_Creek:20260610T120059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3350@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN08 - Terry Fator 
  Comedy Show\nAllocated: 3.0h\nNote: EVENT: JUN08 - Terry Fator Comedy Show
@@ -1118,7 +1117,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUN09-10 Collaborative Stewardship F
  orum Meeting
 DTSTART;TZID=America/Dawson_Creek:20260611T090000
 DTEND;TZID=America/Dawson_Creek:20260611T140059
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4470@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN09-10 Collaborati
  ve Stewardship Forum Meeting\nAllocated: 5.0h\nNote: EVENT: JUN09-10 Colla
@@ -1130,10 +1129,10 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUN12-13 - Party In White GP
 DTSTART;TZID=America/Dawson_Creek:20260615T080000
 DTEND;TZID=America/Dawson_Creek:20260615T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2640@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUN12-13 - Party In 
- White GP\nAllocated: 8.0h\nNote: EVENT: JUN13-14 - Party In White GP\nhttp
+ White GP\nAllocated: 8.0h\nNote: EVENT: JUN12-13 - Party In White GP\nhttp
  s://www.soundintown.com/r/R8W\nMEETING POINT: Sound In Town Warehouse\n\n\
  n\nSound in Town - Ripley Kidner
 LOCATION:Bonnetts Energy Centre
@@ -1143,12 +1142,12 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUL05 - TNT Bodybuilding Edmonton 20
  26
 DTSTART;TZID=America/Dawson_Creek:20260702T050000
 DTEND;TZID=America/Dawson_Creek:20260702T110000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2678@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL05 - TNT Bodybuil
  ding Edmonton 2026\nAllocated: 6.0h\nNote: EVENT: JUL05 - TNT Bodybuilding
-  Edmonton 2026\n\nAuto planned shift. May need to be adjusted by planning.
- \n\nSound in Town - Ripley Kidner
+  Edmonton 2026\nMEETING POINT: Sound In Town Warehouse\n\nAuto planned shi
+ ft. May need to be adjusted by planning.\n\nSound in Town - Ripley Kidner
 LOCATION:Double Tree Edmonton West
 END:VEVENT
 BEGIN:VEVENT
@@ -1156,46 +1155,50 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUL10-12 Saulteau First Nations Pemm
  ican Days
 DTSTART;TZID=America/Dawson_Creek:20260709T080000
 DTEND;TZID=America/Dawson_Creek:20260709T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2439@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL10-12 Saulteau Fi
  rst Nations Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Saulteau
-  First Nations Pemmican Days\n\n\n\nSound in Town - Ripley Kidner
+  First Nations Pemmican Days\nMEETING POINT: Sound In Town Warehouse\n\n\n
+ \nSound in Town - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUL12-19 Prophet River First Nation 
  Gathering of Drummers
 DTSTART;TZID=America/Dawson_Creek:20260711T090000
 DTEND;TZID=America/Dawson_Creek:20260711T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4289@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL12-19 Prophet Riv
  er First Nation Gathering of Drummers\nAllocated: 7.0h\nNote: EVENT: JUL12
  -19 Prophet River First Nation Gathering of Drummers\nhttps://www.soundint
- own.com/r/UyR\n\n\n\nSound in Town - Ripley Kidner
+ own.com/r/UyR\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Town
+  - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUL10-12 Saulteau First Nations Pemm
  ican Days
 DTSTART;TZID=America/Dawson_Creek:20260713T080000
 DTEND;TZID=America/Dawson_Creek:20260713T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2438@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL10-12 Saulteau Fi
  rst Nations Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Saulteau
-  First Nations Pemmican Days\n\n\n\nSound in Town - Ripley Kidner
+  First Nations Pemmican Days\nMEETING POINT: Sound In Town Warehouse\n\n\n
+ \nSound in Town - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUL17-18 La Crete Ferry Family Campg
  round Music Event
 DTSTART;TZID=America/Dawson_Creek:20260715T100000
 DTEND;TZID=America/Dawson_Creek:20260715T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2716@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL17-18 La Crete Fe
  rry Family Campground Music Event\nAllocated: 6.0h\nNote: EVENT: JUL17-18 
- La Crete Ferry Family Campground Music Event\n\nAuto planned shift. May ne
- ed to be adjusted by planning.\n\nSound in Town - Ripley Kidner
+ La Crete Ferry Family Campground Music Event\nMEETING POINT: Sound In Town
+  Warehouse\n\nAuto planned shift. May need to be adjusted by planning.\n\n
+ Sound in Town - Ripley Kidner
 LOCATION:La Crete Ferry Campground
 END:VEVENT
 BEGIN:VEVENT
@@ -1203,24 +1206,26 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUL20-24 BFN Pink Mountain Culture C
  amp
 DTSTART;TZID=America/Dawson_Creek:20260719T070000
 DTEND;TZID=America/Dawson_Creek:20260719T130000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2727@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL20-24 BFN Pink Mo
  untain Culture Camp\nAllocated: 6.0h\nNote: EVENT: JUL20-24 BFN Pink Mount
- ain Culture Camp\n\nAuto planned shift. May need to be adjusted by plannin
- g.\n\nSound in Town - Ripley Kidner
+ ain Culture Camp\nMEETING POINT: Sound In Town Warehouse\n\nAuto planned s
+ hift. May need to be adjusted by planning.\n\nSound in Town - Ripley Kidne
+ r
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUL17-18 La Crete Ferry Family Campg
  round Music Event
 DTSTART;TZID=America/Dawson_Creek:20260719T170000
 DTEND;TZID=America/Dawson_Creek:20260719T220000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2717@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL17-18 La Crete Fe
  rry Family Campground Music Event\nAllocated: 5.0h\nNote: EVENT: JUL17-18 
- La Crete Ferry Family Campground Music Event\n\nAuto planned shift. May ne
- ed to be adjusted by planning.\n\nSound in Town - Ripley Kidner
+ La Crete Ferry Family Campground Music Event\nMEETING POINT: Sound In Town
+  Warehouse\n\nAuto planned shift. May need to be adjusted by planning.\n\n
+ Sound in Town - Ripley Kidner
 LOCATION:La Crete Ferry Campground
 END:VEVENT
 BEGIN:VEVENT
@@ -1228,47 +1233,48 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUL12-19 Prophet River First Nation
  Gathering of Drummers
 DTSTART;TZID=America/Dawson_Creek:20260720T090000
 DTEND;TZID=America/Dawson_Creek:20260720T160000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-4290@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL12-19 Prophet Riv
  er First Nation Gathering of Drummers\nAllocated: 7.0h\nNote: EVENT: JUL12
  -19 Prophet River First Nation Gathering of Drummers\nhttps://www.soundint
- own.com/r/UyR\n\n\n\nSound in Town - Ripley Kidner
+ own.com/r/UyR\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Town
+  - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260818T060000
 DTEND;TZID=America/Dawson_Creek:20260818T120000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2746@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: AUG21-22 Fredfest 20
- 26\nAllocated: 6.0h\nNote: EVENT: AUG21-22 Fredfest 2026\n\nAuto planned s
- hift. May need to be adjusted by planning.\n\nSound in Town - Ripley Kidne
- r
+ 26\nAllocated: 6.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: S
+ ound In Town Warehouse\n\nAuto planned shift. May need to be adjusted by p
+ lanning.\n\nSound in Town - Ripley Kidner
 LOCATION:Fred Fest
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260819T120000
 DTEND;TZID=America/Dawson_Creek:20260819T200000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2763@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: AUG21-22 Fredfest 20
- 26\nAllocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\n\nAuto planned s
- hift. May need to be adjusted by planning.\n\nSound in Town - Ripley Kidne
- r
+ 26\nAllocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: S
+ ound In Town Warehouse\n\nAuto planned shift. May need to be adjusted by p
+ lanning.\n\nSound in Town - Ripley Kidner
 LOCATION:Fred Fest
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260823T120000
 DTEND;TZID=America/Dawson_Creek:20260823T200000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2747@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: AUG21-22 Fredfest 20
- 26\nAllocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\n\nAuto planned s
- hift. May need to be adjusted by planning.\n\nSound in Town - Ripley Kidne
- r
+ 26\nAllocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: S
+ ound In Town Warehouse\n\nAuto planned shift. May need to be adjusted by p
+ lanning.\n\nSound in Town - Ripley Kidner
 LOCATION:Fred Fest
 END:VEVENT
 BEGIN:VEVENT
@@ -1276,39 +1282,41 @@ SUMMARY:WH2 - Warehouse Junior Tech - SEP05 Tumbler Ridge Fall Fair - Band
  s
 DTSTART;TZID=America/Dawson_Creek:20260903T120000
 DTEND;TZID=America/Dawson_Creek:20260903T180000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3434@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP05 Tumbler Ridge 
  Fall Fair - Bands\nAllocated: 6.0h\nNote: EVENT: SEP05 Tumbler Ridge Fall 
- Fair - Bands & Movie\nhttps://www.soundintown.com/r/vWP\n\nAuto planned sh
- ift. May need to be adjusted by planning.\nhttps://www.soundintown.com/mod
- el/showbook/sep12-tumbler-ridge-fall-fair-bands-movie-1315\n\nSound in Tow
- n - Ripley Kidner
+ Fair - Bands\nhttps://www.soundintown.com/r/vWP\nMEETING POINT: Sound In T
+ own Warehouse\n\nAuto planned shift. May need to be adjusted by planning.\
+ nhttps://www.soundintown.com/model/showbook/sep12-tumbler-ridge-fall-fair-
+ bands-movie-1315\n\nSound in Town - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP05 Tumbler Ridge Fall Fair - Band
  s
 DTSTART;TZID=America/Dawson_Creek:20260907T170000
 DTEND;TZID=America/Dawson_Creek:20260907T220000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-3435@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP05 Tumbler Ridge 
- Fall Fair - Bands\nNote: EVENT: SEP05 Tumbler Ridge Fall Fair - Bands & Mo
- vie\nhttps://www.soundintown.com/r/vWP\n\nAuto planned shift. May need to 
- be adjusted by planning.\nhttps://www.soundintown.com/model/showbook/sep12
- -tumbler-ridge-fall-fair-bands-movie-1315\n\nSound in Town - Ripley Kidner
+ Fall Fair - Bands\nNote: EVENT: SEP05 Tumbler Ridge Fall Fair - Bands\nhtt
+ ps://www.soundintown.com/r/vWP\nMEETING POINT: Sound In Town Warehouse\n\n
+ Auto planned shift. May need to be adjusted by planning.\nhttps://www.soun
+ dintown.com/model/showbook/sep12-tumbler-ridge-fall-fair-bands-movie-1315\
+ n\nSound in Town - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP22-24 Healing The Land Conference
   AV
 DTSTART;TZID=America/Dawson_Creek:20260920T090000
 DTEND;TZID=America/Dawson_Creek:20260920T170000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2791@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP22-24 Healing The
   Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Healing The La
- nd Conference\n\nAuto planned shift. May need to be adjusted by planning.\
- n\nSound in Town - Ripley Kidner
+ nd Conference AV\nhttps://www.soundintown.com/r/ul0\nMEETING POINT: Sound 
+ In Town Warehouse\n\nAuto planned shift. May need to be adjusted by planni
+ ng.\n\nSound in Town - Ripley Kidner
 LOCATION:Saulteau Cultural Centre Gym
 END:VEVENT
 BEGIN:VEVENT
@@ -1316,12 +1324,13 @@ SUMMARY:WH2 - Warehouse Junior Tech - SEP22-24 Healing The Land Conference
   AV
 DTSTART;TZID=America/Dawson_Creek:20260926T100000
 DTEND;TZID=America/Dawson_Creek:20260926T180000
-DTSTAMP:20260520T220320Z
+DTSTAMP:20260521T044228Z
 UID:planning-slot-2792@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP22-24 Healing The
   Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Healing The La
- nd Conference\n\nAuto planned shift. May need to be adjusted by planning.\
- n\nSound in Town - Ripley Kidner
+ nd Conference AV\nhttps://www.soundintown.com/r/ul0\nMEETING POINT: Sound 
+ In Town Warehouse\n\nAuto planned shift. May need to be adjusted by planni
+ ng.\n\nSound in Town - Ripley Kidner
 LOCATION:Saulteau Cultural Centre Gym
 END:VEVENT
 END:VCALENDAR
