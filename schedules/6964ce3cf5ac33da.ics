@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260330T121500
 DTEND;TZID=America/Dawson_Creek:20260330T160000
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-4023@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 3.8h\nN
  ote: MEETING POINT: Venue\n\n\n\nSound in Town - Amy Seebaran
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260330T130000
 DTEND;TZID=America/Dawson_Creek:20260330T160000
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-4024@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 3.0h\nN
  ote: MEETING POINT: Venue\n\n\n\nSound in Town - Amy Seebaran
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260401T100000
 DTEND;TZID=America/Dawson_Creek:20260401T113059
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-2923@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\nNote: MEETING POINT: C
  heck with Lead Planner\n\n\n\nSound in Town - Amy Seebaran
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260403T100000
 DTEND;TZID=America/Dawson_Creek:20260403T120000
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-3155@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 2.0h\nNote: MEETING POINT: C
  heck with Lead Planner\n\nEND OF QUARTER ROCK REVIEW 2 HR MEETING\n\nSound
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR17-19 Moose FM - TV DC Trade Show
 DTSTART;TZID=America/Dawson_Creek:20260417T100000
 DTEND;TZID=America/Dawson_Creek:20260417T120059
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-4328@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR17-19 Moose FM - TV D
  C Trade Show\nAllocated: 2.0h\nNote: EVENT: APR17-19 Moose FM - TV DC Trad
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR17-19 Ovintiv DC Tradeshow - TV Stand
 DTSTART;TZID=America/Dawson_Creek:20260417T100000
 DTEND;TZID=America/Dawson_Creek:20260417T120059
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-4329@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR17-19 Ovintiv DC Trad
  eshow - TV Stand\nAllocated: 2.0h\nNote: EVENT: APR17-19 Ovintiv DC Trades
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR17-19 Moose FM - TV DC Trade Show
 DTSTART;TZID=America/Dawson_Creek:20260419T150000
 DTEND;TZID=America/Dawson_Creek:20260419T160059
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-4262@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR17-19 Moose FM - TV D
  C Trade Show\nAllocated: 1.0h\nNote: EVENT: APR17-19 Moose FM - TV DC Trad
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR17-19 Ovintiv DC Tradeshow - TV Stand
 DTSTART;TZID=America/Dawson_Creek:20260419T150000
 DTEND;TZID=America/Dawson_Creek:20260419T160059
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-4330@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR17-19 Ovintiv DC Trad
  eshow - TV Stand\nAllocated: 1.0h\nNote: EVENT: APR17-19 Ovintiv DC Trades
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY01 Ovintiv - DC Art Gallery Lighting
 DTSTART;TZID=America/Dawson_Creek:20260501T120000
 DTEND;TZID=America/Dawson_Creek:20260501T140059
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-4409@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY01 Ovintiv - DC Art G
  allery Lighting\nAllocated: 2.0h\nNote: EVENT: MAY01 Ovintiv - DC Art Gall
@@ -115,7 +115,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY01 Ovintiv - DC Art Gal
  lery Lighting
 DTSTART;TZID=America/Dawson_Creek:20260502T090000
 DTEND;TZID=America/Dawson_Creek:20260502T110059
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-3309@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY01 Ovin
  tiv - DC Art Gallery Lighting\nAllocated: 2.0h\nNote: EVENT: MAY01 Ovintiv
@@ -128,7 +128,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY07 NLC Service Awards Ga
  la
 DTSTART;TZID=America/Dawson_Creek:20260506T093000
 DTEND;TZID=America/Dawson_Creek:20260506T140000
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-2068@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY07 NLC S
  ervice Awards Gala\nAllocated: 4.5h\nNote: EVENT: MAY07 NLC Service Awards
@@ -141,7 +141,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY08 - Reynars Connie Patt
  erson 1PM Service
 DTSTART;TZID=America/Dawson_Creek:20260508T160000
 DTEND;TZID=America/Dawson_Creek:20260508T210000
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-2581@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY08 - Rey
  nars Connie Patterson 1PM Service\nAllocated: 5.0h\nNote: EVENT: MAY08 - R
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260514T100000
 DTEND;TZID=America/Dawson_Creek:20260514T113059
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-4654@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\nNote: MEETING POINT: C
  heck with Lead Planner\n\n\n\nSound in Town - Amy Seebaran
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260518T100000
 DTEND;TZID=America/Dawson_Creek:20260518T113059
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-2930@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\nNote: MEETING POINT: C
  heck with Lead Planner\n\n\n\nSound in Town - Amy Seebaran
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260527T090000
 DTEND;TZID=America/Dawson_Creek:20260527T140000
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-2612@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: MAY28 - NLC DC Convocation\
  nAllocated: 5.0h\nNote: EVENT: MAY28 - NLC DC Convocation\nMEETING POINT: 
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - JUN06 Johnson Wedding Photobooth - Cameron Lake
 DTSTART;TZID=America/Dawson_Creek:20260606T080000
 DTEND;TZID=America/Dawson_Creek:20260606T110000
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-4822@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: JUN06 Johnson Wedding Photobooth - Cam
  eron Lake\nAllocated: 3.0h\nNote: EVENT: JUN06 Johnson Wedding Photobooth 
@@ -195,7 +195,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - JUN06 Johnson Wedding Photo
  booth - Cameron Lake
 DTSTART;TZID=America/Dawson_Creek:20260606T110000
 DTEND;TZID=America/Dawson_Creek:20260606T130000
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-1961@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: JUN06 Johns
  on Wedding Photobooth - Cameron Lake\nAllocated: 2.0h\nNote: EVENT: JUN06 
@@ -208,7 +208,7 @@ SUMMARY:PB1 - Onsite Photo booth Tech - JUN06 Johnson Wedding Photobooth -
   Cameron Lake
 DTSTART;TZID=America/Dawson_Creek:20260606T150000
 DTEND;TZID=America/Dawson_Creek:20260607T000000
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-1962@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: JUN06 Johnson Wedd
  ing Photobooth - Cameron Lake\nAllocated: 8.0h\nNote: EVENT: JUN06 Johnson
@@ -221,7 +221,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - JUN06 Johnson Wedding Photo
  booth - Cameron Lake
 DTSTART;TZID=America/Dawson_Creek:20260607T090000
 DTEND;TZID=America/Dawson_Creek:20260607T120000
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-1964@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: JUN06 Johns
  on Wedding Photobooth - Cameron Lake\nAllocated: 3.0h\nNote: EVENT: JUN06 
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - JUN06 Johnson Wedding Photobooth - Cameron Lake
 DTSTART;TZID=America/Dawson_Creek:20260607T120000
 DTEND;TZID=America/Dawson_Creek:20260607T140000
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-4823@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: JUN06 Johnson Wedding Photobooth - Cam
  eron Lake\nAllocated: 2.0h\nNote: EVENT: JUN06 Johnson Wedding Photobooth 
@@ -246,7 +246,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - JUN18 Aboriginal Family Ser
  vices - Photobooth
 DTSTART;TZID=America/Dawson_Creek:20260617T120000
 DTEND;TZID=America/Dawson_Creek:20260617T140059
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-4675@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: JUN18 Abori
  ginal Family Services - Photobooth\nAllocated: 2.0h\nNote: EVENT: JUN18 Ab
@@ -258,7 +258,7 @@ SUMMARY:PB1 - Onsite Photo booth Tech - JUN18 Aboriginal Family Services -
   Photobooth
 DTSTART;TZID=America/Dawson_Creek:20260618T100000
 DTEND;TZID=America/Dawson_Creek:20260618T130059
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-4669@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: JUN18 Aboriginal F
  amily Services - Photobooth\nAllocated: 3.0h\nNote: EVENT: JUN18 Aborigina
@@ -270,7 +270,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - JUN18 Aboriginal Family Ser
  vices - Photobooth
 DTSTART;TZID=America/Dawson_Creek:20260618T150000
 DTEND;TZID=America/Dawson_Creek:20260618T160059
-DTSTAMP:20260524T043741Z
+DTSTAMP:20260524T100805Z
 UID:planning-slot-4676@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: JUN18 Abori
  ginal Family Services - Photobooth\nAllocated: 1.0h\nNote: EVENT: JUN18 Ab
