@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260401T100000
 DTEND;TZID=America/Dawson_Creek:20260401T113059
-DTSTAMP:20260525T152821Z
+DTSTAMP:20260525T175513Z
 UID:planning-slot-2998@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\nNote: MEETING POINT: C
  heck with Lead Planner\n\n\n\nSound in Town - Sandra Estudillo
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260403T100000
 DTEND;TZID=America/Dawson_Creek:20260403T120000
-DTSTAMP:20260525T152821Z
+DTSTAMP:20260525T175513Z
 UID:planning-slot-3157@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 2.0h\nNote: MEETING POINT: C
  heck with Lead Planner\n\nEND OF QUARTER ROCK REVIEW 2 HR MEETING\n\nSound
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260514T100000
 DTEND;TZID=America/Dawson_Creek:20260514T113059
-DTSTAMP:20260525T152821Z
+DTSTAMP:20260525T175513Z
 UID:planning-slot-4655@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\nNote: MEETING POINT: C
  heck with Lead Planner\n\n\n\nSound in Town - Sandra Estudillo
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260518T100000
 DTEND;TZID=America/Dawson_Creek:20260518T113059
-DTSTAMP:20260525T152821Z
+DTSTAMP:20260525T175513Z
 UID:planning-slot-3005@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\nNote: MEETING POINT: C
  heck with Lead Planner\n\n\n\nSound in Town - Sandra Estudillo
