@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY02-03 - Fort Nelson Trade Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260504T180000
 DTEND;TZID=America/Dawson_Creek:20260504T200000
-DTSTAMP:20260526T183624Z
+DTSTAMP:20260526T215752Z
 UID:planning-slot-4591@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY02-03 - Fort Nelson Tr
  ade Show 2026\nNote: EVENT: MAY02-03 - Fort Nelson Trade Show 2026\nhttps:
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Dawson_Creek:20260604T170000
 DTEND;TZID=America/Dawson_Creek:20260604T220000
-DTSTAMP:20260526T183624Z
+DTSTAMP:20260526T215752Z
 UID:planning-slot-2107@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN04 - NLC
   FSJ Convocation\nAllocated: 5.0h\nNote: EVENT: JUN04 - NLC FSJ Convocatio
