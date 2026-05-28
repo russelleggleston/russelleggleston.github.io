@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY02-03 - Fort Nelson Trade Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260504T180000
 DTEND;TZID=America/Dawson_Creek:20260504T200000
-DTSTAMP:20260528T114948Z
+DTSTAMP:20260528T163232Z
 UID:planning-slot-4591@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY02-03 - Fort Nelson Tr
  ade Show 2026\nNote: EVENT: MAY02-03 - Fort Nelson Trade Show 2026\nhttps:
@@ -29,13 +29,11 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Dawson_Creek:20260604T170000
 DTEND;TZID=America/Dawson_Creek:20260604T220000
-DTSTAMP:20260528T114948Z
-UID:planning-slot-2107@soundintown.com
+DTSTAMP:20260528T163232Z
+UID:planning-slot-4919@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN04 - NLC
-  FSJ Convocation\nAllocated: 5.0h\nNote: EVENT: JUN04 - NLC FSJ Convocatio
- n\nMEETING POINT: Downstairs Curling Rink\n\nI know this is far in advance
- \, just trying to get a snapshot of how many people I will need for this\n
- \nSound in Town - Lucie Janosek
+  FSJ Convocation\nNote: EVENT: JUN04 - NLC FSJ Convocation\nMEETING POINT:
+  Downstairs Curling Rink\n\n\n\nSound in Town - Lucie Janosek
 LOCATION:Downstairs Curling Rink
 END:VEVENT
 END:VCALENDAR
