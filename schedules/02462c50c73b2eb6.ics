@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY02-03 - Fort Nelson Trade Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260504T180000
 DTEND;TZID=America/Dawson_Creek:20260504T200000
-DTSTAMP:20260530T140325Z
+DTSTAMP:20260530T171950Z
 UID:planning-slot-4591@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY02-03 - Fort Nelson Tr
  ade Show 2026\nNote: EVENT: MAY02-03 - Fort Nelson Trade Show 2026\nhttps:
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Dawson_Creek:20260604T120000
 DTEND;TZID=America/Dawson_Creek:20260604T180000
-DTSTAMP:20260530T140325Z
+DTSTAMP:20260530T171950Z
 UID:planning-slot-4919@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: JUN04 - NLC FSJ Convocation
  \nAllocated: 6.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nMEETING POINT
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN05 - SD60 Track Meet
 DTSTART;TZID=America/Dawson_Creek:20260605T053000
 DTEND;TZID=America/Dawson_Creek:20260605T071500
-DTSTAMP:20260530T140325Z
+DTSTAMP:20260530T171950Z
 UID:planning-slot-4936@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN05 - SD60 Track Meet\
  nAllocated: 1.8h\nNote: EVENT: JUN05 - SD60 Track Meet\nhttps://www.soundi
