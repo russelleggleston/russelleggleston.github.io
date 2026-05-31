@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260505T110000
 DTEND;TZID=America/Dawson_Creek:20260505T140000
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4586@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\nDrape folding extravaganza\n\nSound in To
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY08 - SD60 Indigenous Learning Day
 DTSTART;TZID=America/Dawson_Creek:20260507T153000
 DTEND;TZID=America/Dawson_Creek:20260507T220000
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4600@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY08 - SD60 Indigenous 
  Learning Day\nAllocated: 6.5h\nNote: EVENT: MAY08 - SD60 Indigenous Learni
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY08 - SD60 Indigenous Learning Day
 DTSTART;TZID=America/Dawson_Creek:20260508T150000
 DTEND;TZID=America/Dawson_Creek:20260508T180059
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4601@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY08 - SD60 Indigenous 
  Learning Day\nAllocated: 3.0h\nNote: EVENT: MAY08 - SD60 Indigenous Learni
@@ -52,7 +52,7 @@ SUMMARY:WH4 - Warehouse Helper - MAY05-06 Margaret Ma Pipe and Drape & Lig
  hts
 DTSTART;TZID=America/Dawson_Creek:20260509T120000
 DTEND;TZID=America/Dawson_Creek:20260509T160059
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4626@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY05-06 Margaret Ma Pipe
   and Drape & Lights\nAllocated: 4.0h\nNote: EVENT: MAY05-06 Margaret Ma Pi
@@ -65,7 +65,7 @@ SUMMARY:WH4 - Warehouse Helper - MAY08 - Reynars Connie Patterson 1PM Serv
  ice
 DTSTART;TZID=America/Dawson_Creek:20260510T090000
 DTEND;TZID=America/Dawson_Creek:20260510T160000
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4620@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY08 - Reynars Connie Pa
  tterson 1PM Service\nAllocated: 7.0h\nNote: EVENT: MAY08 - Reynars Connie 
@@ -78,7 +78,7 @@ SUMMARY:WH4 - Warehouse Helper - MAY14 - Pathways to Indigenous Futures 20
  26
 DTSTART;TZID=America/Dawson_Creek:20260514T170000
 DTEND;TZID=America/Dawson_Creek:20260514T210059
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4663@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY14 - Pathways to Indig
  enous Futures 2026\nNote: EVENT: MAY14 - Pathways to Indigenous Futures 20
@@ -91,7 +91,7 @@ SUMMARY:SET/STR4 - Event Helper - MAY21 City of FSJ - Mental Health Confer
  ence
 DTSTART;TZID=America/Dawson_Creek:20260521T170000
 DTEND;TZID=America/Dawson_Creek:20260521T210059
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4656@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY21 City of FSJ - Ment
  al Health Conference\nNote: EVENT: MAY21 City of FSJ - Mental Health Confe
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T053000
 DTEND;TZID=America/Dawson_Creek:20260523T073059
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4736@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 - Bluey Day\nAlloc
  ated: 2.0h\nNote: EVENT: MAY23 - Bluey Day\nMEETING POINT: Centennial Park
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T150000
 DTEND;TZID=America/Dawson_Creek:20260523T190059
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4737@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 - Bluey Day\nAlloc
  ated: 4.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.com/r/
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 Northern Classic 2026 GP
 DTSTART;TZID=America/Dawson_Creek:20260524T170000
 DTEND;TZID=America/Dawson_Creek:20260524T210000
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4773@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 Northern Classic 2
  026 GP\nNote: EVENT: MAY23 Northern Classic 2026 GP\nhttps://www.soundinto
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY23 Mine Rescue BC (Penticton)
 DTSTART;TZID=America/Dawson_Creek:20260525T160000
 DTEND;TZID=America/Dawson_Creek:20260525T210000
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-2489@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY23 Mine Rescue BC (Pen
  ticton)\nAllocated: 5.0h\nNote: EVENT: MAY23 Mine Rescue BC (Penticton)\nh
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN01-03 2026 BCC Chamber Conference
 DTSTART;TZID=America/Dawson_Creek:20260529T090000
 DTEND;TZID=America/Dawson_Creek:20260529T170059
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4683@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN01-03 2026 BCC Chambe
  r Conference\nAllocated: 8.0h\nNote: EVENT: JUN01-03 2026 BCC Chamber Conf
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN01-03 2026 BCC Chamber Conference
 DTSTART;TZID=America/Dawson_Creek:20260603T130000
 DTEND;TZID=America/Dawson_Creek:20260603T210059
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4686@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN01-03 2026 BCC Chambe
  r Conference\nAllocated: 8.0h\nNote: EVENT: JUN01-03 2026 BCC Chamber Conf
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN04 - NLC FSJ Convocation
 DTSTART;TZID=America/Dawson_Creek:20260604T170000
 DTEND;TZID=America/Dawson_Creek:20260604T220000
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4849@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN04 - NLC FSJ Convocat
  ion\nNote: EVENT: JUN04 - NLC FSJ Convocation\nMEETING POINT: Downstairs C
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN19 - Tumbler Ridge Grad
 DTSTART;TZID=America/Dawson_Creek:20260613T090000
 DTEND;TZID=America/Dawson_Creek:20260613T190000
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4903@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN19 - Tumbler Ridge Gr
  ad\nAllocated: 8.0h\nNote: EVENT: JUN19 - Tumbler Ridge Grad\nhttps://www.
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN19 - Tumbler Ridge Grad
 DTSTART;TZID=America/Dawson_Creek:20260620T070000
 DTEND;TZID=America/Dawson_Creek:20260620T190000
-DTSTAMP:20260531T102349Z
+DTSTAMP:20260531T141006Z
 UID:planning-slot-4909@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN19 - Tum
  bler Ridge Grad\nAllocated: 8.0h\nNote: EVENT: JUN19 - Tumbler Ridge Grad\
