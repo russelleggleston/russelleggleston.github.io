@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR29 NLC FSJ - Dual Credit Night
 DTSTART;TZID=America/Dawson_Creek:20260429T200000
 DTEND;TZID=America/Dawson_Creek:20260429T220059
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4408@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR29 NLC FSJ - Dual Cre
  dit Night\nNote: EVENT: APR29 NLC FSJ - Dual Credit Night\nMEETING POINT: 
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - MAY02-03 - Fort Nelson Trade Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260430T100000
 DTEND;TZID=America/Dawson_Creek:20260430T143000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4438@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: MAY02-03 - Fort Nelson Trade Show 2026
  \nAllocated: 4.5h\nNote: EVENT: MAY02-03 - Fort Nelson Trade Show 2026\nht
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY02-03 - Fort Nelson Trade Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260430T143000
 DTEND;TZID=America/Dawson_Creek:20260430T190000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4496@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY02-03 - Fort Nelson T
  rade Show 2026\nAllocated: 4.5h\nNote: EVENT: MAY02-03 - Fort Nelson Trade
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY02-03 - Fort Nelson Trade Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260501T080000
 DTEND;TZID=America/Dawson_Creek:20260501T110000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4439@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY02-03 - Fort Nelson T
  rade Show 2026\nAllocated: 3.0h\nNote: EVENT: MAY02-03 - Fort Nelson Trade
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY02-03 - Fort Nelson Trade Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260503T150000
 DTEND;TZID=America/Dawson_Creek:20260503T180000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4441@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY02-03 - Fort Nelson T
  rade Show 2026\nAllocated: 3.0h\nNote: EVENT: MAY02-03 - Fort Nelson Trade
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - MAY02-03 - Fort Nelson Trade Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260503T180000
 DTEND;TZID=America/Dawson_Creek:20260503T220000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4494@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: MAY02-03 - Fort Nelson Trade Show 2026
  \nNote: EVENT: MAY02-03 - Fort Nelson Trade Show 2026\nhttps://www.soundin
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260505T110000
 DTEND;TZID=America/Dawson_Creek:20260505T140000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4599@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\nDrape folding extravaganza\n\nSound in To
@@ -100,7 +100,7 @@ SUMMARY:SET/STR4 - Event Helper - MAY08 - Drape for Connie Patterson Funer
  al
 DTSTART;TZID=America/Dawson_Creek:20260506T130000
 DTEND;TZID=America/Dawson_Creek:20260506T210000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-3280@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY08 - Drape for Connie
   Patterson Funeral\nAllocated: 8.0h\nNote: EVENT: MAY08 - Drape for Connie
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY08 - SD60 Indigenous Learning Day
 DTSTART;TZID=America/Dawson_Creek:20260507T153000
 DTEND;TZID=America/Dawson_Creek:20260507T220000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-3276@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY08 - SD60 Indigenous 
  Learning Day\nAllocated: 6.5h\nNote: EVENT: MAY08 - SD60 Indigenous Learni
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY08 - SD60 Indigenous Learning Day
 DTSTART;TZID=America/Dawson_Creek:20260508T150000
 DTEND;TZID=America/Dawson_Creek:20260508T220059
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4566@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY08 - SD60 Indigenous 
  Learning Day\nAllocated: 7.0h\nNote: EVENT: MAY08 - SD60 Indigenous Learni
@@ -136,7 +136,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY13 - FSJ BEO Petronas Co
  ntractor Town Hall/#14853-1
 DTSTART;TZID=America/Dawson_Creek:20260513T170000
 DTEND;TZID=America/Dawson_Creek:20260513T210059
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4449@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY13 - FSJ
   BEO Petronas Contractor Town Hall/#14853-1\nNote: EVENT: MAY13 - FSJ BEO 
@@ -150,7 +150,7 @@ SUMMARY:SET/STR4 - Event Helper - MAY21 City of FSJ - Mental Health Confer
  ence
 DTSTART;TZID=America/Dawson_Creek:20260521T170000
 DTEND;TZID=America/Dawson_Creek:20260521T210059
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4797@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY21 City of FSJ - Ment
  al Health Conference\nNote: EVENT: MAY21 City of FSJ - Mental Health Confe
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T053000
 DTEND;TZID=America/Dawson_Creek:20260523T073059
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4375@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 - Bluey Day\nAlloc
  ated: 2.0h\nNote: EVENT: MAY23 - Bluey Day\nMEETING POINT: Centennial Park
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T150000
 DTEND;TZID=America/Dawson_Creek:20260523T190059
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4377@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 - Bluey Day\nAlloc
  ated: 4.0h\nNote: EVENT: MAY23 - Bluey Day\nhttps://www.soundintown.com/r/
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 Northern Classic 2026 GP
 DTSTART;TZID=America/Dawson_Creek:20260524T170000
 DTEND;TZID=America/Dawson_Creek:20260524T210000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4764@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 Northern Classic 2
  026 GP\nNote: EVENT: MAY23 Northern Classic 2026 GP\nhttps://www.soundinto
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY27 FSJ CO-OP AGM
 DTSTART;TZID=America/Dawson_Creek:20260525T170000
 DTEND;TZID=America/Dawson_Creek:20260525T220000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4761@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY27 FSJ CO-OP AGM\nNot
  e: EVENT: MAY27 FSJ CO-OP AGM\nhttps://www.soundintown.com/r/176\nMEETING 
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY27 FSJ CO-OP AGM
 DTSTART;TZID=America/Dawson_Creek:20260528T090000
 DTEND;TZID=America/Dawson_Creek:20260528T120000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-2091@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY27 FSJ C
  O-OP AGM\nAllocated: 3.0h\nNote: EVENT: MAY27 FSJ CO-OP AGM\nhttps://www.s
@@ -219,14 +219,15 @@ LOCATION:Ramada by Wyndham Northern Grand Hotel & Conference Centre - Gran
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN04 - NLC FSJ Convocation
+  2026
 DTSTART;TZID=America/Dawson_Creek:20260528T120000
 DTEND;TZID=America/Dawson_Creek:20260528T170000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4835@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN04 - NLC
-  FSJ Convocation\nAllocated: 5.0h\nNote: EVENT: JUN04 - NLC FSJ Convocatio
- n\nMEETING POINT: Downstairs Curling Rink\n\nPipe and Drape\n\nSound in To
- wn - Bethany Kay
+  FSJ Convocation 2026\nAllocated: 5.0h\nNote: EVENT: JUN04 - NLC FSJ Convo
+ cation\nMEETING POINT: Downstairs Curling Rink\n\nPipe and Drape\n\nSound 
+ in Town - Bethany Kay
 LOCATION:Downstairs Curling Rink
 END:VEVENT
 BEGIN:VEVENT
@@ -234,7 +235,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN01-03 2026 BCC Chamber C
  onference
 DTSTART;TZID=America/Dawson_Creek:20260529T090000
 DTEND;TZID=America/Dawson_Creek:20260529T170059
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4681@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN01-03 20
  26 BCC Chamber Conference\nAllocated: 8.0h\nNote: EVENT: JUN01-03 2026 BCC
@@ -246,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN01-03 2026 BCC Chamber Conference
 DTSTART;TZID=America/Dawson_Creek:20260530T090000
 DTEND;TZID=America/Dawson_Creek:20260530T130000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4837@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN01-03 2026 BCC Chambe
  r Conference\nAllocated: 4.0h\nNote: EVENT: JUN01-03 2026 BCC Chamber Conf
@@ -258,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN01-03 2026 BCC Chamber Conference
 DTSTART;TZID=America/Dawson_Creek:20260603T130000
 DTEND;TZID=America/Dawson_Creek:20260603T210059
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4913@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN01-03 2026 BCC Chambe
  r Conference\nAllocated: 8.0h\nNote: EVENT: JUN01-03 2026 BCC Chamber Conf
@@ -267,33 +268,33 @@ DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN01-03 2026 BCC Chambe
 LOCATION:Pomeroy Hotel Fort St. John
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CO - Camera Operator - JUN04 - NLC FSJ Convocation
+SUMMARY:CO - Camera Operator - JUN04 - NLC FSJ Convocation 2026
 DTSTART;TZID=America/Dawson_Creek:20260604T120000
 DTEND;TZID=America/Dawson_Creek:20260604T200000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4360@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: JUN04 - NLC FSJ Convocation
- \nAllocated: 8.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nMEETING POINT
- : Downstairs Curling Rink\n\nTIME TBd\n\nSound in Town - Bethany Kay
+  2026\nAllocated: 8.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nMEETING 
+ POINT: Downstairs Curling Rink\n\nTIME TBd\n\nSound in Town - Bethany Kay
 LOCATION:Downstairs Curling Rink
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - JUN04 - NLC FSJ Convocation
+SUMMARY:SET/STR4 - Event Helper - JUN04 - NLC FSJ Convocation 2026
 DTSTART;TZID=America/Dawson_Creek:20260605T090000
 DTEND;TZID=America/Dawson_Creek:20260605T120000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-2108@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN04 - NLC FSJ Convocat
- ion\nAllocated: 3.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nMEETING PO
- INT: Downstairs Curling Rink\n\nMaybe grabbing leftovr gear\n\nSound in To
- wn - Bethany Kay
+ ion 2026\nAllocated: 3.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nMEETI
+ NG POINT: Downstairs Curling Rink\n\nMaybe grabbing leftovr gear\n\nSound 
+ in Town - Bethany Kay
 LOCATION:Downstairs Curling Rink
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V2 - Video Assist - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=America/Dawson_Creek:20260608T080000
 DTEND;TZID=America/Dawson_Creek:20260608T140000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4843@soundintown.com
 DESCRIPTION:Role: V2 - Video Assist\nEvent: JUN08 - Terry Fator Comedy Sho
  w\nAllocated: 6.0h\nNote: EVENT: JUN08 - Terry Fator Comedy Show\nhttps://
@@ -305,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:V2 - Video Assist - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=America/Dawson_Creek:20260608T213000
 DTEND;TZID=America/Dawson_Creek:20260608T234500
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4844@soundintown.com
 DESCRIPTION:Role: V2 - Video Assist\nEvent: JUN08 - Terry Fator Comedy Sho
  w\nNote: EVENT: JUN08 - Terry Fator Comedy Show\nhttps://www.soundintown.c
@@ -317,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN19 - Tumbler Ridge Grad
 DTSTART;TZID=America/Dawson_Creek:20260613T090000
 DTEND;TZID=America/Dawson_Creek:20260613T190000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4902@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN19 - Tumbler Ridge Gr
  ad\nAllocated: 8.0h\nNote: EVENT: JUN19 - Tumbler Ridge Grad\nhttps://www.
@@ -329,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN19 - Tumbler Ridge Grad
 DTSTART;TZID=America/Dawson_Creek:20260616T070000
 DTEND;TZID=America/Dawson_Creek:20260616T190000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4905@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN19 - Tum
  bler Ridge Grad\nAllocated: 8.0h\nNote: EVENT: JUN19 - Tumbler Ridge Grad\
@@ -341,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN19 - Tumbler Ridge Grad
 DTSTART;TZID=America/Dawson_Creek:20260620T070000
 DTEND;TZID=America/Dawson_Creek:20260620T190000
-DTSTAMP:20260602T121425Z
+DTSTAMP:20260602T165437Z
 UID:planning-slot-4908@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN19 - Tum
  bler Ridge Grad\nAllocated: 8.0h\nNote: EVENT: JUN19 - Tumbler Ridge Grad\
