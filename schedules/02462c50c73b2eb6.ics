@@ -17,35 +17,24 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY02-03 - Fort Nelson Trade Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260504T180000
 DTEND;TZID=America/Dawson_Creek:20260504T200000
-DTSTAMP:20260602T222729Z
+DTSTAMP:20260603T051447Z
 UID:planning-slot-4591@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY02-03 - Fort Nelson Tr
- ade Show 2026\nNote: EVENT: MAY02-03 - Fort Nelson Trade Show 2026\nhttps:
- //www.soundintown.com/r/fU7\nMEETING POINT: Sound In Town Warehouse\n\nDra
- pe folding\n\nSound in Town - Lucie Janosek
+ ade Show 2026\nNote: EVENT: MAY02-03 - Fort Nelson Trade Show 2026\nMEETIN
+ G POINT: Sound In Town Warehouse\n\nDrape folding\n\nSound in Town - Lucie
+  Janosek
 LOCATION:Northern Rockies Regional Recreation Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - JUN04 - NLC FSJ Convocation 2026
-DTSTART;TZID=America/Dawson_Creek:20260604T120000
-DTEND;TZID=America/Dawson_Creek:20260604T180000
-DTSTAMP:20260602T222729Z
+DTSTART;TZID=America/Dawson_Creek:20260604T163000
+DTEND;TZID=America/Dawson_Creek:20260604T183000
+DTSTAMP:20260603T051447Z
 UID:planning-slot-4919@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: JUN04 - NLC FSJ Convocation
-  2026\nAllocated: 6.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation\nMEETING 
- POINT: Downstairs Curling Rink\n\n\n\nSound in Town - Lucie Janosek
+  2026\nAllocated: 2.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation 2026\nhtt
+ ps://www.soundintown.com/r/27O\nMEETING POINT: Downstairs Curling Rink\n\n
+ \n\nSound in Town - Lucie Janosek
 LOCATION:Downstairs Curling Rink
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - JUN05 - SD60 Track Meet
-DTSTART;TZID=America/Dawson_Creek:20260605T053000
-DTEND;TZID=America/Dawson_Creek:20260605T071500
-DTSTAMP:20260602T222729Z
-UID:planning-slot-4936@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN05 - SD60 Track Meet\
- nAllocated: 1.8h\nNote: EVENT: JUN05 - SD60 Track Meet\nhttps://www.soundi
- ntown.com/r/0NL\nMEETING POINT: Bert Bowes Middle School\n\n\n\nSound in T
- own - Lucie Janosek
-LOCATION:Bert Bowes Middle School
 END:VEVENT
 END:VCALENDAR
