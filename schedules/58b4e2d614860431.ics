@@ -22,27 +22,27 @@ TZOFFSETTO:-0600
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - JUL05 - TNT Bodybuilding Edmonton 2026
+SUMMARY:SET/STR4 - Event Helper - JUL05 -TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Edmonton:20260704T080000
 DTEND;TZID=America/Edmonton:20260704T200000
-DTSTAMP:20260603T125009Z
+DTSTAMP:20260603T195742Z
 UID:planning-slot-2690@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 - TNT Bodybuilding
-  Edmonton 2026\nAllocated: 2.0h\nNote: EVENT: JUL05 - TNT Bodybuilding Edm
- onton 2026\nMEETING POINT: Double Tree Edmonton West\n\n\n\nSound in Town 
- - Helge Lipphardt
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 -TNT Bodybuilding 
+ Edmonton 2026\nAllocated: 2.0h\nNote: EVENT: JUL05 - TNT Bodybuilding Edmo
+ nton 2026\nMEETING POINT: Double Tree Edmonton West\n\n\n\nSound in Town -
+  Helge Lipphardt
 LOCATION:Double Tree Edmonton West
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - JUL05 - TNT Bodybuilding Edmonton 2026
+SUMMARY:SET/STR4 - Event Helper - JUL05 -TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Edmonton:20260705T190000
 DTEND;TZID=America/Edmonton:20260706T010000
-DTSTAMP:20260603T125009Z
+DTSTAMP:20260603T195742Z
 UID:planning-slot-2695@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 - TNT Bodybuilding
-  Edmonton 2026\nAllocated: 1.0h\nNote: EVENT: JUL05 - TNT Bodybuilding Edm
- onton 2026\nMEETING POINT: Double Tree Edmonton West\n\nTIMES TBD\n\nSound
-  in Town - Helge Lipphardt
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 -TNT Bodybuilding 
+ Edmonton 2026\nAllocated: 1.0h\nNote: EVENT: JUL05 - TNT Bodybuilding Edmo
+ nton 2026\nMEETING POINT: Double Tree Edmonton West\n\nTIMES TBD\n\nSound 
+ in Town - Helge Lipphardt
 LOCATION:Double Tree Edmonton West
 END:VEVENT
 END:VCALENDAR
