@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260405T100000
 DTEND;TZID=America/Dawson_Creek:20260405T130000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4072@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 3.0h\nNote: MEETING POINT: C
  heck with Lead Planner\n\nOffice work\n\nSound in Town - Dana Pedersen
@@ -27,7 +27,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - APR08 FSJ BEO Safer Roads Alliance/
  #14786-1
 DTSTART;TZID=America/Dawson_Creek:20260406T180000
 DTEND;TZID=America/Dawson_Creek:20260406T190059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4132@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: APR08 FSJ BEO Safer
   Roads Alliance/#14786-1\nAllocated: 1.0h\nNote: EVENT: APR08 FSJ BEO Safe
@@ -42,7 +42,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - APR08 FSJ BEO Safer Roads Alliance/#1
  4786-1
 DTSTART;TZID=America/Dawson_Creek:20260408T073000
 DTEND;TZID=America/Dawson_Creek:20260408T083059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4134@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: APR08 FSJ BEO Safer R
  oads Alliance/#14786-1\nAllocated: 1.0h\nNote: EVENT: APR08 FSJ BEO Safer 
@@ -58,7 +58,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - APR08 FSJ BEO Safer Roads Alliance/
  #14786-1
 DTSTART;TZID=America/Dawson_Creek:20260408T170000
 DTEND;TZID=America/Dawson_Creek:20260408T180059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4133@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: APR08 FSJ BEO Safer
   Roads Alliance/#14786-1\nNote: EVENT: APR08 FSJ BEO Safer Roads Alliance/
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR09 FSJ BEO Tourmaline Meeting/#14967-1
 DTSTART;TZID=America/Dawson_Creek:20260408T181500
 DTEND;TZID=America/Dawson_Creek:20260408T190059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4245@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR09 FSJ BEO Tourmaline Mee
  ting/#14967-1\nNote: EVENT: APR09 FSJ BEO Tourmaline Meeting/#14967-1\nMEE
@@ -83,7 +83,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - APR09 FSJ BEO Tourmaline Meeting/#149
  67-1
 DTSTART;TZID=America/Dawson_Creek:20260409T123000
 DTEND;TZID=America/Dawson_Creek:20260409T133059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4246@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: APR09 FSJ BEO Tourmal
  ine Meeting/#14967-1\nAllocated: 1.0h\nNote: EVENT: APR09 FSJ BEO Tourmali
@@ -96,7 +96,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - APR10 FSJ BEO Rhythm Auctions Ltd M
  eeting/#14965-1
 DTSTART;TZID=America/Dawson_Creek:20260409T150000
 DTEND;TZID=America/Dawson_Creek:20260409T160059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4241@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: APR10 FSJ BEO Rhyth
  m Auctions Ltd Meeting/#14965-1\nAllocated: 1.0h\nNote: EVENT: APR10 FSJ B
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR09 Hudson's Hope Council Livestream
 DTSTART;TZID=America/Dawson_Creek:20260409T170000
 DTEND;TZID=America/Dawson_Creek:20260409T210000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2309@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR09 Hudson's Hope Council 
  Livestream\nAllocated: 4.0h\nNote: EVENT: APR09 Hudson's Hope Council Live
@@ -122,7 +122,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - APR10 FSJ BEO Rhythm Auctions Ltd Mee
  ting/#14965-1
 DTSTART;TZID=America/Dawson_Creek:20260410T073000
 DTEND;TZID=America/Dawson_Creek:20260410T083059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4285@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: APR10 FSJ BEO Rhythm 
  Auctions Ltd Meeting/#14965-1\nAllocated: 1.0h\nNote: EVENT: APR10 FSJ BEO
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Transport
 DTSTART;TZID=America/Dawson_Creek:20260410T111500
 DTEND;TZID=America/Dawson_Creek:20260410T114559
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-3875@soundintown.com
 DESCRIPTION:Role: Transport\nAllocated: 0.5h\nNote: MEETING POINT: Sound I
  n Town Warehouse\n\nPICK UP AMANDA FROM AIRPORT. FLIGHT ARRIVES AT 11:35\n
@@ -146,7 +146,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - APR10-12 Fort St. John Tradeshow Bo
  oth for Ovintiv
 DTSTART;TZID=America/Dawson_Creek:20260410T120000
 DTEND;TZID=America/Dawson_Creek:20260410T130059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-3890@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: APR10-12 Fort St. J
  ohn Tradeshow Booth for Ovintiv\nAllocated: 1.0h\nNote: EVENT: APR10-12 Fo
@@ -160,7 +160,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - APR10 FSJ BEO Rhythm Auctions Ltd M
  eeting/#14965-1
 DTSTART;TZID=America/Dawson_Creek:20260410T170000
 DTEND;TZID=America/Dawson_Creek:20260410T180059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4242@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: APR10 FSJ BEO Rhyth
  m Auctions Ltd Meeting/#14965-1\nNote: EVENT: APR10 FSJ BEO Rhythm Auction
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR13-15 Stageline Spring Training
 DTSTART;TZID=America/Dawson_Creek:20260412T080000
 DTEND;TZID=America/Dawson_Creek:20260412T083059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-3912@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR13-15 Stageline Spring Training\nAl
  located: 0.5h\nNote: EVENT: APR13-15 Stageline Spring Training\nMEETING PO
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260412T100000
 DTEND;TZID=America/Dawson_Creek:20260412T130000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4073@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 3.0h\nNote: MEETING POINT: C
  heck with Lead Planner\n\nOffice work\n\nSound in Town - Dana Pedersen
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR06-11 Flowers By Charene - P&D and Uplighting
 DTSTART;TZID=America/Dawson_Creek:20260413T100000
 DTEND;TZID=America/Dawson_Creek:20260413T160059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4259@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR06-11 Flowers By Charene - P&D and 
  Uplighting\nAllocated: 6.0h\nNote: EVENT: APR06-11 Flowers By Charene - P&
@@ -207,7 +207,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - APR15 FSJ BEO TNorth Spring Meeting
  /#14964-1
 DTSTART;TZID=America/Dawson_Creek:20260414T170000
 DTEND;TZID=America/Dawson_Creek:20260414T180059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4156@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: APR15 FSJ BEO TNort
  h Spring Meeting/#14964-1\nNote: EVENT: APR15 FSJ BEO TNorth Spring Meetin
@@ -220,7 +220,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - APR15 FSJ BEO TNorth Spring Meeting/#
  14964-1
 DTSTART;TZID=America/Dawson_Creek:20260415T074500
 DTEND;TZID=America/Dawson_Creek:20260415T083000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4336@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: APR15 FSJ BEO TNorth 
  Spring Meeting/#14964-1\nAllocated: 0.8h\nNote: EVENT: APR15 FSJ BEO TNort
@@ -235,7 +235,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - APR15 FSJ BEO TNorth Spring Meeting
  /#14964-1
 DTSTART;TZID=America/Dawson_Creek:20260415T163000
 DTEND;TZID=America/Dawson_Creek:20260415T170059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4157@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: APR15 FSJ BEO TNort
  h Spring Meeting/#14964-1\nAllocated: 0.5h\nNote: EVENT: APR15 FSJ BEO TNo
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR15 Hudson's Hope Council Livestream
 DTSTART;TZID=America/Dawson_Creek:20260415T170000
 DTEND;TZID=America/Dawson_Creek:20260415T210000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2315@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR15 Hudson's Hope Council 
  Livestream\nNote: EVENT: APR15 Hudson's Hope Council Livestream\nMEETING P
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR16 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20260416T090000
 DTEND;TZID=America/Dawson_Creek:20260416T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2300@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR16 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: APR16 - PRRD Board Meeting - DC\nMEETIN
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR13-15 Stageline Spring Training
 DTSTART;TZID=America/Dawson_Creek:20260416T220000
 DTEND;TZID=America/Dawson_Creek:20260416T223059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-3913@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR13-15 Stageline Spring Training\nNo
  te: EVENT: APR13-15 Stageline Spring Training\nMEETING POINT: Sound In Tow
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR17 PRRD Solid Waste Committee Meeting
 DTSTART;TZID=America/Dawson_Creek:20260417T080000
 DTEND;TZID=America/Dawson_Creek:20260417T170059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-3263@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR17 PRRD Solid Waste Commi
  ttee Meeting\nAllocated: 8.0h\nNote: EVENT: APR17 PRRD Solid Waste Committ
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR17 PRRD - EADC/RBAC - DC
 DTSTART;TZID=America/Dawson_Creek:20260417T090000
 DTEND;TZID=America/Dawson_Creek:20260417T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2303@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR17 PRRD - EADC/RBAC - DC\
  nAllocated: 8.0h\nNote: EVENT: APR17 PRRD - EADC/RBAC - DC\nMEETING POINT:
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260419T100000
 DTEND;TZID=America/Dawson_Creek:20260419T130000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4074@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 3.0h\nNote: MEETING POINT: C
  heck with Lead Planner\n\nOffice work\n\nSound in Town - Dana Pedersen
@@ -316,7 +316,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - APR22 FSJ BEO Site C Cultural Cente
  r Ground Blessing/#14976-1
 DTSTART;TZID=America/Dawson_Creek:20260421T180000
 DTEND;TZID=America/Dawson_Creek:20260421T190059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4399@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: APR22 FSJ BEO Site 
  C Cultural Center Ground Blessing/#14976-1\nNote: EVENT: APR22 FSJ BEO Sit
@@ -330,7 +330,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - APR22 FSJ BEO Site C Cultural Center
  Ground Blessing/#14976-1
 DTSTART;TZID=America/Dawson_Creek:20260422T113000
 DTEND;TZID=America/Dawson_Creek:20260422T120059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4400@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: APR22 FSJ BEO Site C 
  Cultural Center Ground Blessing/#14976-1\nAllocated: 0.5h\nNote: EVENT: AP
@@ -343,7 +343,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - APR22 FSJ BEO Site C Cultural Cente
  r Ground Blessing/#14976-1
 DTSTART;TZID=America/Dawson_Creek:20260422T150000
 DTEND;TZID=America/Dawson_Creek:20260422T160059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4401@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: APR22 FSJ BEO Site 
  C Cultural Center Ground Blessing/#14976-1\nAllocated: 1.0h\nNote: EVENT: 
@@ -356,7 +356,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR23 - MooseFM Job Fair TVs
 DTSTART;TZID=America/Dawson_Creek:20260422T190000
 DTEND;TZID=America/Dawson_Creek:20260422T220059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4396@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR23 - MooseFM Job Fair TVs
  \nNote: EVENT: APR23 - MooseFM Job Fair TVs\nMEETING POINT: Pomeroy Hotel 
@@ -368,7 +368,7 @@ SUMMARY:V1 - Video Engineer - APR24 - South Peace Crime Prevention Symposi
  um and AGM
 DTSTART;TZID=America/Dawson_Creek:20260424T060000
 DTEND;TZID=America/Dawson_Creek:20260424T110059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4421@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR24 - South Peace Crime Pr
  evention Symposium and AGM\nAllocated: 5.0h\nNote: EVENT: APR24 - South Pe
@@ -380,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR23-25 Beauty and the Beast Microphone Rental
 DTSTART;TZID=America/Dawson_Creek:20260425T220000
 DTEND;TZID=America/Dawson_Creek:20260425T223000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-3928@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR23-25 Beauty and the Beast Micropho
  ne Rental\nNote: EVENT: APR23-25 Beauty and the Beast Microphone Rental\nM
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260426T100000
 DTEND;TZID=America/Dawson_Creek:20260426T130000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4075@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 3.0h\nNote: MEETING POINT: C
  heck with Lead Planner\n\nOffice work\n\nSound in Town - Dana Pedersen
@@ -401,7 +401,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - APR28 FSJ BEO BC Hydro Meeting/#149
  88-1
 DTSTART;TZID=America/Dawson_Creek:20260427T170000
 DTEND;TZID=America/Dawson_Creek:20260427T180059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4473@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: APR28 FSJ BEO BC Hy
  dro Meeting/#14988-1\nNote: EVENT: APR28 FSJ BEO BC Hydro Meeting/#14988-1
@@ -416,7 +416,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - APR28-29 FSJ BEO LP Corporation Mee
   @ 7am 1
 DTSTART;TZID=America/Dawson_Creek:20260427T181500
 DTEND;TZID=America/Dawson_Creek:20260427T190059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4477@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: APR28-29 FSJ BEO LP
   Corporation Meeting/#14862-1essert Squares 15 Audio Visual Services Detai
@@ -432,7 +432,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - APR28-29 FSJ BEO LP Corporation Meeti
   7am 1
 DTSTART;TZID=America/Dawson_Creek:20260428T064500
 DTEND;TZID=America/Dawson_Creek:20260428T071559
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4479@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: APR28-29 FSJ BEO LP C
  orporation Meeting/#14862-1essert Squares 15 Audio Visual Services Details
@@ -448,7 +448,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - APR28 FSJ BEO BC Hydro Meeting/#14988
  -1
 DTSTART;TZID=America/Dawson_Creek:20260428T072000
 DTEND;TZID=America/Dawson_Creek:20260428T081559
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4474@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: APR28 FSJ BEO BC Hydr
  o Meeting/#14988-1\nAllocated: 0.9h\nNote: EVENT: APR28 FSJ BEO BC Hydro M
@@ -461,7 +461,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - APR28 FSJ BEO BC Hydro Meeting/#149
  88-1
 DTSTART;TZID=America/Dawson_Creek:20260428T180000
 DTEND;TZID=America/Dawson_Creek:20260428T190059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4475@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: APR28 FSJ BEO BC Hy
  dro Meeting/#14988-1\nNote: EVENT: APR28 FSJ BEO BC Hydro Meeting/#14988-1
@@ -475,7 +475,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - APR28-29 FSJ BEO LP Corporation Mee
   @ 7am 1
 DTSTART;TZID=America/Dawson_Creek:20260429T170000
 DTEND;TZID=America/Dawson_Creek:20260429T180059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4478@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: APR28-29 FSJ BEO LP
   Corporation Meeting/#14862-1essert Squares 15 Audio Visual Services Detai
@@ -489,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR29 Hudson's Hope Council Livestream
 DTSTART;TZID=America/Dawson_Creek:20260429T170000
 DTEND;TZID=America/Dawson_Creek:20260429T210000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2324@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR29 Hudson's Hope Council 
  Livestream\nNote: EVENT: APR29 Hudson's Hope Council Livestream\nMEETING P
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - APR30 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20260430T110000
 DTEND;TZID=America/Dawson_Creek:20260430T190000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2306@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: APR30 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: APR30 - PRRD Board Meeting - DC\nMEETIN
@@ -513,7 +513,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY01 Ovintiv - DC Art Gal
  lery Lighting
 DTSTART;TZID=America/Dawson_Creek:20260501T103000
 DTEND;TZID=America/Dawson_Creek:20260501T160059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-3307@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY01 Ovin
  tiv - DC Art Gallery Lighting\nNote: EVENT: MAY01 Ovintiv - DC Art Gallery
@@ -525,7 +525,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - MAY02 Keith Diehl Funeral Service a
  t CLC
 DTSTART;TZID=America/Dawson_Creek:20260502T083000
 DTEND;TZID=America/Dawson_Creek:20260502T110000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4513@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY02 Keith Diehl F
  uneral Service at CLC\nAllocated: 2.5h\nNote: EVENT: MAY02 Keith Diehl Fun
@@ -538,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - MAY02 Firefighters Ball
 DTSTART;TZID=America/Dawson_Creek:20260503T090000
 DTEND;TZID=America/Dawson_Creek:20260503T160000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4013@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY02 Firef
  ighters Ball\nAllocated: 7.0h\nNote: EVENT: MAY02 Firefighters Ball\nMEETI
@@ -550,7 +550,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260503T160000
 DTEND;TZID=America/Dawson_Creek:20260503T190000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4076@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 3.0h\nNote: MEETING POINT: C
  heck with Lead Planner\n\nOffice work\n\nSound in Town - Dana Pedersen
@@ -559,7 +559,7 @@ BEGIN:VEVENT
 SUMMARY:Shift
 DTSTART;TZID=America/Dawson_Creek:20260504T090000
 DTEND;TZID=America/Dawson_Creek:20260504T091500
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2067@soundintown.com
 DESCRIPTION:Role: Shift\nAllocated: 0.2h\nNote: Update the bank statement 
  in Xero by the 5th of each month.\n\nSound in Town - Dana Pedersen
@@ -569,7 +569,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - MAY06-07 FSJ BEO TC Meetings/#14869
  -1
 DTSTART;TZID=America/Dawson_Creek:20260504T170000
 DTEND;TZID=America/Dawson_Creek:20260504T180059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4549@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: MAY06-07 FSJ BEO TC
   Meetings/#14869-1\nNote: EVENT: MAY06-07 FSJ BEO TC Meetings/#14869-1\nME
@@ -581,7 +581,7 @@ BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - MAY06-07 FSJ BEO TC Meetings/#14869-1
 DTSTART;TZID=America/Dawson_Creek:20260506T070000
 DTEND;TZID=America/Dawson_Creek:20260506T080059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4551@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: MAY06-07 FSJ BEO TC M
  eetings/#14869-1\nAllocated: 1.0h\nNote: EVENT: MAY06-07 FSJ BEO TC Meetin
@@ -593,7 +593,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY07 PRRD - EADC/RBAC - DC
 DTSTART;TZID=America/Dawson_Creek:20260507T090000
 DTEND;TZID=America/Dawson_Creek:20260507T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2312@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY07 PRRD - EADC/RBAC - DC\
  nAllocated: 8.0h\nNote: EVENT: MAY07 PRRD - EADC/RBAC - DC\nMEETING POINT:
@@ -606,7 +606,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - MAY06-07 FSJ BEO TC Meetings/#14869
  -1
 DTSTART;TZID=America/Dawson_Creek:20260507T170000
 DTEND;TZID=America/Dawson_Creek:20260507T173059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4550@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: MAY06-07 FSJ BEO TC
   Meetings/#14869-1\nNote: EVENT: MAY06-07 FSJ BEO TC Meetings/#14869-1\nME
@@ -618,7 +618,7 @@ BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - MAY08 FSJ BEO PRFN Meeting/#14981-1
 DTSTART;TZID=America/Dawson_Creek:20260507T174500
 DTEND;TZID=America/Dawson_Creek:20260507T180059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4552@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: MAY08 FSJ BEO PRFN 
  Meeting/#14981-1\nNote: EVENT: MAY08 FSJ BEO PRFN Meeting/#14981-1\nMEETIN
@@ -630,7 +630,7 @@ BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - MAY08 FSJ BEO PRFN Meeting/#14981-1
 DTSTART;TZID=America/Dawson_Creek:20260508T091500
 DTEND;TZID=America/Dawson_Creek:20260508T100059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4554@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: MAY08 FSJ BEO PRFN Me
  eting/#14981-1\nAllocated: 0.8h\nNote: EVENT: MAY08 FSJ BEO PRFN Meeting/#
@@ -643,7 +643,7 @@ SUMMARY:A2 - Audio Assist - MAY08 Dale Swanberg Celebration of Life at Cha
  rlie Lake Hall
 DTSTART;TZID=America/Dawson_Creek:20260508T120000
 DTEND;TZID=America/Dawson_Creek:20260508T150000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4057@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: MAY08 Dale Swanberg Celebratio
  n of Life at Charlie Lake Hall\nAllocated: 3.0h\nNote: EVENT: MAY08 Dale S
@@ -657,7 +657,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY08 Dale Swanberg Celebra
  tion of Life at Charlie Lake Hall
 DTSTART;TZID=America/Dawson_Creek:20260508T163000
 DTEND;TZID=America/Dawson_Creek:20260508T173059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4570@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY08 Dale 
  Swanberg Celebration of Life at Charlie Lake Hall\nAllocated: 1.0h\nNote: 
@@ -669,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - MAY08 FSJ BEO PRFN Meeting/#14981-1
 DTSTART;TZID=America/Dawson_Creek:20260508T170000
 DTEND;TZID=America/Dawson_Creek:20260508T180059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4553@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: MAY08 FSJ BEO PRFN 
  Meeting/#14981-1\nNote: EVENT: MAY08 FSJ BEO PRFN Meeting/#14981-1\nMEETIN
@@ -681,7 +681,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260510T100000
 DTEND;TZID=America/Dawson_Creek:20260510T130000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4077@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 3.0h\nNote: MEETING POINT: C
  heck with Lead Planner\n\nOffice work\n\nSound in Town - Dana Pedersen
@@ -691,7 +691,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - MAY12 FSJ BEO BC Hydro Meeting/#149
  82-1
 DTSTART;TZID=America/Dawson_Creek:20260511T170000
 DTEND;TZID=America/Dawson_Creek:20260511T180059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4627@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: MAY12 FSJ BEO BC Hy
  dro Meeting/#14982-1\nNote: EVENT: MAY12 FSJ BEO BC Hydro Meeting/#14982-1
@@ -703,7 +703,7 @@ BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - MAY12 FSJ BEO FCC Meeting/#14956-1
 DTSTART;TZID=America/Dawson_Creek:20260511T181500
 DTEND;TZID=America/Dawson_Creek:20260511T183059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4630@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: MAY12 FSJ BEO FCC M
  eeting/#14956-1\nNote: EVENT: MAY12 FSJ BEO FCC Meeting/#14956-1\nMEETING 
@@ -716,7 +716,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - MAY13 - FSJ BEO Petronas Co
  ntractor Town Hall/#14853-1
 DTSTART;TZID=America/Dawson_Creek:20260511T190000
 DTEND;TZID=America/Dawson_Creek:20260511T210059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4649@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: MAY13 - FSJ
   BEO Petronas Contractor Town Hall/#14853-1\nNote: EVENT: MAY13 - FSJ BEO 
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - MAY12 FSJ BEO FCC Meeting/#14956-1
 DTSTART;TZID=America/Dawson_Creek:20260512T083000
 DTEND;TZID=America/Dawson_Creek:20260512T093059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4632@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: MAY12 FSJ BEO FCC Mee
  ting/#14956-1\nAllocated: 1.0h\nNote: EVENT: MAY12 FSJ BEO FCC Meeting/#14
@@ -740,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - MAY12 FSJ BEO FCC Meeting/#14956-1
 DTSTART;TZID=America/Dawson_Creek:20260512T160000
 DTEND;TZID=America/Dawson_Creek:20260512T170059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4631@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: MAY12 FSJ BEO FCC M
  eeting/#14956-1\nAllocated: 1.0h\nNote: EVENT: MAY12 FSJ BEO FCC Meeting/#
@@ -753,7 +753,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - MAY12 FSJ BEO BC Hydro Meeting/#14982
  -1
 DTSTART;TZID=America/Dawson_Creek:20260512T183000
 DTEND;TZID=America/Dawson_Creek:20260512T193059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4629@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: MAY12 FSJ BEO BC Hydr
  o Meeting/#14982-1\nNote: EVENT: MAY12 FSJ BEO BC Hydro Meeting/#14982-1\n
@@ -765,7 +765,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY12 FSJ BEO BC Hydro Meeting/#14982-1
 DTSTART;TZID=America/Dawson_Creek:20260513T130000
 DTEND;TZID=America/Dawson_Creek:20260513T140059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4628@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY12 FSJ BEO BC Hydro Meeti
  ng/#14982-1\nAllocated: 1.0h\nNote: EVENT: MAY12 FSJ BEO BC Hydro Meeting/
@@ -777,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY13 Hudson's Hope Council Livestream
 DTSTART;TZID=America/Dawson_Creek:20260513T170000
 DTEND;TZID=America/Dawson_Creek:20260513T210000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2333@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY13 Hudson's Hope Council 
  Livestream\nNote: EVENT: MAY13 Hudson's Hope Council Livestream\nMEETING P
@@ -789,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY14 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20260514T090000
 DTEND;TZID=America/Dawson_Creek:20260514T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2318@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY14 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: MAY14 - PRRD Board Meeting - DC\nMEETIN
@@ -801,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260517T100000
 DTEND;TZID=America/Dawson_Creek:20260517T130000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4078@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 3.0h\nNote: MEETING POINT: C
  heck with Lead Planner\n\nOffice work\n\nSound in Town - Dana Pedersen
@@ -810,7 +810,7 @@ BEGIN:VEVENT
 SUMMARY:Transport
 DTSTART;TZID=America/Dawson_Creek:20260519T084500
 DTEND;TZID=America/Dawson_Creek:20260519T093000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4744@soundintown.com
 DESCRIPTION:Role: Transport\nAllocated: 0.8h\nNote: MEETING POINT: Taylor 
  School\n\n\n\nSound in Town - Dana Pedersen
@@ -819,7 +819,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY21 City of FSJ - Mental Health Conference
 DTSTART;TZID=America/Dawson_Creek:20260521T080000
 DTEND;TZID=America/Dawson_Creek:20260521T153000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4657@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY21 City of FSJ - Mental H
  ealth Conference\nAllocated: 7.5h\nNote: EVENT: MAY21 City of FSJ - Mental
@@ -832,7 +832,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAY23 Northern Classic 2026
   GP
 DTSTART;TZID=America/Dawson_Creek:20260522T080000
 DTEND;TZID=America/Dawson_Creek:20260522T160000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2071@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY23 North
  ern Classic 2026 GP\nAllocated: 8.0h\nNote: EVENT: MAY23 Northern Classic 
@@ -844,7 +844,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY23 Northern Classic 2026 GP
 DTSTART;TZID=America/Dawson_Creek:20260522T163000
 DTEND;TZID=America/Dawson_Creek:20260522T210000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4748@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY23 Northern Classic 2026 
  GP\nAllocated: 4.5h\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETING 
@@ -856,7 +856,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY23 Northern Classic 2026 GP
 DTSTART;TZID=America/Dawson_Creek:20260523T070000
 DTEND;TZID=America/Dawson_Creek:20260523T210000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2073@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY23 Northern Classic 2026 
  GP\nAllocated: 8.0h\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETING 
@@ -867,7 +867,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY23 Northern Classic 2026 GP
 DTSTART;TZID=America/Dawson_Creek:20260524T080000
 DTEND;TZID=America/Dawson_Creek:20260524T150000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2075@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY23 Northern Classic 2026 
  GP\nAllocated: 7.0h\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETING 
@@ -878,7 +878,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - MAY23 Northern Classic 2026 GP
 DTSTART;TZID=America/Dawson_Creek:20260524T150000
 DTEND;TZID=America/Dawson_Creek:20260524T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4765@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: MAY23 Northern Classic 2026 GP\nAlloca
  ted: 2.0h\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETING POINT: Sou
@@ -889,7 +889,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260526T100000
 DTEND;TZID=America/Dawson_Creek:20260526T113059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2956@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\nNote: MEETING POINT: C
  heck with Lead Planner\n\n\n\nSound in Town - Dana Pedersen
@@ -899,7 +899,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - MAY28 FSJ BEO Ascent 2026 Workplace
   Law Forum #14902-1
 DTSTART;TZID=America/Dawson_Creek:20260527T170000
 DTEND;TZID=America/Dawson_Creek:20260527T180059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4851@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: MAY28 FSJ BEO Ascen
  t 2026 Workplace Law Forum #14902-1\nNote: EVENT: MAY28 FSJ BEO Ascent 202
@@ -912,7 +912,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - MAY28 FSJ BEO Ascent 2026 Workplace L
  aw Forum #14902-1
 DTSTART;TZID=America/Dawson_Creek:20260528T083000
 DTEND;TZID=America/Dawson_Creek:20260528T093059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4853@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: MAY28 FSJ BEO Ascent 
  2026 Workplace Law Forum #14902-1\nNote: EVENT: MAY28 FSJ BEO Ascent 2026 
@@ -924,7 +924,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260528T090000
 DTEND;TZID=America/Dawson_Creek:20260528T210000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4699@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: MAY28 - NLC DC Convocation\n
  Note: EVENT: MAY28 - NLC DC Convocation\nMEETING POINT: Ovintiv Events Cen
@@ -936,7 +936,7 @@ SUMMARY:CO - Camera Operator - MAY29 Hamres - Elizebeth Lamothe 11AM Live
  Stream Service
 DTSTART;TZID=America/Dawson_Creek:20260529T073000
 DTEND;TZID=America/Dawson_Creek:20260529T124559
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4898@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: MAY29 Hamres - Elizebeth La
  mothe 11AM Live Stream Service\nAllocated: 5.3h\nNote: EVENT: MAY29 Hamres
@@ -950,7 +950,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - MAY28 FSJ BEO Ascent 2026 Workplace
   Law Forum #14902-1
 DTSTART;TZID=America/Dawson_Creek:20260529T130000
 DTEND;TZID=America/Dawson_Creek:20260529T140059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4852@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: MAY28 FSJ BEO Ascen
  t 2026 Workplace Law Forum #14902-1\nAllocated: 1.0h\nNote: EVENT: MAY28 F
@@ -963,7 +963,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260531T100000
 DTEND;TZID=America/Dawson_Creek:20260531T130000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4080@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 3.0h\nNote: MEETING POINT: C
  heck with Lead Planner\n\nOffice work\n\nSound in Town - Dana Pedersen
@@ -972,7 +972,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260601T100000
 DTEND;TZID=America/Dawson_Creek:20260601T113059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2957@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\nNote: MEETING POINT: C
  heck with Lead Planner\n\n\n\nSound in Town - Dana Pedersen
@@ -981,7 +981,7 @@ BEGIN:VEVENT
 SUMMARY:Shift
 DTSTART;TZID=America/Dawson_Creek:20260602T090000
 DTEND;TZID=America/Dawson_Creek:20260602T091500
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2099@soundintown.com
 DESCRIPTION:Role: Shift\nAllocated: 0.2h\nNote: Update the bank statement 
  in Xero by the 5th of each month.\n\nSound in Town - Dana Pedersen
@@ -991,7 +991,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - JUN01-03 2026 BCC Chamber C
  onference
 DTSTART;TZID=America/Dawson_Creek:20260603T130000
 DTEND;TZID=America/Dawson_Creek:20260603T160059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4914@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: JUN01-03 20
  26 BCC Chamber Conference\nAllocated: 3.0h\nNote: EVENT: JUN01-03 2026 BCC
@@ -1003,7 +1003,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUN03 Hudson's Hope Council Livestream
 DTSTART;TZID=America/Dawson_Creek:20260603T170000
 DTEND;TZID=America/Dawson_Creek:20260603T210000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2348@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUN03 Hudson's Hope Council 
  Livestream\nNote: EVENT: JUN03 Hudson's Hope Council Livestream\nMEETING P
@@ -1015,7 +1015,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - JUN04-05 FSJ BEO Chamber of Commerc
  e Executives of BC/#14508-1
 DTSTART;TZID=America/Dawson_Creek:20260604T070000
 DTEND;TZID=America/Dawson_Creek:20260604T080059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4941@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: JUN04-05 FSJ BEO Ch
  amber of Commerce Executives of BC/#14508-1\nNote: EVENT: JUN04-05 FSJ BEO
@@ -1029,7 +1029,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUN04 - NLC FSJ Convocation 2026
 DTSTART;TZID=America/Dawson_Creek:20260604T090000
 DTEND;TZID=America/Dawson_Creek:20260604T200000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2104@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUN04 - NLC FSJ Convocation 
  2026\nNote: EVENT: JUN04 - NLC FSJ Convocation 2026\nhttps://www.soundinto
@@ -1041,7 +1041,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUN05 UNBC - Convocation
 DTSTART;TZID=America/Dawson_Creek:20260604T180000
 DTEND;TZID=America/Dawson_Creek:20260604T210059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4968@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUN05 UNBC - Convocation\nAl
  located: 3.0h\nNote: EVENT: JUN05 UNBC - Convocation\nhttps://www.soundint
@@ -1053,7 +1053,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUN05 UNBC - Convocation
 DTSTART;TZID=America/Dawson_Creek:20260605T080000
 DTEND;TZID=America/Dawson_Creek:20260605T090000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2147@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUN05 UNBC - Convoc
  ation\nAllocated: 1.0h\nNote: EVENT: JUN05 UNBC - Convocation\nhttps://www
@@ -1065,7 +1065,7 @@ BEGIN:VEVENT
 SUMMARY:Shift - JUN06 Johnson Wedding Photobooth - Cameron Lake
 DTSTART;TZID=America/Dawson_Creek:20260605T090000
 DTEND;TZID=America/Dawson_Creek:20260605T100059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4967@soundintown.com
 DESCRIPTION:Role: Shift\nEvent: JUN06 Johnson Wedding Photobooth - Cameron
   Lake\nAllocated: 1.0h\nNote: EVENT: JUN06 Johnson Wedding Photobooth - Ca
@@ -1077,7 +1077,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUN04 - NLC FSJ Convocation 2026
 DTSTART;TZID=America/Dawson_Creek:20260605T100000
 DTEND;TZID=America/Dawson_Creek:20260605T110000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4969@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUN04 - NLC FSJ Convocation 
  2026\nAllocated: 1.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation 2026\nhttp
@@ -1091,7 +1091,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - JUN04-05 FSJ BEO Chamber of Commerc
  e Executives of BC/#14508-1
 DTSTART;TZID=America/Dawson_Creek:20260605T140000
 DTEND;TZID=America/Dawson_Creek:20260605T150059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4942@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: JUN04-05 FSJ BEO Ch
  amber of Commerce Executives of BC/#14508-1\nAllocated: 1.0h\nNote: EVENT:
@@ -1104,7 +1104,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN06 North Peace Pride - Festival
 DTSTART;TZID=America/Dawson_Creek:20260606T083000
 DTEND;TZID=America/Dawson_Creek:20260606T180000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4894@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN06 North Peace Pride - Festiv
  al\nAllocated: 8.0h\nNote: EVENT: JUN06 North Peace Pride - Festival\nMEET
@@ -1115,7 +1115,7 @@ BEGIN:VEVENT
 SUMMARY:Transport
 DTSTART;TZID=America/Dawson_Creek:20260607T224500
 DTEND;TZID=America/Dawson_Creek:20260607T231500
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4081@soundintown.com
 DESCRIPTION:Role: Transport\nAllocated: 0.5h\nNote: MEETING POINT: Sound I
  n Town Warehouse\n\nPick up Jeff from FSJ AIRPORT\n\nSound in Town - Dana 
@@ -1125,7 +1125,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=America/Dawson_Creek:20260608T090000
 DTEND;TZID=America/Dawson_Creek:20260608T230059
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-3361@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUN08 - Terry Fator Comedy S
  how\nAllocated: 8.0h\nNote: EVENT: JUN08 - Terry Fator Comedy Show\nhttps:
@@ -1137,7 +1137,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUN18 PRRD - EADC/RBAC - DC
 DTSTART;TZID=America/Dawson_Creek:20260618T090000
 DTEND;TZID=America/Dawson_Creek:20260618T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2321@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUN18 PRRD - EADC/RBAC - DC\
  nAllocated: 8.0h\nNote: EVENT: JUN18 PRRD - EADC/RBAC - DC\nhttps://www.so
@@ -1149,7 +1149,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUN24 Hudson's Hope Council Livestream
 DTSTART;TZID=America/Dawson_Creek:20260624T170000
 DTEND;TZID=America/Dawson_Creek:20260624T210000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2360@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUN24 Hudson's Hope Council 
  Livestream\nNote: EVENT: JUN24 Hudson's Hope Council Livestream\nMEETING P
@@ -1161,7 +1161,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUN25 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20260625T090000
 DTEND;TZID=America/Dawson_Creek:20260625T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2327@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUN25 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: JUN25 - PRRD Board Meeting - DC\nMEETIN
@@ -1173,7 +1173,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUL05 -TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Dawson_Creek:20260705T090000
 DTEND;TZID=America/Dawson_Creek:20260705T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2681@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUL05 -TNT Bodybuilding Edmo
  nton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 - TNT Bodybuilding Edmonton
@@ -1185,7 +1185,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260705T170000
 DTEND;TZID=America/Dawson_Creek:20260705T200000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-4085@soundintown.com
 DESCRIPTION:Role: Leadership Team\nNote: MEETING POINT: Check with Lead Pl
  anner\n\nOffice work\n\nSound in Town - Dana Pedersen
@@ -1194,7 +1194,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUL09 PRRD - EADC/RBAC - DC
 DTSTART;TZID=America/Dawson_Creek:20260709T090000
 DTEND;TZID=America/Dawson_Creek:20260709T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2330@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUL09 PRRD - EADC/RBAC - DC\
  nAllocated: 8.0h\nNote: EVENT: JUL09 PRRD - EADC/RBAC - DC\nhttps://www.so
@@ -1206,7 +1206,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - AUG06 PRRD - EADC/RBAC - DC
 DTSTART;TZID=America/Dawson_Creek:20260806T090000
 DTEND;TZID=America/Dawson_Creek:20260806T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2336@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: AUG06 PRRD - EADC/RBAC - DC\
  nAllocated: 8.0h\nNote: EVENT: AUG06 PRRD - EADC/RBAC - DC\nhttps://www.so
@@ -1217,7 +1217,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - SEP03 PRRD - EADC/RBAC - DC
 DTSTART;TZID=America/Dawson_Creek:20260903T090000
 DTEND;TZID=America/Dawson_Creek:20260903T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2342@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: SEP03 PRRD - EADC/RBAC - DC\
  nAllocated: 8.0h\nNote: EVENT: SEP03 PRRD - EADC/RBAC - DC\nhttps://www.so
@@ -1229,7 +1229,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - SEP10 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20260910T090000
 DTEND;TZID=America/Dawson_Creek:20260910T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2345@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: SEP10 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: SEP10 - PRRD Board Meeting - DC\nMEETIN
@@ -1241,7 +1241,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - OCT01 PRRD - EADC/RBAC - DC
 DTSTART;TZID=America/Dawson_Creek:20261001T090000
 DTEND;TZID=America/Dawson_Creek:20261001T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2351@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: OCT01 PRRD - EADC/RBAC - DC\
  nAllocated: 8.0h\nNote: EVENT: OCT01 PRRD - EADC/RBAC - DC\nhttps://www.so
@@ -1253,7 +1253,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - OCT08 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20261008T090000
 DTEND;TZID=America/Dawson_Creek:20261008T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2354@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: OCT08 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: OCT08 - PRRD Board Meeting - DC\nMEETIN
@@ -1265,7 +1265,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - OCT29 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20261029T090000
 DTEND;TZID=America/Dawson_Creek:20261029T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2357@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: OCT29 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: OCT29 - PRRD Board Meeting - DC\nMEETIN
@@ -1277,7 +1277,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - NOV05 PRRD - EADC/RBAC - DC
 DTSTART;TZID=America/Dawson_Creek:20261105T090000
 DTEND;TZID=America/Dawson_Creek:20261105T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2363@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: NOV05 PRRD - EADC/RBAC - DC\
  nAllocated: 8.0h\nNote: EVENT: NOV05 PRRD - EADC/RBAC - DC\nhttps://www.so
@@ -1289,7 +1289,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - NOV12 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20261112T090000
 DTEND;TZID=America/Dawson_Creek:20261112T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2366@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: NOV12 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: NOV12 - PRRD Board Meeting - DC\nMEETIN
@@ -1301,7 +1301,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - NOV26 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20261126T090000
 DTEND;TZID=America/Dawson_Creek:20261126T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2369@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: NOV26 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: NOV26 - PRRD Board Meeting - DC\nMEETIN
@@ -1313,7 +1313,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - DEC10 PRRD - EADC/RBAC - DC
 DTSTART;TZID=America/Dawson_Creek:20261210T090000
 DTEND;TZID=America/Dawson_Creek:20261210T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2372@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: DEC10 PRRD - EADC/RBAC - DC\
  nAllocated: 8.0h\nNote: EVENT: DEC10 PRRD - EADC/RBAC - DC\nhttps://www.so
@@ -1325,7 +1325,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - DEC11 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20261211T090000
 DTEND;TZID=America/Dawson_Creek:20261211T170000
-DTSTAMP:20260604T050325Z
+DTSTAMP:20260604T112428Z
 UID:planning-slot-2375@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: DEC11 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: DEC11 - PRRD Board Meeting - DC\nMEETIN
