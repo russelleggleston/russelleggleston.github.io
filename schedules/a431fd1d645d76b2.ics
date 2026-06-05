@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260411T180000
 DTEND;TZID=America/Dawson_Creek:20260411T220000
-DTSTAMP:20260605T113539Z
+DTSTAMP:20260605T152658Z
 UID:planning-slot-3959@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 4.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Jessica Beaumont
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - APR24 Funeral Service at FSJ Curling Rink
 DTSTART;TZID=America/Dawson_Creek:20260425T190000
 DTEND;TZID=America/Dawson_Creek:20260425T220000
-DTSTAMP:20260605T113539Z
+DTSTAMP:20260605T152658Z
 UID:planning-slot-3960@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: APR24 Funeral Service at 
  FSJ Curling Rink\nNote: EVENT: APR24 Funeral Service at FSJ Curling Rink\n
@@ -39,7 +39,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - APR30 - Eloiz Concert at Anne Roberts
  Young School
 DTSTART;TZID=America/Dawson_Creek:20260502T180000
 DTEND;TZID=America/Dawson_Creek:20260502T220000
-DTSTAMP:20260605T113539Z
+DTSTAMP:20260605T152658Z
 UID:planning-slot-4115@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: APR30 - Eloiz Concert 
  at Anne Roberts Young School\nNote: EVENT: APR30 - Eloiz Concert at Anne R
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY02-03 - Fort Nelson Trade Show 2026
 DTSTART;TZID=America/Dawson_Creek:20260504T080000
 DTEND;TZID=America/Dawson_Creek:20260504T160059
-DTSTAMP:20260605T113539Z
+DTSTAMP:20260605T152658Z
 UID:planning-slot-3989@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY02-03 - Fort Nelson
   Trade Show 2026\nAllocated: 8.0h\nNote: EVENT: MAY02-03 - Fort Nelson Tra
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260505T210000
 DTEND;TZID=America/Dawson_Creek:20260505T230000
-DTSTAMP:20260605T113539Z
+DTSTAMP:20260605T152658Z
 UID:planning-slot-4587@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nNote: MEETING POINT: Sound In To
  wn Warehouse\n\n\n\nSound in Town - Jessica Beaumont
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260506T200000
 DTEND;TZID=America/Dawson_Creek:20260506T230000
-DTSTAMP:20260605T113539Z
+DTSTAMP:20260605T152658Z
 UID:planning-slot-4271@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Jessica Beaumont
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260511T080000
 DTEND;TZID=America/Dawson_Creek:20260511T160000
-DTSTAMP:20260605T113539Z
+DTSTAMP:20260605T152658Z
 UID:planning-slot-4065@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 8.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Jessica Beaumont
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260513T200000
 DTEND;TZID=America/Dawson_Creek:20260513T230000
-DTSTAMP:20260605T113539Z
+DTSTAMP:20260605T152658Z
 UID:planning-slot-4274@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Jessica Beaumont
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260516T180000
 DTEND;TZID=America/Dawson_Creek:20260516T230000
-DTSTAMP:20260605T113539Z
+DTSTAMP:20260605T152658Z
 UID:planning-slot-4275@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 5.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Jessica Beaumont
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY24 - MS WALK
 DTSTART;TZID=America/Dawson_Creek:20260519T210000
 DTEND;TZID=America/Dawson_Creek:20260519T230000
-DTSTAMP:20260605T113539Z
+DTSTAMP:20260605T152658Z
 UID:planning-slot-4277@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY24 - MS WALK\nNote: EV
  ENT: MAY24 - MS WALK\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound 
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260520T200000
 DTEND;TZID=America/Dawson_Creek:20260520T230000
-DTSTAMP:20260605T113539Z
+DTSTAMP:20260605T152658Z
 UID:planning-slot-4278@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Jessica Beaumont
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T180000
 DTEND;TZID=America/Dawson_Creek:20260523T230000
-DTSTAMP:20260605T113539Z
+DTSTAMP:20260605T152658Z
 UID:planning-slot-4279@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY23 - Bluey Day\nNote: 
  EVENT: MAY23 - Bluey Day\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSo
