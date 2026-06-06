@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:AV2 - AV Tech (Mid Level) - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=Canada/Saskatchewan:20260608T080000
 DTEND;TZID=Canada/Saskatchewan:20260609T000059
-DTSTAMP:20260605T214321Z
+DTSTAMP:20260606T041850Z
 UID:planning-slot-4524@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: JUN08 - Terry Fator Co
  medy Show\nAllocated: 8.0h\nNote: EVENT: JUN08 - Terry Fator Comedy Show\n
@@ -26,15 +26,55 @@ DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: JUN08 - Terry Fator Co
 LOCATION:Ovintiv Events Centre - Main Arena Floor
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN09-10 Collaborative Ste
+ wardship Forum Meeting
+DTSTART;TZID=Canada/Saskatchewan:20260609T070000
+DTEND;TZID=Canada/Saskatchewan:20260609T100059
+DTSTAMP:20260606T041850Z
+UID:planning-slot-4989@soundintown.com
+DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN09-10 C
+ ollaborative Stewardship Forum Meeting\nAllocated: 3.0h\nNote: EVENT: JUN0
+ 9-10 Collaborative Stewardship Forum Meeting\nhttps://www.soundintown.com/
+ r/Lhq\nMEETING POINT: Festival Plaza\n\n\n\nSound in Town - Jeffrey Kirzin
+ ger
+LOCATION:Festival Plaza
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN08 - Terry Fator Comedy Show
 DTSTART;TZID=Canada/Saskatchewan:20260609T100000
 DTEND;TZID=Canada/Saskatchewan:20260609T220059
-DTSTAMP:20260605T214321Z
+DTSTAMP:20260606T041850Z
 UID:planning-slot-3347@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN08 - Terry Fator Come
  dy Show\nAllocated: 8.0h\nNote: EVENT: JUN08 - Terry Fator Comedy Show\nht
  tps://www.soundintown.com/r/g3n\nMEETING POINT: Main Arena Floor\n\nPlaceh
  older shift\n\nSound in Town - Jeffrey Kirzinger
 LOCATION:Ovintiv Events Centre - Main Arena Floor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN09-10 Collaborative Stew
+ ardship Forum Meeting
+DTSTART;TZID=Canada/Saskatchewan:20260610T180000
+DTEND;TZID=Canada/Saskatchewan:20260610T200059
+DTSTAMP:20260606T041850Z
+UID:planning-slot-4471@soundintown.com
+DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN09-10 Co
+ llaborative Stewardship Forum Meeting\nNote: EVENT: JUN09-10 Collaborative
+  Stewardship Forum Meeting\nhttps://www.soundintown.com/r/Lhq\nMEETING POI
+ NT: Festival Plaza\n\n\n\nSound in Town - Jeffrey Kirzinger
+LOCATION:Festival Plaza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN12-13 - Party In White 
+ GP
+DTSTART;TZID=Canada/Saskatchewan:20260611T090000
+DTEND;TZID=Canada/Saskatchewan:20260611T170000
+DTSTAMP:20260606T041850Z
+UID:planning-slot-4991@soundintown.com
+DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN12-13 -
+  Party In White GP\nAllocated: 8.0h\nNote: EVENT: JUN12-13 - Party In Whit
+ e GP\nhttps://www.soundintown.com/r/R8W\nMEETING POINT: Bonnetts Energy Ce
+ ntre\n\nTIMES TBD\n\nSound in Town - Jeffrey Kirzinger
+LOCATION:Bonnetts Energy Centre
 END:VEVENT
 END:VCALENDAR
