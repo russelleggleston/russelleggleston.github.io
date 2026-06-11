@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260412T153000
 DTEND;TZID=America/Edmonton:20260412T170000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-4257@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: APR13 AARF
  P 47th Tradeshow\nAllocated: 1.5h\nNote: EVENT: APR13 AARFP 47th Tradeshow
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260412T170000
 DTEND;TZID=America/Edmonton:20260412T210000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2544@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: APR13 AARF
  P 47th Tradeshow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260413T220000
 DTEND;TZID=America/Edmonton:20260414T000059
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-3162@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: APR13 AARF
  P 47th Tradeshow\nAllocated: 2.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow
@@ -63,7 +63,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR12-15 AARFP 47th Confere
  nce
 DTSTART;TZID=America/Edmonton:20260415T173000
 DTEND;TZID=America/Edmonton:20260415T220059
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-3110@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR12-15 AA
  RFP 47th Conference\nAllocated: 4.5h\nNote: EVENT: APR12-15 AARFP 47th Con
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260416T173000
 DTEND;TZID=America/Edmonton:20260417T000059
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-3115@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR16 Pomeroy GP Pembina Townhall 2026
  \nAllocated: 6.5h\nNote: EVENT: APR16 Pomeroy GP Pembina Townhall 2026\nME
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Edmonton:20260417T110000
 DTEND;TZID=America/Edmonton:20260417T230000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2127@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: APR18 Peace Passage Ice Sho
  w\nAllocated: 8.0h\nNote: EVENT: APR18 Peace Passage Ice Show\nMEETING POI
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - APR18 Peace Passage Ice Show
 DTSTART;TZID=America/Edmonton:20260418T100000
 DTEND;TZID=America/Edmonton:20260419T004500
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2055@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: APR18 Peace Passage Ice S
  how\nAllocated: 8.8h\nNote: EVENT: APR18 Peace Passage Ice Show\nMEETING P
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Installation Tech
 DTSTART;TZID=America/Edmonton:20260419T120000
 DTEND;TZID=America/Edmonton:20260419T220000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-4369@soundintown.com
 DESCRIPTION:Role: Installation Tech\nAllocated: 8.0h\nNote: MEETING POINT:
   Venue\n\nRuss will Drive Matt back to GP\, use Matt for a couple hours fo
@@ -122,7 +122,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAY07 NLC Service Awards Ga
  la
 DTSTART;TZID=America/Edmonton:20260508T130000
 DTEND;TZID=America/Edmonton:20260508T170000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2582@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY07 NLC S
  ervice Awards Gala\nAllocated: 4.0h\nNote: EVENT: MAY07 NLC Service Awards
@@ -135,7 +135,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY08 - Reynars Connie Patt
  erson 1PM Service
 DTSTART;TZID=America/Edmonton:20260508T170000
 DTEND;TZID=America/Edmonton:20260508T220000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-4616@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY08 - Rey
  nars Connie Patterson 1PM Service\nAllocated: 5.0h\nNote: EVENT: MAY08 - R
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician
 DTSTART;TZID=America/Edmonton:20260509T100000
 DTEND;TZID=America/Edmonton:20260509T170000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-4535@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nAllocated: 7.0h\nN
  ote: MEETING POINT: Venue\n\nTIMES LOOSE AS OF APRIL 28\n\nSound in Town -
@@ -158,7 +158,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAY09 Hamres - Kathy Miller
   Live Stream Service
 DTSTART;TZID=America/Edmonton:20260509T140000
 DTEND;TZID=America/Edmonton:20260509T160059
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-4577@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY09 Hamre
  s - Kathy Miller Live Stream Service\nAllocated: 2.0h\nNote: EVENT: MAY09 
@@ -172,7 +172,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY23 Northern Classic 2026
   GP
 DTSTART;TZID=America/Edmonton:20260521T200000
 DTEND;TZID=America/Edmonton:20260521T230000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-4459@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY23 North
  ern Classic 2026 GP\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETING 
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23 Northern Classic 2026 GP
 DTSTART;TZID=America/Edmonton:20260522T090000
 DTEND;TZID=America/Edmonton:20260522T220000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2072@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23 Northern Classic 20
  26 GP\nAllocated: 8.0h\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETI
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23 Northern Classic 2026 GP
 DTSTART;TZID=America/Edmonton:20260523T080000
 DTEND;TZID=America/Edmonton:20260523T160000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2074@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23 Northern Classic 20
  26 GP\nAllocated: 8.0h\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETI
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23 Northern Classic 2026 GP
 DTSTART;TZID=America/Edmonton:20260524T090000
 DTEND;TZID=America/Edmonton:20260524T160000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2076@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23 Northern Classic 20
  26 GP\nAllocated: 7.0h\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETI
@@ -219,7 +219,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 GP BEO 7 over 70 Awa
  rds Gala Banquet
 DTSTART;TZID=America/Edmonton:20260605T100000
 DTEND;TZID=America/Edmonton:20260605T180000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-4492@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 GP B
  EO 7 over 70 Awards Gala Banquet\nAllocated: 8.0h\nNote: EVENT: JUN06 - 7 
@@ -232,7 +232,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 GP BEO 7 over 70 Awa
  rds Gala Banquet
 DTSTART;TZID=America/Edmonton:20260606T100000
 DTEND;TZID=America/Edmonton:20260606T180000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2199@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 GP B
  EO 7 over 70 Awards Gala Banquet\nAllocated: 8.0h\nNote: EVENT: JUN06 - 7 
@@ -245,7 +245,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 GP BEO 7 over 70 Awa
  rds Gala Banquet
 DTSTART;TZID=America/Edmonton:20260607T090000
 DTEND;TZID=America/Edmonton:20260607T170000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2626@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 GP B
  EO 7 over 70 Awards Gala Banquet\nAllocated: 8.0h\nNote: EVENT: JUN06 - 7 
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN12-13 - Party In White GP
 DTSTART;TZID=America/Edmonton:20260612T090000
 DTEND;TZID=America/Edmonton:20260613T003000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2478@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN12-13 - Party In White G
  P\nAllocated: 8.5h\nNote: EVENT: JUN12-13 - Party In White GP\nhttps://www
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN12-13 - Party In White GP
 DTSTART;TZID=America/Edmonton:20260613T090000
 DTEND;TZID=America/Edmonton:20260614T003000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2149@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN12-13 - Party In White G
  P\nAllocated: 8.5h\nNote: EVENT: JUN12-13 - Party In White GP\nhttps://www
@@ -282,7 +282,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - JUN12-13 - Party In White G
  P
 DTSTART;TZID=America/Edmonton:20260614T080000
 DTEND;TZID=America/Edmonton:20260614T133000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2480@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: JUN12-13 - 
  Party In White GP\nAllocated: 5.5h\nNote: EVENT: JUN12-13 - Party In White
@@ -295,7 +295,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - JUL05 -TNT Bodybuilding Edmonton 20
  26
 DTSTART;TZID=America/Edmonton:20260703T100000
 DTEND;TZID=America/Edmonton:20260703T180000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2702@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUL05 -TNT Bodybuil
  ding Edmonton 2026\nNote: EVENT: JUL05 - TNT Bodybuilding Edmonton 2026\nM
@@ -308,7 +308,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - JUL05 -TNT Bodybuilding Edmonton 20
  26
 DTSTART;TZID=America/Edmonton:20260704T100000
 DTEND;TZID=America/Edmonton:20260704T180000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2701@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUL05 -TNT Bodybuil
  ding Edmonton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 - TNT Bodybuilding
@@ -321,7 +321,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 La Crete Ferry Family Campground Musi
  c Event
 DTSTART;TZID=America/Edmonton:20260716T100000
 DTEND;TZID=America/Edmonton:20260716T180000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2720@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 La Crete Ferry Family
   Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete F
@@ -335,7 +335,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 La Crete Ferry Family Campground Musi
  c Event
 DTSTART;TZID=America/Edmonton:20260717T100000
 DTEND;TZID=America/Edmonton:20260717T180000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2719@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 La Crete Ferry Family
   Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete F
@@ -349,7 +349,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 La Crete Ferry Family Campground Musi
  c Event
 DTSTART;TZID=America/Edmonton:20260718T100000
 DTEND;TZID=America/Edmonton:20260718T180000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2721@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 La Crete Ferry Family
   Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete F
@@ -363,7 +363,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 La Crete Ferry Family Campground Musi
  c Event
 DTSTART;TZID=America/Edmonton:20260719T090000
 DTEND;TZID=America/Edmonton:20260719T170000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-3456@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 La Crete Ferry Family
   Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete F
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Edmonton:20260820T100000
 DTEND;TZID=America/Edmonton:20260820T180000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2760@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fes
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Edmonton:20260821T100000
 DTEND;TZID=America/Edmonton:20260821T180000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2750@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fes
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Edmonton:20260822T100000
 DTEND;TZID=America/Edmonton:20260822T180000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-2759@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fes
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - SEP04 - VJV Video Cattle Auction
 DTSTART;TZID=America/Edmonton:20260904T100000
 DTEND;TZID=America/Edmonton:20260904T180000
-DTSTAMP:20260611T045755Z
+DTSTAMP:20260611T121719Z
 UID:planning-slot-3389@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: SEP04 - VJV Video Cattle Auction
  \nAllocated: 8.0h\nNote: EVENT: SEP04 - VJV Video Cattle Auction\nhttps://
