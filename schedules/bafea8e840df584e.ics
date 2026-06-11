@@ -14,22 +14,10 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
-DTSTART;TZID=America/Dawson_Creek:20260412T090000
-DTEND;TZID=America/Dawson_Creek:20260412T210000
-DTSTAMP:20260611T121714Z
-UID:planning-slot-4138@soundintown.com
-DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
- \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nMEETING PO
- INT: Pomeroy Lodging LP o/a GP Pomeroy Hotel\n\n\n\nSound in Town - Jason 
- Pratt
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Dawson_Creek:20260413T080000
 DTEND;TZID=America/Dawson_Creek:20260413T120059
-DTSTAMP:20260611T121714Z
+DTSTAMP:20260611T163048Z
 UID:planning-slot-3161@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING POIN
@@ -41,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Dawson_Creek:20260413T120000
 DTEND;TZID=America/Dawson_Creek:20260413T200000
-DTSTAMP:20260611T121714Z
+DTSTAMP:20260611T163048Z
 UID:planning-slot-4140@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nMEETING PO
@@ -53,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260522T170000
 DTEND;TZID=America/Dawson_Creek:20260522T210000
-DTSTAMP:20260611T121714Z
+DTSTAMP:20260611T163048Z
 UID:planning-slot-4378@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY23 - Bl
  uey Day\nNote: EVENT: MAY23 - Bluey Day\nMEETING POINT: Centennial Park\n\
@@ -64,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T060000
 DTEND;TZID=America/Dawson_Creek:20260523T170000
-DTSTAMP:20260611T121714Z
+DTSTAMP:20260611T163048Z
 UID:planning-slot-2471@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY23 - Bl
  uey Day\nAllocated: 8.0h\nNote: EVENT: MAY23 - Bluey Day\nMEETING POINT: C
