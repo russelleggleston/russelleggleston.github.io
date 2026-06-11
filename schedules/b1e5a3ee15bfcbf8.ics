@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN12-13 - Party In White GP
 DTSTART;TZID=America/Edmonton:20260614T100000
 DTEND;TZID=America/Edmonton:20260614T160000
-DTSTAMP:20260610T222002Z
+DTSTAMP:20260611T045759Z
 UID:planning-slot-3373@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN12-13 - Party In Whit
  e GP\nAllocated: 6.0h\nNote: EVENT: JUN12-13 - Party In White GP\nhttps://

@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260412T100000
 DTEND;TZID=America/Edmonton:20260412T140000
-DTSTAMP:20260610T221947Z
+DTSTAMP:20260611T045745Z
 UID:planning-slot-2035@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 4.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nMEETING PO
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260412T153000
 DTEND;TZID=America/Edmonton:20260412T170000
-DTSTAMP:20260610T221947Z
+DTSTAMP:20260611T045745Z
 UID:planning-slot-4280@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR13 AARFP
   47th Tradeshow\nAllocated: 1.5h\nNote: EVENT: APR13 AARFP 47th Tradeshow\
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260412T170000
 DTEND;TZID=America/Edmonton:20260412T210059
-DTSTAMP:20260610T221947Z
+DTSTAMP:20260611T045745Z
 UID:planning-slot-3163@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING POIN
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260413T090000
 DTEND;TZID=America/Edmonton:20260413T130059
-DTSTAMP:20260610T221947Z
+DTSTAMP:20260611T045745Z
 UID:planning-slot-3654@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nAllocated: 4.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING POIN
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260413T150000
 DTEND;TZID=America/Edmonton:20260413T210000
-DTSTAMP:20260610T221947Z
+DTSTAMP:20260611T045745Z
 UID:planning-slot-3723@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 6.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nMEETING PO
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260413T220000
 DTEND;TZID=America/Edmonton:20260414T000059
-DTSTAMP:20260610T221947Z
+DTSTAMP:20260611T045745Z
 UID:planning-slot-3653@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nAllocated: 2.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING POIN
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260414T070000
 DTEND;TZID=America/Edmonton:20260414T100059
-DTSTAMP:20260610T221947Z
+DTSTAMP:20260611T045745Z
 UID:planning-slot-3112@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
  ow\nAllocated: 3.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING POIN
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260414T100000
 DTEND;TZID=America/Edmonton:20260414T220000
-DTSTAMP:20260610T221947Z
+DTSTAMP:20260611T045745Z
 UID:planning-slot-3722@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nMEETING PO
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260414T180000
 DTEND;TZID=America/Edmonton:20260415T005959
-DTSTAMP:20260610T221947Z
+DTSTAMP:20260611T045745Z
 UID:planning-slot-4267@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: APR13 AARFP 47th Trade
  show\nAllocated: 1.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING PO
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260415T170000
 DTEND;TZID=America/Edmonton:20260416T000000
-DTSTAMP:20260610T221947Z
+DTSTAMP:20260611T045745Z
 UID:planning-slot-3782@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR16 Pomeroy GP Pembina
   Townhall 2026\nAllocated: 7.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Tow
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260416T080000
 DTEND;TZID=America/Edmonton:20260416T123000
-DTSTAMP:20260610T221947Z
+DTSTAMP:20260611T045745Z
 UID:planning-slot-3777@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: APR16 Pomeroy GP Pembina To
  wnhall 2026\nAllocated: 4.5h\nNote: EVENT: APR16 Pomeroy GP Pembina Townha
@@ -159,7 +159,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR16 Pomeroy GP Pembina To
  wnhall 2026
 DTSTART;TZID=America/Edmonton:20260416T140000
 DTEND;TZID=America/Edmonton:20260416T190000
-DTSTAMP:20260610T221947Z
+DTSTAMP:20260611T045745Z
 UID:planning-slot-3783@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR16 Pomer
  oy GP Pembina Townhall 2026\nAllocated: 5.0h\nNote: EVENT: APR16 Pomeroy G
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260417T070000
 DTEND;TZID=America/Edmonton:20260417T090000
-DTSTAMP:20260610T221947Z
+DTSTAMP:20260611T045745Z
 UID:planning-slot-3980@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR16 Pomeroy GP Pembina Townhall 2026
  \nAllocated: 2.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townhall 2026\nME
