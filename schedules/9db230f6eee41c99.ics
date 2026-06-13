@@ -22,22 +22,10 @@ TZOFFSETTO:-0600
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
-DTSTART;TZID=America/Edmonton:20260414T070000
-DTEND;TZID=America/Edmonton:20260414T100059
-DTSTAMP:20260613T103725Z
-UID:planning-slot-3112@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
- ow\nAllocated: 3.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING POIN
- T: Keyera Place Grande Prairie\n\nif we don't get it all done the night pr
- ior\n\nSound in Town - Amanda Robinson
-LOCATION:Keyera Place Grande Prairie
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - APR12-15 AARFP 47th Conference
 DTSTART;TZID=America/Edmonton:20260414T100000
 DTEND;TZID=America/Edmonton:20260414T220000
-DTSTAMP:20260613T103725Z
+DTSTAMP:20260613T142350Z
 UID:planning-slot-3722@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: APR12-15 AARFP 47th Conference
  \nAllocated: 8.0h\nNote: EVENT: APR12-15 AARFP 47th Conference\nMEETING PO
@@ -49,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - APR13 AARFP 47th Tradeshow
 DTSTART;TZID=America/Edmonton:20260414T180000
 DTEND;TZID=America/Edmonton:20260415T005959
-DTSTAMP:20260613T103725Z
+DTSTAMP:20260613T142350Z
 UID:planning-slot-4267@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: APR13 AARFP 47th Trade
  show\nAllocated: 1.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING PO
@@ -62,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260415T170000
 DTEND;TZID=America/Edmonton:20260416T000000
-DTSTAMP:20260613T103725Z
+DTSTAMP:20260613T142350Z
 UID:planning-slot-3782@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR16 Pomeroy GP Pembina
   Townhall 2026\nAllocated: 7.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Tow
@@ -74,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260416T080000
 DTEND;TZID=America/Edmonton:20260416T123000
-DTSTAMP:20260613T103725Z
+DTSTAMP:20260613T142350Z
 UID:planning-slot-3777@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: APR16 Pomeroy GP Pembina To
  wnhall 2026\nAllocated: 4.5h\nNote: EVENT: APR16 Pomeroy GP Pembina Townha
@@ -87,7 +75,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR16 Pomeroy GP Pembina To
  wnhall 2026
 DTSTART;TZID=America/Edmonton:20260416T140000
 DTEND;TZID=America/Edmonton:20260416T190000
-DTSTAMP:20260613T103725Z
+DTSTAMP:20260613T142350Z
 UID:planning-slot-3783@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR16 Pomer
  oy GP Pembina Townhall 2026\nAllocated: 5.0h\nNote: EVENT: APR16 Pomeroy G
@@ -99,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260417T070000
 DTEND;TZID=America/Edmonton:20260417T090000
-DTSTAMP:20260613T103725Z
+DTSTAMP:20260613T142350Z
 UID:planning-slot-3980@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR16 Pomeroy GP Pembina Townhall 2026
  \nAllocated: 2.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townhall 2026\nME
