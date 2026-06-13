@@ -22,22 +22,10 @@ TZOFFSETTO:-0600
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - APR13 AARFP 47th Tradeshow
-DTSTART;TZID=America/Edmonton:20260413T220000
-DTEND;TZID=America/Edmonton:20260414T000059
-DTSTAMP:20260612T215951Z
-UID:planning-slot-4343@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR13 AARFP 47th Tradesh
- ow\nAllocated: 0.0h\nNote: EVENT: APR13 AARFP 47th Tradeshow\nMEETING POIN
- T: Keyera Place Grande Prairie\n\nMEET AT KEYERA PLACE\n\nSound in Town - 
- Kayla Pelgrim
-LOCATION:Keyera Place Grande Prairie
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260416T130000
 DTEND;TZID=America/Edmonton:20260416T190059
-DTSTAMP:20260612T215951Z
+DTSTAMP:20260613T044921Z
 UID:planning-slot-4348@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: APR16 Pomeroy GP Pembina To
  wnhall 2026\nAllocated: 6.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townha
