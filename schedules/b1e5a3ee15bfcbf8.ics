@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN12-13 - Party In White GP
 DTSTART;TZID=America/Edmonton:20260614T100000
 DTEND;TZID=America/Edmonton:20260614T160000
-DTSTAMP:20260614T213751Z
+DTSTAMP:20260615T052624Z
 UID:planning-slot-3373@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN12-13 - Party In Whit
  e GP\nAllocated: 6.0h\nNote: EVENT: JUN12-13 - Party In White GP\nhttps://
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN19 Ovintiv - SD59 DCSS Grad Ceremony
 DTSTART;TZID=America/Edmonton:20260615T130000
 DTEND;TZID=America/Edmonton:20260616T000059
-DTSTAMP:20260614T213751Z
+DTSTAMP:20260615T052624Z
 UID:planning-slot-5052@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN19 Ovintiv - SD59 DCS
  S Grad Ceremony\nAllocated: 8.0h\nNote: EVENT: JUN19 Ovintiv - SD59 DCSS G
@@ -51,7 +51,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN19 - NPSS Grad Ceremony
  2026
 DTSTART;TZID=America/Edmonton:20260616T100000
 DTEND;TZID=America/Edmonton:20260616T180059
-DTSTAMP:20260614T213751Z
+DTSTAMP:20260615T052624Z
 UID:planning-slot-5053@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN19 - NPS
  S Grad Ceremony 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS Grad Cere

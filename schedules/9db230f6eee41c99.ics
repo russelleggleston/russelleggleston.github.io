@@ -22,22 +22,10 @@ TZOFFSETTO:-0600
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - APR16 Pomeroy GP Pembina Townhall 2026
-DTSTART;TZID=America/Edmonton:20260415T170000
-DTEND;TZID=America/Edmonton:20260416T000000
-DTSTAMP:20260614T213736Z
-UID:planning-slot-3782@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: APR16 Pomeroy GP Pembina
-  Townhall 2026\nAllocated: 7.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Tow
- nhall 2026\nMEETING POINT: Grande Ballroom\n\n\n\nSound in Town - Amanda R
- obinson
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260416T080000
 DTEND;TZID=America/Edmonton:20260416T123000
-DTSTAMP:20260614T213736Z
+DTSTAMP:20260615T052610Z
 UID:planning-slot-3777@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: APR16 Pomeroy GP Pembina To
  wnhall 2026\nAllocated: 4.5h\nNote: EVENT: APR16 Pomeroy GP Pembina Townha
@@ -50,7 +38,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - APR16 Pomeroy GP Pembina To
  wnhall 2026
 DTSTART;TZID=America/Edmonton:20260416T140000
 DTEND;TZID=America/Edmonton:20260416T190000
-DTSTAMP:20260614T213736Z
+DTSTAMP:20260615T052610Z
 UID:planning-slot-3783@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: APR16 Pomer
  oy GP Pembina Townhall 2026\nAllocated: 5.0h\nNote: EVENT: APR16 Pomeroy G
@@ -62,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - APR16 Pomeroy GP Pembina Townhall 2026
 DTSTART;TZID=America/Edmonton:20260417T070000
 DTEND;TZID=America/Edmonton:20260417T090000
-DTSTAMP:20260614T213736Z
+DTSTAMP:20260615T052610Z
 UID:planning-slot-3980@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: APR16 Pomeroy GP Pembina Townhall 2026
  \nAllocated: 2.0h\nNote: EVENT: APR16 Pomeroy GP Pembina Townhall 2026\nME
