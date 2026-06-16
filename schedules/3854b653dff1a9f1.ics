@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260513T093000
 DTEND;TZID=America/Dawson_Creek:20260513T183000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4642@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 8.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260514T093000
 DTEND;TZID=America/Dawson_Creek:20260514T183000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4643@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 8.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260515T093000
 DTEND;TZID=America/Dawson_Creek:20260515T183000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4644@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 8.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260516T093000
 DTEND;TZID=America/Dawson_Creek:20260516T183000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4645@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 8.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260520T090000
 DTEND;TZID=America/Dawson_Creek:20260520T180000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4723@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 8.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -63,7 +63,7 @@ SUMMARY:CO - Camera Operator - MAY21 City of FSJ - Mental Health Conferenc
  e
 DTSTART;TZID=America/Dawson_Creek:20260521T080000
 DTEND;TZID=America/Dawson_Creek:20260521T180000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4658@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: MAY21 City of FSJ - Mental 
  Health Conference\nAllocated: 8.0h\nNote: EVENT: MAY21 City of FSJ - Menta
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - MAY22-23 ACM Meeting - Stage/Podium
 DTSTART;TZID=America/Dawson_Creek:20260523T160000
 DTEND;TZID=America/Dawson_Creek:20260523T170000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4818@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: MAY22-23 ACM Meeting
   - Stage/Podium\nAllocated: 1.0h\nNote: EVENT: MAY22-23 ACM Meeting - Stag
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY28 Bert Bowes Semi-Formal A/V
 DTSTART;TZID=America/Dawson_Creek:20260527T093000
 DTEND;TZID=America/Dawson_Creek:20260527T104559
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4825@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY28 Bert Bowes Semi-Fo
  rmal A/V\nAllocated: 1.3h\nNote: EVENT: MAY28 Bert Bowes Semi-Formal A/V\n
@@ -100,7 +100,7 @@ SUMMARY:WH4 - Warehouse Helper - JUN01-03 2026 BC Chamber AGM Conference 1
  4179-1
 DTSTART;TZID=America/Dawson_Creek:20260528T090000
 DTEND;TZID=America/Dawson_Creek:20260528T110000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4769@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: JUN01-03 2026 BC Chamber 
  AGM Conference 14179-1\nAllocated: 2.0h\nNote: EVENT: JUN01-03 2026 BC Cha
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - JUN04 - NLC FSJ Convocation 2026
 DTSTART;TZID=America/Dawson_Creek:20260528T120000
 DTEND;TZID=America/Dawson_Creek:20260528T170000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4910@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: JUN04 - NLC FSJ Convocati
  on 2026\nAllocated: 5.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation 2026\nM
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260529T090000
 DTEND;TZID=America/Dawson_Creek:20260529T120000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4770@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -134,7 +134,7 @@ SUMMARY:SET/STR4 - Event Helper - MAY29 Hamres - Elizebeth Lamothe 11AM Li
  ve Stream Service
 DTSTART;TZID=America/Dawson_Creek:20260529T130000
 DTEND;TZID=America/Dawson_Creek:20260529T150059
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4876@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY29 Hamres - Elizebeth
   Lamothe 11AM Live Stream Service\nAllocated: 2.0h\nNote: EVENT: MAY29 Ham
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260530T090000
 DTEND;TZID=America/Dawson_Creek:20260530T183000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4771@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 8.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -157,7 +157,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - JUN06 GP BEO 7 over 70 Awards Gala Ban
  quet
 DTSTART;TZID=America/Dawson_Creek:20260603T090000
 DTEND;TZID=America/Dawson_Creek:20260603T153000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-2197@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: JUN06 GP BEO 7 over 70
   Awards Gala Banquet\nAllocated: 6.5h\nNote: EVENT: JUN06 GP BEO 7 over 70
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN03 FSJ Chamber Wrap Up Band
 DTSTART;TZID=America/Dawson_Creek:20260603T153000
 DTEND;TZID=America/Dawson_Creek:20260603T203059
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4841@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN03 FSJ Chamber Wrap U
  p Band\nAllocated: 5.0h\nNote: EVENT: JUN03 FSJ Chamber Wrap Up Band\nMEET
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260605T090000
 DTEND;TZID=America/Dawson_Creek:20260605T160000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4935@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 7.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN05 - SD60 Track Meet
 DTSTART;TZID=America/Dawson_Creek:20260605T144500
 DTEND;TZID=America/Dawson_Creek:20260605T170000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4801@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN05 - SD
  60 Track Meet\nAllocated: 2.2h\nNote: EVENT: JUN05 - SD60 Track Meet\nMEET
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - JUN05 - SD60 Track Meet
 DTSTART;TZID=America/Dawson_Creek:20260605T170000
 DTEND;TZID=America/Dawson_Creek:20260605T183000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4938@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: JUN05 - SD60 Track Mee
  t\nNote: EVENT: JUN05 - SD60 Track Meet\nMEETING POINT: Sound In Town Ware
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - JUN05 UNBC - Convocation
 DTSTART;TZID=America/Dawson_Creek:20260606T093000
 DTEND;TZID=America/Dawson_Creek:20260606T143059
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4963@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: JUN05 UNBC - Convocation\
  nAllocated: 5.0h\nNote: EVENT: JUN05 UNBC - Convocation\nMEETING POINT: So
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN06 North Peace Pride - Festival
 DTSTART;TZID=America/Dawson_Creek:20260606T143000
 DTEND;TZID=America/Dawson_Creek:20260606T180000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4964@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN06 North Peace Pride 
  - Festival\nAllocated: 3.5h\nNote: EVENT: JUN06 North Peace Pride - Festiv
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260610T090000
 DTEND;TZID=America/Dawson_Creek:20260610T180000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4978@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 8.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260611T090000
 DTEND;TZID=America/Dawson_Creek:20260611T180000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4979@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 8.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260612T090000
 DTEND;TZID=America/Dawson_Creek:20260612T180000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4980@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 8.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\nPREP: JUN19 Tumbler Ridge  into Cube van\
@@ -271,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN13 - NPSS Prom 2026
 DTSTART;TZID=America/Dawson_Creek:20260613T090000
 DTEND;TZID=America/Dawson_Creek:20260613T150000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-5022@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN13 - NPSS Prom 2026\n
  Allocated: 6.0h\nNote: EVENT: JUN13 - NPSS Prom 2026\nhttps://www.soundint
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper
 DTSTART;TZID=America/Dawson_Creek:20260613T090000
 DTEND;TZID=America/Dawson_Creek:20260613T180000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4217@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nAllocated: 8.0h\nNote: MEETING POI
  NT: Sound In Town Warehouse\n\n\n\nSound in Town - Sumit Sharma
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - JUN17 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20260617T090000
 DTEND;TZID=America/Dawson_Creek:20260617T180000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4218@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: JUN17 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: JUN17 - Standby Crew\nhttps://www.soundintown.com
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - JUN18 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20260618T090000
 DTEND;TZID=America/Dawson_Creek:20260618T180000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4219@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: JUN18 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: JUN18 - Standby Crew\nhttps://www.soundintown.com
@@ -314,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - JUN19 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20260619T090000
 DTEND;TZID=America/Dawson_Creek:20260619T180000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4221@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: JUN19 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: JUN19 - Standby Crew\nhttps://www.soundintown.com
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - JUN20 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20260620T090000
 DTEND;TZID=America/Dawson_Creek:20260620T180000
-DTSTAMP:20260616T130309Z
+DTSTAMP:20260616T194955Z
 UID:planning-slot-4224@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: JUN20 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: JUN20 - Standby Crew\nhttps://www.soundintown.com
