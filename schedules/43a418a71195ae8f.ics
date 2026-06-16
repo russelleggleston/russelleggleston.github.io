@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Roo Baker
+X-WR-TIMEZONE:America/Creston
+BEGIN:VTIMEZONE
+TZID:America/Creston
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:MST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - JUL05 -TNT Bodybuilding Edmonton 2026
+DTSTART;TZID=America/Creston:20260704T070000
+DTEND;TZID=America/Creston:20260704T190059
+DTSTAMP:20260616T053045Z
+UID:planning-slot-5110@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 -TNT Bodybuilding 
+ Edmonton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 -TNT Bodybuilding Edmon
+ ton 2026\nhttps://www.soundintown.com/r/Ofn\nMEETING POINT: DoubleTree Wes
+ t Edmonton\n\n\n\nSound in Town - Roo Baker
+LOCATION:DoubleTree West Edmonton
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SET/STR4 - Event Helper - JUL05 -TNT Bodybuilding Edmonton 2026
+DTSTART;TZID=America/Creston:20260705T180000
+DTEND;TZID=America/Creston:20260706T000000
+DTSTAMP:20260616T053045Z
+UID:planning-slot-2694@soundintown.com
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 -TNT Bodybuilding 
+ Edmonton 2026\nNote: EVENT: JUL05 -TNT Bodybuilding Edmonton 2026\nhttps:/
+ /www.soundintown.com/r/Ofn\nMEETING POINT: DoubleTree West Edmonton\n\nAut
+ o planned shift. May need to be adjusted by planning.\n\nSound in Town - R
+ oo Baker
+LOCATION:DoubleTree West Edmonton
+END:VEVENT
+END:VCALENDAR
