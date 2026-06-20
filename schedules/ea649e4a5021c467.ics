@@ -14,15 +14,15 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - MAY23 Mine Rescue BC (Penticton)
+SUMMARY:SET/STR4 - Event Helper - MAY23 2026 Mine Rescue BC (Penticton)
 DTSTART;TZID=Canada/Pacific:20260524T080000
 DTEND;TZID=Canada/Pacific:20260524T140000
-DTSTAMP:20260619T212118Z
+DTSTAMP:20260620T043943Z
 UID:planning-slot-4757@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 Mine Rescue BC (Pe
- nticton)\nAllocated: 6.0h\nNote: EVENT: MAY23 Mine Rescue BC (Penticton)\n
- MEETING POINT: Penticton Trade and Convention Center\n\n\n\nSound in Town 
- - Nik Newby
+DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 2026 Mine Rescue B
+ C (Penticton)\nAllocated: 6.0h\nNote: EVENT: MAY23 Mine Rescue BC (Pentict
+ on)\nMEETING POINT: Penticton Trade and Convention Center\n\n\n\nSound in 
+ Town - Nik Newby
 LOCATION:Penticton Trade and Convention Center
 END:VEVENT
 END:VCALENDAR
