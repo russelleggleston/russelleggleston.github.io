@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY23 2026 Mine Rescue BC (Penticton)
 DTSTART;TZID=Canada/Pacific:20260524T080000
 DTEND;TZID=Canada/Pacific:20260524T140000
-DTSTAMP:20260701T113249Z
+DTSTAMP:20260701T151054Z
 UID:planning-slot-4757@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY23 2026 Mine Rescue B
  C (Penticton)\nAllocated: 6.0h\nNote: EVENT: MAY23 Mine Rescue BC (Pentict
