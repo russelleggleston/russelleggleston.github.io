@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Randy Fillion
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYHOUR=2;BYDAY=1SU;BYMONTH=11
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700301T020000
+RRULE:FREQ=YEARLY;BYHOUR=2;BYDAY=2SU;BYMONTH=3
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist - JUL25 - Standby Crew
+DTSTART;TZID=America/Edmonton:20260725T090000
+DTEND;TZID=America/Edmonton:20260725T190000
+DTSTAMP:20260702T213101Z
+UID:planning-slot-4712@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL25 - Standby Crew\nAllocate
+ d: 8.0h\nNote: EVENT: JUL25 - Standby Crew\nhttps://www.soundintown.com/r/
+ boP\nMEETING POINT: Venue\n\nHey Randy\, this is a placeholder shift! I am
+  not sure exactly where we will need help this weekend\, only that we will
+  definitely use you somewhere!\n\nSound in Town - Randy Fillion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist
+DTSTART;TZID=America/Edmonton:20260801T090000
+DTEND;TZID=America/Edmonton:20260801T190000
+DTSTAMP:20260702T213101Z
+UID:planning-slot-5261@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
+  Venue\n\n\n\nSound in Town - Randy Fillion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist
+DTSTART;TZID=America/Edmonton:20260808T090000
+DTEND;TZID=America/Edmonton:20260808T190000
+DTSTAMP:20260702T213101Z
+UID:planning-slot-5262@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
+  Venue\n\n\n\nSound in Town - Randy Fillion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist
+DTSTART;TZID=America/Edmonton:20260829T090000
+DTEND;TZID=America/Edmonton:20260829T190000
+DTSTAMP:20260702T213101Z
+UID:planning-slot-5263@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
+  Venue\n\n\n\nSound in Town - Randy Fillion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist - SEP05 Tumbler Ridge Fall Fair - Bands
+DTSTART;TZID=America/Edmonton:20260905T100000
+DTEND;TZID=America/Edmonton:20260905T180000
+DTSTAMP:20260702T213101Z
+UID:planning-slot-5264@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nEvent: SEP05 Tumbler Ridge Fall Fair 
+ - Bands\nAllocated: 8.0h\nNote: EVENT: SEP05 Tumbler Ridge Fall Fair - Ban
+ ds\nhttps://www.soundintown.com/r/vWP\nMEETING POINT: Venue\n\nTimes TBD\n
+ \nSound in Town - Randy Fillion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist
+DTSTART;TZID=America/Edmonton:20260919T100000
+DTEND;TZID=America/Edmonton:20260919T180000
+DTSTAMP:20260702T213101Z
+UID:planning-slot-5265@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
+  Venue\n\n\n\nSound in Town - Randy Fillion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist
+DTSTART;TZID=America/Edmonton:20261017T090000
+DTEND;TZID=America/Edmonton:20261017T190000
+DTSTAMP:20260702T213101Z
+UID:planning-slot-5266@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
+  Venue\n\n\n\nSound in Town - Randy Fillion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A2 - Audio Assist
+DTSTART;TZID=America/Edmonton:20261031T090000
+DTEND;TZID=America/Edmonton:20261031T190000
+DTSTAMP:20260702T213101Z
+UID:planning-slot-5267@soundintown.com
+DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
+  Venue\n\n\n\nSound in Town - Randy Fillion
+END:VEVENT
+END:VCALENDAR
