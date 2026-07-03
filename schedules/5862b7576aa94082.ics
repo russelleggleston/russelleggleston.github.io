@@ -14,23 +14,11 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:WH3 - Warehouse Shop Hand - MAY02-03 - Fort Nelson Trade Show 2026
-DTSTART;TZID=America/Dawson_Creek:20260504T140000
-DTEND;TZID=America/Dawson_Creek:20260504T160059
-DTSTAMP:20260703T174616Z
-UID:planning-slot-4564@soundintown.com
-DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY02-03 - Fort Nelson
-  Trade Show 2026\nAllocated: 2.0h\nNote: EVENT: MAY02-03 - Fort Nelson Tra
- de Show 2026\nMEETING POINT: Sound In Town Warehouse\n\nLoose times for yo
- u to come back to fold drape\n\nSound in Town - Lindsay Brown
-LOCATION:Northern Rockies Regional Recreation Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY09 Hamres - Kathy Miller Live Strea
  m Service
 DTSTART;TZID=America/Dawson_Creek:20260505T090000
 DTEND;TZID=America/Dawson_Creek:20260505T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4104@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY09 Hamres - Kathy M
  iller Live Stream Service\nAllocated: 3.0h\nNote: EVENT: MAY09 Hamres - Ka
@@ -43,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260506T090000
 DTEND;TZID=America/Dawson_Creek:20260506T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4103@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 3.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -52,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - MAY05-06 Margaret Ma Pipe and Drape & Lights
 DTSTART;TZID=America/Dawson_Creek:20260507T093000
 DTEND;TZID=America/Dawson_Creek:20260507T100059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-3994@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: MAY05-06 Margaret Ma Pipe and Drape & 
  Lights\nAllocated: 0.5h\nNote: EVENT: MAY05-06 Margaret Ma Pipe and Drape 
@@ -64,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY10 - Mothers Day Jazz Event
 DTSTART;TZID=America/Dawson_Creek:20260507T100000
 DTEND;TZID=America/Dawson_Creek:20260507T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4211@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY10 - Mothers Day Ja
  zz Event\nAllocated: 2.0h\nNote: EVENT: MAY10 - Mothers Day Jazz Event\nME
@@ -76,7 +64,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - MAY05-06 Margaret Ma Pipe and Drape &
  Lights
 DTSTART;TZID=America/Dawson_Creek:20260509T120000
 DTEND;TZID=America/Dawson_Creek:20260509T160059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4624@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY05-06 Margaret Ma P
  ipe and Drape & Lights\nAllocated: 4.0h\nNote: EVENT: MAY05-06 Margaret Ma
@@ -88,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY10 - Mothers Day Jazz Event
 DTSTART;TZID=America/Dawson_Creek:20260511T090000
 DTEND;TZID=America/Dawson_Creek:20260511T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-3604@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY10 - Mothers Day Ja
  zz Event\nAllocated: 3.0h\nNote: EVENT: MAY10 - Mothers Day Jazz Event\nME
@@ -99,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY14 Ovintiv- Dawson Co-op AGM
 DTSTART;TZID=America/Dawson_Creek:20260512T090000
 DTEND;TZID=America/Dawson_Creek:20260512T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4064@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY14 Ovintiv- Dawson 
  Co-op AGM\nAllocated: 3.0h\nNote: EVENT: MAY14 Ovintiv- Dawson Co-op AGM\n
@@ -111,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260513T090000
 DTEND;TZID=America/Dawson_Creek:20260513T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-3334@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 3.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -120,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260514T090000
 DTEND;TZID=America/Dawson_Creek:20260514T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4106@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 3.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -130,7 +118,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - MAY20 GP BEO PomClub Opening #1062466
  CUSTOM
 DTSTART;TZID=America/Dawson_Creek:20260519T090000
 DTEND;TZID=America/Dawson_Creek:20260519T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4107@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY20 GP BEO PomClub O
  pening #1062466 CUSTOM\nAllocated: 3.0h\nNote: EVENT: MAY20 GP BEO PomClub
@@ -142,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260520T090000
 DTEND;TZID=America/Dawson_Creek:20260520T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4108@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 3.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -151,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260521T090000
 DTEND;TZID=America/Dawson_Creek:20260521T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4109@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 3.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -160,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260522T090000
 DTEND;TZID=America/Dawson_Creek:20260522T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4110@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 3.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -169,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY27 FSJ CO-OP AGM
 DTSTART;TZID=America/Dawson_Creek:20260525T090000
 DTEND;TZID=America/Dawson_Creek:20260525T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4111@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY27 FSJ CO-OP AGM\nA
  llocated: 3.0h\nNote: EVENT: MAY27 FSJ CO-OP AGM\nMEETING POINT: Sound In 
@@ -181,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY28 Bert Bowes Semi-Formal A/V
 DTSTART;TZID=America/Dawson_Creek:20260526T090000
 DTEND;TZID=America/Dawson_Creek:20260526T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4826@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY28 Bert Bowes Semi-
  Formal A/V\nAllocated: 3.0h\nNote: EVENT: MAY28 Bert Bowes Semi-Formal A/V
@@ -193,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand - MAY28 Bert Bowes Semi-Formal A/V
 DTSTART;TZID=America/Dawson_Creek:20260529T090000
 DTEND;TZID=America/Dawson_Creek:20260529T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4827@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: MAY28 Bert Bowes Semi-
  Formal A/V\nAllocated: 3.0h\nNote: EVENT: MAY28 Bert Bowes Semi-Formal A/V
@@ -206,7 +194,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - JUN01 FSJ Chamber Welcome Reception Ba
  nd
 DTSTART;TZID=America/Dawson_Creek:20260602T090000
 DTEND;TZID=America/Dawson_Creek:20260602T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4931@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: JUN01 FSJ Chamber Welc
  ome Reception Band\nAllocated: 3.0h\nNote: EVENT: JUN01 FSJ Chamber Welcom
@@ -218,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260603T090000
 DTEND;TZID=America/Dawson_Creek:20260603T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4882@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 3.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -227,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260604T090000
 DTEND;TZID=America/Dawson_Creek:20260604T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4884@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 3.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -237,7 +225,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - JUN06 Johnson Wedding Photobooth - Cam
  eron Lake
 DTSTART;TZID=America/Dawson_Creek:20260605T090000
 DTEND;TZID=America/Dawson_Creek:20260605T114559
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4820@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: JUN06 Johnson Wedding 
  Photobooth - Cameron Lake\nAllocated: 2.8h\nNote: EVENT: JUN06 Johnson Wed
@@ -250,7 +238,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - JUN04-07 - Prophet River First Nation
  Treaty Days
 DTSTART;TZID=America/Dawson_Creek:20260608T090000
 DTEND;TZID=America/Dawson_Creek:20260608T115959
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4821@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: JUN04-07 - Prophet Riv
  er First Nation Treaty Days\nAllocated: 3.0h\nNote: EVENT: JUN04-07 - Prop
@@ -262,7 +250,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - JUN06 Johnson Wedding Photobooth - Cam
  eron Lake
 DTSTART;TZID=America/Dawson_Creek:20260608T120000
 DTEND;TZID=America/Dawson_Creek:20260608T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5014@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: JUN06 Johnson Wedding 
  Photobooth - Cameron Lake\nAllocated: 0.0h\nNote: EVENT: JUN06 Johnson Wed
@@ -274,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260609T090000
 DTEND;TZID=America/Dawson_Creek:20260609T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4982@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 3.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -283,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260610T090000
 DTEND;TZID=America/Dawson_Creek:20260610T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4983@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 3.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -292,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:WH3 - Warehouse Shop Hand
 DTSTART;TZID=America/Dawson_Creek:20260611T090000
 DTEND;TZID=America/Dawson_Creek:20260611T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-4984@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nAllocated: 3.0h\nNote: MEETIN
  G POINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -301,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260615T090000
 DTEND;TZID=America/Dawson_Creek:20260615T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5033@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -310,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260618T090000
 DTEND;TZID=America/Dawson_Creek:20260618T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5036@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -319,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260619T090000
 DTEND;TZID=America/Dawson_Creek:20260619T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5034@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -329,7 +317,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - JUN23 GP BEO CNRL Mission Statement Me
  eting (Custom)
 DTSTART;TZID=America/Dawson_Creek:20260624T090000
 DTEND;TZID=America/Dawson_Creek:20260624T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5135@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: JUN23 GP BEO CNRL Miss
  ion Statement Meeting (Custom)\nAllocated: 3.0h\nNote: EVENT: JUN23 GP BEO
@@ -343,7 +331,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - JUN23 GP BEO CNRL Mission Statement Me
  eting (Custom)
 DTSTART;TZID=America/Dawson_Creek:20260625T090000
 DTEND;TZID=America/Dawson_Creek:20260625T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5136@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: JUN23 GP BEO CNRL Miss
  ion Statement Meeting (Custom)\nAllocated: 3.0h\nNote: EVENT: JUN23 GP BEO
@@ -357,7 +345,7 @@ SUMMARY:WH3 - Warehouse Shop Hand - JUN23 GP BEO CNRL Mission Statement Me
  eting (Custom)
 DTSTART;TZID=America/Dawson_Creek:20260626T090000
 DTEND;TZID=America/Dawson_Creek:20260626T120059
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5137@soundintown.com
 DESCRIPTION:Role: WH3 - Warehouse Shop Hand\nEvent: JUN23 GP BEO CNRL Miss
  ion Statement Meeting (Custom)\nAllocated: 3.0h\nNote: EVENT: JUN23 GP BEO
@@ -370,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260629T090000
 DTEND;TZID=America/Dawson_Creek:20260629T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5223@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -379,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260630T090000
 DTEND;TZID=America/Dawson_Creek:20260630T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5224@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -388,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260702T090000
 DTEND;TZID=America/Dawson_Creek:20260702T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5225@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -397,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260703T090000
 DTEND;TZID=America/Dawson_Creek:20260703T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5226@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -406,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260706T090000
 DTEND;TZID=America/Dawson_Creek:20260706T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5287@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n3 big shows coming back\, mostly unloadin
@@ -416,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260707T090000
 DTEND;TZID=America/Dawson_Creek:20260707T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5284@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\nFold drape coming back from TNT (Edmonton
@@ -426,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260708T090000
 DTEND;TZID=America/Dawson_Creek:20260708T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5283@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -435,7 +423,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260709T090000
 DTEND;TZID=America/Dawson_Creek:20260709T120000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5286@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
  OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Lindsay Brown
@@ -444,7 +432,7 @@ BEGIN:VEVENT
 SUMMARY:PB1 - Onsite Photo booth Tech
 DTSTART;TZID=America/Dawson_Creek:20260718T170000
 DTEND;TZID=America/Dawson_Creek:20260718T233000
-DTSTAMP:20260703T174616Z
+DTSTAMP:20260703T213048Z
 UID:planning-slot-5289@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nNote: MEETING POINT: Venu
  e\n\nGo out to event venue and check on photobooth approx every 30 min-hr.
