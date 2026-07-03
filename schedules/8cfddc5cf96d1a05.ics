@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN13 - NPSS Prom 2026
 DTSTART;TZID=America/Dawson_Creek:20260613T090000
 DTEND;TZID=America/Dawson_Creek:20260613T170000
-DTSTAMP:20260702T213059Z
+DTSTAMP:20260703T040629Z
 UID:planning-slot-5024@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN13 - NPSS Prom 2026\nAllocate
  d: 8.0h\nNote: EVENT: JUN13 - NPSS Prom 2026\nhttps://www.soundintown.com/
@@ -29,14 +29,13 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN12-14 HRFN - Halfway Arbor Days
 DTSTART;TZID=America/Dawson_Creek:20260614T070000
 DTEND;TZID=America/Dawson_Creek:20260614T100059
-DTSTAMP:20260702T213059Z
+DTSTAMP:20260703T040629Z
 UID:planning-slot-5057@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN12-14 HRFN - Halfway Arbor Da
- ys\nAllocated: 3.0h\nNote: EVENT: JUN12-14 HRFN - Halfway Arbor Days\nhttp
- s://www.soundintown.com/r/RZJ\nMEETING POINT: Halfway River First Nation\n
- \nTech\, Strike (Russ will meet you to strike)\, load out and return to FS
- J. \nEvents for the day: Starts at 9AM. Drumming ends around 2:30PM.\n\nSo
- und in Town - Lukas Bellamy
+ ys\nAllocated: 3.0h\nNote: EVENT: JUN12-14 HRFN - Halfway Arbor Days\nMEET
+ ING POINT: Halfway River First Nation\n\nTech\, Strike (Russ will meet you
+  to strike)\, load out and return to FSJ. \nEvents for the day: Starts at 
+ 9AM. Drumming ends around 2:30PM.\n\nSound in Town - Lukas Bellamy
 LOCATION:Halfway River First Nation
 END:VEVENT
 END:VCALENDAR
