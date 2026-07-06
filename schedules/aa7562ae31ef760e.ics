@@ -26,7 +26,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAY07 NLC Service Awards Ga
  la
 DTSTART;TZID=America/Edmonton:20260508T130000
 DTEND;TZID=America/Edmonton:20260508T170000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2582@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY07 NLC S
  ervice Awards Gala\nAllocated: 4.0h\nNote: EVENT: MAY07 NLC Service Awards
@@ -39,7 +39,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY08 - Reynars Connie Patt
  erson 1PM Service
 DTSTART;TZID=America/Edmonton:20260508T170000
 DTEND;TZID=America/Edmonton:20260508T220000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-4616@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY08 - Rey
  nars Connie Patterson 1PM Service\nAllocated: 5.0h\nNote: EVENT: MAY08 - R
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician
 DTSTART;TZID=America/Edmonton:20260509T100000
 DTEND;TZID=America/Edmonton:20260509T170000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-4535@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nAllocated: 7.0h\nN
  ote: MEETING POINT: Venue\n\nTIMES LOOSE AS OF APRIL 28\n\nSound in Town -
@@ -62,7 +62,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - MAY09 Hamres - Kathy Miller
   Live Stream Service
 DTSTART;TZID=America/Edmonton:20260509T140000
 DTEND;TZID=America/Edmonton:20260509T160059
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-4577@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: MAY09 Hamre
  s - Kathy Miller Live Stream Service\nAllocated: 2.0h\nNote: EVENT: MAY09 
@@ -76,7 +76,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY23 Northern Classic 2026
   GP
 DTSTART;TZID=America/Edmonton:20260521T200000
 DTEND;TZID=America/Edmonton:20260521T230000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-4459@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY23 North
  ern Classic 2026 GP\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETING 
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23 Northern Classic 2026 GP
 DTSTART;TZID=America/Edmonton:20260522T090000
 DTEND;TZID=America/Edmonton:20260522T220000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2072@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23 Northern Classic 20
  26 GP\nAllocated: 8.0h\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETI
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23 Northern Classic 2026 GP
 DTSTART;TZID=America/Edmonton:20260523T080000
 DTEND;TZID=America/Edmonton:20260523T160000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2074@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23 Northern Classic 20
  26 GP\nAllocated: 8.0h\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETI
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - MAY23 Northern Classic 2026 GP
 DTSTART;TZID=America/Edmonton:20260524T090000
 DTEND;TZID=America/Edmonton:20260524T160000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2076@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23 Northern Classic 20
  26 GP\nAllocated: 7.0h\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETI
@@ -123,7 +123,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 GP BEO 7 over 70 Awa
  rds Gala Banquet
 DTSTART;TZID=America/Edmonton:20260605T100000
 DTEND;TZID=America/Edmonton:20260605T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-4492@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 GP B
  EO 7 over 70 Awards Gala Banquet\nAllocated: 8.0h\nNote: EVENT: JUN06 GP B
@@ -136,7 +136,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 GP BEO 7 over 70 Awa
  rds Gala Banquet
 DTSTART;TZID=America/Edmonton:20260606T100000
 DTEND;TZID=America/Edmonton:20260606T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2199@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 GP B
  EO 7 over 70 Awards Gala Banquet\nAllocated: 8.0h\nNote: EVENT: JUN06 GP B
@@ -149,7 +149,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 GP BEO 7 over 70 Awa
  rds Gala Banquet
 DTSTART;TZID=America/Edmonton:20260607T090000
 DTEND;TZID=America/Edmonton:20260607T170000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2626@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 GP B
  EO 7 over 70 Awards Gala Banquet\nAllocated: 8.0h\nNote: EVENT: JUN06 GP B
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN12-13 - Party In White GP
 DTSTART;TZID=America/Edmonton:20260612T090000
 DTEND;TZID=America/Edmonton:20260613T003000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2478@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN12-13 - Party In White G
  P\nAllocated: 8.5h\nNote: EVENT: JUN12-13 - Party In White GP\nhttps://www
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN12-13 - Party In White GP
 DTSTART;TZID=America/Edmonton:20260613T090000
 DTEND;TZID=America/Edmonton:20260614T003000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2149@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN12-13 - Party In White G
  P\nAllocated: 8.5h\nNote: EVENT: JUN12-13 - Party In White GP\nhttps://www
@@ -186,7 +186,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - JUN12-13 - Party In White G
  P
 DTSTART;TZID=America/Edmonton:20260614T080000
 DTEND;TZID=America/Edmonton:20260614T133000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2480@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: JUN12-13 - 
  Party In White GP\nAllocated: 5.5h\nNote: EVENT: JUN12-13 - Party In White
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - JUN19-21 2026 Peace River Gold Cup
 DTSTART;TZID=America/Edmonton:20260618T190000
 DTEND;TZID=America/Edmonton:20260618T230059
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5061@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: JUN19-21 2026 Peace River Gold Cup\nNo
  te: EVENT: JUN19-21 2026 Peace River Gold Cup\nhttps://www.soundintown.com
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - JUN19-21 2026 Peace River Gold Cup
 DTSTART;TZID=America/Edmonton:20260619T070000
 DTEND;TZID=America/Edmonton:20260620T005959
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5058@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: JUN19-21 2026 Peace River Gold Cup\nAl
  located: 1.0h\nNote: EVENT: JUN19-21 2026 Peace River Gold Cup\nhttps://ww
@@ -221,7 +221,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN19-21 2026 Peace River
  Gold Cup
 DTSTART;TZID=America/Edmonton:20260620T070000
 DTEND;TZID=America/Edmonton:20260621T005959
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5059@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN19-21 2
  026 Peace River Gold Cup\nAllocated: 9.0h\nNote: EVENT: JUN19-21 2026 Peac
@@ -232,7 +232,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN19-21 2026 Peace River
  Gold Cup
 DTSTART;TZID=America/Edmonton:20260621T070000
 DTEND;TZID=America/Edmonton:20260622T005959
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5060@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN19-21 2
  026 Peace River Gold Cup\nAllocated: 9.0h\nNote: EVENT: JUN19-21 2026 Peac
@@ -243,7 +243,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - JUL05 -TNT Bodybuilding Edmonton 20
  26
 DTSTART;TZID=America/Edmonton:20260704T100000
 DTEND;TZID=America/Edmonton:20260704T200000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2701@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUL05 -TNT Bodybuil
  ding Edmonton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 -TNT Bodybuilding 
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - JUL05 -TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Edmonton:20260705T090000
 DTEND;TZID=America/Edmonton:20260705T230000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2681@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: JUL05 -TNT Bodybuilding E
  dmonton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 -TNT Bodybuilding Edmont
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260708T090000
 DTEND;TZID=America/Edmonton:20260708T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5171@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260709T090000
 DTEND;TZID=America/Edmonton:20260709T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5172@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260710T090000
 DTEND;TZID=America/Edmonton:20260710T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5173@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260715T090000
 DTEND;TZID=America/Edmonton:20260715T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5174@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -309,7 +309,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 La Crete Ferry Family Campground Musi
  c Event
 DTSTART;TZID=America/Edmonton:20260716T100000
 DTEND;TZID=America/Edmonton:20260716T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2720@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 La Crete Ferry Family
   Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete F
@@ -323,7 +323,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 La Crete Ferry Family Campground Musi
  c Event
 DTSTART;TZID=America/Edmonton:20260717T100000
 DTEND;TZID=America/Edmonton:20260717T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2719@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 La Crete Ferry Family
   Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete F
@@ -337,7 +337,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 La Crete Ferry Family Campground Musi
  c Event
 DTSTART;TZID=America/Edmonton:20260718T100000
 DTEND;TZID=America/Edmonton:20260718T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2721@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 La Crete Ferry Family
   Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete F
@@ -351,7 +351,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 La Crete Ferry Family Campground Musi
  c Event
 DTSTART;TZID=America/Edmonton:20260719T090000
 DTEND;TZID=America/Edmonton:20260719T170000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-3456@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 La Crete Ferry Family
   Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete F
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260722T090000
 DTEND;TZID=America/Edmonton:20260722T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5175@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260723T090000
 DTEND;TZID=America/Edmonton:20260723T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5176@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -383,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260724T090000
 DTEND;TZID=America/Edmonton:20260724T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5177@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -393,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260725T090000
 DTEND;TZID=America/Edmonton:20260725T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5178@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -403,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260726T090000
 DTEND;TZID=America/Edmonton:20260726T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5179@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260729T090000
 DTEND;TZID=America/Edmonton:20260729T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5180@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -423,7 +423,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260730T090000
 DTEND;TZID=America/Edmonton:20260730T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5181@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260805T090000
 DTEND;TZID=America/Edmonton:20260805T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5182@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260806T090000
 DTEND;TZID=America/Edmonton:20260806T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5183@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -453,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260807T090000
 DTEND;TZID=America/Edmonton:20260807T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5184@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260808T090000
 DTEND;TZID=America/Edmonton:20260808T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5185@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -473,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260809T090000
 DTEND;TZID=America/Edmonton:20260809T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5187@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -483,7 +483,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260812T090000
 DTEND;TZID=America/Edmonton:20260812T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5186@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -493,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260813T090000
 DTEND;TZID=America/Edmonton:20260813T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5188@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -503,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260814T090000
 DTEND;TZID=America/Edmonton:20260814T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5189@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -513,7 +513,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260815T090000
 DTEND;TZID=America/Edmonton:20260815T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5190@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -523,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260816T090000
 DTEND;TZID=America/Edmonton:20260816T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5191@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -533,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260819T090000
 DTEND;TZID=America/Edmonton:20260819T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5192@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -543,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Edmonton:20260820T100000
 DTEND;TZID=America/Edmonton:20260820T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2760@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fes
@@ -555,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Edmonton:20260821T100000
 DTEND;TZID=America/Edmonton:20260821T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2750@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fes
@@ -567,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Edmonton:20260822T100000
 DTEND;TZID=America/Edmonton:20260822T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-2759@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fes
@@ -579,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260823T090000
 DTEND;TZID=America/Edmonton:20260823T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5193@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -589,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260826T090000
 DTEND;TZID=America/Edmonton:20260826T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5194@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -599,7 +599,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260827T090000
 DTEND;TZID=America/Edmonton:20260827T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5195@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -609,7 +609,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260828T090000
 DTEND;TZID=America/Edmonton:20260828T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5196@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -619,7 +619,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260829T090000
 DTEND;TZID=America/Edmonton:20260829T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5197@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -629,7 +629,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260830T090000
 DTEND;TZID=America/Edmonton:20260830T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5202@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -639,7 +639,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260902T090000
 DTEND;TZID=America/Edmonton:20260902T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5198@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -649,7 +649,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260903T090000
 DTEND;TZID=America/Edmonton:20260903T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5199@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -659,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - SEP04 - VJV Video Cattle Auction
 DTSTART;TZID=America/Edmonton:20260904T100000
 DTEND;TZID=America/Edmonton:20260904T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-3389@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: SEP04 - VJV Video Cattle Auction
  \nAllocated: 8.0h\nNote: EVENT: SEP04 - VJV Video Cattle Auction\nhttps://
@@ -671,7 +671,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Edmonton:20260905T090000
 DTEND;TZID=America/Edmonton:20260905T180000
-DTSTAMP:20260706T155349Z
+DTSTAMP:20260706T181959Z
 UID:planning-slot-5200@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
