@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260514T100000
 DTEND;TZID=America/Dawson_Creek:20260514T113059
-DTSTAMP:20260711T135218Z
+DTSTAMP:20260711T171438Z
 UID:planning-slot-4655@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\nNote: MEETING POINT: C
  heck with Lead Planner\n\n\n\nSound in Town - Sandra Estudillo
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260518T100000
 DTEND;TZID=America/Dawson_Creek:20260518T113059
-DTSTAMP:20260711T135218Z
+DTSTAMP:20260711T171438Z
 UID:planning-slot-3005@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\nNote: MEETING POINT: C
  heck with Lead Planner\n\n\n\nSound in Town - Sandra Estudillo
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260526T100000
 DTEND;TZID=America/Dawson_Creek:20260526T113059
-DTSTAMP:20260711T135218Z
+DTSTAMP:20260711T171438Z
 UID:planning-slot-3006@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\nNote: MEETING POINT: C
  heck with Lead Planner\n\n\n\nSound in Town - Sandra Estudillo
