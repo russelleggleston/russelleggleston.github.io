@@ -26,7 +26,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - JUL18 Christine's Wedding @
   Charlie Lake Hall
 DTSTART;TZID=America/Edmonton:20260717T110000
 DTEND;TZID=America/Edmonton:20260717T160000
-DTSTAMP:20260713T112741Z
+DTSTAMP:20260713T150936Z
 UID:planning-slot-5291@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: JUL18 Chris
  tine's Wedding @ Charlie Lake Hall\nAllocated: 5.0h\nNote: EVENT: JUL18 Ch
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - JUL25 - Standby Crew
 DTSTART;TZID=America/Edmonton:20260725T090000
 DTEND;TZID=America/Edmonton:20260725T190000
-DTSTAMP:20260713T112741Z
+DTSTAMP:20260713T150936Z
 UID:planning-slot-4712@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL25 - Standby Crew\nAllocate
  d: 8.0h\nNote: EVENT: JUL25 - Standby Crew\nhttps://www.soundintown.com/r/
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Edmonton:20260801T090000
 DTEND;TZID=America/Edmonton:20260801T190000
-DTSTAMP:20260713T112741Z
+DTSTAMP:20260713T150936Z
 UID:planning-slot-5261@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
   Venue\n\n\n\nSound in Town - Randy Fillion
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Edmonton:20260808T090000
 DTEND;TZID=America/Edmonton:20260808T190000
-DTSTAMP:20260713T112741Z
+DTSTAMP:20260713T150936Z
 UID:planning-slot-5262@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
   Venue\n\n\n\nSound in Town - Randy Fillion
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Edmonton:20260829T090000
 DTEND;TZID=America/Edmonton:20260829T190000
-DTSTAMP:20260713T112741Z
+DTSTAMP:20260713T150936Z
 UID:planning-slot-5263@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
   Venue\n\n\n\nSound in Town - Randy Fillion
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - SEP05 Tumbler Ridge Fall Fair - Bands
 DTSTART;TZID=America/Edmonton:20260905T100000
 DTEND;TZID=America/Edmonton:20260905T180000
-DTSTAMP:20260713T112741Z
+DTSTAMP:20260713T150936Z
 UID:planning-slot-5264@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: SEP05 Tumbler Ridge Fall Fair 
  - Bands\nAllocated: 8.0h\nNote: EVENT: SEP05 Tumbler Ridge Fall Fair - Ban
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Edmonton:20260919T100000
 DTEND;TZID=America/Edmonton:20260919T180000
-DTSTAMP:20260713T112741Z
+DTSTAMP:20260713T150936Z
 UID:planning-slot-5265@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
   Venue\n\n\n\nSound in Town - Randy Fillion
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Edmonton:20261017T090000
 DTEND;TZID=America/Edmonton:20261017T190000
-DTSTAMP:20260713T112741Z
+DTSTAMP:20260713T150936Z
 UID:planning-slot-5266@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
   Venue\n\n\n\nSound in Town - Randy Fillion
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Edmonton:20261031T090000
 DTEND;TZID=America/Edmonton:20261031T190000
-DTSTAMP:20260713T112741Z
+DTSTAMP:20260713T150936Z
 UID:planning-slot-5267@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
   Venue\n\n\n\nSound in Town - Randy Fillion
