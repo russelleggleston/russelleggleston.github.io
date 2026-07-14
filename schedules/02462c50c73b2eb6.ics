@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - JUN04 - NLC FSJ Convocation 2026
 DTSTART;TZID=America/Dawson_Creek:20260604T163000
 DTEND;TZID=America/Dawson_Creek:20260604T183000
-DTSTAMP:20260714T062259Z
+DTSTAMP:20260714T100831Z
 UID:planning-slot-4919@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: JUN04 - NLC FSJ Convocation
   2026\nAllocated: 2.0h\nNote: EVENT: JUN04 - NLC FSJ Convocation 2026\nMEE
