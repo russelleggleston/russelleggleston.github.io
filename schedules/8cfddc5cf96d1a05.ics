@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN13 - NPSS Prom 2026
 DTSTART;TZID=America/Dawson_Creek:20260613T090000
 DTEND;TZID=America/Dawson_Creek:20260613T170000
-DTSTAMP:20260716T173902Z
+DTSTAMP:20260716T211441Z
 UID:planning-slot-5024@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN13 - NPSS Prom 2026\nAllocate
  d: 8.0h\nNote: EVENT: JUN13 - NPSS Prom 2026\nhttps://www.soundintown.com/
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN12-14 HRFN - Halfway Arbor Days
 DTSTART;TZID=America/Dawson_Creek:20260614T070000
 DTEND;TZID=America/Dawson_Creek:20260614T100059
-DTSTAMP:20260716T173902Z
+DTSTAMP:20260716T211441Z
 UID:planning-slot-5057@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN12-14 HRFN - Halfway Arbor Da
  ys\nAllocated: 3.0h\nNote: EVENT: JUN12-14 HRFN - Halfway Arbor Days\nMEET
