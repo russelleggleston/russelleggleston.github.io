@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260522T170000
 DTEND;TZID=America/Dawson_Creek:20260522T210000
-DTSTAMP:20260717T101025Z
+DTSTAMP:20260717T140035Z
 UID:planning-slot-4378@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY23 - Bl
  uey Day\nNote: EVENT: MAY23 - Bluey Day\nMEETING POINT: Centennial Park\n\
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T060000
 DTEND;TZID=America/Dawson_Creek:20260523T170000
-DTSTAMP:20260717T101025Z
+DTSTAMP:20260717T140035Z
 UID:planning-slot-2471@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY23 - Bl
  uey Day\nAllocated: 8.0h\nNote: EVENT: MAY23 - Bluey Day\nMEETING POINT: C
