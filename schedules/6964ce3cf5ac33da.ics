@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260526T100000
 DTEND;TZID=America/Dawson_Creek:20260526T113059
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-2931@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\nNote: MEETING POINT: C
  heck with Lead Planner\n\n\n\nSound in Town - Amy Seebaran
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260527T090000
 DTEND;TZID=America/Dawson_Creek:20260527T140000
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-2612@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: MAY28 - NLC DC Convocation\
  nAllocated: 5.0h\nNote: EVENT: MAY28 - NLC DC Convocation\nMEETING POINT: 
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership Team
 DTSTART;TZID=America/Dawson_Creek:20260601T100000
 DTEND;TZID=America/Dawson_Creek:20260601T113059
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-2932@soundintown.com
 DESCRIPTION:Role: Leadership Team\nAllocated: 1.5h\nNote: MEETING POINT: C
  heck with Lead Planner\n\n\n\nSound in Town - Amy Seebaran
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - JUN06 Johnson Wedding Photobooth - Cameron Lake
 DTSTART;TZID=America/Dawson_Creek:20260606T080000
 DTEND;TZID=America/Dawson_Creek:20260606T110000
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-4822@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: JUN06 Johnson Wedding Photobooth - Cam
  eron Lake\nAllocated: 3.0h\nNote: EVENT: JUN06 Johnson Wedding Photobooth 
@@ -59,7 +59,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - JUN06 Johnson Wedding Photo
  booth - Cameron Lake
 DTSTART;TZID=America/Dawson_Creek:20260606T110000
 DTEND;TZID=America/Dawson_Creek:20260606T130000
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-1961@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: JUN06 Johns
  on Wedding Photobooth - Cameron Lake\nAllocated: 2.0h\nNote: EVENT: JUN06 
@@ -72,7 +72,7 @@ SUMMARY:PB1 - Onsite Photo booth Tech - JUN06 Johnson Wedding Photobooth -
   Cameron Lake
 DTSTART;TZID=America/Dawson_Creek:20260606T150000
 DTEND;TZID=America/Dawson_Creek:20260607T000000
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-1962@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: JUN06 Johnson Wedd
  ing Photobooth - Cameron Lake\nAllocated: 8.0h\nNote: EVENT: JUN06 Johnson
@@ -85,7 +85,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN08 - Terry Fator Comedy
  Show
 DTSTART;TZID=America/Dawson_Creek:20260607T080000
 DTEND;TZID=America/Dawson_Creek:20260607T090059
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-5015@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN08 - Ter
  ry Fator Comedy Show\nAllocated: 1.0h\nNote: EVENT: JUN08 - Terry Fator Co
@@ -98,7 +98,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - JUN06 Johnson Wedding Photo
  booth - Cameron Lake
 DTSTART;TZID=America/Dawson_Creek:20260607T090000
 DTEND;TZID=America/Dawson_Creek:20260607T120000
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-1964@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: JUN06 Johns
  on Wedding Photobooth - Cameron Lake\nAllocated: 3.0h\nNote: EVENT: JUN06 
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - JUN06 Johnson Wedding Photobooth - Cameron Lake
 DTSTART;TZID=America/Dawson_Creek:20260607T120000
 DTEND;TZID=America/Dawson_Creek:20260607T140000
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-4823@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: JUN06 Johnson Wedding Photobooth - Cam
  eron Lake\nAllocated: 2.0h\nNote: EVENT: JUN06 Johnson Wedding Photobooth 
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN20 - Ovintiv DC Prom
 DTSTART;TZID=America/Dawson_Creek:20260616T100000
 DTEND;TZID=America/Dawson_Creek:20260616T140059
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-5049@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN20 - Ovi
  ntiv DC Prom\nAllocated: 4.0h\nNote: EVENT: JUN20 - Ovintiv DC Prom\nhttps
@@ -135,7 +135,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - JUN18 Aboriginal Family Ser
  vices - Photobooth
 DTSTART;TZID=America/Dawson_Creek:20260617T120000
 DTEND;TZID=America/Dawson_Creek:20260617T140059
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-4675@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: JUN18 Abori
  ginal Family Services - Photobooth\nAllocated: 2.0h\nNote: EVENT: JUN18 Ab
@@ -149,7 +149,7 @@ SUMMARY:PB1 - Onsite Photo booth Tech - JUN18 Aboriginal Family Services -
   Photobooth
 DTSTART;TZID=America/Dawson_Creek:20260618T100000
 DTEND;TZID=America/Dawson_Creek:20260618T130059
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-4669@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: JUN18 Aboriginal F
  amily Services - Photobooth\nAllocated: 3.0h\nNote: EVENT: JUN18 Aborigina
@@ -163,7 +163,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - JUN18 Aboriginal Family Ser
  vices - Photobooth
 DTSTART;TZID=America/Dawson_Creek:20260618T150000
 DTEND;TZID=America/Dawson_Creek:20260618T160059
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-4676@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: JUN18 Abori
  ginal Family Services - Photobooth\nAllocated: 1.0h\nNote: EVENT: JUN18 Ab
@@ -177,7 +177,7 @@ SUMMARY:AV2 - AV Tech (Mid Level) - JUL03 Chetwynd Celebration of Life Ser
  vice
 DTSTART;TZID=America/Dawson_Creek:20260703T110000
 DTEND;TZID=America/Dawson_Creek:20260703T183000
-DTSTAMP:20260719T135108Z
+DTSTAMP:20260719T171414Z
 UID:planning-slot-5205@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: JUL03 Chetwynd Celebra
  tion of Life Service\nAllocated: 7.5h\nNote: EVENT: JUL03 Chetwynd Funeral
