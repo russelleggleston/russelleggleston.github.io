@@ -14,19 +14,10 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:WH4 - Warehouse Helper
-DTSTART;TZID=America/Dawson_Creek:20260520T200000
-DTEND;TZID=America/Dawson_Creek:20260520T230000
-DTSTAMP:20260719T210542Z
-UID:planning-slot-4278@soundintown.com
-DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 3.0h\nNote: MEETING P
- OINT: Sound In Town Warehouse\n\n\n\nSound in Town - Jessica Beaumont
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T180000
 DTEND;TZID=America/Dawson_Creek:20260523T230000
-DTSTAMP:20260719T210542Z
+DTSTAMP:20260720T040221Z
 UID:planning-slot-4279@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY23 - Bluey Day\nNote: 
  EVENT: MAY23 - Bluey Day\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSo
