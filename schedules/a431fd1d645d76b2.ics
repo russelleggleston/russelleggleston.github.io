@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - MAY23 - Bluey Day
 DTSTART;TZID=America/Dawson_Creek:20260523T180000
 DTEND;TZID=America/Dawson_Creek:20260523T230000
-DTSTAMP:20260721T034235Z
+DTSTAMP:20260721T063954Z
 UID:planning-slot-4279@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: MAY23 - Bluey Day\nNote: 
  EVENT: MAY23 - Bluey Day\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSo
