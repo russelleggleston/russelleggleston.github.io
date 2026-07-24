@@ -18,7 +18,7 @@ SUMMARY:A2 - Audio Assist - JUL25 Ryley and Holly Wedding at Fred McRae Pr
  operty
 DTSTART;TZID=America/Dawson_Creek:20260724T090000
 DTEND;TZID=America/Dawson_Creek:20260724T190000
-DTSTAMP:20260724T141011Z
+DTSTAMP:20260724T175005Z
 UID:planning-slot-5534@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL25 Ryley and Holly Wedding 
  at Fred McRae Property\nAllocated: 8.0h\nNote: Meeting Point - Start at th
@@ -30,7 +30,7 @@ SUMMARY:A2 - Audio Assist - JUL25 Ryley and Holly Wedding at Fred McRae Pr
  operty
 DTSTART;TZID=America/Dawson_Creek:20260725T080000
 DTEND;TZID=America/Dawson_Creek:20260725T180000
-DTSTAMP:20260724T141011Z
+DTSTAMP:20260724T175005Z
 UID:planning-slot-4712@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL25 Ryley and Holly Wedding 
  at Fred McRae Property\nAllocated: 8.0h\nNote: Assist A2 etc on-site (outd
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician
 DTSTART;TZID=America/Dawson_Creek:20260726T090000
 DTEND;TZID=America/Dawson_Creek:20260726T120000
-DTSTAMP:20260724T141011Z
+DTSTAMP:20260724T175005Z
 UID:planning-slot-5535@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nAllocated: 3.0h\nN
  ote: Help strike until you need to go home\n\nSound in Town - Randy Fillio
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Dawson_Creek:20260808T080000
 DTEND;TZID=America/Dawson_Creek:20260808T180000
-DTSTAMP:20260724T141011Z
+DTSTAMP:20260724T175005Z
 UID:planning-slot-5262@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
   Venue\n\n\n\nSound in Town - Randy Fillion
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - SEP05 Tumbler Ridge Fall Fair - Bands
 DTSTART;TZID=America/Dawson_Creek:20260905T090000
 DTEND;TZID=America/Dawson_Creek:20260905T170000
-DTSTAMP:20260724T141011Z
+DTSTAMP:20260724T175005Z
 UID:planning-slot-5264@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: SEP05 Tumbler Ridge Fall Fair 
  - Bands\nAllocated: 8.0h\nNote: EVENT: SEP05 Tumbler Ridge Fall Fair - Ban
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Dawson_Creek:20260919T090000
 DTEND;TZID=America/Dawson_Creek:20260919T170000
-DTSTAMP:20260724T141011Z
+DTSTAMP:20260724T175005Z
 UID:planning-slot-5265@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
   Venue\n\n\n\nSound in Town - Randy Fillion
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Dawson_Creek:20261017T080000
 DTEND;TZID=America/Dawson_Creek:20261017T180000
-DTSTAMP:20260724T141011Z
+DTSTAMP:20260724T175005Z
 UID:planning-slot-5266@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
   Venue\n\n\n\nSound in Town - Randy Fillion
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist
 DTSTART;TZID=America/Dawson_Creek:20261031T080000
 DTEND;TZID=America/Dawson_Creek:20261031T180000
-DTSTAMP:20260724T141011Z
+DTSTAMP:20260724T175005Z
 UID:planning-slot-5267@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nAllocated: 8.0h\nNote: MEETING POINT:
   Venue\n\n\n\nSound in Town - Randy Fillion

@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUL05 -TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Dawson_Creek:20260704T070000
 DTEND;TZID=America/Dawson_Creek:20260704T190000
-DTSTAMP:20260724T141004Z
+DTSTAMP:20260724T174958Z
 UID:planning-slot-2690@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 -TNT Bodybuilding 
  Edmonton 2026\nAllocated: 2.0h\nNote: EVENT: JUL05 -TNT Bodybuilding Edmon
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUL05 -TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Dawson_Creek:20260705T180000
 DTEND;TZID=America/Dawson_Creek:20260706T000000
-DTSTAMP:20260724T141004Z
+DTSTAMP:20260724T174958Z
 UID:planning-slot-2695@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 -TNT Bodybuilding 
  Edmonton 2026\nAllocated: 1.0h\nNote: EVENT: JUL05 -TNT Bodybuilding Edmon
