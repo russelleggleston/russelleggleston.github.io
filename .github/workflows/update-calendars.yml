@@ -81,9 +81,9 @@ jobs:
               date_from = (now - timedelta(days=DAYS_BACK)).strftime('%Y-%m-%d %H:%M:%S')
               date_to = (now + timedelta(days=DAYS_FORWARD)).strftime('%Y-%m-%d %H:%M:%S')
               return models.execute_kw(db, uid, api_key, 'planning.slot', 'search_read',
-                  [[('employee_id', '=', employee_id), ('state', '=', 'published'),
+                  [[('employee_ids', 'in', [employee_id]), ('state', '=', 'published'),
                     ('start_datetime', '>=', date_from), ('start_datetime', '<=', date_to)]],
-                  {'fields': ['id', 'start_datetime', 'end_datetime', 'role_id', 'employee_id',
+                  {'fields': ['id', 'start_datetime', 'end_datetime', 'role_id', 'employee_ids',
                               'name', 'allocated_hours', 'x_studio_event'],
                    'order': 'start_datetime asc'})
 
