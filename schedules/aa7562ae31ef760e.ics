@@ -3,52 +3,22 @@ VERSION:2.0
 PRODID:-//Sound in Town//Shift Calendar//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Sound in Town - Matt Currie
-X-WR-TIMEZONE:America/Edmonton
+X-WR-TIMEZONE:America/Dawson_Creek
 BEGIN:VTIMEZONE
-TZID:America/Edmonton
+TZID:America/Dawson_Creek
 BEGIN:STANDARD
-DTSTART:19701101T020000
-RRULE:FREQ=YEARLY;BYHOUR=2;BYDAY=1SU;BYMONTH=11
+DTSTART:19700101T000000
 TZNAME:MST
-TZOFFSETFROM:-0600
+TZOFFSETFROM:-0700
 TZOFFSETTO:-0700
 END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:19700301T020000
-RRULE:FREQ=YEARLY;BYHOUR=2;BYDAY=2SU;BYMONTH=3
-TZNAME:MDT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-END:DAYLIGHT
 END:VTIMEZONE
-BEGIN:VEVENT
-SUMMARY:L1 - Lighting Engineer - MAY23 Northern Classic 2026 GP
-DTSTART;TZID=America/Edmonton:20260523T080000
-DTEND;TZID=America/Edmonton:20260523T160000
-DTSTAMP:20260722T034318Z
-UID:planning-slot-2074@soundintown.com
-DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23 Northern Classic 20
- 26 GP\nAllocated: 8.0h\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETI
- NG POINT: Grande Ballroom\n\n\n\nSound in Town - Matt Currie
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L1 - Lighting Engineer - MAY23 Northern Classic 2026 GP
-DTSTART;TZID=America/Edmonton:20260524T090000
-DTEND;TZID=America/Edmonton:20260524T160000
-DTSTAMP:20260722T034318Z
-UID:planning-slot-2076@soundintown.com
-DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: MAY23 Northern Classic 20
- 26 GP\nAllocated: 7.0h\nNote: EVENT: MAY23 Northern Classic 2026 GP\nMEETI
- NG POINT: Grande Ballroom\n\n\n\nSound in Town - Matt Currie
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 GP BEO 7 over 70 Awa
  rds Gala Banquet
-DTSTART;TZID=America/Edmonton:20260605T100000
-DTEND;TZID=America/Edmonton:20260605T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260605T090000
+DTEND;TZID=America/Dawson_Creek:20260605T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-4492@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 GP B
  EO 7 over 70 Awards Gala Banquet\nAllocated: 8.0h\nNote: EVENT: JUN06 GP B
@@ -59,9 +29,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 GP BEO 7 over 70 Awa
  rds Gala Banquet
-DTSTART;TZID=America/Edmonton:20260606T100000
-DTEND;TZID=America/Edmonton:20260606T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260606T090000
+DTEND;TZID=America/Dawson_Creek:20260606T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-2199@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 GP B
  EO 7 over 70 Awards Gala Banquet\nAllocated: 8.0h\nNote: EVENT: JUN06 GP B
@@ -72,9 +42,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN06 GP BEO 7 over 70 Awa
  rds Gala Banquet
-DTSTART;TZID=America/Edmonton:20260607T090000
-DTEND;TZID=America/Edmonton:20260607T170000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260607T080000
+DTEND;TZID=America/Dawson_Creek:20260607T160000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-2626@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN06 GP B
  EO 7 over 70 Awards Gala Banquet\nAllocated: 8.0h\nNote: EVENT: JUN06 GP B
@@ -84,9 +54,9 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN12-13 - Party In White GP
-DTSTART;TZID=America/Edmonton:20260612T090000
-DTEND;TZID=America/Edmonton:20260613T003000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260612T080000
+DTEND;TZID=America/Dawson_Creek:20260612T233000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-2478@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN12-13 - Party In White G
  P\nAllocated: 8.5h\nNote: EVENT: JUN12-13 - Party In White GP\nhttps://www
@@ -96,9 +66,9 @@ LOCATION:Bonnetts Energy Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - JUN12-13 - Party In White GP
-DTSTART;TZID=America/Edmonton:20260613T090000
-DTEND;TZID=America/Edmonton:20260614T003000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260613T080000
+DTEND;TZID=America/Dawson_Creek:20260613T233000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-2149@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: JUN12-13 - Party In White G
  P\nAllocated: 8.5h\nNote: EVENT: JUN12-13 - Party In White GP\nhttps://www
@@ -109,9 +79,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - JUN12-13 - Party In White G
  P
-DTSTART;TZID=America/Edmonton:20260614T080000
-DTEND;TZID=America/Edmonton:20260614T133000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260614T070000
+DTEND;TZID=America/Dawson_Creek:20260614T123000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-2480@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: JUN12-13 - 
  Party In White GP\nAllocated: 5.5h\nNote: EVENT: JUN12-13 - Party In White
@@ -121,9 +91,9 @@ LOCATION:Bonnetts Energy Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transport - JUN19-21 2026 Peace River Gold Cup
-DTSTART;TZID=America/Edmonton:20260618T190000
-DTEND;TZID=America/Edmonton:20260618T230059
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260618T180000
+DTEND;TZID=America/Dawson_Creek:20260618T220059
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5061@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: JUN19-21 2026 Peace River Gold Cup\nNo
  te: EVENT: JUN19-21 2026 Peace River Gold Cup\nhttps://www.soundintown.com
@@ -132,9 +102,9 @@ DESCRIPTION:Role: Transport\nEvent: JUN19-21 2026 Peace River Gold Cup\nNo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transport - JUN19-21 2026 Peace River Gold Cup
-DTSTART;TZID=America/Edmonton:20260619T070000
-DTEND;TZID=America/Edmonton:20260620T005959
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260619T060000
+DTEND;TZID=America/Dawson_Creek:20260619T235959
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5058@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: JUN19-21 2026 Peace River Gold Cup\nAl
  located: 1.0h\nNote: EVENT: JUN19-21 2026 Peace River Gold Cup\nhttps://ww
@@ -144,9 +114,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN19-21 2026 Peace River 
  Gold Cup
-DTSTART;TZID=America/Edmonton:20260620T070000
-DTEND;TZID=America/Edmonton:20260621T005959
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260620T060000
+DTEND;TZID=America/Dawson_Creek:20260620T235959
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5059@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN19-21 2
  026 Peace River Gold Cup\nAllocated: 9.0h\nNote: EVENT: JUN19-21 2026 Peac
@@ -155,9 +125,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - JUN19-21 2026 Peace River 
  Gold Cup
-DTSTART;TZID=America/Edmonton:20260621T070000
-DTEND;TZID=America/Edmonton:20260622T005959
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260621T060000
+DTEND;TZID=America/Dawson_Creek:20260621T235959
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5060@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: JUN19-21 2
  026 Peace River Gold Cup\nAllocated: 9.0h\nNote: EVENT: JUN19-21 2026 Peac
@@ -166,9 +136,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JUL05 -TNT Bodybuilding Edmonton 20
  26
-DTSTART;TZID=America/Edmonton:20260704T100000
-DTEND;TZID=America/Edmonton:20260704T200000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260704T090000
+DTEND;TZID=America/Dawson_Creek:20260704T190000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-2701@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUL05 -TNT Bodybuil
  ding Edmonton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 -TNT Bodybuilding 
@@ -178,9 +148,9 @@ LOCATION:DoubleTree West Edmonton
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - JUL05 -TNT Bodybuilding Edmonton 2026
-DTSTART;TZID=America/Edmonton:20260705T090000
-DTEND;TZID=America/Edmonton:20260705T230000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260705T080000
+DTEND;TZID=America/Dawson_Creek:20260705T220000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-2681@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: JUL05 -TNT Bodybuilding E
  dmonton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 -TNT Bodybuilding Edmont
@@ -191,9 +161,9 @@ LOCATION:DoubleTree West Edmonton
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260708T090000
-DTEND;TZID=America/Edmonton:20260708T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260708T080000
+DTEND;TZID=America/Dawson_Creek:20260708T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5171@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -201,9 +171,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL09-12 Saulteau First Nations Pemmican Days
-DTSTART;TZID=America/Edmonton:20260709T080000
-DTEND;TZID=America/Edmonton:20260709T120000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260709T070000
+DTEND;TZID=America/Dawson_Creek:20260709T110000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-4310@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL09-12 Saulteau First Nations 
  Pemmican Days\nAllocated: 4.0h\nNote: EVENT: JUL09-12 Saulteau First Natio
@@ -216,9 +186,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL09-12 Saulteau First Nat
  ions Pemmican Days
-DTSTART;TZID=America/Edmonton:20260710T090000
-DTEND;TZID=America/Edmonton:20260710T210000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260710T080000
+DTEND;TZID=America/Dawson_Creek:20260710T200000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5173@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL09-12 Sa
  ulteau First Nations Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL09-12
@@ -229,9 +199,9 @@ LOCATION:Pemmican Grounds
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL09-12 Saulteau First Nations Pemmican Days
-DTSTART;TZID=America/Edmonton:20260711T090000
-DTEND;TZID=America/Edmonton:20260711T200000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260711T080000
+DTEND;TZID=America/Dawson_Creek:20260711T190000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-2156@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL09-12 Saulteau First Nations 
  Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL09-12 Saulteau First Natio
@@ -242,9 +212,9 @@ LOCATION:Pemmican Grounds
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL09-12 Saulteau First Nations Pemmican Days
-DTSTART;TZID=America/Edmonton:20260712T090000
-DTEND;TZID=America/Edmonton:20260713T000000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260712T080000
+DTEND;TZID=America/Dawson_Creek:20260712T230000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-2157@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL09-12 Saulteau First Nations 
  Pemmican Days\nAllocated: 8.0h\nNote: EVENT: JUL09-12 Saulteau First Natio
@@ -255,9 +225,9 @@ LOCATION:Pemmican Grounds
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260715T090000
-DTEND;TZID=America/Edmonton:20260715T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260715T080000
+DTEND;TZID=America/Dawson_Creek:20260715T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5174@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -265,9 +235,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260716T090000
-DTEND;TZID=America/Edmonton:20260716T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260716T080000
+DTEND;TZID=America/Dawson_Creek:20260716T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5491@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -275,9 +245,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260717T090000
-DTEND;TZID=America/Edmonton:20260717T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260717T080000
+DTEND;TZID=America/Dawson_Creek:20260717T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5492@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -285,9 +255,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260718T090000
-DTEND;TZID=America/Edmonton:20260718T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260718T080000
+DTEND;TZID=America/Dawson_Creek:20260718T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5493@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -296,9 +266,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PB1 - Onsite Photo booth Tech - JUL18 2026 Hannah & Brandon Weddin
  g Photobooth
-DTSTART;TZID=America/Edmonton:20260718T160000
-DTEND;TZID=America/Edmonton:20260719T020000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260718T150000
+DTEND;TZID=America/Dawson_Creek:20260719T010000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5289@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: JUL18 2026 Hannah 
  & Brandon Wedding Photobooth\nAllocated: 10.0h\nNote: MEETING POINT: Venue
@@ -309,9 +279,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PB1 - Onsite Photo booth Tech - JUL18 Christine's Wedding @ Charli
  e Lake Hall
-DTSTART;TZID=America/Edmonton:20260718T180000
-DTEND;TZID=America/Edmonton:20260719T020059
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260718T170000
+DTEND;TZID=America/Dawson_Creek:20260719T010059
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5482@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: JUL18 Christine's 
  Wedding @ Charlie Lake Hall\nAllocated: 2.0h\nNote: EVENT: JUL18 Christine
@@ -322,9 +292,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PB1 - Onsite Photo booth Tech - JUL18 Christine's Wedding @ Charli
  e Lake Hall
-DTSTART;TZID=America/Edmonton:20260719T100000
-DTEND;TZID=America/Edmonton:20260719T124500
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260719T090000
+DTEND;TZID=America/Dawson_Creek:20260719T114500
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5292@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: JUL18 Christine's 
  Wedding @ Charlie Lake Hall\nAllocated: 2.8h\nNote: EVENT: JUL18 Christine
@@ -336,9 +306,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL18 2026 Hannah & Brandon
   Wedding Photobooth
-DTSTART;TZID=America/Edmonton:20260719T100000
-DTEND;TZID=America/Edmonton:20260719T130059
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260719T090000
+DTEND;TZID=America/Dawson_Creek:20260719T120059
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5544@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL18 2026 
  Hannah & Brandon Wedding Photobooth\nAllocated: 3.0h\nNote: Must be cleare
@@ -348,9 +318,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL20-24 BFN Pink Mountain 
  Culture Camp
-DTSTART;TZID=America/Edmonton:20260722T090000
-DTEND;TZID=America/Edmonton:20260722T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260722T080000
+DTEND;TZID=America/Dawson_Creek:20260722T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5175@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL20-24 BF
  N Pink Mountain Culture Camp\nAllocated: 8.0h\nNote: Take Cube Van to loca
@@ -360,9 +330,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL20-24 BFN Pink Mountain 
  Culture Camp
-DTSTART;TZID=America/Edmonton:20260723T090000
-DTEND;TZID=America/Edmonton:20260723T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260723T080000
+DTEND;TZID=America/Dawson_Creek:20260723T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5176@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL20-24 BF
  N Pink Mountain Culture Camp\nAllocated: 8.0h\nNote: MEETING POINT: Venue\
@@ -371,9 +341,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL20-24 BFN Pink Mountain 
  Culture Camp
-DTSTART;TZID=America/Edmonton:20260724T090000
-DTEND;TZID=America/Edmonton:20260724T160000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260724T080000
+DTEND;TZID=America/Dawson_Creek:20260724T150000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5177@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL20-24 BF
  N Pink Mountain Culture Camp\nAllocated: 7.0h\nNote: Start striking as soo
@@ -383,9 +353,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL20-24 BF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260725T090000
-DTEND;TZID=America/Edmonton:20260725T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260725T080000
+DTEND;TZID=America/Dawson_Creek:20260725T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5178@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -393,9 +363,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL24-26 West Mo Days 2026
-DTSTART;TZID=America/Edmonton:20260726T090000
-DTEND;TZID=America/Edmonton:20260726T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260726T080000
+DTEND;TZID=America/Dawson_Creek:20260726T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5179@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL24-26 We
  st Mo Days 2026\nAllocated: 8.0h\nNote: Help strike Stageline with Sam and
@@ -403,9 +373,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL24-26 We
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260729T090000
-DTEND;TZID=America/Edmonton:20260729T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260729T080000
+DTEND;TZID=America/Dawson_Creek:20260729T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5180@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -413,9 +383,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260730T090000
-DTEND;TZID=America/Edmonton:20260730T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260730T080000
+DTEND;TZID=America/Dawson_Creek:20260730T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5181@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -423,9 +393,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260805T090000
-DTEND;TZID=America/Edmonton:20260805T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260805T080000
+DTEND;TZID=America/Dawson_Creek:20260805T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5182@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -433,9 +403,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260806T090000
-DTEND;TZID=America/Edmonton:20260806T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260806T080000
+DTEND;TZID=America/Dawson_Creek:20260806T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5183@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -443,9 +413,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260807T090000
-DTEND;TZID=America/Edmonton:20260807T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260807T080000
+DTEND;TZID=America/Dawson_Creek:20260807T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5184@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -453,9 +423,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260808T090000
-DTEND;TZID=America/Edmonton:20260808T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260808T080000
+DTEND;TZID=America/Dawson_Creek:20260808T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5185@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -463,9 +433,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260809T090000
-DTEND;TZID=America/Edmonton:20260809T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260809T080000
+DTEND;TZID=America/Dawson_Creek:20260809T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5187@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -473,9 +443,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260812T090000
-DTEND;TZID=America/Edmonton:20260812T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260812T080000
+DTEND;TZID=America/Dawson_Creek:20260812T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5186@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -483,9 +453,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260813T090000
-DTEND;TZID=America/Edmonton:20260813T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260813T080000
+DTEND;TZID=America/Dawson_Creek:20260813T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5188@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -493,9 +463,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260814T090000
-DTEND;TZID=America/Edmonton:20260814T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260814T080000
+DTEND;TZID=America/Dawson_Creek:20260814T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5189@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -503,9 +473,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260815T090000
-DTEND;TZID=America/Edmonton:20260815T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260815T080000
+DTEND;TZID=America/Dawson_Creek:20260815T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5190@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -513,9 +483,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260816T090000
-DTEND;TZID=America/Edmonton:20260816T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260816T080000
+DTEND;TZID=America/Dawson_Creek:20260816T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5191@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -523,9 +493,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260819T090000
-DTEND;TZID=America/Edmonton:20260819T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260819T080000
+DTEND;TZID=America/Dawson_Creek:20260819T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5192@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -533,9 +503,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
-DTSTART;TZID=America/Edmonton:20260820T100000
-DTEND;TZID=America/Edmonton:20260820T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260820T090000
+DTEND;TZID=America/Dawson_Creek:20260820T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-2760@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fes
@@ -545,9 +515,9 @@ LOCATION:Fred Fest
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
-DTSTART;TZID=America/Edmonton:20260821T100000
-DTEND;TZID=America/Edmonton:20260821T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260821T090000
+DTEND;TZID=America/Dawson_Creek:20260821T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-2750@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fes
@@ -557,9 +527,9 @@ LOCATION:Fred Fest
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
-DTSTART;TZID=America/Edmonton:20260822T100000
-DTEND;TZID=America/Edmonton:20260822T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260822T090000
+DTEND;TZID=America/Dawson_Creek:20260822T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-2759@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fes
@@ -569,9 +539,9 @@ LOCATION:Fred Fest
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260823T090000
-DTEND;TZID=America/Edmonton:20260823T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260823T080000
+DTEND;TZID=America/Dawson_Creek:20260823T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5193@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -579,9 +549,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260826T090000
-DTEND;TZID=America/Edmonton:20260826T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260826T080000
+DTEND;TZID=America/Dawson_Creek:20260826T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5194@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -589,9 +559,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260827T090000
-DTEND;TZID=America/Edmonton:20260827T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260827T080000
+DTEND;TZID=America/Dawson_Creek:20260827T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5195@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -599,9 +569,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260828T090000
-DTEND;TZID=America/Edmonton:20260828T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260828T080000
+DTEND;TZID=America/Dawson_Creek:20260828T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5196@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -609,9 +579,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260829T090000
-DTEND;TZID=America/Edmonton:20260829T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260829T080000
+DTEND;TZID=America/Dawson_Creek:20260829T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5197@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -619,9 +589,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260830T090000
-DTEND;TZID=America/Edmonton:20260830T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260830T080000
+DTEND;TZID=America/Dawson_Creek:20260830T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5202@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -629,9 +599,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260902T090000
-DTEND;TZID=America/Edmonton:20260902T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260902T080000
+DTEND;TZID=America/Dawson_Creek:20260902T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5198@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -639,9 +609,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260903T090000
-DTEND;TZID=America/Edmonton:20260903T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260903T080000
+DTEND;TZID=America/Dawson_Creek:20260903T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5199@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -649,9 +619,9 @@ DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - SEP04 - VJV Video Cattle Auction
-DTSTART;TZID=America/Edmonton:20260904T100000
-DTEND;TZID=America/Edmonton:20260904T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260904T090000
+DTEND;TZID=America/Dawson_Creek:20260904T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-3389@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: SEP04 - VJV Video Cattle Auction
  \nAllocated: 8.0h\nNote: EVENT: SEP04 - VJV Video Cattle Auction\nhttps://
@@ -661,9 +631,9 @@ DESCRIPTION:Role: A1 - Audio Tech\nEvent: SEP04 - VJV Video Cattle Auction
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
-DTSTART;TZID=America/Edmonton:20260905T090000
-DTEND;TZID=America/Edmonton:20260905T180000
-DTSTAMP:20260722T034318Z
+DTSTART;TZID=America/Dawson_Creek:20260905T080000
+DTEND;TZID=America/Dawson_Creek:20260905T170000
+DTSTAMP:20260724T081142Z
 UID:planning-slot-5200@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
