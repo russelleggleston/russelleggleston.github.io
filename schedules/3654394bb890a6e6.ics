@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260526T170000
 DTEND;TZID=America/Dawson_Creek:20260526T210000
-DTSTAMP:20260724T102720Z
+DTSTAMP:20260724T141000Z
 UID:planning-slot-4776@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: MAY28 - NLC
   DC Convocation\nNote: EVENT: MAY28 - NLC DC Convocation\nMEETING POINT: O
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR2 - Setup & Strike Junior Tech - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260528T170000
 DTEND;TZID=America/Dawson_Creek:20260528T210000
-DTSTAMP:20260724T102720Z
+DTSTAMP:20260724T141000Z
 UID:planning-slot-2097@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: MAY28 - NL
  C DC Convocation\nNote: EVENT: MAY28 - NLC DC Convocation\nMEETING POINT: 
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - JUN12-13 - Party In White GP
 DTSTART;TZID=America/Dawson_Creek:20260613T120000
 DTEND;TZID=America/Dawson_Creek:20260613T234500
-DTSTAMP:20260724T102720Z
+DTSTAMP:20260724T141000Z
 UID:planning-slot-3376@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: JUN12-13 - Party In White G
  P\nAllocated: 8.0h\nNote: EVENT: JUN12-13 - Party In White GP\nhttps://www
@@ -54,7 +54,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN12-13 - Party In White G
  P
 DTSTART;TZID=America/Dawson_Creek:20260614T070000
 DTEND;TZID=America/Dawson_Creek:20260614T123059
-DTSTAMP:20260724T102720Z
+DTSTAMP:20260724T141000Z
 UID:planning-slot-4793@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN12-13 - 
  Party In White GP\nAllocated: 5.5h\nNote: EVENT: JUN12-13 - Party In White
