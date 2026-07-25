@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260528T120000
 DTEND;TZID=America/Dawson_Creek:20260528T170000
-DTSTAMP:20260725T171310Z
+DTSTAMP:20260725T210737Z
 UID:planning-slot-2092@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: MAY28 - NLC DC Convocation\
  nAllocated: 5.0h\nNote: EVENT: MAY28 - NLC DC Convocation\nMEETING POINT: 
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - MAY28 - NLC DC Convocation
 DTSTART;TZID=America/Dawson_Creek:20260528T170000
 DTEND;TZID=America/Dawson_Creek:20260528T210000
-DTSTAMP:20260725T171310Z
+DTSTAMP:20260725T210737Z
 UID:planning-slot-4775@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: MAY28 - NLC DC Convocati
  on\nNote: EVENT: MAY28 - NLC DC Convocation\nMEETING POINT: Ovintiv Events
