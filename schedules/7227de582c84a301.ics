@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN19 - Tumbler Ridge Grad
 DTSTART;TZID=America/Dawson_Creek:20260613T090000
 DTEND;TZID=America/Dawson_Creek:20260613T190000
-DTSTAMP:20260809T165208Z
+DTSTAMP:20260809T205002Z
 UID:planning-slot-4903@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN19 - Tumbler Ridge Gr
  ad\nAllocated: 8.0h\nNote: EVENT: JUN19 - Tumbler Ridge Grad\nhttps://www.
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN13 - NPSS Prom 2026
 DTSTART;TZID=America/Dawson_Creek:20260614T133000
 DTEND;TZID=America/Dawson_Creek:20260614T213059
-DTSTAMP:20260809T165208Z
+DTSTAMP:20260809T205002Z
 UID:planning-slot-5078@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN13 - NPSS Prom 2026\n
  Allocated: 8.0h\nNote: EVENT: JUN13 - NPSS Prom 2026\nhttps://www.soundint
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN19 - NPSS Grad Ceremony 2026
 DTSTART;TZID=America/Dawson_Creek:20260616T090000
 DTEND;TZID=America/Dawson_Creek:20260616T170059
-DTSTAMP:20260809T165208Z
+DTSTAMP:20260809T205002Z
 UID:planning-slot-5055@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN19 - NPSS Grad Ceremo
  ny 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS Grad Ceremony 2026\nME
@@ -56,7 +56,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN19 - NPSS Grad Ceremony
  2026
 DTSTART;TZID=America/Dawson_Creek:20260620T090000
 DTEND;TZID=America/Dawson_Creek:20260620T170000
-DTSTAMP:20260809T165208Z
+DTSTAMP:20260809T205002Z
 UID:planning-slot-4909@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN19 - NPS
  S Grad Ceremony 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS Grad Cere
