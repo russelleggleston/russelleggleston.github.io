@@ -14,22 +14,10 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:A1 - Audio Tech - JUN13 - NPSS Prom 2026
-DTSTART;TZID=America/Dawson_Creek:20260613T090000
-DTEND;TZID=America/Dawson_Creek:20260613T170000
-DTSTAMP:20260812T134353Z
-UID:planning-slot-5024@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN13 - NPSS Prom 2026\nAllocate
- d: 8.0h\nNote: EVENT: JUN13 - NPSS Prom 2026\nhttps://www.soundintown.com/
- r/rAf\nMEETING POINT: Downstairs Curling Rink\n\nSet up Prom\n\nSound in T
- own - Lukas Bellamy
-LOCATION:Downstairs Curling Rink
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUN12-14 HRFN - Halfway Arbor Days
 DTSTART;TZID=America/Dawson_Creek:20260614T070000
 DTEND;TZID=America/Dawson_Creek:20260614T100059
-DTSTAMP:20260812T134353Z
+DTSTAMP:20260812T171019Z
 UID:planning-slot-5057@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN12-14 HRFN - Halfway Arbor Da
  ys\nAllocated: 3.0h\nNote: EVENT: JUN12-14 HRFN - Halfway Arbor Days\nMEET
