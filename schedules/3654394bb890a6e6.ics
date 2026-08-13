@@ -14,23 +14,10 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN12-13 - Party In White G
- P
-DTSTART;TZID=America/Dawson_Creek:20260614T070000
-DTEND;TZID=America/Dawson_Creek:20260614T123059
-DTSTAMP:20260813T134439Z
-UID:planning-slot-4793@soundintown.com
-DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN12-13 - 
- Party In White GP\nAllocated: 5.5h\nNote: EVENT: JUN12-13 - Party In White
-  GP\nhttps://www.soundintown.com/r/R8W\nMEETING POINT: Bonnetts Energy Cen
- tre\n\n\n\nSound in Town - Aden Fulford
-LOCATION:Bonnetts Energy Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260823T090000
 DTEND;TZID=America/Dawson_Creek:20260823T170000
-DTSTAMP:20260813T134439Z
+DTSTAMP:20260813T171010Z
 UID:planning-slot-5843@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: AUG21-22 Fr
  edfest 2026\nAllocated: 8.0h\nNote: Start at Fredfest grounds\n\nSound in 
