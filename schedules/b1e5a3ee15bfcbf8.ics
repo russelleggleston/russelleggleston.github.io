@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUN19 Ovintiv - SD59 DCSS Grad Ceremony
 DTSTART;TZID=America/Dawson_Creek:20260615T120000
 DTEND;TZID=America/Dawson_Creek:20260615T230059
-DTSTAMP:20260813T210103Z
+DTSTAMP:20260814T024356Z
 UID:planning-slot-5052@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN19 Ovintiv - SD59 DCS
  S Grad Ceremony\nAllocated: 8.0h\nNote: EVENT: JUN19 Ovintiv - SD59 DCSS G
@@ -31,7 +31,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN19 - NPSS Grad Ceremony
  2026
 DTSTART;TZID=America/Dawson_Creek:20260616T090000
 DTEND;TZID=America/Dawson_Creek:20260616T170059
-DTSTAMP:20260813T210103Z
+DTSTAMP:20260814T024356Z
 UID:planning-slot-5053@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN19 - NPS
  S Grad Ceremony 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS Grad Cere
