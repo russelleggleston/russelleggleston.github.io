@@ -14,24 +14,11 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - JUN19 Ovintiv - SD59 DCSS Grad Ceremony
-DTSTART;TZID=America/Dawson_Creek:20260615T120000
-DTEND;TZID=America/Dawson_Creek:20260615T230059
-DTSTAMP:20260814T170928Z
-UID:planning-slot-5052@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN19 Ovintiv - SD59 DCS
- S Grad Ceremony\nAllocated: 8.0h\nNote: EVENT: JUN19 Ovintiv - SD59 DCSS G
- rad Ceremony\nhttps://www.soundintown.com/r/9V1\nMEETING POINT: Main Arena
-  Floor\n\nFinish setting up with Russelll\n\nSound in Town - Tyler Deslaur
- iers
-LOCATION:Ovintiv Events Centre - Main Arena Floor
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN19 - NPSS Grad Ceremony 
  2026
 DTSTART;TZID=America/Dawson_Creek:20260616T090000
 DTEND;TZID=America/Dawson_Creek:20260616T170059
-DTSTAMP:20260814T170928Z
+DTSTAMP:20260814T204400Z
 UID:planning-slot-5053@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN19 - NPS
  S Grad Ceremony 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS Grad Cere
