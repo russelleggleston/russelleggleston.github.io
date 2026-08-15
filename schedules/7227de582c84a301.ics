@@ -14,23 +14,11 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - JUN19 - NPSS Grad Ceremony 2026
-DTSTART;TZID=America/Dawson_Creek:20260616T090000
-DTEND;TZID=America/Dawson_Creek:20260616T170059
-DTSTAMP:20260815T125714Z
-UID:planning-slot-5055@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUN19 - NPSS Grad Ceremo
- ny 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS Grad Ceremony 2026\nME
- ETING POINT: North Peace Arena\n\nSet up NPSS Grad\n\nSound in Town - Juda
- h Kay
-LOCATION:North Peace Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN19 - NPSS Grad Ceremony 
  2026
 DTSTART;TZID=America/Dawson_Creek:20260620T090000
 DTEND;TZID=America/Dawson_Creek:20260620T170000
-DTSTAMP:20260815T125714Z
+DTSTAMP:20260815T163850Z
 UID:planning-slot-4909@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN19 - NPS
  S Grad Ceremony 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS Grad Cere
