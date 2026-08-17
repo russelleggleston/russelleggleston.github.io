@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - JUN19 - NPSS Grad Ceremony 2026
 DTSTART;TZID=America/Dawson_Creek:20260619T120000
 DTEND;TZID=America/Dawson_Creek:20260619T200059
-DTSTAMP:20260817T015340Z
+DTSTAMP:20260817T045613Z
 UID:planning-slot-5047@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: JUN19 - NPSS Grad Ceremony 
  2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS Grad Ceremony 2026\nMEETI
@@ -30,7 +30,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUN19 - NPSS Grad Ceremony
  2026
 DTSTART;TZID=America/Dawson_Creek:20260620T090000
 DTEND;TZID=America/Dawson_Creek:20260620T170000
-DTSTAMP:20260817T015340Z
+DTSTAMP:20260817T045613Z
 UID:planning-slot-4908@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUN19 - NPS
  S Grad Ceremony 2026\nAllocated: 8.0h\nNote: EVENT: JUN19 - NPSS Grad Cere
