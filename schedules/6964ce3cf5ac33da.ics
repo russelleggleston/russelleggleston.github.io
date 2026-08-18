@@ -14,25 +14,11 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:PB2 - Photobooth Setup / Strike Tech - JUN18 Aboriginal Family Ser
- vices - Photobooth
-DTSTART;TZID=America/Dawson_Creek:20260618T150000
-DTEND;TZID=America/Dawson_Creek:20260618T160059
-DTSTAMP:20260817T204156Z
-UID:planning-slot-4676@soundintown.com
-DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: JUN18 Abori
- ginal Family Services - Photobooth\nAllocated: 1.0h\nNote: EVENT: JUN18 Ab
- original Family Services - Photobooth\nhttps://www.soundintown.com/r/KsZ\n
- MEETING POINT: Aboriginal Family Services\, Lesley Gauthier\n\nStrike and 
- bring booth to Ovintiv\n\nSound in Town - Amy Seebaran
-LOCATION:Aboriginal Family Services\, Lesley Gauthier
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AV2 - AV Tech (Mid Level) - JUL03 Chetwynd Celebration of Life Ser
  vice
 DTSTART;TZID=America/Dawson_Creek:20260703T110000
 DTEND;TZID=America/Dawson_Creek:20260703T183000
-DTSTAMP:20260817T204156Z
+DTSTAMP:20260818T014850Z
 UID:planning-slot-5205@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: JUL03 Chetwynd Celebra
  tion of Life Service\nAllocated: 7.5h\nNote: EVENT: JUL03 Chetwynd Funeral
