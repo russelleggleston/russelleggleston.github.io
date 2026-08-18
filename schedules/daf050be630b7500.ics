@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Carlos Martinez
+X-WR-TIMEZONE:America/Dawson_Creek
+BEGIN:VTIMEZONE
+TZID:America/Dawson_Creek
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:MST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:A1 - Audio Tech - AUG22 - Conuma 10 Year Anniversary Party & BBQs 
+ (1 of 2)
+DTSTART;TZID=America/Dawson_Creek:20260822T083000
+DTEND;TZID=America/Dawson_Creek:20260822T234500
+DTSTAMP:20260818T085146Z
+UID:planning-slot-5773@soundintown.com
+DESCRIPTION:Role: A1 - Audio Tech\nEvent: AUG22 - Conuma 10 Year Anniversa
+ ry Party & BBQs (1 of 2)\n\nSound in Town - Carlos Martinez
+LOCATION:Tumbler Ridge Fairgrounds
+END:VEVENT
+END:VCALENDAR
