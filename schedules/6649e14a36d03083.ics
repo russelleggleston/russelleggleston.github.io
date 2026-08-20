@@ -14,20 +14,10 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:A1 - Audio Tech - JUN19-21 2026 Peace River Gold Cup
-DTSTART;TZID=America/Dawson_Creek:20260621T060000
-DTEND;TZID=America/Dawson_Creek:20260621T235959
-DTSTAMP:20260820T085457Z
-UID:planning-slot-3379@soundintown.com
-DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUN19-21 2026 Peace River Gold C
- up\nNote: EVENT: JUN19-21 2026 Peace River Gold Cup\nMEETING POINT: Venue
- \n\n\n\nSound in Town - Sam Baker
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL01 - City FSJ Canada Day Celebration
 DTSTART;TZID=America/Dawson_Creek:20260701T060000
 DTEND;TZID=America/Dawson_Creek:20260701T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2192@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL01 - City FSJ Canada Day Cele
  bration\nNote: EVENT: JUL01 - City FSJ Canada Day Celebration\nMEETING POI
@@ -38,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech
 DTSTART;TZID=America/Dawson_Creek:20260702T080000
 DTEND;TZID=America/Dawson_Creek:20260702T180000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5228@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nAllocated: 8.0h\nNote: MEETING POINT: V
  enue\n\nStandby - there will be something\n\nSound in Town - Sam Baker
@@ -47,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - JUL05 -TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Dawson_Creek:20260703T090000
 DTEND;TZID=America/Dawson_Creek:20260703T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2703@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: JUL05 -TNT Bodybuilding Edmonton 2026
  \nAllocated: 8.0h\nNote: EVENT: JUL05 -TNT Bodybuilding Edmonton 2026\nhtt
@@ -60,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUL05 -TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Dawson_Creek:20260704T070000
 DTEND;TZID=America/Dawson_Creek:20260704T190000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2700@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUL05 -TNT Bodybuilding Edmo
  nton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 -TNT Bodybuilding Edmonton 
@@ -73,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUL05 -TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Dawson_Creek:20260705T080000
 DTEND;TZID=America/Dawson_Creek:20260705T220000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2689@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUL05 -TNT Bodybuilding Edmo
  nton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 -TNT Bodybuilding Edmonton 
@@ -86,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - JUL05 -TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Dawson_Creek:20260706T090000
 DTEND;TZID=America/Dawson_Creek:20260706T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2705@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: JUL05 -TNT Bodybuilding Edmo
  nton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 -TNT Bodybuilding Edmonton 
@@ -100,7 +90,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - JUL09 City of FSJ - Music i
  n the Park
 DTSTART;TZID=America/Dawson_Creek:20260709T080000
 DTEND;TZID=America/Dawson_Creek:20260709T150000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5322@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: JUL09 City 
  of FSJ - Music in the Park\nAllocated: 7.0h\nNote: EVENT: JUL09 City of FS
@@ -112,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL09 City of FSJ - Music in the Park
 DTSTART;TZID=America/Dawson_Creek:20260709T090000
 DTEND;TZID=America/Dawson_Creek:20260709T210000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5230@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL09 City of FSJ - Music in the
   Park\nAllocated: 8.0h\nNote: EVENT: JUL09 City of FSJ - Music in the Park
@@ -126,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL10-12 Ribfest FSJ
 DTSTART;TZID=America/Dawson_Creek:20260710T090000
 DTEND;TZID=America/Dawson_Creek:20260710T210000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2434@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL10-12 Ribfest FSJ\nAllocated:
   8.0h\nNote: EVENT: JUL10-12 Ribfest FSJ\nhttps://www.soundintown.com/r/8p
@@ -139,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL10-12 Ribfest FSJ
 DTSTART;TZID=America/Dawson_Creek:20260711T090000
 DTEND;TZID=America/Dawson_Creek:20260711T210000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2436@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL10-12 Ribfest FSJ\nAllocated:
   8.0h\nNote: EVENT: JUL10-12 Ribfest FSJ\nhttps://www.soundintown.com/r/8p
@@ -150,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL10-12 Ribfest FSJ
 DTSTART;TZID=America/Dawson_Creek:20260712T090000
 DTEND;TZID=America/Dawson_Creek:20260712T210000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2437@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL10-12 Ribfest FSJ\nAllocated:
   8.0h\nNote: EVENT: JUL10-12 Ribfest FSJ\nhttps://www.soundintown.com/r/8p
@@ -162,7 +152,7 @@ SUMMARY:A1 - Audio Tech - JUL17-18 LaCrete Ferry Family Campground Music E
  vent
 DTSTART;TZID=America/Dawson_Creek:20260716T080000
 DTEND;TZID=America/Dawson_Creek:20260716T220000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2161@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL17-18 LaCrete Ferry Family Ca
  mpground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete Ferr
@@ -175,7 +165,7 @@ SUMMARY:A1 - Audio Tech - JUL17-18 LaCrete Ferry Family Campground Music E
  vent
 DTSTART;TZID=America/Dawson_Creek:20260717T080000
 DTEND;TZID=America/Dawson_Creek:20260717T220000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2159@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL17-18 LaCrete Ferry Family Ca
  mpground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete Ferr
@@ -188,7 +178,7 @@ SUMMARY:A1 - Audio Tech - JUL17-18 LaCrete Ferry Family Campground Music E
  vent
 DTSTART;TZID=America/Dawson_Creek:20260718T100000
 DTEND;TZID=America/Dawson_Creek:20260718T220000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2160@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL17-18 LaCrete Ferry Family Ca
  mpground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete Ferr
@@ -201,7 +191,7 @@ SUMMARY:A1 - Audio Tech - JUL17-18 LaCrete Ferry Family Campground Music E
  vent
 DTSTART;TZID=America/Dawson_Creek:20260719T080000
 DTEND;TZID=America/Dawson_Creek:20260719T160000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2731@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL17-18 LaCrete Ferry Family Ca
  mpground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete Ferr
@@ -213,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - JUL19 DIY Sound System
 DTSTART;TZID=America/Dawson_Creek:20260719T170000
 DTEND;TZID=America/Dawson_Creek:20260719T190000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5484@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: JUL19 DIY S
  ound System\nNote: EVENT: JUL19 DIY Sound System\nhttps://www.soundintown.
@@ -223,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL24-26 West Mo Days 2026
 DTSTART;TZID=America/Dawson_Creek:20260723T090000
 DTEND;TZID=America/Dawson_Creek:20260723T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2734@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL24-26 West Mo Days 2026\nAllo
  cated: 8.0h\nNote: Head out with Russ (you take SL100\, Russ takes HINO) s
@@ -233,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL24-26 West Mo Days 2026
 DTSTART;TZID=America/Dawson_Creek:20260724T090000
 DTEND;TZID=America/Dawson_Creek:20260724T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2735@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL24-26 West Mo Days 2026\nAllo
  cated: 8.0h\nNote: Setup - First use of stage etc (as of right now) is 730
@@ -243,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL24-26 West Mo Days 2026
 DTSTART;TZID=America/Dawson_Creek:20260725T090000
 DTEND;TZID=America/Dawson_Creek:20260725T210000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2736@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL24-26 West Mo Days 2026\nAllo
  cated: 8.0h\nNote: EVENT: JUL25-27 West Mo Days 2026\nhttps://www.soundint
@@ -254,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - JUL24-26 West Mo Days 2026
 DTSTART;TZID=America/Dawson_Creek:20260726T080000
 DTEND;TZID=America/Dawson_Creek:20260726T200000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5245@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: JUL24-26 West Mo Days 2026\nAllo
  cated: 8.0h\nNote: EVENT: JUL25-27 West Mo Days 2026\nhttps://www.soundint
@@ -264,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - AUG30 - SL 100 to Dales for CVIP
 DTSTART;TZID=America/Dawson_Creek:20260727T080000
 DTEND;TZID=America/Dawson_Creek:20260727T090000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5519@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: AUG30 - SL 100 to Dales for CVIP\nAllo
  cated: 1.0h\nNote: Drop SL100 off at Dales Automotive for CVIP\n\nSound in
@@ -274,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - AUG06 City of FSJ - Music in the Park
 DTSTART;TZID=America/Dawson_Creek:20260805T100000
 DTEND;TZID=America/Dawson_Creek:20260805T220000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5784@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: AUG06 City of FSJ - Music in the
   Park\nAllocated: 8.0h\n\nSound in Town - Sam Baker
@@ -285,7 +275,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - AUG06 City of FSJ - Music in the Pa
  rk
 DTSTART;TZID=America/Dawson_Creek:20260806T080000
 DTEND;TZID=America/Dawson_Creek:20260806T234500
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5234@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: AUG06 City of FSJ -
   Music in the Park\nAllocated: 8.8h\nNote: EVENT: AUG06 City of FSJ - Musi
@@ -297,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - AUG11 GAV MGMT - Service Call #TDC84103779
 DTSTART;TZID=America/Dawson_Creek:20260811T110000
 DTEND;TZID=America/Dawson_Creek:20260811T160000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5894@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: AUG11 GAV MGMT - Service Call #T
  DC84103779\nAllocated: 5.0h\nNote: Afternoon of the 11th. No set time give
@@ -309,7 +299,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - AUG14-16 Halfway River Rodeo Band E
  vent
 DTSTART;TZID=America/Dawson_Creek:20260814T090000
 DTEND;TZID=America/Dawson_Creek:20260814T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5512@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: AUG14-16 Halfway Ri
  ver Rodeo Band Event\nAllocated: 8.0h\nNote: Auto planned shift. May need 
@@ -320,7 +310,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - AUG14-16 Halfway River Rodeo Band E
  vent
 DTSTART;TZID=America/Dawson_Creek:20260815T170000
 DTEND;TZID=America/Dawson_Creek:20260815T235959
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5516@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: AUG14-16 Halfway Ri
  ver Rodeo Band Event\nAllocated: 1.0h\n\nSound in Town - Sam Baker
@@ -329,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260816T140000
 DTEND;TZID=America/Dawson_Creek:20260816T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5787@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: AUG21-22 Fr
  edfest 2026\nAllocated: 3.0h\nNote: Drop off stage at Fredfest at the end 
@@ -341,7 +331,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - AUG14-16 Halfway River Rodeo Band E
  vent
 DTSTART;TZID=America/Dawson_Creek:20260816T170000
 DTEND;TZID=America/Dawson_Creek:20260816T235959
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5517@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: AUG14-16 Halfway Ri
  ver Rodeo Band Event\nAllocated: 1.0h\n\nSound in Town - Sam Baker
@@ -350,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260819T090000
 DTEND;TZID=America/Dawson_Creek:20260819T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5237@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: AUG21-22 Fredfest 2026\nAlloca
  ted: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fest\n
@@ -362,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260820T090000
 DTEND;TZID=America/Dawson_Creek:20260820T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2762@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: AUG21-22 Fredfest 2026\nAlloca
  ted: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fest\n
@@ -374,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260821T090000
 DTEND;TZID=America/Dawson_Creek:20260821T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2749@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: AUG21-22 Fredfest 2026\nAlloca
  ted: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fest\n
@@ -386,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260822T090000
 DTEND;TZID=America/Dawson_Creek:20260822T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2758@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: AUG21-22 Fredfest 2026\nAlloca
  ted: 8.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fest\n
@@ -398,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260823T080000
 DTEND;TZID=America/Dawson_Creek:20260823T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5244@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 8.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Sam Baker
@@ -407,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - AUG27 - VJV Video Cattle Auction
 DTSTART;TZID=America/Dawson_Creek:20260825T080000
 DTEND;TZID=America/Dawson_Creek:20260825T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-6032@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: AUG27 - VJV Video Cattle Auction\nNote
  : Setup Stageline\n\nSound in Town - Sam Baker
@@ -416,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - AUG27 - VJV Video Cattle Auction
 DTSTART;TZID=America/Dawson_Creek:20260904T090000
 DTEND;TZID=America/Dawson_Creek:20260904T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-3390@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: AUG27 - VJV Video Cattle Auc
  tion\nAllocated: 8.0h\nNote: EVENT: SEP04 - VJV Video Cattle Auction\nhttp
@@ -428,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - SEP05 Tumbler Ridge Fall Fair - Bands
 DTSTART;TZID=America/Dawson_Creek:20260905T090000
 DTEND;TZID=America/Dawson_Creek:20260905T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-3436@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: SEP05 Tumbler Ridge Fall Fair - 
  Bands\nAllocated: 8.0h\nNote: EVENT: SEP05 Tumbler Ridge Fall Fair - Bands
@@ -443,7 +433,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - SEP05 Tumbler Ridge Fall Fa
  ir - Bands
 DTSTART;TZID=America/Dawson_Creek:20260906T090000
 DTEND;TZID=America/Dawson_Creek:20260906T140000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-3441@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: SEP05 Tumbl
  er Ridge Fall Fair - Bands\nAllocated: 5.0h\nNote: EVENT: SEP05 Tumbler Ri
@@ -457,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - SEP12 - Harvest Moon Festival
 DTSTART;TZID=America/Dawson_Creek:20260911T080000
 DTEND;TZID=America/Dawson_Creek:20260911T230000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5867@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: SEP12 - Harvest Moo
  n Festival\nAllocated: 8.0h\n\nSound in Town - Sam Baker
@@ -467,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - SEP12 - Harvest Moon Festival
 DTSTART;TZID=America/Dawson_Creek:20260912T080000
 DTEND;TZID=America/Dawson_Creek:20260912T230000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-6030@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: SEP12 - Harvest Moo
  n Festival\nAllocated: 8.0h\n\nSound in Town - Sam Baker
@@ -477,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - SEP12 - Harvest Moon Festival
 DTSTART;TZID=America/Dawson_Creek:20260913T080000
 DTEND;TZID=America/Dawson_Creek:20260913T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-6031@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: SEP12 - Harvest Moo
  n Festival\nAllocated: 8.0h\n\nSound in Town - Sam Baker
@@ -488,7 +478,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - SEP22-24 Saulteau - Healing
   The Land Conference AV
 DTSTART;TZID=America/Dawson_Creek:20260920T080000
 DTEND;TZID=America/Dawson_Creek:20260920T200000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-6026@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: SEP22-24 Sa
  ulteau - Healing The Land Conference AV\nAllocated: 8.0h\n\nSound in Town 
@@ -500,7 +490,7 @@ SUMMARY:A1 - Audio Tech - SEP22-24 Saulteau - Healing The Land Conference
  AV
 DTSTART;TZID=America/Dawson_Creek:20260922T090000
 DTEND;TZID=America/Dawson_Creek:20260922T200000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2793@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: SEP22-24 Saulteau - Healing The 
  Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Healing The Lan
@@ -514,7 +504,7 @@ SUMMARY:AV2 - AV Tech (Mid Level) - SEP22-24 Saulteau - Healing The Land C
  onference AV
 DTSTART;TZID=America/Dawson_Creek:20260923T090000
 DTEND;TZID=America/Dawson_Creek:20260923T170000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2783@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: SEP22-24 Saulteau - He
  aling The Land Conference AV\nAllocated: 8.0h\nNote: MEETING POINT: Venue
@@ -527,7 +517,7 @@ SUMMARY:AV2 - AV Tech (Mid Level) - SEP22-24 Saulteau - Healing The Land C
  onference AV
 DTSTART;TZID=America/Dawson_Creek:20260924T090000
 DTEND;TZID=America/Dawson_Creek:20260924T230000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-2784@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: SEP22-24 Saulteau - He
  aling The Land Conference AV\nAllocated: 8.0h\nNote: MEETING POINT: Venue
@@ -539,7 +529,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - OCT14-15 Fall NorthEast Sub-Regional
 DTSTART;TZID=America/Dawson_Creek:20261013T080000
 DTEND;TZID=America/Dawson_Creek:20261013T160000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-5794@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: OCT14-15 Fall NorthEast Sub-Regi
  onal\nAllocated: 8.0h\n\nSound in Town - Sam Baker
@@ -549,7 +539,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - SEP22-24 Saulteau - Healing The Lan
  d Conference AV
 DTSTART;TZID=America/Dawson_Creek:20261024T080000
 DTEND;TZID=America/Dawson_Creek:20261024T200000
-DTSTAMP:20260820T085457Z
+DTSTAMP:20260820T130943Z
 UID:planning-slot-6028@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: SEP22-24 Saulteau -
   Healing The Land Conference AV\nAllocated: 8.0h\n\nSound in Town - Sam Ba
