@@ -18,7 +18,7 @@ SUMMARY:AV2 - AV Tech (Mid Level) - JUL03 Chetwynd Celebration of Life Ser
  vice
 DTSTART;TZID=America/Dawson_Creek:20260703T110000
 DTEND;TZID=America/Dawson_Creek:20260703T183000
-DTSTAMP:20260823T164155Z
+DTSTAMP:20260823T203707Z
 UID:planning-slot-5205@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: JUL03 Chetwynd Celebra
  tion of Life Service\nAllocated: 7.5h\nNote: EVENT: JUL03 Chetwynd Funeral
@@ -28,5 +28,19 @@ DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: JUL03 Chetwynd Celebra
   everything tested and happy no later than 1:30pm.\nStrike and return gear
   in van to FSJ afterwards.\n\nSound in Town - Amy Seebaran
 LOCATION:Chetwynd Rodeo Grounds (The Pine Valley Exhibition Park)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PB1 - Onsite Photo booth Tech - AUG21-23 - Oilmans Family Weekend 
+ 2026
+DTSTART;TZID=America/Dawson_Creek:20260822T170000
+DTEND;TZID=America/Dawson_Creek:20260822T220000
+DTSTAMP:20260823T203707Z
+UID:planning-slot-3471@soundintown.com
+DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: AUG21-23 - Oilmans
+  Family Weekend 2026\nNote: EVENT: AUG21-23 - Oilmans Family\nhttps://www.
+ soundintown.com/r/sv4\nMEETING POINT: Peace Island Park\n\nAuto planned sh
+ ift. May need to be adjusted by planning.\nhttps://www.soundintown.com/mod
+ el/showbook/aug21-23-oilmans-family-1287\n\nSound in Town - Amy Seebaran
+LOCATION:Peace Island Park
 END:VEVENT
 END:VCALENDAR
