@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260823T090000
 DTEND;TZID=America/Dawson_Creek:20260823T170000
-DTSTAMP:20260826T165808Z
+DTSTAMP:20260826T233025Z
 UID:planning-slot-5843@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: AUG21-22 Fr
  edfest 2026\nAllocated: 8.0h\nNote: Start at Fredfest grounds\n\nSound in 
