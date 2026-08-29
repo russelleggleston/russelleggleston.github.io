@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - JUL01 - City FSJ Canada Day Celebration
 DTSTART;TZID=America/Dawson_Creek:20260701T080000
 DTEND;TZID=America/Dawson_Creek:20260701T170000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-2193@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL01 - City FSJ Canada Day Ce
  lebration\nAllocated: 8.0h\nNote: EVENT: JUL01 - City FSJ Canada Day Celeb
@@ -29,7 +29,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - JUL03 - Dean's Birthday Par
  ty
 DTSTART;TZID=America/Dawson_Creek:20260703T100000
 DTEND;TZID=America/Dawson_Creek:20260703T130059
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5163@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: JUL03 - Dea
  n's Birthday Party\nAllocated: 3.0h\nNote: EVENT: JUL03 - Dean's Birthday 
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - JUL03 - Dean's Birthday Party
 DTSTART;TZID=America/Dawson_Creek:20260703T133000
 DTEND;TZID=America/Dawson_Creek:20260704T010059
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5165@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL03 - Dean's Birthday Party
  \nAllocated: 9.0h\nNote: EVENT: JUL03 - Dean's Birthday Party\nhttps://www
@@ -53,7 +53,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - JUL03 - Dean's Birthday Par
  ty
 DTSTART;TZID=America/Dawson_Creek:20260704T110000
 DTEND;TZID=America/Dawson_Creek:20260704T180059
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5168@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: JUL03 - Dea
  n's Birthday Party\nAllocated: 7.0h\nNote: EVENT: JUL03 - Dean's Birthday 
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUL03 - Dean's Birthday Party
 DTSTART;TZID=America/Dawson_Creek:20260706T090000
 DTEND;TZID=America/Dawson_Creek:20260706T170000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5280@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL03 - Dean's Birth
  day Party\nAllocated: 8.0h\nNote: EVENT: JUL03 - Dean's Birthday Party\nht
@@ -76,7 +76,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUL05 -TNT Bodybuilding Edmonton 202
  6
 DTSTART;TZID=America/Dawson_Creek:20260707T090000
 DTEND;TZID=America/Dawson_Creek:20260707T120000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5306@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL05 -TNT Bodybuild
  ing Edmonton 2026\nAllocated: 3.0h\nNote: EVENT: JUL05 -TNT Bodybuilding E
@@ -89,7 +89,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - JUL09-12 Saulteau First Nations Pemm
  ican Days
 DTSTART;TZID=America/Dawson_Creek:20260707T090000
 DTEND;TZID=America/Dawson_Creek:20260707T160000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5281@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL09-12 Saulteau Fi
  rst Nations Pemmican Days\nAllocated: 7.0h\nNote: EVENT: JUL09-12 Saulteau
@@ -102,7 +102,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL06 Wedding @Charlie Lake
   Hall DIY Rental
 DTSTART;TZID=America/Dawson_Creek:20260707T100000
 DTEND;TZID=America/Dawson_Creek:20260707T120000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5308@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL06 Weddi
  ng @Charlie Lake Hall DIY Rental\nAllocated: 2.0h\nNote: EVENT: JUL06 Wedd
@@ -116,7 +116,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL09 City of FSJ - Music i
  n the Park
 DTSTART;TZID=America/Dawson_Creek:20260709T093000
 DTEND;TZID=America/Dawson_Creek:20260709T170000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5324@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL09 City 
  of FSJ - Music in the Park\nAllocated: 7.5h\nNote: EVENT: JUL09 City of FS
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - JUL09 City of FSJ - Music in the Park
 DTSTART;TZID=America/Dawson_Creek:20260709T120000
 DTEND;TZID=America/Dawson_Creek:20260709T200000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5229@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL09 City of FSJ - Music in t
  he Park\nAllocated: 8.0h\nNote: EVENT: JUL09 City of FSJ - Music in the Pa
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - JUL10-12 Ribfest FSJ
 DTSTART;TZID=America/Dawson_Creek:20260710T090000
 DTEND;TZID=America/Dawson_Creek:20260710T170000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-2764@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL10-12 Ribfest FSJ\nAllocate
  d: 8.0h\nNote: EVENT: JUL10-12 Ribfest FSJ\nhttps://www.soundintown.com/r/
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL11 - Family Poker Rally
 DTSTART;TZID=America/Dawson_Creek:20260710T100000
 DTEND;TZID=America/Dawson_Creek:20260710T160000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5332@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL11 - Fam
  ily Poker Rally\nAllocated: 6.0h\nNote: EVENT: JUL11 - Family Poker Rally
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - JUL11 - Family Poker Rally
 DTSTART;TZID=America/Dawson_Creek:20260711T140000
 DTEND;TZID=America/Dawson_Creek:20260712T020000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5333@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL11 - Family Poker Rally\nAl
  located: 10.0h\nNote: EVENT: JUL11 - Family Poker Rally\nMEETING POINT: Pe
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL10-12 Ribfest FSJ
 DTSTART;TZID=America/Dawson_Creek:20260712T150000
 DTEND;TZID=America/Dawson_Creek:20260712T230000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-2765@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL10-12 Ri
  bfest FSJ\nAllocated: 8.0h\nNote: EVENT: JUL10-12 Ribfest FSJ\nhttps://www
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - JUL10-12 Ribfest FSJ
 DTSTART;TZID=America/Dawson_Creek:20260713T103000
 DTEND;TZID=America/Dawson_Creek:20260713T170000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-2431@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL10-12 Ribfest FSJ
  \nAllocated: 6.5h\nNote: EVENT: JUL10-12 Ribfest FSJ\nhttps://www.soundint
@@ -200,7 +200,7 @@ SUMMARY:WH4 - Warehouse Helper - JUL17-18 LaCrete Ferry Family Campground
  Music Event
 DTSTART;TZID=America/Dawson_Creek:20260715T090000
 DTEND;TZID=America/Dawson_Creek:20260715T170000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5269@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: JUL17-18 LaCrete Ferry Fa
  mily Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Cre
@@ -213,7 +213,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 LaCrete Ferry Family Campground Music
   Event
 DTSTART;TZID=America/Dawson_Creek:20260716T100000
 DTEND;TZID=America/Dawson_Creek:20260716T220000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-2720@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 LaCrete Ferry Family 
  Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete Fe
@@ -227,7 +227,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 LaCrete Ferry Family Campground Music
   Event
 DTSTART;TZID=America/Dawson_Creek:20260717T090000
 DTEND;TZID=America/Dawson_Creek:20260717T220000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-2719@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 LaCrete Ferry Family 
  Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete Fe
@@ -241,7 +241,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 LaCrete Ferry Family Campground Music
   Event
 DTSTART;TZID=America/Dawson_Creek:20260718T110000
 DTEND;TZID=America/Dawson_Creek:20260718T223000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-2721@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 LaCrete Ferry Family 
  Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete Fe
@@ -255,7 +255,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 LaCrete Ferry Family Campground Music
   Event
 DTSTART;TZID=America/Dawson_Creek:20260719T080000
 DTEND;TZID=America/Dawson_Creek:20260719T160000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-3456@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 LaCrete Ferry Family 
  Campground Music Event\nNote: EVENT: JUL17-18 La Crete Ferry Family Campgr
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper
 DTSTART;TZID=America/Dawson_Creek:20260804T093000
 DTEND;TZID=America/Dawson_Creek:20260804T160000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5880@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nAllocated: 9.3h\n\nSound in Tow
  n - Keegan Lynch
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - AUG06 City of FSJ - Music in the Park
 DTSTART;TZID=America/Dawson_Creek:20260806T120000
 DTEND;TZID=America/Dawson_Creek:20260806T155959
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5235@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: AUG06 City of FSJ - Music in t
  he Park\nAllocated: 4.0h\nNote: EVENT: AUG06 City of FSJ - Music in the Pa
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - AUG06 City of FSJ - Music in the Park
 DTSTART;TZID=America/Dawson_Creek:20260806T203000
 DTEND;TZID=America/Dawson_Creek:20260807T000000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5881@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: AUG06 City of FSJ - Musi
  c in the Park\nNote: EVENT: AUG06 City of FSJ - Music in the Park\nhttps:/
@@ -300,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260807T100000
 DTEND;TZID=America/Dawson_Creek:20260807T160000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5842@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 6.0h\n\nSound in Town
   - Keegan Lynch
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260810T100000
 DTEND;TZID=America/Dawson_Creek:20260810T160000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5884@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 6.0h\n\nSound in Town
   - Keegan Lynch
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260811T100000
 DTEND;TZID=America/Dawson_Creek:20260811T160000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5885@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 6.0h\n\nSound in Town
   - Keegan Lynch
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260812T100000
 DTEND;TZID=America/Dawson_Creek:20260812T160000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5886@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 6.0h\n\nSound in Town
   - Keegan Lynch
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260813T100000
 DTEND;TZID=America/Dawson_Creek:20260813T160000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5887@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 6.0h\n\nSound in Town
   - Keegan Lynch
@@ -345,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260814T100000
 DTEND;TZID=America/Dawson_Creek:20260814T160000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5888@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 6.0h\n\nSound in Town
   - Keegan Lynch
@@ -354,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260818T103000
 DTEND;TZID=America/Dawson_Creek:20260818T180000
-DTSTAMP:20260828T221706Z
+DTSTAMP:20260829T070223Z
 UID:planning-slot-5839@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: AUG21-22 Fredfest 2026\n
  Allocated: 7.5h\n\nSound in Town - Keegan Lynch
