@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260819T080000
 DTEND;TZID=America/Dawson_Creek:20260819T170000
-DTSTAMP:20260829T223924Z
+DTSTAMP:20260830T052141Z
 UID:planning-slot-5975@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: AUG21-22 Fr
  edfest 2026\n\nSound in Town - Derek Wilder
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260820T080000
 DTEND;TZID=America/Dawson_Creek:20260820T170000
-DTSTAMP:20260829T223924Z
+DTSTAMP:20260830T052141Z
 UID:planning-slot-5976@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: AUG21-22 Fr
  edfest 2026\n\nSound in Town - Derek Wilder
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260821T080000
 DTEND;TZID=America/Dawson_Creek:20260821T170000
-DTSTAMP:20260829T223924Z
+DTSTAMP:20260830T052141Z
 UID:planning-slot-5977@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: AUG21-22 Fr
  edfest 2026\n\nSound in Town - Derek Wilder
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260822T100000
 DTEND;TZID=America/Dawson_Creek:20260822T220000
-DTSTAMP:20260829T223924Z
+DTSTAMP:20260830T052141Z
 UID:planning-slot-5978@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: AUG21-22 Fredfest 2026\n\nSoun
  d in Town - Derek Wilder
