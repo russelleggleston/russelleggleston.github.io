@@ -14,27 +14,11 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:AV2 - AV Tech (Mid Level) - JUL03 Chetwynd Celebration of Life Ser
- vice
-DTSTART;TZID=America/Dawson_Creek:20260703T110000
-DTEND;TZID=America/Dawson_Creek:20260703T183000
-DTSTAMP:20260901T132846Z
-UID:planning-slot-5205@soundintown.com
-DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: JUL03 Chetwynd Celebra
- tion of Life Service\nAllocated: 7.5h\nNote: EVENT: JUL03 Chetwynd Funeral
-  Service\nhttps://www.soundintown.com/r/4bi\nMEETING POINT: Chetwynd Rodeo
-  Grounds\n\nBe in FSJ no later than 11am to pick up van (which one TBD). D
- rive to Chetwynd Horse Barn. \nCelebration of Life begins at 2:30pm - have
-  everything tested and happy no later than 1:30pm.\nStrike and return gear
-  in van to FSJ afterwards.\n\nSound in Town - Amy Seebaran
-LOCATION:Chetwynd Rodeo Grounds (The Pine Valley Exhibition Park)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PB1 - Onsite Photo booth Tech - AUG21-23 - Oilmans Family Weekend 
  2026
 DTSTART;TZID=America/Dawson_Creek:20260822T170000
 DTEND;TZID=America/Dawson_Creek:20260822T220000
-DTSTAMP:20260901T132846Z
+DTSTAMP:20260901T192240Z
 UID:planning-slot-3471@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: AUG21-23 - Oilmans
   Family Weekend 2026\nNote: EVENT: AUG21-23 - Oilmans Family\nhttps://www.
