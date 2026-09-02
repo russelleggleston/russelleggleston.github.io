@@ -15,21 +15,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUL05 -TNT Bodybuilding Edmonton 2026
-DTSTART;TZID=America/Dawson_Creek:20260704T070000
-DTEND;TZID=America/Dawson_Creek:20260704T190000
-DTSTAMP:20260902T124516Z
-UID:planning-slot-2691@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 -TNT Bodybuilding 
- Edmonton 2026\nAllocated: 8.0h\nNote: EVENT: JUL05 -TNT Bodybuilding Edmon
- ton 2026\nhttps://www.soundintown.com/r/Ofn\nMEETING POINT: DoubleTree Wes
- t Edmonton\n\nTIMES TBD\n\nSound in Town - Joey Graves
-LOCATION:DoubleTree West Edmonton
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - JUL05 -TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Dawson_Creek:20260705T180000
 DTEND;TZID=America/Dawson_Creek:20260706T000000
-DTSTAMP:20260902T124516Z
+DTSTAMP:20260902T192240Z
 UID:planning-slot-4472@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 -TNT Bodybuilding 
  Edmonton 2026\nAllocated: 1.0h\nNote: EVENT: JUL05 -TNT Bodybuilding Edmon

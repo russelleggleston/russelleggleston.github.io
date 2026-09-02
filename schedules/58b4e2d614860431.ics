@@ -15,21 +15,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - JUL05 -TNT Bodybuilding Edmonton 2026
-DTSTART;TZID=America/Dawson_Creek:20260704T070000
-DTEND;TZID=America/Dawson_Creek:20260704T190000
-DTSTAMP:20260902T124514Z
-UID:planning-slot-2690@soundintown.com
-DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 -TNT Bodybuilding 
- Edmonton 2026\nAllocated: 2.0h\nNote: EVENT: JUL05 -TNT Bodybuilding Edmon
- ton 2026\nhttps://www.soundintown.com/r/Ofn\nMEETING POINT: DoubleTree Wes
- t Edmonton\n\n\n\nSound in Town - Helge Lipphardt
-LOCATION:DoubleTree West Edmonton
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SET/STR4 - Event Helper - JUL05 -TNT Bodybuilding Edmonton 2026
 DTSTART;TZID=America/Dawson_Creek:20260705T180000
 DTEND;TZID=America/Dawson_Creek:20260706T000000
-DTSTAMP:20260902T124514Z
+DTSTAMP:20260902T192238Z
 UID:planning-slot-2695@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: JUL05 -TNT Bodybuilding 
  Edmonton 2026\nAllocated: 1.0h\nNote: EVENT: JUL05 -TNT Bodybuilding Edmon
