@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - JUL20-24 BFN Pink Mountain Culture Camp
 DTSTART;TZID=America/Dawson_Creek:20260720T090000
 DTEND;TZID=America/Dawson_Creek:20260720T210000
-DTSTAMP:20260904T222027Z
+DTSTAMP:20260905T042412Z
 UID:planning-slot-4311@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL20-24 BFN Pink Mountain Cul
  ture Camp\nAllocated: 8.0h\nNote: EVENT: JUL20-24 BFN Pink Mountain Cultur
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - JUL20-24 BFN Pink Mountain Culture Camp
 DTSTART;TZID=America/Dawson_Creek:20260721T090000
 DTEND;TZID=America/Dawson_Creek:20260721T210000
-DTSTAMP:20260904T222027Z
+DTSTAMP:20260905T042412Z
 UID:planning-slot-5525@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL20-24 BFN Pink Mountain Cul
  ture Camp\nAllocated: 8.0h\nNote: EVENT: JUL20-24 BFN Pink Mountain Cultur
@@ -40,7 +40,7 @@ SUMMARY:SET/STR4 - Event Helper - AUG22 - Conuma 10 Year Anniversary Party
   & BBQs (1 of 2)
 DTSTART;TZID=America/Dawson_Creek:20260821T090000
 DTEND;TZID=America/Dawson_Creek:20260821T235959
-DTSTAMP:20260904T222027Z
+DTSTAMP:20260905T042412Z
 UID:planning-slot-4415@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: AUG22 - Conuma 10 Year A
  nniversary Party & BBQs (1 of 2)\nAllocated: 8.0h\nNote: EVENT: AUG22 - Co
@@ -54,7 +54,7 @@ SUMMARY:AV2 - AV Tech (Mid Level) - AUG22 - Conuma 10 Year Anniversary Par
  ty & BBQs (1 of 2)
 DTSTART;TZID=America/Dawson_Creek:20260822T090000
 DTEND;TZID=America/Dawson_Creek:20260822T170000
-DTSTAMP:20260904T222027Z
+DTSTAMP:20260905T042412Z
 UID:planning-slot-5774@soundintown.com
 DESCRIPTION:Role: AV2 - AV Tech (Mid Level)\nEvent: AUG22 - Conuma 10 Year
   Anniversary Party & BBQs (1 of 2)\nAllocated: 8.0h\n\nSound in Town - Jam
@@ -66,7 +66,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - AUG22 - Conuma 10 Year Anni
  versary Party & BBQs (1 of 2)
 DTSTART;TZID=America/Dawson_Creek:20260823T130000
 DTEND;TZID=America/Dawson_Creek:20260823T170000
-DTSTAMP:20260904T222027Z
+DTSTAMP:20260905T042412Z
 UID:planning-slot-6033@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: AUG22 - Con
  uma 10 Year Anniversary Party & BBQs (1 of 2)\nAllocated: 4.0h\n\nSound in
@@ -78,7 +78,7 @@ SUMMARY:SET/STR4 - Event Helper - AUG29 - Conuma 10 Year Anniversary Party
   & BBQs (2 of 2)
 DTSTART;TZID=America/Dawson_Creek:20260829T090000
 DTEND;TZID=America/Dawson_Creek:20260829T233059
-DTSTAMP:20260904T222027Z
+DTSTAMP:20260905T042412Z
 UID:planning-slot-4416@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: AUG29 - Conuma 10 Year A
  nniversary Party & BBQs (2 of 2)\nAllocated: 8.0h\nNote: EVENT: AUG29 - Co
@@ -91,7 +91,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - SEP12 - Evangel Tumbler Ridge Band
  Production
 DTSTART;TZID=America/Dawson_Creek:20260912T090000
 DTEND;TZID=America/Dawson_Creek:20260912T234500
-DTSTAMP:20260904T222027Z
+DTSTAMP:20260905T042412Z
 UID:planning-slot-6008@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: SEP12 - Evangel Tum
  bler Ridge Band Production\nAllocated: 8.0h\nNote: Timing will change\n\nS
@@ -103,7 +103,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - SEP22-24 Saulteau - Healin
  g The Land Conference AV
 DTSTART;TZID=America/Dawson_Creek:20260921T090000
 DTEND;TZID=America/Dawson_Creek:20260921T170000
-DTSTAMP:20260904T222027Z
+DTSTAMP:20260905T042412Z
 UID:planning-slot-2800@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: SEP22-24 S
  aulteau - Healing The Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SE
@@ -117,7 +117,7 @@ SUMMARY:CO - Camera Operator - SEP22-24 Saulteau - Healing The Land Confer
  ence AV
 DTSTART;TZID=America/Dawson_Creek:20260922T090000
 DTEND;TZID=America/Dawson_Creek:20260922T170000
-DTSTAMP:20260904T222027Z
+DTSTAMP:20260905T042412Z
 UID:planning-slot-2795@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: SEP22-24 Saulteau - Healing
   The Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Saulteau -
@@ -131,7 +131,7 @@ SUMMARY:CO - Camera Operator - SEP22-24 Saulteau - Healing The Land Confer
  ence AV
 DTSTART;TZID=America/Dawson_Creek:20260923T090000
 DTEND;TZID=America/Dawson_Creek:20260923T170000
-DTSTAMP:20260904T222027Z
+DTSTAMP:20260905T042412Z
 UID:planning-slot-2798@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: SEP22-24 Saulteau - Healing
   The Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Saulteau -
@@ -145,7 +145,7 @@ SUMMARY:CO - Camera Operator - SEP22-24 Saulteau - Healing The Land Confer
  ence AV
 DTSTART;TZID=America/Dawson_Creek:20260924T090000
 DTEND;TZID=America/Dawson_Creek:20260924T170000
-DTSTAMP:20260904T222027Z
+DTSTAMP:20260905T042412Z
 UID:planning-slot-2799@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: SEP22-24 Saulteau - Healing
   The Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Saulteau -
@@ -159,7 +159,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - SEP22-24 Saulteau - Healin
  g The Land Conference AV
 DTSTART;TZID=America/Dawson_Creek:20260925T090000
 DTEND;TZID=America/Dawson_Creek:20260925T170000
-DTSTAMP:20260904T222027Z
+DTSTAMP:20260905T042412Z
 UID:planning-slot-2801@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: SEP22-24 S
  aulteau - Healing The Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SE
