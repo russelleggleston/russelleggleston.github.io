@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260715T080000
 DTEND;TZID=America/Dawson_Creek:20260715T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5174@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260716T080000
 DTEND;TZID=America/Dawson_Creek:20260716T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5491@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260717T080000
 DTEND;TZID=America/Dawson_Creek:20260717T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5492@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 7.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260718T080000
 DTEND;TZID=America/Dawson_Creek:20260718T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5493@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -55,7 +55,7 @@ SUMMARY:PB1 - Onsite Photo booth Tech - JUL18 2026 Hannah & Brandon Weddin
  g Photobooth
 DTSTART;TZID=America/Dawson_Creek:20260718T150000
 DTEND;TZID=America/Dawson_Creek:20260719T010000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5289@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: JUL18 2026 Hannah 
  & Brandon Wedding Photobooth\nNote: MEETING POINT: Venue\n\nGo out to even
@@ -68,7 +68,7 @@ SUMMARY:PB1 - Onsite Photo booth Tech - JUL18 Christine's Wedding @ Charli
  e Lake Hall
 DTSTART;TZID=America/Dawson_Creek:20260718T170000
 DTEND;TZID=America/Dawson_Creek:20260719T010059
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5482@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: JUL18 Christine's 
  Wedding @ Charlie Lake Hall\nNote: EVENT: JUL18 Christine's Wedding @ Char
@@ -81,7 +81,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL18 2026 Hannah & Brandon
   Wedding Photobooth
 DTSTART;TZID=America/Dawson_Creek:20260719T090000
 DTEND;TZID=America/Dawson_Creek:20260719T120059
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5544@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL18 2026 
  Hannah & Brandon Wedding Photobooth\nNote: Must be cleared out by noon. \n
@@ -93,7 +93,7 @@ SUMMARY:PB1 - Onsite Photo booth Tech - JUL18 Christine's Wedding @ Charli
  e Lake Hall
 DTSTART;TZID=America/Dawson_Creek:20260719T090000
 DTEND;TZID=America/Dawson_Creek:20260719T114500
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5292@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: JUL18 Christine's 
  Wedding @ Charlie Lake Hall\nNote: EVENT: JUL18 Christine's Wedding @ Char
@@ -107,7 +107,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL20-24 BFN Pink Mountain
  Culture Camp
 DTSTART;TZID=America/Dawson_Creek:20260722T080000
 DTEND;TZID=America/Dawson_Creek:20260722T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5175@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL20-24 BF
  N Pink Mountain Culture Camp\nNote: Take Cube Van to location for Fridays 
@@ -119,7 +119,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL20-24 BFN Pink Mountain
  Culture Camp
 DTSTART;TZID=America/Dawson_Creek:20260723T080000
 DTEND;TZID=America/Dawson_Creek:20260723T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5176@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL20-24 BF
  N Pink Mountain Culture Camp\nNote: MEETING POINT: Venue\n\nHours may chan
@@ -130,7 +130,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL20-24 BFN Pink Mountain
  Culture Camp
 DTSTART;TZID=America/Dawson_Creek:20260724T080000
 DTEND;TZID=America/Dawson_Creek:20260724T150000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5177@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL20-24 BF
  N Pink Mountain Culture Camp\nAllocated: 7.0h\nNote: Start striking as soo
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260725T080000
 DTEND;TZID=America/Dawson_Creek:20260725T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5178@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - JUL24-26 West Mo Days 2026
 DTSTART;TZID=America/Dawson_Creek:20260726T080000
 DTEND;TZID=America/Dawson_Creek:20260726T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5179@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: JUL24-26 We
  st Mo Days 2026\nNote: Help strike Stageline with Sam and head back to GP 
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260729T080000
 DTEND;TZID=America/Dawson_Creek:20260729T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5180@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - AUG02 Eli & Chezz's Wedding
 DTSTART;TZID=America/Dawson_Creek:20260729T153000
 DTEND;TZID=America/Dawson_Creek:20260729T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5799@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: AUG02 Eli & Chezz's Wedding\n\nSound i
  n Town - Matt Currie
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - AUG02 Eli & Chezz's Wedding
 DTSTART;TZID=America/Dawson_Creek:20260730T080000
 DTEND;TZID=America/Dawson_Creek:20260730T160000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5802@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: AUG02 Eli &
   Chezz's Wedding\n\nSound in Town - Matt Currie
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260730T080000
 DTEND;TZID=America/Dawson_Creek:20260730T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5181@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -200,7 +200,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - AUG01 Bryce & Tyler Wedding
   - White P&D
 DTSTART;TZID=America/Dawson_Creek:20260730T090000
 DTEND;TZID=America/Dawson_Creek:20260730T120000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5817@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: AUG01 Bryce
   & Tyler Wedding - White P&D\n\nSound in Town - Matt Currie
@@ -210,7 +210,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - AUG06 City of FSJ - Music i
  n the Park
 DTSTART;TZID=America/Dawson_Creek:20260805T103000
 DTEND;TZID=America/Dawson_Creek:20260805T233000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5182@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: AUG06 City 
  of FSJ - Music in the Park\nNote: Meet at Spa\n\nSound in Town - Matt Curr
@@ -221,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260806T080000
 DTEND;TZID=America/Dawson_Creek:20260806T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5183@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260807T080000
 DTEND;TZID=America/Dawson_Creek:20260807T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5184@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 7.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260808T080000
 DTEND;TZID=America/Dawson_Creek:20260808T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5185@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260809T080000
 DTEND;TZID=America/Dawson_Creek:20260809T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5187@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260812T080000
 DTEND;TZID=America/Dawson_Creek:20260812T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5186@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -268,7 +268,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - AUG13 - Halfway River Rodeo
   Gala
 DTSTART;TZID=America/Dawson_Creek:20260813T080000
 DTEND;TZID=America/Dawson_Creek:20260813T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5188@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: AUG13 - Hal
  fway River Rodeo Gala\nNote: MEETING POINT: Venue\n\nHours may change\n\nS
@@ -280,7 +280,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - AUG14-16 Halfway River Rode
  o Band Event
 DTSTART;TZID=America/Dawson_Creek:20260814T080000
 DTEND;TZID=America/Dawson_Creek:20260814T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5189@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: AUG14-16 Ha
  lfway River Rodeo Band Event\nAllocated: 7.0h\nNote: MEETING POINT: Venue
@@ -291,7 +291,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - AUG14-16 Halfway River Rode
  o Band Event
 DTSTART;TZID=America/Dawson_Creek:20260815T080000
 DTEND;TZID=America/Dawson_Creek:20260815T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5190@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: AUG14-16 Ha
  lfway River Rodeo Band Event\nNote: MEETING POINT: Venue\n\nHours may chan
@@ -302,7 +302,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - AUG14-16 Halfway River Rode
  o Band Event
 DTSTART;TZID=America/Dawson_Creek:20260816T080000
 DTEND;TZID=America/Dawson_Creek:20260816T160000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-6007@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: AUG14-16 Ha
  lfway River Rodeo Band Event\n\nSound in Town - Matt Currie
@@ -312,7 +312,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - AUG14-16 Halfway River Rode
  o Band Event
 DTSTART;TZID=America/Dawson_Creek:20260816T080000
 DTEND;TZID=America/Dawson_Creek:20260816T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5191@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: AUG14-16 Ha
  lfway River Rodeo Band Event\nNote: MEETING POINT: Venue\n\nHours may chan
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260819T080000
 DTEND;TZID=America/Dawson_Creek:20260819T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5192@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260820T090000
 DTEND;TZID=America/Dawson_Creek:20260820T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-2760@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nNot
  e: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fest\n\nAuto planned
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260821T090000
 DTEND;TZID=America/Dawson_Creek:20260821T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-2750@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 6.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fes
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260822T090000
 DTEND;TZID=America/Dawson_Creek:20260822T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-2759@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nNot
  e: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fest\n\nAuto planned
@@ -367,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260823T080000
 DTEND;TZID=America/Dawson_Creek:20260823T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5193@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260827T080000
 DTEND;TZID=America/Dawson_Creek:20260827T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5195@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260828T080000
 DTEND;TZID=America/Dawson_Creek:20260828T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5196@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 7.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -396,7 +396,7 @@ SUMMARY:L1 - Lighting Engineer - AUG29 - Conuma 10 Year Anniversary Party
  & BBQs (2 of 2)
 DTSTART;TZID=America/Dawson_Creek:20260829T093000
 DTEND;TZID=America/Dawson_Creek:20260829T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5197@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: AUG29 - Conuma 10 Year An
  niversary Party & BBQs (2 of 2)\nNote: MEETING POINT: Venue\n\nHours may c
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260902T080000
 DTEND;TZID=America/Dawson_Creek:20260902T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5198@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -416,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260903T080000
 DTEND;TZID=America/Dawson_Creek:20260903T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5199@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - AUG27 - VJV Video Cattle Auction
 DTSTART;TZID=America/Dawson_Creek:20260904T090000
 DTEND;TZID=America/Dawson_Creek:20260904T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-3389@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: AUG27 - VJV Video Cattle Auction
  \nAllocated: 6.0h\nNote: EVENT: SEP04 - VJV Video Cattle Auction\nhttps://
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260905T080000
 DTEND;TZID=America/Dawson_Creek:20260905T170000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-5200@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -447,7 +447,7 @@ SUMMARY:L1 - Lighting Engineer - SEP19 Pomeroy GP 50th Stompede Anniversar
  y (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20260919T100000
 DTEND;TZID=America/Dawson_Creek:20260919T160000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-6176@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: SEP19 Pomeroy GP 50th Sto
  mpede Anniversary (CUSTOM)\nAllocated: 5.0h\n\nSound in Town - Matt Currie
@@ -459,7 +459,7 @@ SUMMARY:L1 - Lighting Engineer - SEP19 Pomeroy GP 50th Stompede Anniversar
  y (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20260920T070000
 DTEND;TZID=America/Dawson_Creek:20260920T090000
-DTSTAMP:20260910T190648Z
+DTSTAMP:20260910T223415Z
 UID:planning-slot-6177@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: SEP19 Pomeroy GP 50th Sto
  mpede Anniversary (CUSTOM)\nAllocated: 2.0h\n\nSound in Town - Matt Currie
