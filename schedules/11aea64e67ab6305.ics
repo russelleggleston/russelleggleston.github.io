@@ -14,23 +14,11 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:WH2 - Warehouse Junior Tech - JUL10-12 Ribfest FSJ
-DTSTART;TZID=America/Dawson_Creek:20260713T103000
-DTEND;TZID=America/Dawson_Creek:20260713T170000
-DTSTAMP:20260911T124833Z
-UID:planning-slot-2431@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: JUL10-12 Ribfest FSJ
- \nAllocated: 6.5h\nNote: EVENT: JUL10-12 Ribfest FSJ\nhttps://www.soundint
- own.com/r/8ps\nMEETING POINT: Sound In Town Warehouse\n\n\n\nSound in Town
-  - Keegan Lynch
-LOCATION:Centennial Park
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper - JUL17-18 LaCrete Ferry Family Campground 
  Music Event
 DTSTART;TZID=America/Dawson_Creek:20260715T090000
 DTEND;TZID=America/Dawson_Creek:20260715T170000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-5269@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: JUL17-18 LaCrete Ferry Fa
  mily Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Cre
@@ -43,7 +31,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 LaCrete Ferry Family Campground Music
   Event
 DTSTART;TZID=America/Dawson_Creek:20260716T100000
 DTEND;TZID=America/Dawson_Creek:20260716T220000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-2720@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 LaCrete Ferry Family 
  Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete Fe
@@ -57,7 +45,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 LaCrete Ferry Family Campground Music
   Event
 DTSTART;TZID=America/Dawson_Creek:20260717T090000
 DTEND;TZID=America/Dawson_Creek:20260717T220000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-2719@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 LaCrete Ferry Family 
  Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete Fe
@@ -71,7 +59,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 LaCrete Ferry Family Campground Music
   Event
 DTSTART;TZID=America/Dawson_Creek:20260718T110000
 DTEND;TZID=America/Dawson_Creek:20260718T223000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-2721@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 LaCrete Ferry Family 
  Campground Music Event\nAllocated: 8.0h\nNote: EVENT: JUL17-18 La Crete Fe
@@ -85,7 +73,7 @@ SUMMARY:A2 - Audio Assist - JUL17-18 LaCrete Ferry Family Campground Music
   Event
 DTSTART;TZID=America/Dawson_Creek:20260719T080000
 DTEND;TZID=America/Dawson_Creek:20260719T160000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-3456@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: JUL17-18 LaCrete Ferry Family 
  Campground Music Event\nNote: EVENT: JUL17-18 La Crete Ferry Family Campgr
@@ -97,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper
 DTSTART;TZID=America/Dawson_Creek:20260804T093000
 DTEND;TZID=America/Dawson_Creek:20260804T160000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-5880@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nAllocated: 9.3h\n\nSound in Tow
  n - Keegan Lynch
@@ -106,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - AUG06 City of FSJ - Music in the Park
 DTSTART;TZID=America/Dawson_Creek:20260806T120000
 DTEND;TZID=America/Dawson_Creek:20260806T155959
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-5235@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: AUG06 City of FSJ - Music in t
  he Park\nAllocated: 4.0h\nNote: EVENT: AUG06 City of FSJ - Music in the Pa
@@ -118,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - AUG06 City of FSJ - Music in the Park
 DTSTART;TZID=America/Dawson_Creek:20260806T203000
 DTEND;TZID=America/Dawson_Creek:20260807T000000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-5881@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: AUG06 City of FSJ - Musi
  c in the Park\nNote: EVENT: AUG06 City of FSJ - Music in the Park\nhttps:/
@@ -130,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260807T100000
 DTEND;TZID=America/Dawson_Creek:20260807T160000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-5842@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 6.0h\n\nSound in Town
   - Keegan Lynch
@@ -139,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260810T100000
 DTEND;TZID=America/Dawson_Creek:20260810T160000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-5884@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 6.0h\n\nSound in Town
   - Keegan Lynch
@@ -148,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260811T100000
 DTEND;TZID=America/Dawson_Creek:20260811T160000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-5885@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 6.0h\n\nSound in Town
   - Keegan Lynch
@@ -157,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260812T100000
 DTEND;TZID=America/Dawson_Creek:20260812T160000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-5886@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 6.0h\n\nSound in Town
   - Keegan Lynch
@@ -166,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260813T100000
 DTEND;TZID=America/Dawson_Creek:20260813T160000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-5887@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 6.0h\n\nSound in Town
   - Keegan Lynch
@@ -175,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:WH4 - Warehouse Helper
 DTSTART;TZID=America/Dawson_Creek:20260814T100000
 DTEND;TZID=America/Dawson_Creek:20260814T160000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-5888@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nAllocated: 6.0h\n\nSound in Town
   - Keegan Lynch
@@ -184,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260818T103000
 DTEND;TZID=America/Dawson_Creek:20260818T180000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-5839@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: AUG21-22 Fredfest 2026\n
  Allocated: 7.5h\n\nSound in Town - Keegan Lynch
@@ -195,11 +183,12 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - SEP12 FSJ BEO FSJ Slow Pitch Year End
   Banquet 14915-1
 DTSTART;TZID=America/Dawson_Creek:20260912T153000
 DTEND;TZID=America/Dawson_Creek:20260912T163000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-6097@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: SEP12 FSJ BEO FSJ Slo
  w Pitch Year End Banquet 14915-1\nAllocated: 1.0h\nNote: Check in - event 
- starts at 5PM.\n\nSound in Town - Keegan Lynch
+ starts at 5PM. They ordered a Karaoke AND added a Projector.\n\nSound in T
+ own - Keegan Lynch
 LOCATION:Pomeroy Hotel Fort St. John
 END:VEVENT
 BEGIN:VEVENT
@@ -207,7 +196,7 @@ SUMMARY:WH4 - Warehouse Helper - SEP19 Oktoberfest Rotary at Curling Rink
  FSJ
 DTSTART;TZID=America/Dawson_Creek:20260913T080000
 DTEND;TZID=America/Dawson_Creek:20260913T160000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-6220@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: SEP19 Oktoberfest Rotary 
  at Curling Rink FSJ\nAllocated: 8.0h\n\nSound in Town - Keegan Lynch
@@ -218,7 +207,7 @@ SUMMARY:WH4 - Warehouse Helper - SEP22-24 Saulteau - Healing The Land Conf
  erence AV
 DTSTART;TZID=America/Dawson_Creek:20260916T090000
 DTEND;TZID=America/Dawson_Creek:20260916T170000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-6148@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: SEP22-24 Saulteau - Heali
  ng The Land Conference AV\nAllocated: 8.0h\n\nSound in Town - Keegan Lynch
@@ -229,7 +218,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - SEP19 Oktoberfest Rotary at Curling R
  ink FSJ
 DTSTART;TZID=America/Dawson_Creek:20260919T160000
 DTEND;TZID=America/Dawson_Creek:20260919T180000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-6191@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: SEP19 Oktoberfest Rot
  ary at Curling Rink FSJ\nAllocated: 2.0h\n\nSound in Town - Keegan Lynch
@@ -240,7 +229,7 @@ SUMMARY:WH4 - Warehouse Helper - SEP22-24 Saulteau - Healing The Land Conf
  erence AV
 DTSTART;TZID=America/Dawson_Creek:20260926T100000
 DTEND;TZID=America/Dawson_Creek:20260926T180000
-DTSTAMP:20260911T124833Z
+DTSTAMP:20260911T190850Z
 UID:planning-slot-6149@soundintown.com
 DESCRIPTION:Role: WH4 - Warehouse Helper\nEvent: SEP22-24 Saulteau - Heali
  ng The Land Conference AV\nAllocated: 8.0h\n\nSound in Town - Keegan Lynch
