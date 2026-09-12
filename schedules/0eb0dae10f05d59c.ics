@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260819T080000
 DTEND;TZID=America/Dawson_Creek:20260819T170000
-DTSTAMP:20260912T152955Z
+DTSTAMP:20260912T182124Z
 UID:planning-slot-5975@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: AUG21-22 Fr
  edfest 2026\n\nSound in Town - Derek Wilder
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260820T080000
 DTEND;TZID=America/Dawson_Creek:20260820T170000
-DTSTAMP:20260912T152955Z
+DTSTAMP:20260912T182124Z
 UID:planning-slot-5976@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: AUG21-22 Fr
  edfest 2026\n\nSound in Town - Derek Wilder
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260821T080000
 DTEND;TZID=America/Dawson_Creek:20260821T170000
-DTSTAMP:20260912T152955Z
+DTSTAMP:20260912T182124Z
 UID:planning-slot-5977@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: AUG21-22 Fr
  edfest 2026\n\nSound in Town - Derek Wilder
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260822T100000
 DTEND;TZID=America/Dawson_Creek:20260822T220000
-DTSTAMP:20260912T152955Z
+DTSTAMP:20260912T182124Z
 UID:planning-slot-5978@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: AUG21-22 Fredfest 2026\n\nSoun
  d in Town - Derek Wilder
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - SEP12 - Harvest Moon Festival
 DTSTART;TZID=America/Dawson_Creek:20260911T180000
 DTEND;TZID=America/Dawson_Creek:20260911T234500
-DTSTAMP:20260912T152955Z
+DTSTAMP:20260912T182124Z
 UID:planning-slot-6116@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: SEP12 - Harvest Moon Festival
  \n\nSound in Town - Derek Wilder
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - SEP12 - Harvest Moon Festival
 DTSTART;TZID=America/Dawson_Creek:20260912T110000
 DTEND;TZID=America/Dawson_Creek:20260912T233000
-DTSTAMP:20260912T152955Z
+DTSTAMP:20260912T182124Z
 UID:planning-slot-6117@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: SEP12 - Harvest Moon Festival
  \n\nSound in Town - Derek Wilder
@@ -78,7 +78,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - SEP19 - Nitehawk Fundraiser
   Comedy Event
 DTSTART;TZID=America/Dawson_Creek:20260918T093000
 DTEND;TZID=America/Dawson_Creek:20260918T180000
-DTSTAMP:20260912T152955Z
+DTSTAMP:20260912T182124Z
 UID:planning-slot-6138@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: SEP19 - Nit
  ehawk Fundraiser Comedy Event\nAllocated: 6.5h\n\nSound in Town - Derek Wi
@@ -90,7 +90,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - SEP19 - Nitehawk Fundraiser
   Comedy Event
 DTSTART;TZID=America/Dawson_Creek:20260920T070000
 DTEND;TZID=America/Dawson_Creek:20260920T120000
-DTSTAMP:20260912T152955Z
+DTSTAMP:20260912T182124Z
 UID:planning-slot-6141@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: SEP19 - Nit
  ehawk Fundraiser Comedy Event\n\nSound in Town - Derek Wilder
