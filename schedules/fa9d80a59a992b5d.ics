@@ -18,7 +18,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - SEP19 Pomeroy GP 50th Stomp
  ede Anniversary (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20260918T130000
 DTEND;TZID=America/Dawson_Creek:20260918T160000
-DTSTAMP:20260919T183557Z
+DTSTAMP:20260919T221904Z
 UID:planning-slot-6170@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: SEP19 Pomer
  oy GP 50th Stompede Anniversary (CUSTOM)\nAllocated: 3.0h\nNote: Setup Gra
@@ -32,7 +32,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - SEP19 Pomeroy GP 50th Stomp
  ede Anniversary (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20260918T180000
 DTEND;TZID=America/Dawson_Creek:20260918T223000
-DTSTAMP:20260919T183557Z
+DTSTAMP:20260919T221904Z
 UID:planning-slot-6143@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: SEP19 Pomer
  oy GP 50th Stompede Anniversary (CUSTOM)\nNote: Finish setting up Grande B
@@ -45,7 +45,7 @@ SUMMARY:PB1 - Onsite Photo booth Tech - SEP19 Pomeroy GP 50th Stompede Ann
  iversary (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20260919T160000
 DTEND;TZID=America/Dawson_Creek:20260920T000000
-DTSTAMP:20260919T183557Z
+DTSTAMP:20260919T221904Z
 UID:planning-slot-6171@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: SEP19 Pomeroy GP 5
  0th Stompede Anniversary (CUSTOM)\nNote: Photobooth Tech. \n\nSound in Tow
@@ -58,7 +58,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - SEP19 - Nitehawk Fundraiser
   Comedy Event
 DTSTART;TZID=America/Dawson_Creek:20260920T080000
 DTEND;TZID=America/Dawson_Creek:20260920T160000
-DTSTAMP:20260919T183557Z
+DTSTAMP:20260919T221904Z
 UID:planning-slot-6145@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: SEP19 - Nit
  ehawk Fundraiser Comedy Event\nAllocated: 8.0h\nNote: Strike at Evergreen 
