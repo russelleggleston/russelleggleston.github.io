@@ -18,7 +18,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - SEP19 Pomeroy GP 50th Stomp
  ede Anniversary (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20260918T130000
 DTEND;TZID=America/Dawson_Creek:20260918T160000
-DTSTAMP:20260925T231735Z
+DTSTAMP:20260926T045503Z
 UID:planning-slot-6170@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: SEP19 Pomer
  oy GP 50th Stompede Anniversary (CUSTOM)\nAllocated: 3.0h\nNote: Setup Gra
@@ -32,7 +32,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - SEP19 Pomeroy GP 50th Stomp
  ede Anniversary (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20260918T180000
 DTEND;TZID=America/Dawson_Creek:20260918T223000
-DTSTAMP:20260925T231735Z
+DTSTAMP:20260926T045503Z
 UID:planning-slot-6143@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: SEP19 Pomer
  oy GP 50th Stompede Anniversary (CUSTOM)\nNote: Finish setting up Grande B
@@ -45,7 +45,7 @@ SUMMARY:PB1 - Onsite Photo booth Tech - SEP19 Pomeroy GP 50th Stompede Ann
  iversary (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20260919T160000
 DTEND;TZID=America/Dawson_Creek:20260920T000000
-DTSTAMP:20260925T231735Z
+DTSTAMP:20260926T045503Z
 UID:planning-slot-6171@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: SEP19 Pomeroy GP 5
  0th Stompede Anniversary (CUSTOM)\nNote: Photobooth Tech. \n\nSound in Tow
@@ -58,7 +58,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - SEP19 - Nitehawk Fundraiser
   Comedy Event
 DTSTART;TZID=America/Dawson_Creek:20260920T080000
 DTEND;TZID=America/Dawson_Creek:20260920T160000
-DTSTAMP:20260925T231735Z
+DTSTAMP:20260926T045503Z
 UID:planning-slot-6145@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: SEP19 - Nit
  ehawk Fundraiser Comedy Event\nAllocated: 8.0h\nNote: Strike at Evergreen 
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - SEP21-27 GP BEOs 2026
 DTSTART;TZID=America/Dawson_Creek:20260923T123000
 DTEND;TZID=America/Dawson_Creek:20260923T133000
-DTSTAMP:20260925T231735Z
+DTSTAMP:20260926T045503Z
 UID:planning-slot-6275@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: SEP21-27 GP BEOs 2026
  \nAllocated: 1.0h\nNote: Check in on Wed @ 1:30PM -- Grande Ballroom 2 Pro
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - SEP21-27 GP BEOs 2026
 DTSTART;TZID=America/Dawson_Creek:20260924T103000
 DTEND;TZID=America/Dawson_Creek:20260924T113000
-DTSTAMP:20260925T231735Z
+DTSTAMP:20260926T045503Z
 UID:planning-slot-6276@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: SEP21-27 GP BEOs 2026
  \nAllocated: 1.0h\nNote: Check In on Thurs\, Salon C	@11:30AM Projector Pk
