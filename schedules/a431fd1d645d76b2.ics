@@ -17,20 +17,22 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261007T073000
 DTEND;TZID=America/Dawson_Creek:20261007T163000
-DTSTAMP:20260930T145402Z
+DTSTAMP:20260930T204758Z
 UID:planning-slot-6374@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: OCT07-08 Spark 2026\nAlloca
  ted: 8.0h\n\nSound in Town - Jessica Beaumont
-LOCATION:Pomeroy Hotel Fort St. John
+LOCATION:Pomeroy Hotel Fort St. John - Pomeroy Hotel Fort St. John\, Ralph
+  Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261008T080000
 DTEND;TZID=America/Dawson_Creek:20261008T160000
-DTSTAMP:20260930T145402Z
+DTSTAMP:20260930T204758Z
 UID:planning-slot-6377@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: OCT07-08 Spark 2026\n\nSoun
  d in Town - Jessica Beaumont
-LOCATION:Pomeroy Hotel Fort St. John
+LOCATION:Pomeroy Hotel Fort St. John - Pomeroy Hotel Fort St. John\, Ralph
+  Room
 END:VEVENT
 END:VCALENDAR
