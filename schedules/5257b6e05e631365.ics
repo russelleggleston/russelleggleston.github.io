@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261004T160000
 DTEND;TZID=America/Dawson_Creek:20261005T000000
-DTSTAMP:20261001T152559Z
+DTSTAMP:20261001T210046Z
 UID:planning-slot-6362@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\nAllocated: 8.0h\n\nSound in Town - John Fraser
