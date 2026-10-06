@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - AUG10 - City of DC Live Streaming
 DTSTART;TZID=America/Dawson_Creek:20260810T080000
 DTEND;TZID=America/Dawson_Creek:20260810T150000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-5891@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: AUG10 - City of DC Live Stre
  aming\nAllocated: 7.0h\n\nSound in Town - Dana Pedersen
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - AUG12 Hudson's Hope Council Livestream
 DTSTART;TZID=America/Dawson_Creek:20260812T170000
 DTEND;TZID=America/Dawson_Creek:20260812T210000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-2387@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: AUG12 Hudson's Hope Council 
  Livestream\nNote: EVENT: AUG12 Hudson's Hope Council Livestream\nMEETING P
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - AUG13 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20260813T090000
 DTEND;TZID=America/Dawson_Creek:20260813T170000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-2339@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: AUG13 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: AUG13 - PRRD Board Meeting - DC\nMEETIN
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - AUG24 - City of DC Live Streaming
 DTSTART;TZID=America/Dawson_Creek:20260824T080000
 DTEND;TZID=America/Dawson_Creek:20260824T150000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-5960@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: AUG24 - City of DC Live Stre
  aming\nAllocated: 7.0h\nNote: Lead Show Tech — added from Staffing tab o
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - SEP03 PRRD - EADC/RBAC - DC
 DTSTART;TZID=America/Dawson_Creek:20260903T090000
 DTEND;TZID=America/Dawson_Creek:20260903T170000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-2342@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: SEP03 PRRD - EADC/RBAC - DC
  \nAllocated: 8.0h\nNote: EVENT: SEP03 PRRD - EADC/RBAC - DC\nhttps://www.s
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - SEP10 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20260910T090000
 DTEND;TZID=America/Dawson_Creek:20260910T170000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-2345@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: SEP10 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: SEP10 - PRRD Board Meeting - DC\nMEETIN
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - OCT01 PRRD - EADC/RBAC - DC
 DTSTART;TZID=America/Dawson_Creek:20261001T090000
 DTEND;TZID=America/Dawson_Creek:20261001T170000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-2351@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: OCT01 PRRD - EADC/RBAC - DC
  \nAllocated: 8.0h\nNote: EVENT: OCT01 PRRD - EADC/RBAC - DC\nhttps://www.s
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - OCT05 - City of DC Live Streaming
 DTSTART;TZID=America/Dawson_Creek:20261005T080000
 DTEND;TZID=America/Dawson_Creek:20261005T150000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-6321@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: OCT05 - City of DC Live Stre
  aming\nAllocated: 7.0h\nNote: Lead Show Tech — added from Staffing tab o
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - OCT05 Hudson's Hope Council Livestream
 DTSTART;TZID=America/Dawson_Creek:20261005T170000
 DTEND;TZID=America/Dawson_Creek:20261005T210000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-2393@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: OCT05 Hudson's Hope Council 
  Livestream\nNote: EVENT: OCT05 Hudson's Hope Council Livestream\nMEETING P
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - OCT08 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20261008T090000
 DTEND;TZID=America/Dawson_Creek:20261008T170000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-2354@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: OCT08 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: OCT08 - PRRD Board Meeting - DC\nMEETIN
@@ -134,7 +134,7 @@ SUMMARY:V1 - Video Engineer - OCT13 Hudson's Hope Special Council Livestre
  am
 DTSTART;TZID=America/Dawson_Creek:20261013T170000
 DTEND;TZID=America/Dawson_Creek:20261013T210000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-6437@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: OCT13 Hudson's Hope Special 
  Council Livestream\n\nSound in Town - Dana Pedersen
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - OCT15 PRRD Solid Waste Committee Meeting
 DTSTART;TZID=America/Dawson_Creek:20261015T170000
 DTEND;TZID=America/Dawson_Creek:20261015T230000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-6333@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: OCT15 PRRD Solid Waste Commi
  ttee Meeting\nNote: Lead Show Tech — added from Staffing tab one-click\n
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - OCT29 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20261029T090000
 DTEND;TZID=America/Dawson_Creek:20261029T170000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-2357@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: OCT29 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: OCT29 - PRRD Board Meeting - DC\nMEETIN
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - NOV05 PRRD - EADC/RBAC - DC
 DTSTART;TZID=America/Dawson_Creek:20261105T090000
 DTEND;TZID=America/Dawson_Creek:20261105T170000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-2363@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: NOV05 PRRD - EADC/RBAC - DC
  \nAllocated: 8.0h\nNote: EVENT: NOV05 PRRD - EADC/RBAC - DC\nhttps://www.s
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - NOV12 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20261112T090000
 DTEND;TZID=America/Dawson_Creek:20261112T170000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-2366@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: NOV12 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: NOV12 - PRRD Board Meeting - DC\nMEETIN
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - NOV26 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20261126T090000
 DTEND;TZID=America/Dawson_Creek:20261126T170000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-2369@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: NOV26 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: NOV26 - PRRD Board Meeting - DC\nMEETIN
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - DEC10 PRRD - EADC/RBAC - DC
 DTSTART;TZID=America/Dawson_Creek:20261210T090000
 DTEND;TZID=America/Dawson_Creek:20261210T170000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-2372@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: DEC10 PRRD - EADC/RBAC - DC
  \nAllocated: 8.0h\nNote: EVENT: DEC10 PRRD - EADC/RBAC - DC\nhttps://www.s
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:V1 - Video Engineer - DEC11 - PRRD Board Meeting - DC
 DTSTART;TZID=America/Dawson_Creek:20261211T090000
 DTEND;TZID=America/Dawson_Creek:20261211T170000
-DTSTAMP:20261006T181940Z
+DTSTAMP:20261006T234716Z
 UID:planning-slot-2375@soundintown.com
 DESCRIPTION:Role: V1 - Video Engineer\nEvent: DEC11 - PRRD Board Meeting -
   DC\nAllocated: 8.0h\nNote: EVENT: DEC11 - PRRD Board Meeting - DC\nMEETIN
