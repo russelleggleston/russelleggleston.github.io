@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261005T090000
 DTEND;TZID=America/Dawson_Creek:20261005T170000
-DTSTAMP:20261006T234725Z
+DTSTAMP:20261007T055556Z
 UID:planning-slot-6369@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\n\nSound in Town - Judah Kay
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261008T160000
 DTEND;TZID=America/Dawson_Creek:20261009T000000
-DTSTAMP:20261006T234725Z
+DTSTAMP:20261007T055556Z
 UID:planning-slot-6381@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\n\nSound in Town - Judah Kay
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261009T090000
 DTEND;TZID=America/Dawson_Creek:20261009T170000
-DTSTAMP:20261006T234725Z
+DTSTAMP:20261007T055556Z
 UID:planning-slot-6387@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\nAllocated: 8.0h\n\nSound in Town - Judah Kay
