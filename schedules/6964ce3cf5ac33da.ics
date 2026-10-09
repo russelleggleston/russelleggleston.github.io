@@ -18,7 +18,7 @@ SUMMARY:PB1 - Onsite Photo booth Tech - AUG21-23 - Oilmans Family Weekend
  2026
 DTSTART;TZID=America/Dawson_Creek:20260822T170000
 DTEND;TZID=America/Dawson_Creek:20260822T220000
-DTSTAMP:20261009T151632Z
+DTSTAMP:20261009T205204Z
 UID:planning-slot-3471@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: AUG21-23 - Oilmans
   Family Weekend 2026\nNote: EVENT: AUG21-23 - Oilmans Family\nhttps://www.
@@ -32,7 +32,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - SEP09 NLC DC WelcomeFEST 20
  26 - Photobooth
 DTSTART;TZID=America/Dawson_Creek:20260909T110000
 DTEND;TZID=America/Dawson_Creek:20260909T133000
-DTSTAMP:20261009T151632Z
+DTSTAMP:20261009T205204Z
 UID:planning-slot-6107@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: SEP09 NLC D
  C WelcomeFEST 2026 - Photobooth\nAllocated: 2.5h\n\nSound in Town - Amy Se
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261009T090000
 DTEND;TZID=America/Dawson_Creek:20261009T170000
-DTSTAMP:20261009T151632Z
+DTSTAMP:20261009T205204Z
 UID:planning-slot-6422@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\nAllocated: 8.0h\n\nSound in Town - Amy Seebaran
@@ -55,7 +55,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - NOV28 Dawson Creek Dental C
  hristmas Party Photobooth
 DTSTART;TZID=America/Dawson_Creek:20261128T100000
 DTEND;TZID=America/Dawson_Creek:20261128T110000
-DTSTAMP:20261009T151632Z
+DTSTAMP:20261009T205204Z
 UID:planning-slot-6399@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: NOV28 Dawso
  n Creek Dental Christmas Party Photobooth\nAllocated: 1.0h\nNote: Set up t
@@ -67,7 +67,7 @@ SUMMARY:PB1 - Onsite Photo booth Tech - NOV28 Dawson Creek Dental Christma
  s Party Photobooth
 DTSTART;TZID=America/Dawson_Creek:20261128T170000
 DTEND;TZID=America/Dawson_Creek:20261129T000000
-DTSTAMP:20261009T151632Z
+DTSTAMP:20261009T205204Z
 UID:planning-slot-6400@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: NOV28 Dawson Creek
   Dental Christmas Party Photobooth\nNote: Starts at 5PM. Ends at midnight 
