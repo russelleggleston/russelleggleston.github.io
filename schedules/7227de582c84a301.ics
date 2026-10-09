@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261005T090000
 DTEND;TZID=America/Dawson_Creek:20261005T170000
-DTSTAMP:20261008T211800Z
+DTSTAMP:20261009T060524Z
 UID:planning-slot-6369@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\n\nSound in Town - Judah Kay
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261008T160000
 DTEND;TZID=America/Dawson_Creek:20261009T000000
-DTSTAMP:20261008T211800Z
+DTSTAMP:20261009T060524Z
 UID:planning-slot-6381@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\n\nSound in Town - Judah Kay
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261009T090000
 DTEND;TZID=America/Dawson_Creek:20261009T170000
-DTSTAMP:20261008T211800Z
+DTSTAMP:20261009T060524Z
 UID:planning-slot-6387@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\nAllocated: 8.0h\n\nSound in Town - Judah Kay
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - OCT21 NRM Meeting @ McMAhon Plant
 DTSTART;TZID=America/Dawson_Creek:20261020T130000
 DTEND;TZID=America/Dawson_Creek:20261020T210000
-DTSTAMP:20261008T211800Z
+DTSTAMP:20261009T060524Z
 UID:planning-slot-6460@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: OCT21 NRM Meeting @ McMA
  hon Plant\nAllocated: 8.0h\n\nSound in Town - Judah Kay
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - OCT21 NRM Meeting @ McMAhon Plant
 DTSTART;TZID=America/Dawson_Creek:20261021T170000
 DTEND;TZID=America/Dawson_Creek:20261021T210000
-DTSTAMP:20261008T211800Z
+DTSTAMP:20261009T060524Z
 UID:planning-slot-6479@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: OCT21 NRM Meeting @ McMA
  hon Plant\nNote: I'm not sure on the times yet for thisone.\n\nSound in To
@@ -72,7 +72,7 @@ SUMMARY:SET/STR4 - Event Helper - NOV07 - FSJ Hospital Foundation Gala 202
  6
 DTSTART;TZID=America/Dawson_Creek:20261103T080000
 DTEND;TZID=America/Dawson_Creek:20261103T160000
-DTSTAMP:20261008T211800Z
+DTSTAMP:20261009T060524Z
 UID:planning-slot-6498@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: NOV07 - FSJ Hospital Fou
  ndation Gala 2026\n\nSound in Town - Judah Kay
