@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260821T090000
 DTEND;TZID=America/Dawson_Creek:20260821T170000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-2750@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nAll
  ocated: 6.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fes
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:L2 - Lighting Assist - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260822T090000
 DTEND;TZID=America/Dawson_Creek:20260822T170000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-2759@soundintown.com
 DESCRIPTION:Role: L2 - Lighting Assist\nEvent: AUG21-22 Fredfest 2026\nNot
  e: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: Fred Fest\n\nAuto planned
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260823T080000
 DTEND;TZID=America/Dawson_Creek:20260823T170000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-5193@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260827T080000
 DTEND;TZID=America/Dawson_Creek:20260827T170000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-5195@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260828T080000
 DTEND;TZID=America/Dawson_Creek:20260828T170000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-5196@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nAllocated: 7.0h\nN
  ote: MEETING POINT: Venue\n\nHours may change\n\nSound in Town - Matt Curr
@@ -70,7 +70,7 @@ SUMMARY:L1 - Lighting Engineer - AUG29 - Conuma 10 Year Anniversary Party
  & BBQs (2 of 2)
 DTSTART;TZID=America/Dawson_Creek:20260829T093000
 DTEND;TZID=America/Dawson_Creek:20260829T170000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-5197@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: AUG29 - Conuma 10 Year An
  niversary Party & BBQs (2 of 2)\nNote: MEETING POINT: Venue\n\nHours may c
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260902T080000
 DTEND;TZID=America/Dawson_Creek:20260902T170000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-5198@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260903T080000
 DTEND;TZID=America/Dawson_Creek:20260903T170000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-5199@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - AUG27 - VJV Video Cattle Auction
 DTSTART;TZID=America/Dawson_Creek:20260904T090000
 DTEND;TZID=America/Dawson_Creek:20260904T170000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-3389@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: AUG27 - VJV Video Cattle Auction
  \nAllocated: 6.0h\nNote: EVENT: SEP04 - VJV Video Cattle Auction\nhttps://
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260905T080000
 DTEND;TZID=America/Dawson_Creek:20260905T170000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-5200@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -121,7 +121,7 @@ SUMMARY:L1 - Lighting Engineer - SEP19 Pomeroy GP 50th Stompede Anniversar
  y (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20260918T190000
 DTEND;TZID=America/Dawson_Creek:20260918T230000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-6175@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: SEP19 Pomeroy GP 50th Sto
  mpede Anniversary (CUSTOM)\nNote: Finish setting up Grande Ballroom with M
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - SEP19 - Nitehawk Fundraiser Comedy Event
 DTSTART;TZID=America/Dawson_Creek:20260919T080000
 DTEND;TZID=America/Dawson_Creek:20260919T150000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-6176@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: SEP19 - Nitehawk Fundrais
  er Comedy Event\nAllocated: 7.0h\nNote: If your Pomeroy set up is done on 
@@ -148,7 +148,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - SEP19 - Nitehawk Fundraiser
   Comedy Event
 DTSTART;TZID=America/Dawson_Creek:20260920T080000
 DTEND;TZID=America/Dawson_Creek:20260920T160000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-6240@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: SEP19 - Nit
  ehawk Fundraiser Comedy Event\nAllocated: 7.0h\nNote: Strike at Evergreen 
@@ -161,7 +161,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT19 - Pomeroy GP BEO GPRTA Custom
   Quote
 DTSTART;TZID=America/Dawson_Creek:20261018T160000
 DTEND;TZID=America/Dawson_Creek:20261018T210000
-DTSTAMP:20261020T044624Z
+DTSTAMP:20261020T133230Z
 UID:planning-slot-6556@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT19 - Pomeroy GP 
  BEO GPRTA Custom Quote\nNote: Meet Russell in Grande Ballroom at Pomeroy t
