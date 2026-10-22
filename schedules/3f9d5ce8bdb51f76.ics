@@ -14,33 +14,10 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SET/STR2 - Setup & Strike Junior Tech - AUG21-23 - Oilmans Family 
- Weekend 2026
-DTSTART;TZID=America/Dawson_Creek:20260823T150000
-DTEND;TZID=America/Dawson_Creek:20260823T200000
-DTSTAMP:20261022T200532Z
-UID:planning-slot-3462@soundintown.com
-DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: AUG21-23 -
-  Oilmans Family Weekend 2026\nAllocated: 5.0h\nNote: EVENT: AUG21-23 - Oil
- mans Family\nhttps://www.soundintown.com/r/sv4\nMEETING POINT: Peace Islan
- d Park\nhttps://www.soundintown.com/model/showbook/aug21-23-oilmans-family
- -1287\n\nSound in Town - Ripley Kidner
-LOCATION:Peace Island Park
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WH2 - Warehouse Junior Tech
-DTSTART;TZID=America/Dawson_Creek:20260824T080000
-DTEND;TZID=America/Dawson_Creek:20260824T150000
-DTSTAMP:20261022T200532Z
-UID:planning-slot-5570@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
- EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260824T080000
 DTEND;TZID=America/Dawson_Creek:20260824T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-2747@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: AUG21-22 Fredfest 20
  26\nAllocated: 7.0h\nNote: EVENT: AUG21-22 Fredfest 2026\nMEETING POINT: S
@@ -52,16 +29,25 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260824T080000
 DTEND;TZID=America/Dawson_Creek:20260824T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5857@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\n\nSound in
   Town - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WH2 - Warehouse Junior Tech
+DTSTART;TZID=America/Dawson_Creek:20260824T080000
+DTEND;TZID=America/Dawson_Creek:20260824T150000
+DTSTAMP:20261022T232122Z
+UID:planning-slot-5570@soundintown.com
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
+ EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - AUG21-22 Fredfest 2026
 DTSTART;TZID=America/Dawson_Creek:20260825T080000
 DTEND;TZID=America/Dawson_Creek:20260825T170000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5835@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: AUG21-22 Fredfest 20
  26\nAllocated: 8.0h\n\nSound in Town - Ripley Kidner
@@ -71,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260825T080000
 DTEND;TZID=America/Dawson_Creek:20260825T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5571@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -80,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260826T080000
 DTEND;TZID=America/Dawson_Creek:20260826T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5572@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -89,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260827T080000
 DTEND;TZID=America/Dawson_Creek:20260827T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5573@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -98,8 +84,17 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260828T080000
 DTEND;TZID=America/Dawson_Creek:20260828T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5574@soundintown.com
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
+ EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WH2 - Warehouse Junior Tech
+DTSTART;TZID=America/Dawson_Creek:20260831T080000
+DTEND;TZID=America/Dawson_Creek:20260831T150000
+DTSTAMP:20261022T232122Z
+UID:planning-slot-5575@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
 END:VEVENT
@@ -107,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP02 NLC All Faculty Kick-Off
 DTSTART;TZID=America/Dawson_Creek:20260831T080000
 DTEND;TZID=America/Dawson_Creek:20260831T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5844@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP02 NLC All Facult
  y Kick-Off\nAllocated: 7.0h\n\nSound in Town - Ripley Kidner
@@ -115,18 +110,9 @@ LOCATION:Northern Lights College Dawson Creek Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
-DTSTART;TZID=America/Dawson_Creek:20260831T080000
-DTEND;TZID=America/Dawson_Creek:20260831T150000
-DTSTAMP:20261022T200532Z
-UID:planning-slot-5575@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
- EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260901T080000
 DTEND;TZID=America/Dawson_Creek:20260901T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5576@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -135,17 +121,28 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260902T080000
 DTEND;TZID=America/Dawson_Creek:20260902T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5577@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WH2 - Warehouse Junior Tech - SEP04-05 Charlie Lake Wedding - DIY 
+ DJ Pkg
+DTSTART;TZID=America/Dawson_Creek:20260902T090000
+DTEND;TZID=America/Dawson_Creek:20260902T093000
+DTSTAMP:20261022T232122Z
+UID:planning-slot-6092@soundintown.com
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP04-05 Charlie Lak
+ e Wedding - DIY DJ Pkg\nAllocated: 0.5h\nNote: Prep - client picking up on
+  Thursday from Pomeroy.\n\nSound in Town - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP05 Tumbler Ridge Fall Fair - Band
  s
 DTSTART;TZID=America/Dawson_Creek:20260902T090000
 DTEND;TZID=America/Dawson_Creek:20260902T170000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-3434@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP05 Tumbler Ridge 
  Fall Fair - Bands\nAllocated: 8.0h\nNote: EVENT: SEP05 Tumbler Ridge Fall 
@@ -156,21 +153,10 @@ DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP05 Tumbler Ridge
 LOCATION:Tumbler Ridge Fairgrounds
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WH2 - Warehouse Junior Tech - SEP04-05 Charlie Lake Wedding - DIY 
- DJ Pkg
-DTSTART;TZID=America/Dawson_Creek:20260902T090000
-DTEND;TZID=America/Dawson_Creek:20260902T093000
-DTSTAMP:20261022T200532Z
-UID:planning-slot-6092@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP04-05 Charlie Lak
- e Wedding - DIY DJ Pkg\nAllocated: 0.5h\nNote: Prep - client picking up on
-  Thursday from Pomeroy.\n\nSound in Town - Ripley Kidner
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP02 NLC All Faculty Kick-Off
 DTSTART;TZID=America/Dawson_Creek:20260903T090000
 DTEND;TZID=America/Dawson_Creek:20260903T120000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5848@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP02 NLC All Facult
  y Kick-Off\nAllocated: 3.0h\n\nSound in Town - Ripley Kidner
@@ -180,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP02 - Desiree Dorion Music Event
 DTSTART;TZID=America/Dawson_Creek:20260903T120000
 DTEND;TZID=America/Dawson_Creek:20260903T160000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6088@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP02 - Desiree Dori
  on Music Event\n\nSound in Town - Ripley Kidner
@@ -190,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260904T080000
 DTEND;TZID=America/Dawson_Creek:20260904T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5578@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -199,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP06 Onam Community Event
 DTSTART;TZID=America/Dawson_Creek:20260907T230000
 DTEND;TZID=America/Dawson_Creek:20260908T030000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6055@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP06 Onam Community
   Event\nAllocated: 3.0h\nNote: Lead Deprep — added from Staffing tab one
@@ -210,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP12 - Harvest Moon Festival
 DTSTART;TZID=America/Dawson_Creek:20260908T090000
 DTEND;TZID=America/Dawson_Creek:20260908T160000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5901@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP12 - Harvest Moon
   Festival\nAllocated: 7.0h\n\nSound in Town - Ripley Kidner
@@ -221,7 +207,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - SEP04-05 Charlie Lake Wedding - DIY
  DJ Pkg
 DTSTART;TZID=America/Dawson_Creek:20260908T093000
 DTEND;TZID=America/Dawson_Creek:20260908T100000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6093@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP04-05 Charlie Lak
  e Wedding - DIY DJ Pkg\nAllocated: 0.5h\nNote: Customer returning DIY Rent
@@ -232,7 +218,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - SEP05 Tumbler Ridge Fall Fair - Band
  s
 DTSTART;TZID=America/Dawson_Creek:20260908T170000
 DTEND;TZID=America/Dawson_Creek:20260908T220000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-3435@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP05 Tumbler Ridge 
  Fall Fair - Bands\nNote: EVENT: SEP05 Tumbler Ridge Fall Fair - Bands\nhtt
@@ -246,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260910T080000
 DTEND;TZID=America/Dawson_Creek:20260910T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5580@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -255,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260911T090000
 DTEND;TZID=America/Dawson_Creek:20260911T100000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5581@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 1.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -265,7 +251,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - SEP10 NLC FSJ WelcomeFEST 2026 - Pho
  tobooth
 DTSTART;TZID=America/Dawson_Creek:20260911T100000
 DTEND;TZID=America/Dawson_Creek:20260911T120000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6023@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP10 NLC FSJ Welcom
  eFEST 2026 - Photobooth\nAllocated: 2.0h\n\nSound in Town - Ripley Kidner
@@ -275,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP12 - Harvest Moon Festival
 DTSTART;TZID=America/Dawson_Creek:20260914T090000
 DTEND;TZID=America/Dawson_Creek:20260914T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5582@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP12 - Harvest Moon
   Festival\nAllocated: 6.0h\nNote: PLACEHOLDER - available (assign to event
@@ -287,7 +273,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - SEP12 FSJ BEO FSJ Slow Pitch Year E
  nd Banquet 14915-1
 DTSTART;TZID=America/Dawson_Creek:20260914T093000
 DTEND;TZID=America/Dawson_Creek:20260914T103000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6098@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: SEP12 FSJ BEO FSJ S
  low Pitch Year End Banquet 14915-1\nAllocated: 1.0h\n\nSound in Town - Rip
@@ -298,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP16 Community Living Awards Gala
 DTSTART;TZID=America/Dawson_Creek:20260914T130000
 DTEND;TZID=America/Dawson_Creek:20260914T170000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6180@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP16 Community Livi
  ng Awards Gala\nAllocated: 4.0h\n\nSound in Town - Ripley Kidner
@@ -310,7 +296,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - SEP12 FSJ BEO FSJ Slow Pitch Year En
  d Banquet 14915-1
 DTSTART;TZID=America/Dawson_Creek:20260914T160000
 DTEND;TZID=America/Dawson_Creek:20260914T170000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6135@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP12 FSJ BEO FSJ Sl
  ow Pitch Year End Banquet 14915-1\nAllocated: 1.0h\n\nSound in Town - Ripl
@@ -321,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260915T080000
 DTEND;TZID=America/Dawson_Creek:20260915T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5583@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -330,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260916T080000
 DTEND;TZID=America/Dawson_Creek:20260916T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5584@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -340,7 +326,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - SEP22-24 Saulteau - Healing The Land
   Conference AV
 DTSTART;TZID=America/Dawson_Creek:20260916T090000
 DTEND;TZID=America/Dawson_Creek:20260916T170000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-2791@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP22-24 Saulteau - 
  Healing The Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Sau
@@ -353,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260917T080000
 DTEND;TZID=America/Dawson_Creek:20260917T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5585@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -362,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP16 Community Living Awards Gala
 DTSTART;TZID=America/Dawson_Creek:20260917T100000
 DTEND;TZID=America/Dawson_Creek:20260917T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6186@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP16 Community Livi
  ng Awards Gala\nAllocated: 5.0h\n\nSound in Town - Ripley Kidner
@@ -373,17 +359,8 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260921T080000
 DTEND;TZID=America/Dawson_Creek:20260921T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5586@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
- EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WH2 - Warehouse Junior Tech
-DTSTART;TZID=America/Dawson_Creek:20260922T080000
-DTEND;TZID=America/Dawson_Creek:20260922T150000
-DTSTAMP:20261022T200532Z
-UID:planning-slot-5587@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
 END:VEVENT
@@ -391,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP17-20 Live Streaming Hand Games
 DTSTART;TZID=America/Dawson_Creek:20260922T080000
 DTEND;TZID=America/Dawson_Creek:20260922T120000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6167@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP17-20 Live Stream
  ing Hand Games\nAllocated: 4.0h\n\nSound in Town - Ripley Kidner
@@ -399,9 +376,18 @@ LOCATION:Ovintiv Events Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
+DTSTART;TZID=America/Dawson_Creek:20260922T080000
+DTEND;TZID=America/Dawson_Creek:20260922T150000
+DTSTAMP:20261022T232122Z
+UID:planning-slot-5587@soundintown.com
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
+ EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260923T080000
 DTEND;TZID=America/Dawson_Creek:20260923T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5588@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -410,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - SEP25 Ridington Dane-zaa Celebration
 DTSTART;TZID=America/Dawson_Creek:20260923T090000
 DTEND;TZID=America/Dawson_Creek:20260923T160000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6202@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP25 Ridington Dane
  -zaa Celebration\nAllocated: 7.0h\n\nSound in Town - Ripley Kidner
@@ -422,7 +408,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - SEP25 Ridington Dane-zaa Celebration
 DTSTART;TZID=America/Dawson_Creek:20260923T090000
 DTEND;TZID=America/Dawson_Creek:20260923T160000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6257@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: SEP25 Ridington Dane-zaa Celebration\n
  \nSound in Town - Ripley Kidner
@@ -434,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260924T080000
 DTEND;TZID=America/Dawson_Creek:20260924T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5589@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -444,7 +430,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - SEP25 Ridington Dane-zaa Ce
  lebration
 DTSTART;TZID=America/Dawson_Creek:20260924T090000
 DTEND;TZID=America/Dawson_Creek:20260924T160000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6259@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: SEP25 Ridin
  gton Dane-zaa Celebration\n\nSound in Town - Ripley Kidner
@@ -457,7 +443,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - SEP26 Oil Wives - Princess Daddy Dau
  ghter Event
 DTSTART;TZID=America/Dawson_Creek:20260924T100000
 DTEND;TZID=America/Dawson_Creek:20260924T140000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6209@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP26 Oil Wives - Pr
  incess Daddy Daughter Event\nAllocated: 4.0h\n\nSound in Town - Ripley Kid
@@ -468,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260928T080000
 DTEND;TZID=America/Dawson_Creek:20260928T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5590@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -477,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20260929T080000
 DTEND;TZID=America/Dawson_Creek:20260929T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5591@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -487,7 +473,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - SEP28 Ovintiv - South Peace District
   PAC Candidate's Forum
 DTSTART;TZID=America/Dawson_Creek:20260929T090000
 DTEND;TZID=America/Dawson_Creek:20260929T100000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6323@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: SEP28 Ovintiv - Sout
  h Peace District PAC Candidate's Forum\nAllocated: 1.0h\nNote: deprep\n\nS
@@ -498,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261001T080000
 DTEND;TZID=America/Dawson_Creek:20261001T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5593@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -507,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261002T090000
 DTEND;TZID=America/Dawson_Creek:20261002T160000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6284@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT07-08 Spark 2026
  \nNote: PREP\n\nSound in Town - Ripley Kidner
@@ -518,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261004T160000
 DTEND;TZID=America/Dawson_Creek:20261005T000000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6363@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\nAllocated: 8.0h\n\nSound in Town - Ripley Kidner
@@ -529,7 +515,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261005T090000
 DTEND;TZID=America/Dawson_Creek:20261005T170000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6359@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\nAllocated: 8.0h\n\nSound in Town - Ripley Kidner
@@ -540,8 +526,17 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261006T090000
 DTEND;TZID=America/Dawson_Creek:20261006T160000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5596@soundintown.com
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
+ EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WH2 - Warehouse Junior Tech
+DTSTART;TZID=America/Dawson_Creek:20261007T090000
+DTEND;TZID=America/Dawson_Creek:20261007T160000
+DTSTAMP:20261022T232122Z
+UID:planning-slot-5597@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
 END:VEVENT
@@ -550,7 +545,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - OCT09 Hamres - Laurel Hadland 2PM Li
  ve Stream Service
 DTSTART;TZID=America/Dawson_Creek:20261007T090000
 DTEND;TZID=America/Dawson_Creek:20261007T100000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6391@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT09 Hamres - Laure
  l Hadland 2PM Live Stream Service\nAllocated: 1.0h\n\nSound in Town - Ripl
@@ -558,20 +553,11 @@ DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT09 Hamres - Laure
 LOCATION:Charlie Lake Church
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WH2 - Warehouse Junior Tech
-DTSTART;TZID=America/Dawson_Creek:20261007T090000
-DTEND;TZID=America/Dawson_Creek:20261007T160000
-DTSTAMP:20261022T200532Z
-UID:planning-slot-5597@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
- EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT10 Hamres - Josephine Dancy 11AM 
  Live Stream Service
 DTSTART;TZID=America/Dawson_Creek:20261007T110000
 DTEND;TZID=America/Dawson_Creek:20261007T120000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6286@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT10 Hamres - Josep
  hine Dancy 11AM Live Stream Service\nAllocated: 1.0h\n\nSound in Town - Ri
@@ -582,7 +568,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261008T160000
 DTEND;TZID=America/Dawson_Creek:20261009T000000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6383@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\nAllocated: 8.0h\n\nSound in Town - Ripley Kidner
@@ -593,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT14 ARC Resources Workshops GP
 DTSTART;TZID=America/Dawson_Creek:20261009T090000
 DTEND;TZID=America/Dawson_Creek:20261009T130000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6304@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT14 ARC Resources 
  Workshops GP\nAllocated: 4.0h\nNote: Russell needs this for travel to GP o
@@ -603,10 +589,21 @@ DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT14 ARC Resources
 LOCATION:Teresa Sargent Hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
+DTSTART;TZID=America/Dawson_Creek:20261009T090000
+DTEND;TZID=America/Dawson_Creek:20261009T170000
+DTSTAMP:20261022T232122Z
+UID:planning-slot-6385@soundintown.com
+DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
+ ark 2026\nAllocated: 8.0h\n\nSound in Town - Ripley Kidner
+LOCATION:Pomeroy Hotel Fort St. John - Pomeroy Hotel Fort St. John\, Ralph
+  Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT12-18 GP BEOs 2026
 DTSTART;TZID=America/Dawson_Creek:20261009T090000
 DTEND;TZID=America/Dawson_Creek:20261009T100000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6509@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT12-18 GP BEOs 202
  6\nAllocated: 1.0h\nNote: PLEASE PREP two standalone projector screens for
@@ -615,22 +612,11 @@ DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT12-18 GP BEOs 202
  efore the holiday.\n\nSound in Town - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
-DTSTART;TZID=America/Dawson_Creek:20261009T090000
-DTEND;TZID=America/Dawson_Creek:20261009T170000
-DTSTAMP:20261022T200532Z
-UID:planning-slot-6385@soundintown.com
-DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
- ark 2026\nAllocated: 8.0h\n\nSound in Town - Ripley Kidner
-LOCATION:Pomeroy Hotel Fort St. John - Pomeroy Hotel Fort St. John\, Ralph
-  Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT14-15 Saulteau FN Fall NorthEast 
  Sub-Regional
 DTSTART;TZID=America/Dawson_Creek:20261013T080000
 DTEND;TZID=America/Dawson_Creek:20261013T110000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6476@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT14-15 Saulteau FN
   Fall NorthEast Sub-Regional\nAllocated: 3.0h\nNote: Lead Prep — added f
@@ -638,10 +624,21 @@ DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT14-15 Saulteau FN
 LOCATION:Saulteau First Nations\, Saulteau Cultural Centre Gym
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WH2 - Warehouse Junior Tech - OCT09 Hamres - Laurel Hadland 2PM Li
+ ve Stream Service
+DTSTART;TZID=America/Dawson_Creek:20261013T090000
+DTEND;TZID=America/Dawson_Creek:20261013T100000
+DTSTAMP:20261022T232122Z
+UID:planning-slot-6302@soundintown.com
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT09 Hamres - Laure
+ l Hadland 2PM Live Stream Service\n\nSound in Town - Ripley Kidner
+LOCATION:Charlie Lake Church
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261013T090000
 DTEND;TZID=America/Dawson_Creek:20261013T170000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6384@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT07-08 Spark 2026
  \nAllocated: 8.0h\n\nSound in Town - Ripley Kidner
@@ -649,22 +646,11 @@ LOCATION:Pomeroy Hotel Fort St. John - Pomeroy Hotel Fort St. John\, Ralph
   Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WH2 - Warehouse Junior Tech - OCT09 Hamres - Laurel Hadland 2PM Li
- ve Stream Service
-DTSTART;TZID=America/Dawson_Creek:20261013T090000
-DTEND;TZID=America/Dawson_Creek:20261013T100000
-DTSTAMP:20261022T200532Z
-UID:planning-slot-6302@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT09 Hamres - Laure
- l Hadland 2PM Live Stream Service\n\nSound in Town - Ripley Kidner
-LOCATION:Charlie Lake Church
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT14-15 Saulteau FN Fall NorthEast 
  Sub-Regional
 DTSTART;TZID=America/Dawson_Creek:20261013T090000
 DTEND;TZID=America/Dawson_Creek:20261013T130000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5790@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT14-15 Saulteau FN
   Fall NorthEast Sub-Regional\nNote: Auto planned shift. May need to be adj
@@ -676,7 +662,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - OCT10 Hamres - Josephine Dancy 11AM
  Live Stream Service
 DTSTART;TZID=America/Dawson_Creek:20261013T100000
 DTEND;TZID=America/Dawson_Creek:20261013T110000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6393@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT10 Hamres - Josep
  hine Dancy 11AM Live Stream Service\nAllocated: 1.0h\n\nSound in Town - Ri
@@ -687,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261014T090000
 DTEND;TZID=America/Dawson_Creek:20261014T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5602@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 6.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -696,7 +682,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261015T080000
 DTEND;TZID=America/Dawson_Creek:20261015T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5603@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -705,7 +691,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT14 ARC Resources Workshops GP
 DTSTART;TZID=America/Dawson_Creek:20261015T090000
 DTEND;TZID=America/Dawson_Creek:20261015T130000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6510@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT14 ARC Resources 
  Workshops GP\nAllocated: 4.0h\n\nSound in Town - Ripley Kidner
@@ -715,7 +701,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261016T080000
 DTEND;TZID=America/Dawson_Creek:20261016T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5604@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -725,7 +711,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - OCT19 - Pomeroy GP BEO GPRTA Custom
  Quote
 DTSTART;TZID=America/Dawson_Creek:20261016T090000
 DTEND;TZID=America/Dawson_Creek:20261016T130000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6325@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT19 - Pomeroy GP B
  EO GPRTA Custom Quote\nAllocated: 4.0h\n\nSound in Town - Ripley Kidner
@@ -737,7 +723,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - OCT17 - Northern Rodeo Alliance Band
   Event
 DTSTART;TZID=America/Dawson_Creek:20261016T090000
 DTEND;TZID=America/Dawson_Creek:20261016T130000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6324@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT17 - Northern Rod
  eo Alliance Band Event\nAllocated: 4.0h\n\nSound in Town - Ripley Kidner
@@ -747,28 +733,17 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT20 NRM Town Hall at Ramada
 DTSTART;TZID=America/Dawson_Creek:20261016T130000
 DTEND;TZID=America/Dawson_Creek:20261016T160000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6536@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT20 NRM Town Hall 
  at Ramada\n\nSound in Town - Ripley Kidner
 LOCATION:Ramada by Wyndham Northern Grand Hotel & Conference Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SET/STR2 - Setup & Strike Junior Tech - OCT20 NRM Town Hall at Ram
- ada
-DTSTART;TZID=America/Dawson_Creek:20261018T090000
-DTEND;TZID=America/Dawson_Creek:20261018T160000
-DTSTAMP:20261022T200532Z
-UID:planning-slot-6563@soundintown.com
-DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: OCT20 NRM 
- Town Hall at Ramada\nAllocated: 7.0h\n\nSound in Town - Ripley Kidner
-LOCATION:Ramada by Wyndham Northern Grand Hotel & Conference Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT20 NRM Town Hall at Ramada
 DTSTART;TZID=America/Dawson_Creek:20261018T090000
 DTEND;TZID=America/Dawson_Creek:20261018T110000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6305@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT20 NRM Town Hall 
  at Ramada\nAllocated: 2.0h\nNote: Heads up\, you'll need to grab some cabl
@@ -777,21 +752,22 @@ DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT20 NRM Town Hall
 LOCATION:Ramada by Wyndham Northern Grand Hotel & Conference Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WH2 - Warehouse Junior Tech - OCT22 - NOV08 Wireless Mic Dry Renta
- l
-DTSTART;TZID=America/Dawson_Creek:20261019T090000
-DTEND;TZID=America/Dawson_Creek:20261019T100000
-DTSTAMP:20261022T200532Z
-UID:planning-slot-6541@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT22 - NOV08 Wirele
- ss Mic Dry Rental\nAllocated: 1.0h\n\nSound in Town - Ripley Kidner
+SUMMARY:SET/STR2 - Setup & Strike Junior Tech - OCT20 NRM Town Hall at Ram
+ ada
+DTSTART;TZID=America/Dawson_Creek:20261018T090000
+DTEND;TZID=America/Dawson_Creek:20261018T160000
+DTSTAMP:20261022T232122Z
+UID:planning-slot-6563@soundintown.com
+DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: OCT20 NRM 
+ Town Hall at Ramada\nAllocated: 7.0h\n\nSound in Town - Ripley Kidner
+LOCATION:Ramada by Wyndham Northern Grand Hotel & Conference Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT17 - Northern Rodeo Alliance Band
   Event
 DTSTART;TZID=America/Dawson_Creek:20261019T090000
 DTEND;TZID=America/Dawson_Creek:20261019T160000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6469@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT17 - Northern Rod
  eo Alliance Band Event\nAllocated: 7.0h\nNote: Lead Deprep\n\nSound in Tow
@@ -799,29 +775,29 @@ DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT17 - Northern Rod
 LOCATION:Chetwynd Rodeo Grounds (The Pine Valley Exhibition Park)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WH2 - Warehouse Junior Tech - OCT22 - NOV08 Wireless Mic Dry Renta
+ l
+DTSTART;TZID=America/Dawson_Creek:20261019T090000
+DTEND;TZID=America/Dawson_Creek:20261019T100000
+DTSTAMP:20261022T232122Z
+UID:planning-slot-6541@soundintown.com
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT22 - NOV08 Wirele
+ ss Mic Dry Rental\nAllocated: 1.0h\n\nSound in Town - Ripley Kidner
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261019T093000
 DTEND;TZID=America/Dawson_Creek:20261019T153000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6477@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 6.0h\nNote: Lead
   Prep\n\nSound in Town - Ripley Kidner
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WH2 - Warehouse Junior Tech - OCT22 Saulteau General Band Meeting
-DTSTART;TZID=America/Dawson_Creek:20261020T090000
-DTEND;TZID=America/Dawson_Creek:20261020T120000
-DTSTAMP:20261022T200532Z
-UID:planning-slot-6328@soundintown.com
-DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT22 Saulteau Gener
- al Band Meeting\nAllocated: 3.0h\n\nSound in Town - Ripley Kidner
-LOCATION:Saulteau Band Hall Gym
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT22 - MooseFM Job Fair
 DTSTART;TZID=America/Dawson_Creek:20261020T090000
 DTEND;TZID=America/Dawson_Creek:20261020T120000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6542@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT22 - MooseFM Job 
  Fair\n\nSound in Town - Ripley Kidner
@@ -834,7 +810,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - OCT19 - Pomeroy GP BEO GPRTA Custom
  Quote
 DTSTART;TZID=America/Dawson_Creek:20261020T090000
 DTEND;TZID=America/Dawson_Creek:20261020T130000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6467@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT19 - Pomeroy GP B
  EO GPRTA Custom Quote\n\nSound in Town - Ripley Kidner
@@ -845,17 +821,27 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT22 NLC All Staff Meeting @FSJ
 DTSTART;TZID=America/Dawson_Creek:20261020T090000
 DTEND;TZID=America/Dawson_Creek:20261020T130000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6327@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT22 NLC All Staff 
  Meeting @FSJ\nAllocated: 4.0h\n\nSound in Town - Ripley Kidner
 LOCATION:Northern Lights College Fort St John Campus
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WH2 - Warehouse Junior Tech - OCT22 Saulteau General Band Meeting
+DTSTART;TZID=America/Dawson_Creek:20261020T090000
+DTEND;TZID=America/Dawson_Creek:20261020T120000
+DTSTAMP:20261022T232122Z
+UID:planning-slot-6328@soundintown.com
+DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT22 Saulteau Gener
+ al Band Meeting\nAllocated: 3.0h\n\nSound in Town - Ripley Kidner
+LOCATION:Saulteau Band Hall Gym
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261021T080000
 DTEND;TZID=America/Dawson_Creek:20261021T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5607@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -865,7 +851,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - OCT24 FSJ BEO North Peace Pregnancy
  Care Center Gala 2026 14804 (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20261021T090000
 DTEND;TZID=America/Dawson_Creek:20261021T130000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6596@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT24 FSJ BEO North 
  Peace Pregnancy Care Center Gala 2026 14804 (CUSTOM)\n\nSound in Town - Ri
@@ -878,7 +864,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - OCT24 District of Taylor - Halloween
   Photobooth
 DTSTART;TZID=America/Dawson_Creek:20261022T090000
 DTEND;TZID=America/Dawson_Creek:20261022T100000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6285@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT24 District of Ta
  ylor - Halloween Photobooth\nAllocated: 1.0h\n\nSound in Town - Ripley Kid
@@ -890,7 +876,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT23 FSJ BEO BC Northern R
  eal Estate Board BEO # 15066.pdf
 DTSTART;TZID=America/Dawson_Creek:20261022T090000
 DTEND;TZID=America/Dawson_Creek:20261022T100000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6600@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT23 FSJ B
  EO BC Northern Real Estate Board BEO # 15066.pdf\nNote: Set up a projector
@@ -902,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261022T110000
 DTEND;TZID=America/Dawson_Creek:20261022T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6478@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 4.0h\nNote: Lead
   Deprep — added from Staffing tab one-click\n\nSound in Town - Ripley Ki
@@ -912,7 +898,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261023T080000
 DTEND;TZID=America/Dawson_Creek:20261023T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5609@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -921,7 +907,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT22 - MooseFM Job Fair
 DTSTART;TZID=America/Dawson_Creek:20261023T090000
 DTEND;TZID=America/Dawson_Creek:20261023T120000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6540@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT22 - MooseFM Job 
  Fair\n\nSound in Town - Ripley Kidner
@@ -933,7 +919,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech - OCT22 Saulteau General Band Meeting
 DTSTART;TZID=America/Dawson_Creek:20261023T090000
 DTEND;TZID=America/Dawson_Creek:20261023T120000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6530@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT22 Saulteau Gener
  al Band Meeting\n\nSound in Town - Ripley Kidner
@@ -944,7 +930,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - OCT26-31 Bert Bowes Haunted House 20
  26
 DTSTART;TZID=America/Dawson_Creek:20261023T110000
 DTEND;TZID=America/Dawson_Creek:20261023T140000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6534@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT26-31 Bert Bowes 
  Haunted House 2026\n\nSound in Town - Ripley Kidner
@@ -953,7 +939,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261026T080000
 DTEND;TZID=America/Dawson_Creek:20261026T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5610@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -963,7 +949,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - OCT24 District of Taylor - Halloween
   Photobooth
 DTSTART;TZID=America/Dawson_Creek:20261026T090000
 DTEND;TZID=America/Dawson_Creek:20261026T100000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6533@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT24 District of Ta
  ylor - Halloween Photobooth\n\nSound in Town - Ripley Kidner
@@ -973,7 +959,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261027T080000
 DTEND;TZID=America/Dawson_Creek:20261027T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5611@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -982,7 +968,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261028T080000
 DTEND;TZID=America/Dawson_Creek:20261028T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5612@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -991,7 +977,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261029T080000
 DTEND;TZID=America/Dawson_Creek:20261029T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5613@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1000,7 +986,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261030T080000
 DTEND;TZID=America/Dawson_Creek:20261030T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5614@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1009,7 +995,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261102T080000
 DTEND;TZID=America/Dawson_Creek:20261102T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5615@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1019,7 +1005,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - OCT26-31 Bert Bowes Haunted House 20
  26
 DTSTART;TZID=America/Dawson_Creek:20261102T100000
 DTEND;TZID=America/Dawson_Creek:20261102T130000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6535@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT26-31 Bert Bowes 
  Haunted House 2026\n\nSound in Town - Ripley Kidner
@@ -1028,7 +1014,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261103T080000
 DTEND;TZID=America/Dawson_Creek:20261103T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5616@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1037,7 +1023,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261104T080000
 DTEND;TZID=America/Dawson_Creek:20261104T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5617@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1046,7 +1032,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261105T080000
 DTEND;TZID=America/Dawson_Creek:20261105T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5618@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1055,7 +1041,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261106T080000
 DTEND;TZID=America/Dawson_Creek:20261106T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5619@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1064,7 +1050,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261109T080000
 DTEND;TZID=America/Dawson_Creek:20261109T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5620@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1074,7 +1060,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - NOV07 - FSJ Hospital Foundation Gala
   2026
 DTSTART;TZID=America/Dawson_Creek:20261109T090000
 DTEND;TZID=America/Dawson_Creek:20261109T170000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-6501@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: NOV07 - FSJ Hospital
   Foundation Gala 2026\n\nSound in Town - Ripley Kidner
@@ -1084,7 +1070,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261110T080000
 DTEND;TZID=America/Dawson_Creek:20261110T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5621@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1093,7 +1079,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261111T080000
 DTEND;TZID=America/Dawson_Creek:20261111T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5622@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1102,7 +1088,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261112T080000
 DTEND;TZID=America/Dawson_Creek:20261112T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5623@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1111,7 +1097,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261113T080000
 DTEND;TZID=America/Dawson_Creek:20261113T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5624@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1120,7 +1106,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261116T080000
 DTEND;TZID=America/Dawson_Creek:20261116T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5625@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1129,7 +1115,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261117T080000
 DTEND;TZID=America/Dawson_Creek:20261117T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5626@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1138,7 +1124,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261118T080000
 DTEND;TZID=America/Dawson_Creek:20261118T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5627@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1147,7 +1133,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261119T080000
 DTEND;TZID=America/Dawson_Creek:20261119T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5628@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 7.0h\nNote: PLAC
  EHOLDER - available (assign to event)\n\nSound in Town - Ripley Kidner
@@ -1156,7 +1142,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261120T080000
 DTEND;TZID=America/Dawson_Creek:20261120T150000
-DTSTAMP:20261022T200532Z
+DTSTAMP:20261022T232122Z
 UID:planning-slot-5629@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nNote: PLACEHOLDER - availab
  le (assign to event)\n\nSound in Town - Ripley Kidner
