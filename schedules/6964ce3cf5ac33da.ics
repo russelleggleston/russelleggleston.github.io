@@ -18,7 +18,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - SEP09 NLC DC WelcomeFEST 20
  26 - Photobooth
 DTSTART;TZID=America/Dawson_Creek:20260909T110000
 DTEND;TZID=America/Dawson_Creek:20260909T133000
-DTSTAMP:20261028T053743Z
+DTSTAMP:20261028T150441Z
 UID:planning-slot-6107@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: SEP09 NLC D
  C WelcomeFEST 2026 - Photobooth\nAllocated: 2.5h\n\nSound in Town - Amy Se
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261009T090000
 DTEND;TZID=America/Dawson_Creek:20261009T170000
-DTSTAMP:20261028T053743Z
+DTSTAMP:20261028T150441Z
 UID:planning-slot-6422@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\nAllocated: 8.0h\n\nSound in Town - Amy Seebaran
@@ -41,7 +41,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT21 ARC Resources Worksho
  ps DC
 DTSTART;TZID=America/Dawson_Creek:20261020T080000
 DTEND;TZID=America/Dawson_Creek:20261020T160000
-DTSTAMP:20261028T053743Z
+DTSTAMP:20261028T150441Z
 UID:planning-slot-6576@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT21 ARC R
  esources Workshops DC\nNote: set up w/Russ.\n\nSound in Town - Amy Seebara
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - OCT21 ARC Resources Workshops DC
 DTSTART;TZID=America/Dawson_Creek:20261021T160000
 DTEND;TZID=America/Dawson_Creek:20261021T220000
-DTSTAMP:20261028T053743Z
+DTSTAMP:20261028T150441Z
 UID:planning-slot-6578@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT21 ARC Resources
   Workshops DC\nNote: Strike with Russ.\n\nSound in Town - Amy Seebaran
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - OCT22 NLC All Staff Meeting @FSJ
 DTSTART;TZID=America/Dawson_Creek:20261022T100000
 DTEND;TZID=America/Dawson_Creek:20261022T170000
-DTSTAMP:20261028T053743Z
+DTSTAMP:20261028T150441Z
 UID:planning-slot-6582@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: OCT22 NLC All Staff Meeting
   @FSJ\nAllocated: 7.0h\nNote: Sound Check 11AM. Doors 11:30. Starts Noon a
@@ -75,7 +75,7 @@ SUMMARY:PB2 - Photobooth Setup / Strike Tech - NOV28 Dawson Creek Dental C
  hristmas Party Photobooth
 DTSTART;TZID=America/Dawson_Creek:20261128T100000
 DTEND;TZID=America/Dawson_Creek:20261128T110000
-DTSTAMP:20261028T053743Z
+DTSTAMP:20261028T150441Z
 UID:planning-slot-6399@soundintown.com
 DESCRIPTION:Role: PB2 - Photobooth Setup / Strike Tech\nEvent: NOV28 Dawso
  n Creek Dental Christmas Party Photobooth\nAllocated: 1.0h\nNote: Set up t
@@ -87,7 +87,7 @@ SUMMARY:PB1 - Onsite Photo booth Tech - NOV28 Dawson Creek Dental Christma
  s Party Photobooth
 DTSTART;TZID=America/Dawson_Creek:20261128T170000
 DTEND;TZID=America/Dawson_Creek:20261129T000000
-DTSTAMP:20261028T053743Z
+DTSTAMP:20261028T150441Z
 UID:planning-slot-6400@soundintown.com
 DESCRIPTION:Role: PB1 - Onsite Photo booth Tech\nEvent: NOV28 Dawson Creek
   Dental Christmas Party Photobooth\nNote: Starts at 5PM. Ends at midnight 
