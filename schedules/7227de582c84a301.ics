@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261005T090000
 DTEND;TZID=America/Dawson_Creek:20261005T170000
-DTSTAMP:20261029T151215Z
+DTSTAMP:20261029T210608Z
 UID:planning-slot-6369@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\n\nSound in Town - Judah Kay
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261008T160000
 DTEND;TZID=America/Dawson_Creek:20261009T000000
-DTSTAMP:20261029T151215Z
+DTSTAMP:20261029T210608Z
 UID:planning-slot-6381@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\n\nSound in Town - Judah Kay
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261009T090000
 DTEND;TZID=America/Dawson_Creek:20261009T170000
-DTSTAMP:20261029T151215Z
+DTSTAMP:20261029T210608Z
 UID:planning-slot-6387@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\nAllocated: 8.0h\n\nSound in Town - Judah Kay
@@ -51,7 +51,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT20 NRM Town Hall at Rama
  da
 DTSTART;TZID=America/Dawson_Creek:20261018T090000
 DTEND;TZID=America/Dawson_Creek:20261018T160000
-DTSTAMP:20261029T151215Z
+DTSTAMP:20261029T210608Z
 UID:planning-slot-6565@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT20 NRM T
  own Hall at Ramada\n\nSound in Town - Judah Kay
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper
 DTSTART;TZID=America/Dawson_Creek:20261020T130000
 DTEND;TZID=America/Dawson_Creek:20261020T210000
-DTSTAMP:20261029T151215Z
+DTSTAMP:20261029T210608Z
 UID:planning-slot-6460@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nAllocated: 8.0h\n\nSound in Tow
  n - Judah Kay
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper
 DTSTART;TZID=America/Dawson_Creek:20261021T170000
 DTEND;TZID=America/Dawson_Creek:20261021T210000
-DTSTAMP:20261029T151215Z
+DTSTAMP:20261029T210608Z
 UID:planning-slot-6479@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nNote: I'm not sure on the times
   yet for thisone.\n\nSound in Town - Judah Kay
@@ -80,7 +80,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT28-29 Collaborative Stew
  ardship Forum Meeting
 DTSTART;TZID=America/Dawson_Creek:20261029T163000
 DTEND;TZID=America/Dawson_Creek:20261029T200000
-DTSTAMP:20261029T151215Z
+DTSTAMP:20261029T210608Z
 UID:planning-slot-6643@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT28-29 Co
  llaborative Stewardship Forum Meeting\nNote: @ Ramada Northern Grand Hotel
@@ -94,7 +94,7 @@ SUMMARY:SET/STR4 - Event Helper - NOV07 - FSJ Hospital Foundation Gala 202
  6
 DTSTART;TZID=America/Dawson_Creek:20261103T080000
 DTEND;TZID=America/Dawson_Creek:20261103T160000
-DTSTAMP:20261029T151215Z
+DTSTAMP:20261029T210608Z
 UID:planning-slot-6498@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: NOV07 - FSJ Hospital Fou
  ndation Gala 2026\n\nSound in Town - Judah Kay

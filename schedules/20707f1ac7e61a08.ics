@@ -18,7 +18,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - SEP12 - Evangel Tumbler Ridge Band
  Production
 DTSTART;TZID=America/Dawson_Creek:20260912T090000
 DTEND;TZID=America/Dawson_Creek:20260912T234500
-DTSTAMP:20261029T151213Z
+DTSTAMP:20261029T210607Z
 UID:planning-slot-6008@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: SEP12 - Evangel Tum
  bler Ridge Band Production\nAllocated: 8.0h\nNote: Timing will change\n\nS
@@ -30,7 +30,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - SEP22-24 Saulteau - Healin
  g The Land Conference AV
 DTSTART;TZID=America/Dawson_Creek:20260921T090000
 DTEND;TZID=America/Dawson_Creek:20260921T170000
-DTSTAMP:20261029T151213Z
+DTSTAMP:20261029T210607Z
 UID:planning-slot-2800@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: SEP22-24 S
  aulteau - Healing The Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SE
@@ -44,7 +44,7 @@ SUMMARY:CO - Camera Operator - SEP22-24 Saulteau - Healing The Land Confer
  ence AV
 DTSTART;TZID=America/Dawson_Creek:20260922T090000
 DTEND;TZID=America/Dawson_Creek:20260922T170000
-DTSTAMP:20261029T151213Z
+DTSTAMP:20261029T210607Z
 UID:planning-slot-2795@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: SEP22-24 Saulteau - Healing
   The Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Saulteau -
@@ -58,7 +58,7 @@ SUMMARY:CO - Camera Operator - SEP22-24 Saulteau - Healing The Land Confer
  ence AV
 DTSTART;TZID=America/Dawson_Creek:20260923T090000
 DTEND;TZID=America/Dawson_Creek:20260923T170000
-DTSTAMP:20261029T151213Z
+DTSTAMP:20261029T210607Z
 UID:planning-slot-2798@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: SEP22-24 Saulteau - Healing
   The Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Saulteau -
@@ -72,7 +72,7 @@ SUMMARY:CO - Camera Operator - SEP22-24 Saulteau - Healing The Land Confer
  ence AV
 DTSTART;TZID=America/Dawson_Creek:20260924T090000
 DTEND;TZID=America/Dawson_Creek:20260924T170000
-DTSTAMP:20261029T151213Z
+DTSTAMP:20261029T210607Z
 UID:planning-slot-2799@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: SEP22-24 Saulteau - Healing
   The Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SEP22-24 Saulteau -
@@ -86,7 +86,7 @@ SUMMARY:SET/STR2 - Setup & Strike Junior Tech - SEP22-24 Saulteau - Healin
  g The Land Conference AV
 DTSTART;TZID=America/Dawson_Creek:20260925T090000
 DTEND;TZID=America/Dawson_Creek:20260925T170000
-DTSTAMP:20261029T151213Z
+DTSTAMP:20261029T210607Z
 UID:planning-slot-2801@soundintown.com
 DESCRIPTION:Role: SET/STR2 - Setup & Strike Junior Tech\nEvent: SEP22-24 S
  aulteau - Healing The Land Conference AV\nAllocated: 8.0h\nNote: EVENT: SE
@@ -100,7 +100,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - INSTALL - S00190 - NorthRiver Midst
  ream -  Charlie Lake\, Sandow Sunny
 DTSTART;TZID=America/Dawson_Creek:20261012T070000
 DTEND;TZID=America/Dawson_Creek:20261012T170000
-DTSTAMP:20261029T151213Z
+DTSTAMP:20261029T210607Z
 UID:planning-slot-6472@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: INSTALL - S00190 - 
  NorthRiver Midstream -  Charlie Lake\, Sandow Sunny\nAllocated: 8.0h\nNote
@@ -112,7 +112,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT21 GP BEO Kelt Exploration (CUST
  OM)
 DTSTART;TZID=America/Dawson_Creek:20261020T140000
 DTEND;TZID=America/Dawson_Creek:20261020T180000
-DTSTAMP:20261029T151213Z
+DTSTAMP:20261029T210607Z
 UID:planning-slot-6522@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT21 GP BEO Kelt E
  xploration (CUSTOM)\nAllocated: 4.0h\nNote: Access for setup on the 20th i
@@ -128,7 +128,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT21 GP BEO Kelt Exploration (CUST
  OM)
 DTSTART;TZID=America/Dawson_Creek:20261021T060000
 DTEND;TZID=America/Dawson_Creek:20261021T150000
-DTSTAMP:20261029T151213Z
+DTSTAMP:20261029T210607Z
 UID:planning-slot-6548@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT21 GP BEO Kelt E
  xploration (CUSTOM)\nAllocated: 8.0h\nNote: Meet David/client at 7AM\, unl
@@ -141,7 +141,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT21 GP BEO Kelt Explorati
  on (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20261021T153000
 DTEND;TZID=America/Dawson_Creek:20261021T180000
-DTSTAMP:20261029T151213Z
+DTSTAMP:20261029T210607Z
 UID:planning-slot-6554@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT21 GP BE
  O Kelt Exploration (CUSTOM)\nNote: Strike/ends around 4PM.\n\nSound in Tow
