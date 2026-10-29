@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260902T080000
 DTEND;TZID=America/Dawson_Creek:20260902T170000
-DTSTAMP:20261028T210113Z
+DTSTAMP:20261029T054401Z
 UID:planning-slot-5198@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260903T080000
 DTEND;TZID=America/Dawson_Creek:20260903T170000
-DTSTAMP:20261028T210113Z
+DTSTAMP:20261029T054401Z
 UID:planning-slot-5199@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - AUG27 - VJV Video Cattle Auction
 DTSTART;TZID=America/Dawson_Creek:20260904T090000
 DTEND;TZID=America/Dawson_Creek:20260904T170000
-DTSTAMP:20261028T210113Z
+DTSTAMP:20261029T054401Z
 UID:planning-slot-3389@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: AUG27 - VJV Video Cattle Auction
  \nAllocated: 6.0h\nNote: EVENT: SEP04 - VJV Video Cattle Auction\nhttps://
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand
 DTSTART;TZID=America/Dawson_Creek:20260905T080000
 DTEND;TZID=America/Dawson_Creek:20260905T170000
-DTSTAMP:20261028T210113Z
+DTSTAMP:20261029T054401Z
 UID:planning-slot-5200@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nNote: MEETING POIN
  T: Venue\n\nHours may change\n\nSound in Town - Matt Currie
@@ -57,7 +57,7 @@ SUMMARY:L1 - Lighting Engineer - SEP19 Pomeroy GP 50th Stompede Anniversar
  y (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20260918T190000
 DTEND;TZID=America/Dawson_Creek:20260918T230000
-DTSTAMP:20261028T210113Z
+DTSTAMP:20261029T054401Z
 UID:planning-slot-6175@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: SEP19 Pomeroy GP 50th Sto
  mpede Anniversary (CUSTOM)\nNote: Finish setting up Grande Ballroom with M
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:L1 - Lighting Engineer - SEP19 - Nitehawk Fundraiser Comedy Event
 DTSTART;TZID=America/Dawson_Creek:20260919T080000
 DTEND;TZID=America/Dawson_Creek:20260919T150000
-DTSTAMP:20261028T210113Z
+DTSTAMP:20261029T054401Z
 UID:planning-slot-6176@soundintown.com
 DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: SEP19 - Nitehawk Fundrais
  er Comedy Event\nAllocated: 7.0h\nNote: If your Pomeroy set up is done on 
@@ -84,7 +84,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - SEP19 - Nitehawk Fundraiser
   Comedy Event
 DTSTART;TZID=America/Dawson_Creek:20260920T080000
 DTEND;TZID=America/Dawson_Creek:20260920T160000
-DTSTAMP:20261028T210113Z
+DTSTAMP:20261029T054401Z
 UID:planning-slot-6240@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: SEP19 - Nit
  ehawk Fundraiser Comedy Event\nAllocated: 7.0h\nNote: Strike at Evergreen 
@@ -97,7 +97,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT19 - Pomeroy GP BEO GPRTA Custom
   Quote
 DTSTART;TZID=America/Dawson_Creek:20261018T160000
 DTEND;TZID=America/Dawson_Creek:20261018T210000
-DTSTAMP:20261028T210113Z
+DTSTAMP:20261029T054401Z
 UID:planning-slot-6556@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT19 - Pomeroy GP 
  BEO GPRTA Custom Quote\nNote: Meet Russell in Grande Ballroom at Pomeroy t
