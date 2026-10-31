@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - SEP12 - Harvest Moon Festival
 DTSTART;TZID=America/Dawson_Creek:20260911T180000
 DTEND;TZID=America/Dawson_Creek:20260911T234500
-DTSTAMP:20261030T204617Z
+DTSTAMP:20261031T053621Z
 UID:planning-slot-6116@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: SEP12 - Harvest Moon Festival
  \n\nSound in Town - Derek Wilder
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - SEP12 - Harvest Moon Festival
 DTSTART;TZID=America/Dawson_Creek:20260912T110000
 DTEND;TZID=America/Dawson_Creek:20260912T233000
-DTSTAMP:20261030T204617Z
+DTSTAMP:20261031T053621Z
 UID:planning-slot-6117@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: SEP12 - Harvest Moon Festival
  \n\nSound in Town - Derek Wilder
@@ -38,7 +38,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - SEP19 - Nitehawk Fundraiser
   Comedy Event
 DTSTART;TZID=America/Dawson_Creek:20260918T093000
 DTEND;TZID=America/Dawson_Creek:20260918T180000
-DTSTAMP:20261030T204617Z
+DTSTAMP:20261031T053621Z
 UID:planning-slot-6138@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: SEP19 - Nit
  ehawk Fundraiser Comedy Event\nAllocated: 6.5h\n\nSound in Town - Derek Wi
@@ -50,7 +50,7 @@ SUMMARY:SET/STR3 - Setup & Strike Stage Hand - SEP19 - Nitehawk Fundraiser
   Comedy Event
 DTSTART;TZID=America/Dawson_Creek:20260920T070000
 DTEND;TZID=America/Dawson_Creek:20260920T120000
-DTSTAMP:20261030T204617Z
+DTSTAMP:20261031T053621Z
 UID:planning-slot-6141@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: SEP19 - Nit
  ehawk Fundraiser Comedy Event\n\nSound in Town - Derek Wilder
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR4 - Event Helper - OCT21 ARC Resources Workshops DC
 DTSTART;TZID=America/Dawson_Creek:20261021T160000
 DTEND;TZID=America/Dawson_Creek:20261021T220000
-DTSTAMP:20261030T204617Z
+DTSTAMP:20261031T053621Z
 UID:planning-slot-6567@soundintown.com
 DESCRIPTION:Role: SET/STR4 - Event Helper\nEvent: OCT21 ARC Resources Work
  shops DC\n\nSound in Town - Derek Wilder
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Shift - OCT22 - MooseFM Job Fair
 DTSTART;TZID=America/Dawson_Creek:20261022T090000
 DTEND;TZID=America/Dawson_Creek:20261022T100000
-DTSTAMP:20261030T204617Z
+DTSTAMP:20261031T053621Z
 UID:planning-slot-6568@soundintown.com
 DESCRIPTION:Role: Shift\nEvent: OCT22 - MooseFM Job Fair\nAllocated: 1.0h
  \n\nSound in Town - Derek Wilder
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:CO - Camera Operator - OCT22 NLC All Staff Meeting @FSJ
 DTSTART;TZID=America/Dawson_Creek:20261022T100000
 DTEND;TZID=America/Dawson_Creek:20261022T170000
-DTSTAMP:20261030T204617Z
+DTSTAMP:20261031T053621Z
 UID:planning-slot-6569@soundintown.com
 DESCRIPTION:Role: CO - Camera Operator\nEvent: OCT22 NLC All Staff Meeting
   @FSJ\nAllocated: 6.0h\n\nSound in Town - Derek Wilder
@@ -93,7 +93,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV07 - FSJ Hospital Foundation Gal
  a 2026
 DTSTART;TZID=America/Dawson_Creek:20261107T080000
 DTEND;TZID=America/Dawson_Creek:20261108T233000
-DTSTAMP:20261030T204617Z
+DTSTAMP:20261031T053621Z
 UID:planning-slot-6608@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV07 - FSJ Hospita
  l Foundation Gala 2026\nNote: Photos\n\nSound in Town - Derek Wilder
