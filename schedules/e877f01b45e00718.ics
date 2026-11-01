@@ -18,7 +18,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV02 GP BEO SGS Sulphur experts- Deh
  ydration and EG Grande Ballroom 1 475314
 DTSTART;TZID=America/Dawson_Creek:20261102T061500
 DTEND;TZID=America/Dawson_Creek:20261102T153000
-DTSTAMP:20261101T150454Z
+DTSTAMP:20261101T202916Z
 UID:planning-slot-6675@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV02 GP BEO SGS Sulp
  hur experts- Dehydration and EG Grande Ballroom 1 475314\nAllocated: 8.0h
@@ -32,7 +32,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV04 GP BEO County of GP 4th & 5th\,
   2026 Salon C 1081741
 DTSTART;TZID=America/Dawson_Creek:20261104T064500
 DTEND;TZID=America/Dawson_Creek:20261104T160000
-DTSTAMP:20261101T150454Z
+DTSTAMP:20261101T202916Z
 UID:planning-slot-6672@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV04 GP BEO County o
  f GP 4th & 5th\, 2026 Salon C 1081741\nAllocated: 8.0h\nNote: [BEO on_site
@@ -40,5 +40,19 @@ DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV04 GP BEO County o
  own - Kayla Pelgrim
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
  GP Pomeroy Hotel\, Salon Ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO1 - BEO Tech (Check-in) - NOV07 GP BEO County of GP Fire Servic
+ es Nov 6-8th\, 26 Boardroom 1053581
+DTSTART;TZID=America/Dawson_Creek:20261107T064500
+DTEND;TZID=America/Dawson_Creek:20261107T160000
+DTSTAMP:20261101T202916Z
+UID:planning-slot-6678@soundintown.com
+DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV07 GP BEO County o
+ f GP Fire Services Nov 6-8th\, 26 Boardroom 1053581\nAllocated: 8.0h\nNote
+ : [BEO on_site] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Boa
+ rdr\n\nSound in Town - Kayla Pelgrim
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Board Room
 END:VEVENT
 END:VCALENDAR
