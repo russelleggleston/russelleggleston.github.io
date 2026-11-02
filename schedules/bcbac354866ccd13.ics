@@ -18,63 +18,105 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV02 GP BEO SGS Sulphur experts- D
  ehydration and EG Grande Ballroom 1 475314
 DTSTART;TZID=America/Dawson_Creek:20261101T160000
 DTEND;TZID=America/Dawson_Creek:20261102T043000
-DTSTAMP:20261101T202910Z
+DTSTAMP:20261102T055743Z
 UID:planning-slot-6674@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV02 GP BEO SGS Su
  lphur experts- Dehydration and EG Grande Ballroom 1 475314\nAllocated: 12.
  5h\nNote: [BEO setup] NOV02 GP BEO SGS Sulphur experts- Dehydration and EG
   Grande \n\nSound in Town - Erica Fisher
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Grande Ballroom
+ GP Pomeroy Hotel\, Grande Ballroom 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV02 GP BEO SGS Sulphur experts- D
  ehydration and EG Grande Ballroom 1 475314
 DTSTART;TZID=America/Dawson_Creek:20261102T153000
 DTEND;TZID=America/Dawson_Creek:20261102T161500
-DTSTAMP:20261101T202910Z
+DTSTAMP:20261102T055743Z
 UID:planning-slot-6676@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV02 GP BEO SGS Su
  lphur experts- Dehydration and EG Grande Ballroom 1 475314\nAllocated: 0.8
  h\nNote: [BEO strike] NOV02 GP BEO SGS Sulphur experts- Dehydration and EG
   Grande \n\nSound in Town - Erica Fisher
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Grande Ballroom
+ GP Pomeroy Hotel\, Grande Ballroom 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV03 GP BEO SGS Sulphur experts- D
+ ehydration and EG Grande Ballroom 1 475314
+DTSTART;TZID=America/Dawson_Creek:20261103T153000
+DTEND;TZID=America/Dawson_Creek:20261103T161500
+DTSTAMP:20261102T055743Z
+UID:planning-slot-6683@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV03 GP BEO SGS Su
+ lphur experts- Dehydration and EG Grande Ballroom 1 475314\nAllocated: 0.8
+ h\nNote: [BEO strike] NOV03 GP BEO SGS Sulphur experts- Dehydration and EG
+  Grande \n\nSound in Town - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Grande Ballroom 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV04 GP BEO County of GP 4th & 5th
  \, 2026 Salon C 1081741
 DTSTART;TZID=America/Dawson_Creek:20261103T160000
 DTEND;TZID=America/Dawson_Creek:20261104T050000
-DTSTAMP:20261101T202910Z
+DTSTAMP:20261102T055743Z
 UID:planning-slot-6671@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV04 GP BEO County
   of GP 4th & 5th\, 2026 Salon C 1081741\nAllocated: 13.0h\nNote: [BEO setu
  p] NOV04 GP BEO County of GP 4th & 5th\, 2026 Salon C 1081741\n\nSound in 
  Town - Erica Fisher
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Salon Ballroom
+ GP Pomeroy Hotel\, Salon C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV04 GP BEO SGS Sulphur experts- D
+ ehydration and EG Grande Ballroom 1 475314
+DTSTART;TZID=America/Dawson_Creek:20261104T153000
+DTEND;TZID=America/Dawson_Creek:20261104T161500
+DTSTAMP:20261102T055743Z
+UID:planning-slot-6681@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV04 GP BEO SGS Su
+ lphur experts- Dehydration and EG Grande Ballroom 1 475314\nAllocated: 0.8
+ h\nNote: [BEO strike] NOV04 GP BEO SGS Sulphur experts- Dehydration and EG
+  Grande \n\nSound in Town - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Grande Ballroom 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV04 GP BEO County of GP 4th & 5th
  \, 2026 Salon C 1081741
 DTSTART;TZID=America/Dawson_Creek:20261104T160000
 DTEND;TZID=America/Dawson_Creek:20261104T164500
-DTSTAMP:20261101T202910Z
+DTSTAMP:20261102T055743Z
 UID:planning-slot-6673@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV04 GP BEO County
   of GP 4th & 5th\, 2026 Salon C 1081741\nAllocated: 0.8h\nNote: [BEO strik
  e] NOV04 GP BEO County of GP 4th & 5th\, 2026 Salon C 1081741\n\nSound in 
  Town - Erica Fisher
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Salon Ballroom
+ GP Pomeroy Hotel\, Salon C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV05 GP BEO County of GP 4th & 5th
+ \, 2026 Salon C 1081741
+DTSTART;TZID=America/Dawson_Creek:20261105T160000
+DTEND;TZID=America/Dawson_Creek:20261105T164500
+DTSTAMP:20261102T055743Z
+UID:planning-slot-6685@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV05 GP BEO County
+  of GP 4th & 5th\, 2026 Salon C 1081741\nAllocated: 0.8h\nNote: [BEO strik
+ e] NOV05 GP BEO County of GP 4th & 5th\, 2026 Salon C 1081741\n\nSound in 
+ Town - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Salon C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
  ices Nov 6-8th\, 26 Boardroom 1053581
 DTSTART;TZID=America/Dawson_Creek:20261106T160000
 DTEND;TZID=America/Dawson_Creek:20261107T050000
-DTSTAMP:20261101T202910Z
+DTSTAMP:20261102T055743Z
 UID:planning-slot-6677@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
   of GP Fire Services Nov 6-8th\, 26 Boardroom 1053581\nAllocated: 13.0h\nN
@@ -88,7 +130,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
  ices Nov 6-8th\, 26 Boardroom 1053581
 DTSTART;TZID=America/Dawson_Creek:20261107T160000
 DTEND;TZID=America/Dawson_Creek:20261107T164500
-DTSTAMP:20261101T202910Z
+DTSTAMP:20261102T055743Z
 UID:planning-slot-6679@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
   of GP Fire Services Nov 6-8th\, 26 Boardroom 1053581\nAllocated: 0.8h\nNo
