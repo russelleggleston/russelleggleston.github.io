@@ -18,7 +18,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV02 GP BEO SGS Sulphur experts- D
  ehydration and EG Grande Ballroom 1 475314
 DTSTART;TZID=America/Dawson_Creek:20261101T160000
 DTEND;TZID=America/Dawson_Creek:20261102T043000
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6674@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV02 GP BEO SGS Su
  lphur experts- Dehydration and EG Grande Ballroom 1 475314\nAllocated: 12.
@@ -32,7 +32,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV02 GP BEO SGS Sulphur experts- D
  ehydration and EG Grande Ballroom 1 475314
 DTSTART;TZID=America/Dawson_Creek:20261102T153000
 DTEND;TZID=America/Dawson_Creek:20261102T161500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6676@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV02 GP BEO SGS Su
  lphur experts- Dehydration and EG Grande Ballroom 1 475314\nAllocated: 0.8
@@ -46,7 +46,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV03 GP BEO SGS Sulphur experts- D
  ehydration and EG Grande Ballroom 1 475314
 DTSTART;TZID=America/Dawson_Creek:20261103T153000
 DTEND;TZID=America/Dawson_Creek:20261103T161500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6683@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV03 GP BEO SGS Su
  lphur experts- Dehydration and EG Grande Ballroom 1 475314\nAllocated: 0.8
@@ -60,7 +60,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV04 GP BEO County of GP 4th & 5th
  \, 2026 Salon C 1081741
 DTSTART;TZID=America/Dawson_Creek:20261103T160000
 DTEND;TZID=America/Dawson_Creek:20261104T050000
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6671@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV04 GP BEO County
   of GP 4th & 5th\, 2026 Salon C 1081741\nAllocated: 13.0h\nNote: [BEO setu
@@ -74,7 +74,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV04 GP BEO SGS Sulphur experts- D
  ehydration and EG Grande Ballroom 1 475314
 DTSTART;TZID=America/Dawson_Creek:20261104T153000
 DTEND;TZID=America/Dawson_Creek:20261104T161500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6681@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV04 GP BEO SGS Su
  lphur experts- Dehydration and EG Grande Ballroom 1 475314\nAllocated: 0.8
@@ -88,7 +88,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV04 GP BEO County of GP 4th & 5th
  \, 2026 Salon C 1081741
 DTSTART;TZID=America/Dawson_Creek:20261104T160000
 DTEND;TZID=America/Dawson_Creek:20261104T164500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6673@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV04 GP BEO County
   of GP 4th & 5th\, 2026 Salon C 1081741\nAllocated: 0.8h\nNote: [BEO strik
@@ -102,7 +102,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV06 GP BEO WUI Symposium - County
   of Grande Prairie Grande Ballroom 1053581
 DTSTART;TZID=America/Dawson_Creek:20261105T160000
 DTEND;TZID=America/Dawson_Creek:20261106T033000
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6686@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV06 GP BEO WUI Sy
  mposium - County of Grande Prairie Grande Ballroom 1053581\nAllocated: 11.
@@ -112,25 +112,11 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
  GP Pomeroy Hotel\, Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV06 GP BEO County of GP Fire Serv
- ices Nov 6-8th\, 26 Salon Ballroom 1053581
-DTSTART;TZID=America/Dawson_Creek:20261105T160000
-DTEND;TZID=America/Dawson_Creek:20261106T033000
-DTSTAMP:20261114T005215Z
-UID:planning-slot-6714@soundintown.com
-DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV06 GP BEO County
-  of GP Fire Services Nov 6-8th\, 26 Salon Ballroom 1053581\nAllocated: 11.
- 5h\nNote: [BEO setup] NOV06 GP BEO County of GP Fire Services Nov 6-8th\, 
- 26 Salon \n\nSound in Town - Erica Fisher
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Salon Ballroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV05 GP BEO County of GP 4th & 5th
  \, 2026 Salon C 1081741
 DTSTART;TZID=America/Dawson_Creek:20261105T160000
 DTEND;TZID=America/Dawson_Creek:20261105T164500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6685@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV05 GP BEO County
   of GP 4th & 5th\, 2026 Salon C 1081741\nAllocated: 0.8h\nNote: [BEO strik
@@ -140,25 +126,39 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
  GP Pomeroy Hotel\, Salon C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV06 GP BEO County of GP Fire Serv
+ ices Nov 6-8th\, 26 Salon Ballroom 1053581
+DTSTART;TZID=America/Dawson_Creek:20261105T160000
+DTEND;TZID=America/Dawson_Creek:20261106T033000
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6714@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV06 GP BEO County
+  of GP Fire Services Nov 6-8th\, 26 Salon Ballroom 1053581\nAllocated: 11.
+ 5h\nNote: [BEO setup] NOV06 GP BEO County of GP Fire Services Nov 6-8th\, 
+ 26 Salon \n\nSound in Town - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Salon Ballroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
- ices Nov 6-8th\, 26 Willow 1053581
+ ices Nov 6-8th\, 26 Salon C 1053581
 DTSTART;TZID=America/Dawson_Creek:20261106T160000
 DTEND;TZID=America/Dawson_Creek:20261107T050000
-DTSTAMP:20261114T005215Z
-UID:planning-slot-6695@soundintown.com
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6692@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
-  of GP Fire Services Nov 6-8th\, 26 Willow 1053581\nAllocated: 13.0h\nNote
- : [BEO setup] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Willo
- w\n\nSound in Town - Erica Fisher
+  of GP Fire Services Nov 6-8th\, 26 Salon C 1053581\nAllocated: 13.0h\nNot
+ e: [BEO setup] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Salo
+ n \n\nSound in Town - Erica Fisher
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Willow Room
+ GP Pomeroy Hotel\, Salon C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
  ices Nov 6-8th\, 26 Poplar 1053581
 DTSTART;TZID=America/Dawson_Creek:20261106T160000
 DTEND;TZID=America/Dawson_Creek:20261107T050000
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6689@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
   of GP Fire Services Nov 6-8th\, 26 Poplar 1053581\nAllocated: 13.0h\nNote
@@ -172,7 +172,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
  ices Nov 6-8th\, 26 Salon AB 1053581
 DTSTART;TZID=America/Dawson_Creek:20261106T160000
 DTEND;TZID=America/Dawson_Creek:20261107T040000
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6698@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
   of GP Fire Services Nov 6-8th\, 26 Salon AB 1053581\nAllocated: 12.0h\nNo
@@ -183,24 +183,10 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
- ices Nov 6-8th\, 26 Salon C 1053581
-DTSTART;TZID=America/Dawson_Creek:20261106T160000
-DTEND;TZID=America/Dawson_Creek:20261107T050000
-DTSTAMP:20261114T005215Z
-UID:planning-slot-6692@soundintown.com
-DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
-  of GP Fire Services Nov 6-8th\, 26 Salon C 1053581\nAllocated: 13.0h\nNot
- e: [BEO setup] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Salo
- n \n\nSound in Town - Erica Fisher
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Salon C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
  ices Nov 6-8th\, 26 Boardroom 1053581
 DTSTART;TZID=America/Dawson_Creek:20261106T160000
 DTEND;TZID=America/Dawson_Creek:20261107T050000
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6677@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
   of GP Fire Services Nov 6-8th\, 26 Boardroom 1053581\nAllocated: 13.0h\nN
@@ -210,11 +196,39 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
  GP Pomeroy Hotel\, Board Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
+ ices Nov 6-8th\, 26 Willow 1053581
+DTSTART;TZID=America/Dawson_Creek:20261106T160000
+DTEND;TZID=America/Dawson_Creek:20261107T050000
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6695@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
+  of GP Fire Services Nov 6-8th\, 26 Willow 1053581\nAllocated: 13.0h\nNote
+ : [BEO setup] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Willo
+ w\n\nSound in Town - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Willow Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV06 GP BEO County of GP Fire Serv
+ ices Nov 6-8th\, 26 Salon Ballroom 1053581
+DTSTART;TZID=America/Dawson_Creek:20261106T230000
+DTEND;TZID=America/Dawson_Creek:20261106T234500
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6716@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV06 GP BEO County
+  of GP Fire Services Nov 6-8th\, 26 Salon Ballroom 1053581\nAllocated: 0.8
+ h\nNote: [BEO strike] NOV06 GP BEO County of GP Fire Services Nov 6-8th\, 
+ 26 Salon \n\nSound in Town - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Salon Ballroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO Refresh Ministries Gra
  nde Ballroom 642700
 DTSTART;TZID=America/Dawson_Creek:20261106T230000
 DTEND;TZID=America/Dawson_Creek:20261107T143000
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6711@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO Refres
  h Ministries Grande Ballroom 642700\nAllocated: 8.0h\nNote: [BEO setup] NO
@@ -228,7 +242,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV06 GP BEO WUI Symposium - County
   of Grande Prairie Grande Ballroom 1053581
 DTSTART;TZID=America/Dawson_Creek:20261106T230000
 DTEND;TZID=America/Dawson_Creek:20261106T234500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6688@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV06 GP BEO WUI Sy
  mposium - County of Grande Prairie Grande Ballroom 1053581\nAllocated: 0.8
@@ -238,25 +252,39 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
  GP Pomeroy Hotel\, Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV06 GP BEO County of GP Fire Serv
- ices Nov 6-8th\, 26 Salon Ballroom 1053581
-DTSTART;TZID=America/Dawson_Creek:20261106T230000
-DTEND;TZID=America/Dawson_Creek:20261106T234500
-DTSTAMP:20261114T005215Z
-UID:planning-slot-6716@soundintown.com
-DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV06 GP BEO County
-  of GP Fire Services Nov 6-8th\, 26 Salon Ballroom 1053581\nAllocated: 0.8
- h\nNote: [BEO strike] NOV06 GP BEO County of GP Fire Services Nov 6-8th\, 
- 26 Salon \n\nSound in Town - Erica Fisher
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
+ ices Nov 6-8th\, 26 Willow 1053581
+DTSTART;TZID=America/Dawson_Creek:20261107T160000
+DTEND;TZID=America/Dawson_Creek:20261107T164500
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6697@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
+  of GP Fire Services Nov 6-8th\, 26 Willow 1053581\nAllocated: 0.8h\nNote:
+  [BEO strike] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Willo
+ w\n\nSound in Town - Erica Fisher
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Salon Ballroom
+ GP Pomeroy Hotel\, Willow Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
+ ices Nov 6-8th\, 26 Poplar 1053581
+DTSTART;TZID=America/Dawson_Creek:20261107T160000
+DTEND;TZID=America/Dawson_Creek:20261107T164500
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6691@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
+  of GP Fire Services Nov 6-8th\, 26 Poplar 1053581\nAllocated: 0.8h\nNote:
+  [BEO strike] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Popla
+ r\n\nSound in Town - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Poplar Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
  ices Nov 6-8th\, 26 Boardroom 1053581
 DTSTART;TZID=America/Dawson_Creek:20261107T160000
 DTEND;TZID=America/Dawson_Creek:20261107T164500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6679@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
   of GP Fire Services Nov 6-8th\, 26 Boardroom 1053581\nAllocated: 0.8h\nNo
@@ -270,7 +298,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
  ices Nov 6-8th\, 26 Salon AB 1053581
 DTSTART;TZID=America/Dawson_Creek:20261107T160000
 DTEND;TZID=America/Dawson_Creek:20261107T164500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6700@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
   of GP Fire Services Nov 6-8th\, 26 Salon AB 1053581\nAllocated: 0.8h\nNot
@@ -281,24 +309,10 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
- ices Nov 6-8th\, 26 Willow 1053581
-DTSTART;TZID=America/Dawson_Creek:20261107T160000
-DTEND;TZID=America/Dawson_Creek:20261107T164500
-DTSTAMP:20261114T005215Z
-UID:planning-slot-6697@soundintown.com
-DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
-  of GP Fire Services Nov 6-8th\, 26 Willow 1053581\nAllocated: 0.8h\nNote:
-  [BEO strike] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Willo
- w\n\nSound in Town - Erica Fisher
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Willow Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
  ices Nov 6-8th\, 26 Salon C 1053581
 DTSTART;TZID=America/Dawson_Creek:20261107T160000
 DTEND;TZID=America/Dawson_Creek:20261107T164500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6694@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
   of GP Fire Services Nov 6-8th\, 26 Salon C 1053581\nAllocated: 0.8h\nNote
@@ -308,25 +322,11 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
  GP Pomeroy Hotel\, Salon C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO County of GP Fire Serv
- ices Nov 6-8th\, 26 Poplar 1053581
-DTSTART;TZID=America/Dawson_Creek:20261107T160000
-DTEND;TZID=America/Dawson_Creek:20261107T164500
-DTSTAMP:20261114T005215Z
-UID:planning-slot-6691@soundintown.com
-DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO County
-  of GP Fire Services Nov 6-8th\, 26 Poplar 1053581\nAllocated: 0.8h\nNote:
-  [BEO strike] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Popla
- r\n\nSound in Town - Erica Fisher
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Poplar Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV07 GP BEO Refresh Ministries Gra
  nde Ballroom 642700
 DTSTART;TZID=America/Dawson_Creek:20261107T210000
 DTEND;TZID=America/Dawson_Creek:20261107T214500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6713@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV07 GP BEO Refres
  h Ministries Grande Ballroom 642700\nNote: [BEO strike] NOV07 GP BEO Refre
@@ -336,24 +336,10 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV08 GP BEO County of GP Fire Serv
- ices Nov 6-8th\, 26 Salon C 1053581
-DTSTART;TZID=America/Dawson_Creek:20261108T160000
-DTEND;TZID=America/Dawson_Creek:20261108T164500
-DTSTAMP:20261114T005215Z
-UID:planning-slot-6702@soundintown.com
-DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV08 GP BEO County
-  of GP Fire Services Nov 6-8th\, 26 Salon C 1053581\nAllocated: 0.8h\nNote
- : [BEO strike] NOV08 GP BEO County of GP Fire Services Nov 6-8th\, 26 Salo
- n \n\nSound in Town - Erica Fisher
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Salon C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV08 GP BEO County of GP Fire Serv
  ices Nov 6-8th\, 26 Poplar 1053581
 DTSTART;TZID=America/Dawson_Creek:20261108T160000
 DTEND;TZID=America/Dawson_Creek:20261108T164500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6708@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV08 GP BEO County
   of GP Fire Services Nov 6-8th\, 26 Poplar 1053581\nAllocated: 0.8h\nNote:
@@ -364,24 +350,24 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV08 GP BEO County of GP Fire Serv
- ices Nov 6-8th\, 26 Salon AB 1053581
+ ices Nov 6-8th\, 26 Salon C 1053581
 DTSTART;TZID=America/Dawson_Creek:20261108T160000
 DTEND;TZID=America/Dawson_Creek:20261108T164500
-DTSTAMP:20261114T005215Z
-UID:planning-slot-6710@soundintown.com
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6702@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV08 GP BEO County
-  of GP Fire Services Nov 6-8th\, 26 Salon AB 1053581\nAllocated: 0.8h\nNot
- e: [BEO strike] NOV08 GP BEO County of GP Fire Services Nov 6-8th\, 26 Sal
- on \n\nSound in Town - Erica Fisher
+  of GP Fire Services Nov 6-8th\, 26 Salon C 1053581\nAllocated: 0.8h\nNote
+ : [BEO strike] NOV08 GP BEO County of GP Fire Services Nov 6-8th\, 26 Salo
+ n \n\nSound in Town - Erica Fisher
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Salon AB
+ GP Pomeroy Hotel\, Salon C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV08 GP BEO County of GP Fire Serv
  ices Nov 6-8th\, 26 Boardroom 1053581
 DTSTART;TZID=America/Dawson_Creek:20261108T160000
 DTEND;TZID=America/Dawson_Creek:20261108T164500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6704@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV08 GP BEO County
   of GP Fire Services Nov 6-8th\, 26 Boardroom 1053581\nAllocated: 0.8h\nNo
@@ -395,7 +381,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV08 GP BEO County of GP Fire Serv
  ices Nov 6-8th\, 26 Willow 1053581
 DTSTART;TZID=America/Dawson_Creek:20261108T160000
 DTEND;TZID=America/Dawson_Creek:20261108T164500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6706@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV08 GP BEO County
   of GP Fire Services Nov 6-8th\, 26 Willow 1053581\nAllocated: 0.8h\nNote:
@@ -405,11 +391,25 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
  GP Pomeroy Hotel\, Willow Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV08 GP BEO County of GP Fire Serv
+ ices Nov 6-8th\, 26 Salon AB 1053581
+DTSTART;TZID=America/Dawson_Creek:20261108T160000
+DTEND;TZID=America/Dawson_Creek:20261108T164500
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6710@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV08 GP BEO County
+  of GP Fire Services Nov 6-8th\, 26 Salon AB 1053581\nAllocated: 0.8h\nNot
+ e: [BEO strike] NOV08 GP BEO County of GP Fire Services Nov 6-8th\, 26 Sal
+ on \n\nSound in Town - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Salon AB
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV12 GP BEO Swan City FC Nov 12th
  \, 2026 Poplar 1129822
 DTSTART;TZID=America/Dawson_Creek:20261111T160000
 DTEND;TZID=America/Dawson_Creek:20261112T153000
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6748@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV12 GP BEO Swan C
  ity FC Nov 12th\, 2026 Poplar 1129822\nAllocated: 15.0h\nNote: [BEO setup]
@@ -423,7 +423,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV13 GP BEO Pub Night Grande Ballr
  oom 1107681
 DTSTART;TZID=America/Dawson_Creek:20261112T160000
 DTEND;TZID=America/Dawson_Creek:20261113T143000
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6751@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV13 GP BEO Pub Ni
  ght Grande Ballroom 1107681\nAllocated: 15.0h\nNote: [BEO setup] NOV13 GP 
@@ -436,7 +436,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV12 GP BEO Swan City FC Nov 12th
  \, 2026 Poplar 1129822
 DTSTART;TZID=America/Dawson_Creek:20261112T210000
 DTEND;TZID=America/Dawson_Creek:20261112T214500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6750@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV12 GP BEO Swan C
  ity FC Nov 12th\, 2026 Poplar 1129822\nAllocated: 0.8h\nNote: [BEO strike]
@@ -450,7 +450,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV14 GP BEO 2026 Vision Credit Uni
  on Holiday Party Poplar 674801
 DTSTART;TZID=America/Dawson_Creek:20261113T160000
 DTEND;TZID=America/Dawson_Creek:20261114T140000
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6754@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV14 GP BEO 2026 V
  ision Credit Union Holiday Party Poplar 674801\nAllocated: 15.0h\nNote: [B
@@ -464,7 +464,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV14 GP BEO 2026 New Horizon Co-Op
   Christmas Party Grande Ballroom 1175796
 DTSTART;TZID=America/Dawson_Creek:20261114T010000
 DTEND;TZID=America/Dawson_Creek:20261114T140000
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6767@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV14 GP BEO 2026 N
  ew Horizon Co-Op Christmas Party Grande Ballroom 1175796\nAllocated: 8.0h
@@ -478,7 +478,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV13 GP BEO Pub Night Grande Ballr
  oom 1107681
 DTSTART;TZID=America/Dawson_Creek:20261114T010000
 DTEND;TZID=America/Dawson_Creek:20261114T014500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6753@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV13 GP BEO Pub Ni
  ght Grande Ballroom 1107681\nAllocated: 0.8h\nNote: [BEO strike] NOV13 GP 
@@ -487,11 +487,25 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
  GP Pomeroy Hotel\, Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV14 GP BEO 2026 Vision Credit Uni
+ on Holiday Party Poplar 674801
+DTSTART;TZID=America/Dawson_Creek:20261115T010000
+DTEND;TZID=America/Dawson_Creek:20261115T014500
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6756@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV14 GP BEO 2026 V
+ ision Credit Union Holiday Party Poplar 674801\nAllocated: 0.8h\nNote: [BE
+ O strike] NOV14 GP BEO 2026 Vision Credit Union Holiday Party Poplar 6\n\n
+ Sound in Town - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Poplar Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV14 GP BEO 2026 New Horizon Co-Op
   Christmas Party Grande Ballroom 1175796
 DTSTART;TZID=America/Dawson_Creek:20261115T010000
 DTEND;TZID=America/Dawson_Creek:20261115T014500
-DTSTAMP:20261114T005215Z
+DTSTAMP:20261114T112617Z
 UID:planning-slot-6769@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV14 GP BEO 2026 N
  ew Horizon Co-Op Christmas Party Grande Ballroom 1175796\nAllocated: 0.8h
@@ -501,17 +515,141 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
  GP Pomeroy Hotel\, Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV14 GP BEO 2026 Vision Credit Uni
- on Holiday Party Poplar 674801
-DTSTART;TZID=America/Dawson_Creek:20261115T010000
-DTEND;TZID=America/Dawson_Creek:20261115T014500
-DTSTAMP:20261114T005215Z
-UID:planning-slot-6756@soundintown.com
-DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV14 GP BEO 2026 V
- ision Credit Union Holiday Party Poplar 674801\nAllocated: 0.8h\nNote: [BE
- O strike] NOV14 GP BEO 2026 Vision Credit Union Holiday Party Poplar 6\n\n
- Sound in Town - Erica Fisher
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV17 GP BEO Make-A-Wish Canada Gra
+ nde Ballroom 712751
+DTSTART;TZID=America/Dawson_Creek:20261116T160000
+DTEND;TZID=America/Dawson_Creek:20261117T030000
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6834@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV17 GP BEO Make-A
+ -Wish Canada Grande Ballroom 712751\nAllocated: 11.0h\nNote: [BEO setup] N
+ OV17 GP BEO Make-A-Wish Canada Grande Ballroom 712751\n\nSound in Town - E
+ rica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Grande Ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV17 GP BEO Alberta Pulse Nov 17th
+ \, 2026 Poplar 1058063
+DTSTART;TZID=America/Dawson_Creek:20261116T160000
+DTEND;TZID=America/Dawson_Creek:20261117T040000
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6837@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV17 GP BEO Albert
+ a Pulse Nov 17th\, 2026 Poplar 1058063\nAllocated: 12.0h\nNote: [BEO setup
+ ] NOV17 GP BEO Alberta Pulse Nov 17th\, 2026 Poplar 1058063\n\nSound in To
+ wn - Erica Fisher
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
  GP Pomeroy Hotel\, Poplar Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV18 GP BEO Burnham Law Group Gran
+ de Ballroom 1 1174632
+DTSTART;TZID=America/Dawson_Creek:20261117T100000
+DTEND;TZID=America/Dawson_Creek:20261118T140000
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6843@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV18 GP BEO Burnha
+ m Law Group Grande Ballroom 1 1174632\nAllocated: 16.0h\nNote: [BEO setup]
+  NOV18 GP BEO Burnham Law Group Grande Ballroom 1 1174632\n\nSound in Town
+  - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Grande Ballroom 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV17 GP BEO Make-A-Wish Canada Gra
+ nde Ballroom 712751
+DTSTART;TZID=America/Dawson_Creek:20261117T100000
+DTEND;TZID=America/Dawson_Creek:20261117T104500
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6836@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV17 GP BEO Make-A
+ -Wish Canada Grande Ballroom 712751\nAllocated: 0.8h\nNote: [BEO strike] N
+ OV17 GP BEO Make-A-Wish Canada Grande Ballroom 712751\n\nSound in Town - E
+ rica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Grande Ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV17 GP BEO Alberta Pulse Nov 17th
+ \, 2026 Poplar 1058063
+DTSTART;TZID=America/Dawson_Creek:20261117T140000
+DTEND;TZID=America/Dawson_Creek:20261117T144500
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6839@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV17 GP BEO Albert
+ a Pulse Nov 17th\, 2026 Poplar 1058063\nAllocated: 0.8h\nNote: [BEO strike
+ ] NOV17 GP BEO Alberta Pulse Nov 17th\, 2026 Poplar 1058063\n\nSound in To
+ wn - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Poplar Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV18 GP BEO Cenovus Energy Boardro
+ om 1169785
+DTSTART;TZID=America/Dawson_Creek:20261117T160000
+DTEND;TZID=America/Dawson_Creek:20261118T043000
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6840@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV18 GP BEO Cenovu
+ s Energy Boardroom 1169785\nAllocated: 12.5h\nNote: [BEO setup] NOV18 GP B
+ EO Cenovus Energy Boardroom 1169785\n\nSound in Town - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Board Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV18 GP BEO Cenovus Energy Boardro
+ om 1169785
+DTSTART;TZID=America/Dawson_Creek:20261118T110000
+DTEND;TZID=America/Dawson_Creek:20261118T114500
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6842@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV18 GP BEO Cenovu
+ s Energy Boardroom 1169785\nAllocated: 0.8h\nNote: [BEO strike] NOV18 GP B
+ EO Cenovus Energy Boardroom 1169785\n\nSound in Town - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Board Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV18 GP BEO Burnham Law Group Gran
+ de Ballroom 1 1174632
+DTSTART;TZID=America/Dawson_Creek:20261118T210000
+DTEND;TZID=America/Dawson_Creek:20261118T214500
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6845@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV18 GP BEO Burnha
+ m Law Group Grande Ballroom 1 1174632\nAllocated: 0.8h\nNote: [BEO strike]
+  NOV18 GP BEO Burnham Law Group Grande Ballroom 1 1174632\n\nSound in Town
+  - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Grande Ballroom 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV21 GP BEO Parallele Alberta Nov 
+ 21st\, 2026 Salon C 1133494
+DTSTART;TZID=America/Dawson_Creek:20261120T160000
+DTEND;TZID=America/Dawson_Creek:20261121T053000
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6846@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV21 GP BEO Parall
+ ele Alberta Nov 21st\, 2026 Salon C 1133494\nAllocated: 13.5h\nNote: [BEO 
+ setup] NOV21 GP BEO Parallele Alberta Nov 21st\, 2026 Salon C 113349\n\nSo
+ und in Town - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Salon C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV21 GP BEO Parallele Alberta Nov 
+ 21st\, 2026 Salon C 1133494
+DTSTART;TZID=America/Dawson_Creek:20261121T163000
+DTEND;TZID=America/Dawson_Creek:20261121T171500
+DTSTAMP:20261114T112617Z
+UID:planning-slot-6848@soundintown.com
+DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV21 GP BEO Parall
+ ele Alberta Nov 21st\, 2026 Salon C 1133494\nAllocated: 0.8h\nNote: [BEO s
+ trike] NOV21 GP BEO Parallele Alberta Nov 21st\, 2026 Salon C 113349\n\nSo
+ und in Town - Erica Fisher
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Salon C
 END:VEVENT
 END:VCALENDAR
