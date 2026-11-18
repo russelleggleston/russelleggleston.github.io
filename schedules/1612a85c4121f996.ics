@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sound in Town//Shift Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sound in Town - Hannah Bliss Bayron
+X-WR-TIMEZONE:America/Dawson_Creek
+BEGIN:VTIMEZONE
+TZID:America/Dawson_Creek
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:MST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:AV1 - AV Tech (Senior Level) - NOV20 CNRL Christmas Party DIY & Ph
+ otobooth [¯◉°]Ramada
+DTSTART;TZID=America/Dawson_Creek:20261120T170000
+DTEND;TZID=America/Dawson_Creek:20261120T230000
+DTSTAMP:20261118T072248Z
+UID:planning-slot-6920@soundintown.com
+DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV20 CNRL Christma
+ s Party DIY & Photobooth [¯◉°]Ramada\nNote: Check in with customer\, a
+ nd make sure the booth is properly running through the night. \n\nSound in
+  Town - Hannah Bliss Bayron
+LOCATION:Ramada by Wyndham Northern Grand Hotel & Conference Centre
+END:VEVENT
+END:VCALENDAR
