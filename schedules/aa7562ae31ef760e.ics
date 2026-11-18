@@ -14,23 +14,11 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:L1 - Lighting Engineer - SEP19 - Nitehawk Fundraiser Comedy Event
-DTSTART;TZID=America/Dawson_Creek:20260919T080000
-DTEND;TZID=America/Dawson_Creek:20260919T150000
-DTSTAMP:20261118T072255Z
-UID:planning-slot-6176@soundintown.com
-DESCRIPTION:Role: L1 - Lighting Engineer\nEvent: SEP19 - Nitehawk Fundrais
- er Comedy Event\nAllocated: 7.0h\nNote: If your Pomeroy set up is done on 
- Friday -- please join setup crew at Evergreen at 9AM on Saturday. \n\nSoun
- d in Town - Matt Currie
-LOCATION:Evergreen Park
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - SEP19 - Nitehawk Fundraiser
   Comedy Event
 DTSTART;TZID=America/Dawson_Creek:20260920T080000
 DTEND;TZID=America/Dawson_Creek:20260920T160000
-DTSTAMP:20261118T072255Z
+DTSTAMP:20261118T171339Z
 UID:planning-slot-6240@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: SEP19 - Nit
  ehawk Fundraiser Comedy Event\nAllocated: 7.0h\nNote: Strike at Evergreen 
@@ -43,7 +31,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT19 - Pomeroy GP BEO GPRTA Custom
   Quote
 DTSTART;TZID=America/Dawson_Creek:20261018T160000
 DTEND;TZID=America/Dawson_Creek:20261018T210000
-DTSTAMP:20261118T072255Z
+DTSTAMP:20261118T171339Z
 UID:planning-slot-6556@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT19 - Pomeroy GP 
  BEO GPRTA Custom Quote\nNote: Meet Russell in Grande Ballroom at Pomeroy t
@@ -56,7 +44,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV07 GP BEO County of GP Fire Servic
  es Nov 6-8th\, 26 Salon AB 1053581
 DTSTART;TZID=America/Dawson_Creek:20261107T053000
 DTEND;TZID=America/Dawson_Creek:20261107T083000
-DTSTAMP:20261118T072255Z
+DTSTAMP:20261118T171339Z
 UID:planning-slot-6699@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV07 GP BEO County o
  f GP Fire Services Nov 6-8th\, 26 Salon AB 1053581\nAllocated: 1.5h\nNote:
@@ -71,7 +59,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV08 GP BEO County of GP Fire Servic
  es Nov 6-8th\, 26 Salon AB 1053581
 DTSTART;TZID=America/Dawson_Creek:20261108T053000
 DTEND;TZID=America/Dawson_Creek:20261108T083000
-DTSTAMP:20261118T072255Z
+DTSTAMP:20261118T171339Z
 UID:planning-slot-6709@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV08 GP BEO County o
  f GP Fire Services Nov 6-8th\, 26 Salon AB 1053581\nNote: [BEO on_site] NO
