@@ -14,22 +14,11 @@ TZOFFSETTO:-0700
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:BEO1 - BEO Tech (Check-in) - SEP21-27 GP BEOs 2026
-DTSTART;TZID=America/Dawson_Creek:20260924T103000
-DTEND;TZID=America/Dawson_Creek:20260924T113000
-DTSTAMP:20261123T073124Z
-UID:planning-slot-6276@soundintown.com
-DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: SEP21-27 GP BEOs 2026
- \nAllocated: 1.0h\nNote: Check In on Thurs\, Salon C	@11:30AM Projector Pk
- g & Sound Pkg. Event starts at Noon.\n\nSound in Town - Marcia Tofer
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SET/STR3 - Setup & Strike Stage Hand - OCT01 GP BEO New Horizon Co
  -Op Managers Meeting 708010 (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20261001T113000
 DTEND;TZID=America/Dawson_Creek:20261001T140000
-DTSTAMP:20261123T073124Z
+DTSTAMP:20261123T201046Z
 UID:planning-slot-6397@soundintown.com
 DESCRIPTION:Role: SET/STR3 - Setup & Strike Stage Hand\nEvent: OCT01 GP BE
  O New Horizon Co-Op Managers Meeting 708010 (CUSTOM)\nAllocated: 2.5h\nNot
@@ -46,7 +35,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT19 - Pomeroy GP BEO GPRT
  A Custom Quote
 DTSTART;TZID=America/Dawson_Creek:20261019T110000
 DTEND;TZID=America/Dawson_Creek:20261019T150000
-DTSTAMP:20261123T073124Z
+DTSTAMP:20261123T201046Z
 UID:planning-slot-6562@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT19 - Pom
  eroy GP BEO GPRTA Custom Quote\nAllocated: 4.0h\nNote: Help Russ strike/lo
@@ -59,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - OCT19-25 GP BEOs 2026
 DTSTART;TZID=America/Dawson_Creek:20261024T070000
 DTEND;TZID=America/Dawson_Creek:20261024T080000
-DTSTAMP:20261123T073124Z
+DTSTAMP:20261123T201046Z
 UID:planning-slot-6604@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: OCT19-25 GP BEOs 2026
  \nAllocated: 1.0h\nNote: Check in at 7:45 AM please. Salon AB. Thank you!
