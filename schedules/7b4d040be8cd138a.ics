@@ -18,7 +18,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - SEP28 Ovintiv - South Peace Distric
  t PAC Candidate's Forum
 DTSTART;TZID=America/Dawson_Creek:20260928T090000
 DTEND;TZID=America/Dawson_Creek:20260928T233000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6279@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: SEP28 Ovintiv - Sou
  th Peace District PAC Candidate's Forum\nAllocated: 8.0h\nNote: Client arr
@@ -31,7 +31,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT01-02 GP BEO Arcand White Charte
  red (Custom)
 DTSTART;TZID=America/Dawson_Creek:20260930T180000
 DTEND;TZID=America/Dawson_Creek:20261002T233000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6419@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT01-02 GP BEO Arc
  and White Chartered (Custom)\nAllocated: 16.0h\n\nSound in Town - Russell 
@@ -44,7 +44,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT03 Ovintiv Overhead Stag
  e Lights
 DTSTART;TZID=America/Dawson_Creek:20261001T210000
 DTEND;TZID=America/Dawson_Creek:20261001T230000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6418@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT03 Ovint
  iv Overhead Stage Lights\nNote: Set lights.\n\nSound in Town - Russell Egg
@@ -55,7 +55,7 @@ SUMMARY:WH2 - Warehouse Junior Tech - OCT03 Madonna “Donna” Gamble 1PM
   Live Stream Service
 DTSTART;TZID=America/Dawson_Creek:20261003T100000
 DTEND;TZID=America/Dawson_Creek:20261003T160000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6299@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nEvent: OCT03 Madonna “Don
  na” Gamble 1PM Live Stream Service\nAllocated: 6.0h\n\nSound in Town - R
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261004T160000
 DTEND;TZID=America/Dawson_Creek:20261005T000000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6361@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\nAllocated: 8.0h\n\nSound in Town - Russell Eggleston
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261005T090000
 DTEND;TZID=America/Dawson_Creek:20261005T170000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6364@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\nAllocated: 8.0h\n\nSound in Town - Russell Eggleston
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261006T090000
 DTEND;TZID=America/Dawson_Creek:20261006T200000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6370@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\nNote: FYI: Rehearsal with Spark Team takes place at 3PM.\n\nSoun
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261007T073000
 DTEND;TZID=America/Dawson_Creek:20261007T163000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6372@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT07-08 Spark 2026
  \nAllocated: 8.0h\n\nSound in Town - Russell Eggleston
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - OCT07 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20261007T080000
 DTEND;TZID=America/Dawson_Creek:20261007T180000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-5253@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: OCT07 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: OCT07 - Standby Crew\nhttps://www.soundintown.com
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261008T080000
 DTEND;TZID=America/Dawson_Creek:20261008T160000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6375@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT07-08 Spark 2026
  \n\nSound in Town - Russell Eggleston
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261008T160000
 DTEND;TZID=America/Dawson_Creek:20261009T000000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6380@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\n\nSound in Town - Russell Eggleston
@@ -146,7 +146,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT09 Hamres - Laurel Hadland 2PM L
  ive Stream Service
 DTSTART;TZID=America/Dawson_Creek:20261009T090000
 DTEND;TZID=America/Dawson_Creek:20261009T170000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6390@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT09 Hamres - Laur
  el Hadland 2PM Live Stream Service\nNote: Setup at 10AM. Service 2PM.\n\nS
@@ -158,7 +158,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT10 Hamres - Josephine Dancy 11AM
   Live Stream Service
 DTSTART;TZID=America/Dawson_Creek:20261010T070000
 DTEND;TZID=America/Dawson_Creek:20261010T143000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6392@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT10 Hamres - Jose
  phine Dancy 11AM Live Stream Service\nNote: Setup at 7:30AM. Service at 11
@@ -170,7 +170,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - INSTALL - S00190 - NorthRiver Midst
  ream -  Charlie Lake\, Sandow Sunny
 DTSTART;TZID=America/Dawson_Creek:20261012T070000
 DTEND;TZID=America/Dawson_Creek:20261012T170000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6471@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: INSTALL - S00190 - 
  NorthRiver Midstream -  Charlie Lake\, Sandow Sunny\nAllocated: 8.0h\nNote
@@ -184,7 +184,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - INSTALL - S00190 - NorthRiv
  er Midstream -  Charlie Lake\, Sandow Sunny
 DTSTART;TZID=America/Dawson_Creek:20261013T070000
 DTEND;TZID=America/Dawson_Creek:20261013T170000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6473@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: INSTALL - S
  00190 - NorthRiver Midstream -  Charlie Lake\, Sandow Sunny\nNote: TENTATI
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - OCT14 ARC Resources Workshops GP
 DTSTART;TZID=America/Dawson_Creek:20261013T080000
 DTEND;TZID=America/Dawson_Creek:20261013T233000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6507@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT14 ARC Resources
   Workshops GP\nAllocated: 8.0h\nNote: Set up Window at Teresa Sargent Hall
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - OCT14 ARC Resources Workshops GP
 DTSTART;TZID=America/Dawson_Creek:20261014T060000
 DTEND;TZID=America/Dawson_Creek:20261014T233000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6508@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT14 ARC Resources
   Workshops GP\nAllocated: 8.0h\nNote: Meet Colin at 6AM. Doors 7AM. Ends 4
@@ -218,7 +218,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT15 FSJ BEO Halfway River Group S
  hareholders Dinner/#15089-1 (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20261015T090000
 DTEND;TZID=America/Dawson_Creek:20261017T000000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6515@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT15 FSJ BEO Halfw
  ay River Group Shareholders Dinner/#15089-1 (CUSTOM)\nNote: Tentative Spec
@@ -232,7 +232,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT17 - Northern Rodeo Alli
  ance Band Event
 DTSTART;TZID=America/Dawson_Creek:20261016T080000
 DTEND;TZID=America/Dawson_Creek:20261016T160000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6505@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT17 - Nor
  thern Rodeo Alliance Band Event\n\nSound in Town - Russell Eggleston
@@ -243,7 +243,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT17 - Northern Rodeo Alliance Ban
  d Event
 DTSTART;TZID=America/Dawson_Creek:20261017T170000
 DTEND;TZID=America/Dawson_Creek:20261017T230000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6470@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT17 - Northern Ro
  deo Alliance Band Event\nNote: Lead Show Tech — added from Staffing tab 
@@ -255,7 +255,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT19 - Pomeroy GP BEO GPRTA Custom
   Quote
 DTSTART;TZID=America/Dawson_Creek:20261018T140000
 DTEND;TZID=America/Dawson_Creek:20261018T233000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6465@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT19 - Pomeroy GP 
  BEO GPRTA Custom Quote\nAllocated: 8.0h\nNote: Set up access is at 5PM. \n
@@ -268,7 +268,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT19 - Pomeroy GP BEO GPRTA Custom
   Quote
 DTSTART;TZID=America/Dawson_Creek:20261019T063000
 DTEND;TZID=America/Dawson_Creek:20261019T180000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6466@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT19 - Pomeroy GP 
  BEO GPRTA Custom Quote\nAllocated: 8.0h\n\nSound in Town - Russell Egglest
@@ -281,7 +281,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT21 GP BEO Kelt Explorati
  on (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20261019T090000
 DTEND;TZID=America/Dawson_Creek:20261019T110000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6566@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT21 GP BE
  O Kelt Exploration (CUSTOM)\nAllocated: 2.0h\nNote: Pre-prep/set Kelt (roo
@@ -296,7 +296,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT21 ARC Resources Worksho
  ps DC
 DTSTART;TZID=America/Dawson_Creek:20261020T080000
 DTEND;TZID=America/Dawson_Creek:20261020T160000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6577@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT21 ARC R
  esources Workshops DC\nNote: set up w/Amy\n\nSound in Town - Russell Eggle
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - OCT21 ARC Resources Workshops DC
 DTSTART;TZID=America/Dawson_Creek:20261021T060000
 DTEND;TZID=America/Dawson_Creek:20261021T223000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6543@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT21 ARC Resources
   Workshops DC\nNote: Lead Show Tech — added from Staffing tab one-click
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - OCT22 NLC All Staff Meeting @FSJ
 DTSTART;TZID=America/Dawson_Creek:20261022T063000
 DTEND;TZID=America/Dawson_Creek:20261022T160000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6484@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT22 NLC All Staff
   Meeting @FSJ\nAllocated: 8.0h\n\nSound in Town - Russell Eggleston
@@ -329,7 +329,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT24 North Peace Pregnancy
   Care Center Gala 2026
 DTSTART;TZID=America/Dawson_Creek:20261022T090000
 DTEND;TZID=America/Dawson_Creek:20261022T160000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6597@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT24 North
   Peace Pregnancy Care Center Gala 2026\nAllocated: 7.0h\n\nSound in Town -
@@ -342,7 +342,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT23 FSJ BEO BC Northern Real Esta
  te Board BEO # 15066.pdf
 DTSTART;TZID=America/Dawson_Creek:20261023T073000
 DTEND;TZID=America/Dawson_Creek:20261023T083000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6601@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT23 FSJ BEO BC No
  rthern Real Estate Board BEO # 15066.pdf\nAllocated: 1.0h\nNote: Check in.
@@ -355,7 +355,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT24 North Peace Pregnancy Care Ce
  nter Gala 2026
 DTSTART;TZID=America/Dawson_Creek:20261024T100000
 DTEND;TZID=America/Dawson_Creek:20261024T220000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6598@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT24 North Peace P
  regnancy Care Center Gala 2026\nNote: Sound Check @2PM. Client @4PM. Doors
@@ -368,7 +368,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT24 District of Taylor - Hallowee
  n Photobooth
 DTSTART;TZID=America/Dawson_Creek:20261024T110000
 DTEND;TZID=America/Dawson_Creek:20261024T153000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6531@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT24 District of T
  aylor - Halloween Photobooth\nAllocated: 4.5h\nNote: Starts at noon.\n\nSo
@@ -379,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level)
 DTSTART;TZID=America/Dawson_Creek:20261024T160000
 DTEND;TZID=America/Dawson_Creek:20261024T220000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6599@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\n\nSound in Town - Russell 
  Eggleston
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - OCT28 - Coup de couer
 DTSTART;TZID=America/Dawson_Creek:20261027T080000
 DTEND;TZID=America/Dawson_Creek:20261027T170000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6226@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: OCT28 - Coup de couer\nAllocated: 8.0h
  \n\nSound in Town - Russell Eggleston
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - Chetwynd Council Chamber Upgrades
 DTSTART;TZID=America/Dawson_Creek:20261103T090000
 DTEND;TZID=America/Dawson_Creek:20261104T003000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6648@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: Chetwynd Council Ch
  amber Upgrades\nAllocated: 8.5h\nNote: Installation. " I'm in at 630am and
@@ -410,7 +410,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV03 DYSYS - Service Call JOB02392
  1 NOC-11525 PO024456
 DTSTART;TZID=America/Dawson_Creek:20261103T100000
 DTEND;TZID=America/Dawson_Creek:20261103T110000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6655@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV03 DYSYS - Servi
  ce Call JOB023921 NOC-11525 PO024456\nAllocated: 1.0h\nNote: Hours of Oper
@@ -421,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - NOV04 Pomeroy GP BEO BMO Private Wealth (CUSTOM)
 DTSTART;TZID=America/Dawson_Creek:20261104T100000
 DTEND;TZID=America/Dawson_Creek:20261105T003000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6653@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: NOV04 Pomeroy GP BEO BMO Private Wealt
  h (CUSTOM)\nAllocated: 8.5h\nNote: Setup Lapel. I'll ask Erica to set up t
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:A2 - Audio Assist - NOV07 - FSJ Hospital Foundation Gala 2026
 DTSTART;TZID=America/Dawson_Creek:20261107T160000
 DTEND;TZID=America/Dawson_Creek:20261107T234500
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6612@soundintown.com
 DESCRIPTION:Role: A2 - Audio Assist\nEvent: NOV07 - FSJ Hospital Foundatio
  n Gala 2026\n\nSound in Town - Russell Eggleston
@@ -446,7 +446,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV10 2PM Montney Hall Memorial Ser
  vice
 DTSTART;TZID=America/Dawson_Creek:20261109T150000
 DTEND;TZID=America/Dawson_Creek:20261109T190000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6770@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV10 2PM Montney H
  all Memorial Service\nAllocated: 4.0h\nNote: Load/Travel/Setup (Meet clien
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - NOV11 District of Taylor Remembrance Day 2026 Event
 DTSTART;TZID=America/Dawson_Creek:20261110T090000
 DTEND;TZID=America/Dawson_Creek:20261110T210000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6777@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: NOV11 District of Taylor Remembrance D
  ay 2026 Event\nAllocated: 8.0h\n\nSound in Town - Russell Eggleston
@@ -468,7 +468,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV10 2PM Montney Hall Memorial Ser
  vice
 DTSTART;TZID=America/Dawson_Creek:20261110T123000
 DTEND;TZID=America/Dawson_Creek:20261110T163000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6780@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV10 2PM Montney H
  all Memorial Service\nAllocated: 4.0h\n\nSound in Town - Russell Eggleston
@@ -479,7 +479,7 @@ SUMMARY:A1 - Audio Tech - NOV11 District of Taylor Remembrance Day 2026 Ev
  ent
 DTSTART;TZID=America/Dawson_Creek:20261111T080000
 DTEND;TZID=America/Dawson_Creek:20261111T170000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6730@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: NOV11 District of Taylor Remembr
  ance Day 2026 Event\nAllocated: 8.0h\nNote: Doors 10. Starts 10:30AM\n\nSo
@@ -490,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level)
 DTSTART;TZID=America/Dawson_Creek:20261113T103000
 DTEND;TZID=America/Dawson_Creek:20261114T020000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6736@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nAllocated: 10.0h\nNote: Ha
  s to be set on day of event. \n\nSound in Town - Russell Eggleston
@@ -499,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - NOV16-17 PRRD Regional Municipality Orientation
 DTSTART;TZID=America/Dawson_Creek:20261115T090000
 DTEND;TZID=America/Dawson_Creek:20261115T170000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6807@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: NOV16-17 PRRD Regional Municipality Or
  ientation\n\nSound in Town - Russell Eggleston
@@ -510,7 +510,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV16-17 PRRD Regional Municipality
   Orientation
 DTSTART;TZID=America/Dawson_Creek:20261116T070000
 DTEND;TZID=America/Dawson_Creek:20261116T170000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6787@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV16-17 PRRD Regio
  nal Municipality Orientation\nAllocated: 8.0h\nNote: Tentative: 8:30 am un
@@ -522,7 +522,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV16-17 PRRD Regional Municipality
   Orientation
 DTSTART;TZID=America/Dawson_Creek:20261117T070000
 DTEND;TZID=America/Dawson_Creek:20261117T120000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6788@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV16-17 PRRD Regio
  nal Municipality Orientation\nAllocated: 5.0h\nNote: Tentative from 8:30 a
@@ -534,7 +534,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - NOV16-17 PRRD Regional Muni
  cipality Orientation
 DTSTART;TZID=America/Dawson_Creek:20261117T120000
 DTEND;TZID=America/Dawson_Creek:20261117T200000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6789@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: NOV16-17 PR
  RD Regional Municipality Orientation\nAllocated: 8.0h\nNote: Tentative: en
@@ -546,7 +546,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV18 GP BEO Advantage OG Meeting N
  ov 18th\, 2026 (CUSTOM) 1181092
 DTSTART;TZID=America/Dawson_Creek:20261117T190000
 DTEND;TZID=America/Dawson_Creek:20261119T003000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6925@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV18 GP BEO Advant
  age OG Meeting Nov 18th\, 2026 (CUSTOM) 1181092\nAllocated: 13.5h\n\nSound
@@ -558,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - NOV19 Flowers by Charene - NLC Trees Event
 DTSTART;TZID=America/Dawson_Creek:20261119T090000
 DTEND;TZID=America/Dawson_Creek:20261119T100000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6932@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: NOV19 Flowers by Charene - NLC Trees E
  vent\nAllocated: 1.0h\nNote: Russ: Please make sure this gets delivered to
@@ -570,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - NOV19 NLC DC Trees of Tomorrow
 DTSTART;TZID=America/Dawson_Creek:20261119T100000
 DTEND;TZID=America/Dawson_Creek:20261120T000000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-5915@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV19 NLC DC Trees 
  of Tomorrow\nAllocated: 8.0h\nNote: Starts 5PM. Ends 11PM.\n\nSound in Tow
@@ -581,7 +581,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level)
 DTSTART;TZID=America/Dawson_Creek:20261121T080000
 DTEND;TZID=America/Dawson_Creek:20261121T160000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6933@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nAllocated: 8.0h\nNote: PER
  SONAL TIME OFF\n\nSound in Town - Russell Eggleston
@@ -591,7 +591,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - NOV20 CNRL Christmas Party
  DIY & Photobooth [¯◉°]Ramada
 DTSTART;TZID=America/Dawson_Creek:20261121T090000
 DTEND;TZID=America/Dawson_Creek:20261121T100000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6935@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: NOV20 CNRL 
  Christmas Party DIY & Photobooth [¯◉°]Ramada\nAllocated: 1.0h\nNote: S
@@ -604,7 +604,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV21 FSJ BEO District of Taylor Ch
  ristmas Party DIY DJ 15204-1
 DTSTART;TZID=America/Dawson_Creek:20261121T170000
 DTEND;TZID=America/Dawson_Creek:20261121T180000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6820@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV21 FSJ BEO Distr
  ict of Taylor Christmas Party DIY DJ 15204-1\nNote: Check In\n\nSound in T
@@ -617,7 +617,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV21 CDN Christmas Party Photoboot
  h  [¯◉°]@Ramada
 DTSTART;TZID=America/Dawson_Creek:20261121T173000
 DTEND;TZID=America/Dawson_Creek:20261122T003000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6924@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV21 CDN Christmas
   Party Photobooth  [¯◉°]@Ramada\nAllocated: 0.5h\n\nSound in Town - Ru
@@ -629,7 +629,7 @@ SUMMARY:Transport - NOV28 Dawson Creek Dental Christmas Party Photobooth [
  ¯◉°]DC
 DTSTART;TZID=America/Dawson_Creek:20261124T120000
 DTEND;TZID=America/Dawson_Creek:20261124T130000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6975@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: NOV28 Dawson Creek Dental Christmas Pa
  rty Photobooth [¯◉°]DC\nAllocated: 1.0h\nNote: Take a photo booth with
@@ -641,7 +641,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - NOV25 Dale Bumstead Leaders Meeting
 DTSTART;TZID=America/Dawson_Creek:20261124T120000
 DTEND;TZID=America/Dawson_Creek:20261124T170000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6973@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: NOV25 Dale Bumstead Leaders Meeting\nA
  llocated: 5.0h\n\nSound in Town - Russell Eggleston
@@ -651,7 +651,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - NOV25 Dale Bumstead Leaders Meeting
 DTSTART;TZID=America/Dawson_Creek:20261125T080000
 DTEND;TZID=America/Dawson_Creek:20261125T150000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-5921@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV25 Dale Bumstead
   Leaders Meeting\nAllocated: 7.0h\nNote:  Meeting: 10:00 AM–12:00 PM.\n-
@@ -664,7 +664,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV27 BCER Xmas Party Photobooth [
  ¯◉°]@FSJ Curling
 DTSTART;TZID=America/Dawson_Creek:20261127T170000
 DTEND;TZID=America/Dawson_Creek:20261127T230000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6992@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV27 BCER Xmas Par
  ty Photobooth [¯◉°]@FSJ Curling\nNote: Tech and strike if possible (ot
@@ -677,7 +677,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV27 FSJ BEO Scotia Bank Year End
  Party 15112-1
 DTSTART;TZID=America/Dawson_Creek:20261127T180000
 DTEND;TZID=America/Dawson_Creek:20261127T190000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-7021@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV27 FSJ BEO Scoti
  a Bank Year End Party 15112-1\nNote: Check in on Sterling\, Projector & So
@@ -690,7 +690,7 @@ SUMMARY:BEO2 - BEO Tech (Set/Strike) - NOV27 FSJ BEO GeoVera Christmas Par
  ty 2026 Vault 15087-1
 DTSTART;TZID=America/Dawson_Creek:20261128T010000
 DTEND;TZID=America/Dawson_Creek:20261128T014500
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6965@soundintown.com
 DESCRIPTION:Role: BEO2 - BEO Tech (Set/Strike)\nEvent: NOV27 FSJ BEO GeoVe
  ra Christmas Party 2026 Vault 15087-1\nAllocated: 0.8h\nNote: [BEO strike]
@@ -703,7 +703,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - NOV27 BCER Xmas Party Photo
  booth [¯◉°]@FSJ Curling
 DTSTART;TZID=America/Dawson_Creek:20261128T090000
 DTEND;TZID=America/Dawson_Creek:20261128T100000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6993@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: NOV27 BCER 
  Xmas Party Photobooth [¯◉°]@FSJ Curling\nNote: Second option to strike
@@ -716,7 +716,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV28 Duz Cho 360+Photobooth [¯◉
  °]@Chetwynd
 DTSTART;TZID=America/Dawson_Creek:20261128T110000
 DTEND;TZID=America/Dawson_Creek:20261129T003000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-7006@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV28 Duz Cho 360+P
  hotobooth [¯◉°]@Chetwynd\nAllocated: 8.5h\n\nSound in Town - Russell E
@@ -728,7 +728,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV29 - Darrell Barker Celebration
  of Life
 DTSTART;TZID=America/Dawson_Creek:20261129T080000
 DTEND;TZID=America/Dawson_Creek:20261130T003000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-7028@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV29 - Darrell Bar
  ker Celebration of Life\nAllocated: 8.5h\n\nSound in Town - Russell Eggles
@@ -739,7 +739,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - DEC02 NLC Time Capsule Opening
 DTSTART;TZID=America/Dawson_Creek:20261202T090000
 DTEND;TZID=America/Dawson_Creek:20261203T000000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-7045@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: DEC02 NLC Time Caps
  ule Opening\nAllocated: 8.0h\nNote: Starts at 4PM. Access for set up: DEC0
@@ -752,7 +752,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - DEC03 GP BEO Top Crop Summit 107282
  7
 DTSTART;TZID=America/Dawson_Creek:20261203T000000
 DTEND;TZID=America/Dawson_Creek:20261203T220000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-7047@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: DEC03 GP BEO Top Cr
  op Summit 1072827\nNote: Set up Top Crop & Tech.  Starts 8AM. Ends 5PM. \n
@@ -765,7 +765,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - DEC04 - Guns For Hire Band Producti
  on (Shell Party)
 DTSTART;TZID=America/Dawson_Creek:20261204T170000
 DTEND;TZID=America/Dawson_Creek:20261204T230000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6859@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: DEC04 - Guns For Hi
  re Band Production (Shell Party)\nAllocated: 6.0h\nNote: Lead Show Tech 
@@ -777,7 +777,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - DEC04 FSJ BEO Northern Guides Outfi
  tters Banquet/#14408-1
 DTSTART;TZID=America/Dawson_Creek:20261204T170000
 DTEND;TZID=America/Dawson_Creek:20261204T230000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-5924@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: DEC04 FSJ BEO North
  ern Guides Outfitters Banquet/#14408-1\nNote: Lead Show Tech — added fro
@@ -790,7 +790,7 @@ SUMMARY:Transport - DEC05 Inland Auto Centre Photobooth [¯◉°]Sudeten H
  all DC
 DTSTART;TZID=America/Dawson_Creek:20261205T070000
 DTEND;TZID=America/Dawson_Creek:20261205T090000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-7048@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: DEC05 Inland Auto Centre Photobooth [
  ¯◉°]Sudeten Hall DC\nAllocated: 2.0h\nNote: Bring Inland's photobooth 
@@ -803,7 +803,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - DEC05 - Darrel Pratt Funeral 11AM S
  ervice
 DTSTART;TZID=America/Dawson_Creek:20261205T080000
 DTEND;TZID=America/Dawson_Creek:20261205T160000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-7049@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: DEC05 - Darrel Prat
  t Funeral 11AM Service\nNote: Charene's Dads' Service at 11AM. Placeholder
@@ -815,7 +815,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - DEC05 Ovintiv Dawson Co-op Christma
  s Photobooth DC
 DTSTART;TZID=America/Dawson_Creek:20261205T193000
 DTEND;TZID=America/Dawson_Creek:20261206T000000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-7051@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: DEC05 Ovintiv Dawso
  n Co-op Christmas Photobooth DC\nNote: Tech after photobooth helper leaves
@@ -826,7 +826,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JAN16-17 2027 – BCLT Championship
 DTSTART;TZID=America/Dawson_Creek:20270116T050000
 DTEND;TZID=America/Dawson_Creek:20270116T210000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6433@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JAN16-17 2027 – B
  CLT Championship\nAllocated: 8.0h\n\nSound in Town - Russell Eggleston
@@ -836,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - FEB09 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20270209T080000
 DTEND;TZID=America/Dawson_Creek:20270209T180000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-5254@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: FEB09 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: FEB09 - Standby Crew\nhttps://www.soundintown.com
@@ -847,7 +847,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - FEB11 - DC Community Awards Gala
 DTSTART;TZID=America/Dawson_Creek:20270211T170000
 DTEND;TZID=America/Dawson_Creek:20270211T230000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6870@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: FEB11 - DC Communit
  y Awards Gala\nAllocated: 6.0h\nNote: Lead Show Tech — added from Staffi
@@ -858,7 +858,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - FEB23 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20270223T080000
 DTEND;TZID=America/Dawson_Creek:20270223T180000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-5255@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: FEB23 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: FEB23 - Standby Crew\nhttps://www.soundintown.com
@@ -870,7 +870,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - MAR06-07 BC  Short Track Speedskati
  ng Livestream
 DTSTART;TZID=America/Dawson_Creek:20270304T080000
 DTEND;TZID=America/Dawson_Creek:20270304T170000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6882@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAR06-07 BC  Short 
  Track Speedskating Livestream\nAllocated: 8.0h\n\nSound in Town - Russell 
@@ -880,7 +880,7 @@ BEGIN:VEVENT
 SUMMARY:SB2 - Standby Helper - MAR10 - Standby Crew
 DTSTART;TZID=America/Dawson_Creek:20270310T080000
 DTEND;TZID=America/Dawson_Creek:20270310T180000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-5256@soundintown.com
 DESCRIPTION:Role: SB2 - Standby Helper\nEvent: MAR10 - Standby Crew\nAlloc
  ated: 8.0h\nNote: EVENT: MAR10 - Standby Crew\nhttps://www.soundintown.com
@@ -891,7 +891,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - AUG20-22 Fred Fest 2027
 DTSTART;TZID=America/Dawson_Creek:20270820T170000
 DTEND;TZID=America/Dawson_Creek:20270820T230000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6908@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: AUG20-22 Fred Fest 
  2027\nAllocated: 6.0h\nNote: Lead Show Tech — added from Staffing tab on
@@ -902,7 +902,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - AUG20-22 Fred Fest 2027
 DTSTART;TZID=America/Dawson_Creek:20270822T080000
 DTEND;TZID=America/Dawson_Creek:20270822T170000
-DTSTAMP:20261127T003318Z
+DTSTAMP:20261127T134909Z
 UID:planning-slot-6914@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: AUG20-22 Fr
  ed Fest 2027\n\nSound in Town - Russell Eggleston

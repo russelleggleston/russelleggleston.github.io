@@ -18,7 +18,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV02 GP BEO SGS Sulphur experts- Deh
  ydration and EG Grande Ballroom 1 475314
 DTSTART;TZID=America/Dawson_Creek:20261102T061500
 DTEND;TZID=America/Dawson_Creek:20261102T070000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6675@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV02 GP BEO SGS Sulp
  hur experts- Dehydration and EG Grande Ballroom 1 475314\nAllocated: 0.8h
@@ -32,7 +32,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV03 GP BEO SGS Sulphur experts- Deh
  ydration and EG Grande Ballroom 1 475314
 DTSTART;TZID=America/Dawson_Creek:20261103T061500
 DTEND;TZID=America/Dawson_Creek:20261103T070000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6682@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV03 GP BEO SGS Sulp
  hur experts- Dehydration and EG Grande Ballroom 1 475314\nAllocated: 0.8h
@@ -46,7 +46,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV04 GP BEO SGS Sulphur experts- Deh
  ydration and EG Grande Ballroom 1 475314
 DTSTART;TZID=America/Dawson_Creek:20261104T061500
 DTEND;TZID=America/Dawson_Creek:20261104T070000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6680@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV04 GP BEO SGS Sulp
  hur experts- Dehydration and EG Grande Ballroom 1 475314\nAllocated: 0.8h
@@ -60,7 +60,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV04 GP BEO County of GP 4th & 5th\,
   2026 Salon C 1081741
 DTSTART;TZID=America/Dawson_Creek:20261104T064500
 DTEND;TZID=America/Dawson_Creek:20261104T073000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6672@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV04 GP BEO County o
  f GP 4th & 5th\, 2026 Salon C 1081741\nAllocated: 0.8h\nNote: [BEO on_site
@@ -74,7 +74,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV05 GP BEO County of GP 4th & 5th\,
   2026 Salon C 1081741
 DTSTART;TZID=America/Dawson_Creek:20261105T064500
 DTEND;TZID=America/Dawson_Creek:20261105T073000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6684@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV05 GP BEO County o
  f GP 4th & 5th\, 2026 Salon C 1081741\nAllocated: 0.8h\nNote: [BEO on_site
@@ -84,25 +84,11 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
  GP Pomeroy Hotel\, Salon C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEO1 - BEO Tech (Check-in) - NOV06 GP BEO WUI Symposium - County o
- f Grande Prairie Grande Ballroom 1053581
-DTSTART;TZID=America/Dawson_Creek:20261106T051500
-DTEND;TZID=America/Dawson_Creek:20261106T060000
-DTSTAMP:20261127T003314Z
-UID:planning-slot-6687@soundintown.com
-DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV06 GP BEO WUI Symp
- osium - County of Grande Prairie Grande Ballroom 1053581\nAllocated: 0.8h
- \nNote: [BEO on_site] NOV06 GP BEO County of GP Fire Services Nov 6-8th\, 
- 26 Grande\n\nSound in Town - Kayla Pelgrim
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Grande Ballroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - NOV06 GP BEO County of GP Fire Servic
  es Nov 6-8th\, 26 Salon Ballroom 1053581
 DTSTART;TZID=America/Dawson_Creek:20261106T051500
 DTEND;TZID=America/Dawson_Creek:20261106T060000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6715@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV06 GP BEO County o
  f GP Fire Services Nov 6-8th\, 26 Salon Ballroom 1053581\nAllocated: 0.8h
@@ -112,39 +98,39 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
  GP Pomeroy Hotel\, Salon Ballroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEO1 - BEO Tech (Check-in) - NOV07 GP BEO County of GP Fire Servic
- es Nov 6-8th\, 26 Salon C 1053581
-DTSTART;TZID=America/Dawson_Creek:20261107T064500
-DTEND;TZID=America/Dawson_Creek:20261107T073000
-DTSTAMP:20261127T003314Z
-UID:planning-slot-6693@soundintown.com
-DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV07 GP BEO County o
- f GP Fire Services Nov 6-8th\, 26 Salon C 1053581\nAllocated: 0.8h\nNote: 
- [BEO on_site] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Salon
-  \n\nSound in Town - Kayla Pelgrim
+SUMMARY:BEO1 - BEO Tech (Check-in) - NOV06 GP BEO WUI Symposium - County o
+ f Grande Prairie Grande Ballroom 1053581
+DTSTART;TZID=America/Dawson_Creek:20261106T051500
+DTEND;TZID=America/Dawson_Creek:20261106T060000
+DTSTAMP:20261127T134904Z
+UID:planning-slot-6687@soundintown.com
+DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV06 GP BEO WUI Symp
+ osium - County of Grande Prairie Grande Ballroom 1053581\nAllocated: 0.8h
+ \nNote: [BEO on_site] NOV06 GP BEO County of GP Fire Services Nov 6-8th\, 
+ 26 Grande\n\nSound in Town - Kayla Pelgrim
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Salon C
+ GP Pomeroy Hotel\, Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - NOV07 GP BEO County of GP Fire Servic
- es Nov 6-8th\, 26 Poplar 1053581
+ es Nov 6-8th\, 26 Willow 1053581
 DTSTART;TZID=America/Dawson_Creek:20261107T064500
 DTEND;TZID=America/Dawson_Creek:20261107T073000
-DTSTAMP:20261127T003314Z
-UID:planning-slot-6690@soundintown.com
+DTSTAMP:20261127T134904Z
+UID:planning-slot-6696@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV07 GP BEO County o
- f GP Fire Services Nov 6-8th\, 26 Poplar 1053581\nAllocated: 0.8h\nNote: [
- BEO on_site] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Poplar
+ f GP Fire Services Nov 6-8th\, 26 Willow 1053581\nAllocated: 0.8h\nNote: [
+ BEO on_site] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Willow
  \n\nSound in Town - Kayla Pelgrim
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Poplar Room
+ GP Pomeroy Hotel\, Willow Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - NOV07 GP BEO County of GP Fire Servic
  es Nov 6-8th\, 26 Boardroom 1053581
 DTSTART;TZID=America/Dawson_Creek:20261107T064500
 DTEND;TZID=America/Dawson_Creek:20261107T073000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6678@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV07 GP BEO County o
  f GP Fire Services Nov 6-8th\, 26 Boardroom 1053581\nAllocated: 0.8h\nNote
@@ -155,24 +141,38 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - NOV07 GP BEO County of GP Fire Servic
- es Nov 6-8th\, 26 Willow 1053581
+ es Nov 6-8th\, 26 Poplar 1053581
 DTSTART;TZID=America/Dawson_Creek:20261107T064500
 DTEND;TZID=America/Dawson_Creek:20261107T073000
-DTSTAMP:20261127T003314Z
-UID:planning-slot-6696@soundintown.com
+DTSTAMP:20261127T134904Z
+UID:planning-slot-6690@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV07 GP BEO County o
- f GP Fire Services Nov 6-8th\, 26 Willow 1053581\nAllocated: 0.8h\nNote: [
- BEO on_site] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Willow
+ f GP Fire Services Nov 6-8th\, 26 Poplar 1053581\nAllocated: 0.8h\nNote: [
+ BEO on_site] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Poplar
  \n\nSound in Town - Kayla Pelgrim
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Willow Room
+ GP Pomeroy Hotel\, Poplar Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO1 - BEO Tech (Check-in) - NOV07 GP BEO County of GP Fire Servic
+ es Nov 6-8th\, 26 Salon C 1053581
+DTSTART;TZID=America/Dawson_Creek:20261107T064500
+DTEND;TZID=America/Dawson_Creek:20261107T073000
+DTSTAMP:20261127T134904Z
+UID:planning-slot-6693@soundintown.com
+DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV07 GP BEO County o
+ f GP Fire Services Nov 6-8th\, 26 Salon C 1053581\nAllocated: 0.8h\nNote: 
+ [BEO on_site] NOV07 GP BEO County of GP Fire Services Nov 6-8th\, 26 Salon
+  \n\nSound in Town - Kayla Pelgrim
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Salon C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - NOV07 GP BEO Refresh Ministries Grand
  e Ballroom 642700
 DTSTART;TZID=America/Dawson_Creek:20261107T161500
 DTEND;TZID=America/Dawson_Creek:20261107T170000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6712@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV07 GP BEO Refresh 
  Ministries Grande Ballroom 642700\nAllocated: 0.8h\nNote: [BEO on_site] NO
@@ -183,10 +183,38 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - NOV08 GP BEO County of GP Fire Servic
+ es Nov 6-8th\, 26 Poplar 1053581
+DTSTART;TZID=America/Dawson_Creek:20261108T064500
+DTEND;TZID=America/Dawson_Creek:20261108T073000
+DTSTAMP:20261127T134904Z
+UID:planning-slot-6707@soundintown.com
+DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV08 GP BEO County o
+ f GP Fire Services Nov 6-8th\, 26 Poplar 1053581\nAllocated: 0.8h\nNote: [
+ BEO on_site] NOV08 GP BEO County of GP Fire Services Nov 6-8th\, 26 Poplar
+ \n\nSound in Town - Kayla Pelgrim
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Poplar Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO1 - BEO Tech (Check-in) - NOV08 GP BEO County of GP Fire Servic
+ es Nov 6-8th\, 26 Boardroom 1053581
+DTSTART;TZID=America/Dawson_Creek:20261108T064500
+DTEND;TZID=America/Dawson_Creek:20261108T073000
+DTSTAMP:20261127T134904Z
+UID:planning-slot-6703@soundintown.com
+DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV08 GP BEO County o
+ f GP Fire Services Nov 6-8th\, 26 Boardroom 1053581\nAllocated: 0.8h\nNote
+ : [BEO on_site] NOV08 GP BEO County of GP Fire Services Nov 6-8th\, 26 Boa
+ rdr\n\nSound in Town - Kayla Pelgrim
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Board Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO1 - BEO Tech (Check-in) - NOV08 GP BEO County of GP Fire Servic
  es Nov 6-8th\, 26 Willow 1053581
 DTSTART;TZID=America/Dawson_Creek:20261108T064500
 DTEND;TZID=America/Dawson_Creek:20261108T073000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6705@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV08 GP BEO County o
  f GP Fire Services Nov 6-8th\, 26 Willow 1053581\nAllocated: 0.8h\nNote: [
@@ -200,7 +228,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV08 GP BEO County of GP Fire Servic
  es Nov 6-8th\, 26 Salon C 1053581
 DTSTART;TZID=America/Dawson_Creek:20261108T064500
 DTEND;TZID=America/Dawson_Creek:20261108T073000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6701@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV08 GP BEO County o
  f GP Fire Services Nov 6-8th\, 26 Salon C 1053581\nAllocated: 0.8h\nNote: 
@@ -210,39 +238,11 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
  GP Pomeroy Hotel\, Salon C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEO1 - BEO Tech (Check-in) - NOV08 GP BEO County of GP Fire Servic
- es Nov 6-8th\, 26 Boardroom 1053581
-DTSTART;TZID=America/Dawson_Creek:20261108T064500
-DTEND;TZID=America/Dawson_Creek:20261108T073000
-DTSTAMP:20261127T003314Z
-UID:planning-slot-6703@soundintown.com
-DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV08 GP BEO County o
- f GP Fire Services Nov 6-8th\, 26 Boardroom 1053581\nAllocated: 0.8h\nNote
- : [BEO on_site] NOV08 GP BEO County of GP Fire Services Nov 6-8th\, 26 Boa
- rdr\n\nSound in Town - Kayla Pelgrim
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Board Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BEO1 - BEO Tech (Check-in) - NOV08 GP BEO County of GP Fire Servic
- es Nov 6-8th\, 26 Poplar 1053581
-DTSTART;TZID=America/Dawson_Creek:20261108T064500
-DTEND;TZID=America/Dawson_Creek:20261108T073000
-DTSTAMP:20261127T003314Z
-UID:planning-slot-6707@soundintown.com
-DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV08 GP BEO County o
- f GP Fire Services Nov 6-8th\, 26 Poplar 1053581\nAllocated: 0.8h\nNote: [
- BEO on_site] NOV08 GP BEO County of GP Fire Services Nov 6-8th\, 26 Poplar
- \n\nSound in Town - Kayla Pelgrim
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Poplar Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - NOV12 GP BEO Swan City FC Nov 12th\, 
  2026 Poplar 1129822
 DTSTART;TZID=America/Dawson_Creek:20261112T171500
 DTEND;TZID=America/Dawson_Creek:20261112T180000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6749@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV12 GP BEO Swan Cit
  y FC Nov 12th\, 2026 Poplar 1129822\nAllocated: 0.8h\nNote: [BEO on_site] 
@@ -256,7 +256,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV13 GP BEO Pub Night Grande Ballroo
  m 1107681
 DTSTART;TZID=America/Dawson_Creek:20261113T161500
 DTEND;TZID=America/Dawson_Creek:20261113T170000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6752@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV13 GP BEO Pub Nigh
  t Grande Ballroom 1107681\nAllocated: 0.8h\nNote: [BEO on_site] NOV13 GP B
@@ -265,25 +265,11 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
  GP Pomeroy Hotel\, Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEO1 - BEO Tech (Check-in) - NOV14 GP BEO 2026 Vision Credit Union
-  Holiday Party Poplar 674801
-DTSTART;TZID=America/Dawson_Creek:20261114T154500
-DTEND;TZID=America/Dawson_Creek:20261114T163000
-DTSTAMP:20261127T003314Z
-UID:planning-slot-6755@soundintown.com
-DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV14 GP BEO 2026 Vis
- ion Credit Union Holiday Party Poplar 674801\nAllocated: 0.8h\nNote: [BEO 
- on_site] NOV14 GP BEO 2026 Vision Credit Union Holiday Party Poplar 6\n\nS
- ound in Town - Kayla Pelgrim
-LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
- GP Pomeroy Hotel\, Poplar Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - NOV14 GP BEO 2026 New Horizon Co-Op C
  hristmas Party Grande Ballroom 1175796
 DTSTART;TZID=America/Dawson_Creek:20261114T154500
 DTEND;TZID=America/Dawson_Creek:20261114T163000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6768@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV14 GP BEO 2026 New
   Horizon Co-Op Christmas Party Grande Ballroom 1175796\nAllocated: 0.8h\nN
@@ -293,11 +279,25 @@ LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a
  GP Pomeroy Hotel\, Grande Ballroom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BEO1 - BEO Tech (Check-in) - NOV14 GP BEO 2026 Vision Credit Union
+  Holiday Party Poplar 674801
+DTSTART;TZID=America/Dawson_Creek:20261114T154500
+DTEND;TZID=America/Dawson_Creek:20261114T163000
+DTSTAMP:20261127T134904Z
+UID:planning-slot-6755@soundintown.com
+DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV14 GP BEO 2026 Vis
+ ion Credit Union Holiday Party Poplar 674801\nAllocated: 0.8h\nNote: [BEO 
+ on_site] NOV14 GP BEO 2026 Vision Credit Union Holiday Party Poplar 6\n\nS
+ ound in Town - Kayla Pelgrim
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Poplar Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - NOV17 GP BEO Make-A-Wish Canada Grand
  e Ballroom 712751
 DTSTART;TZID=America/Dawson_Creek:20261117T044500
 DTEND;TZID=America/Dawson_Creek:20261117T053000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6835@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV17 GP BEO Make-A-W
  ish Canada Grande Ballroom 712751\nAllocated: 0.8h\nNote: [BEO on_site] NO
@@ -311,7 +311,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV17 GP BEO Alberta Pulse Nov 17th\,
   2026 Poplar 1058063
 DTSTART;TZID=America/Dawson_Creek:20261117T054500
 DTEND;TZID=America/Dawson_Creek:20261117T063000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6838@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV17 GP BEO Alberta 
  Pulse Nov 17th\, 2026 Poplar 1058063\nAllocated: 0.8h\nNote: [BEO on_site]
@@ -325,7 +325,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV18 GP BEO Cenovus Energy Boardroom
   1169785
 DTSTART;TZID=America/Dawson_Creek:20261118T061500
 DTEND;TZID=America/Dawson_Creek:20261118T070000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6841@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV18 GP BEO Cenovus 
  Energy Boardroom 1169785\nAllocated: 0.8h\nNote: [BEO on_site] NOV18 GP BE
@@ -338,7 +338,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV18 GP BEO Burnham Law Group Grande
   Ballroom 1 1174632
 DTSTART;TZID=America/Dawson_Creek:20261118T154500
 DTEND;TZID=America/Dawson_Creek:20261118T163000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6844@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV18 GP BEO Burnham 
  Law Group Grande Ballroom 1 1174632\nAllocated: 0.8h\nNote: [BEO on_site] 
@@ -352,7 +352,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV20 GP BEO Fraction Energy Christma
  s Party 2026 Grande Ballroom 709346
 DTSTART;TZID=America/Dawson_Creek:20261120T154500
 DTEND;TZID=America/Dawson_Creek:20261120T163000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6958@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV20 GP BEO Fraction
   Energy Christmas Party 2026 Grande Ballroom 709346\nAllocated: 0.8h\nNote
@@ -366,7 +366,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV21 GP BEO Parallele Alberta Nov 21
  st\, 2026 Salon AB 1133494
 DTSTART;TZID=America/Dawson_Creek:20261121T071500
 DTEND;TZID=America/Dawson_Creek:20261121T080000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6961@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV21 GP BEO Parallel
  e Alberta Nov 21st\, 2026 Salon AB 1133494\nAllocated: 0.8h\nNote: [BEO on
@@ -380,7 +380,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV21 GP BEO Parallele Alberta Nov 21
  st\, 2026 Salon C 1133494
 DTSTART;TZID=America/Dawson_Creek:20261121T071500
 DTEND;TZID=America/Dawson_Creek:20261121T080000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6847@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV21 GP BEO Parallel
  e Alberta Nov 21st\, 2026 Salon C 1133494\nAllocated: 0.8h\nNote: [BEO on_
@@ -394,7 +394,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV21 GP BEO Kelly Lake First Nation
  Boardroom 1183172
 DTSTART;TZID=America/Dawson_Creek:20261121T114500
 DTEND;TZID=America/Dawson_Creek:20261121T123000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6977@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV21 GP BEO Kelly La
  ke First Nation Boardroom 1183172\nAllocated: 0.8h\nNote: [BEO on_site] NO
@@ -408,7 +408,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV24 GP BEO Two Twelve Meeting Nov 2
  4th 2026 Boardroom 1181131
 DTSTART;TZID=America/Dawson_Creek:20261124T071500
 DTEND;TZID=America/Dawson_Creek:20261124T080000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6940@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV24 GP BEO Two Twel
  ve Meeting Nov 24th 2026 Boardroom 1181131\nAllocated: 0.8h\nNote: [BEO on
@@ -422,7 +422,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV24 GP BEO Lily Canada Meeting Nov
  24th\, 2026 Willow 1168630
 DTSTART;TZID=America/Dawson_Creek:20261124T154500
 DTEND;TZID=America/Dawson_Creek:20261124T163000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6943@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV24 GP BEO Lily Can
  ada Meeting Nov 24th\, 2026 Willow 1168630\nAllocated: 0.8h\nNote: [BEO on
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - NOV26 GP BEO GC Fibers Poplar 1170314
 DTSTART;TZID=America/Dawson_Creek:20261126T061500
 DTEND;TZID=America/Dawson_Creek:20261126T070000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-7008@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV26 GP BEO GC Fiber
  s Poplar 1170314\nAllocated: 0.8h\nNote: [BEO on_site] NOV26 GP BEO GC Fib
@@ -448,7 +448,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV26 GP BEO Connect on farm Nov 26th
  \, 2026 Salon AB 1168072
 DTSTART;TZID=America/Dawson_Creek:20261126T131500
 DTEND;TZID=America/Dawson_Creek:20261126T140000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6949@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV26 GP BEO Connect 
  on farm Nov 26th\, 2026 Salon AB 1168072\nAllocated: 0.8h\nNote: [BEO on_s
@@ -462,7 +462,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV26 GP BEO Scotia Bank Christmas Pa
  rty Nov 2026 Salon C 1130414
 DTSTART;TZID=America/Dawson_Creek:20261126T144500
 DTEND;TZID=America/Dawson_Creek:20261126T153000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6946@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV26 GP BEO Scotia B
  ank Christmas Party Nov 2026 Salon C 1130414\nAllocated: 0.8h\nNote: [BEO 
@@ -476,7 +476,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV27 GP BEO Little Red River Cree Na
  tion Salon A 1182569
 DTSTART;TZID=America/Dawson_Creek:20261127T104500
 DTEND;TZID=America/Dawson_Creek:20261127T113000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-7034@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV27 GP BEO Little R
  ed River Cree Nation Salon A 1182569\nAllocated: 0.8h\nNote: [BEO on_site]
@@ -490,7 +490,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV27 GP BEO Pembina Pipeline Grande
  Ballroom 666580
 DTSTART;TZID=America/Dawson_Creek:20261127T161500
 DTEND;TZID=America/Dawson_Creek:20261127T170000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6952@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV27 GP BEO Pembina 
  Pipeline Grande Ballroom 666580\nAllocated: 0.8h\nNote: [BEO on_site] NOV2
@@ -504,7 +504,7 @@ SUMMARY:BEO1 - BEO Tech (Check-in) - NOV28 GP BEO Wapiti Gravel Services a
   Division of N.P Grande Ballroom 699907
 DTSTART;TZID=America/Dawson_Creek:20261128T161500
 DTEND;TZID=America/Dawson_Creek:20261128T170000
-DTSTAMP:20261127T003314Z
+DTSTAMP:20261127T134904Z
 UID:planning-slot-6955@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV28 GP BEO Wapiti G
  ravel Services a Division of N.P Grande Ballroom 699907\nAllocated: 0.8h\n
@@ -512,5 +512,103 @@ DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV28 GP BEO Wapiti G
  Grande\n\nSound in Town - Kayla Pelgrim
 LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
  GP Pomeroy Hotel\, Grande Ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO1 - BEO Tech (Check-in) - DEC01 GP BEO Two Twelve Meeting Dec 1
+ st 2026 Boardroom 1181775
+DTSTART;TZID=America/Dawson_Creek:20261201T071500
+DTEND;TZID=America/Dawson_Creek:20261201T080000
+DTSTAMP:20261127T134904Z
+UID:planning-slot-7061@soundintown.com
+DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: DEC01 GP BEO Two Twel
+ ve Meeting Dec 1st 2026 Boardroom 1181775\nAllocated: 0.8h\nNote: [BEO on_
+ site] DEC01 GP BEO Two Twelve Meeting Dec 1st 2026 Boardroom 11817\n\nSoun
+ d in Town - Kayla Pelgrim
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Board Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO1 - BEO Tech (Check-in) - DEC02 GP BEO Native Counselling Servi
+ ces Of AB Dec 26 Willow 1175575
+DTSTART;TZID=America/Dawson_Creek:20261202T064500
+DTEND;TZID=America/Dawson_Creek:20261202T073000
+DTSTAMP:20261127T134904Z
+UID:planning-slot-7064@soundintown.com
+DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: DEC02 GP BEO Native C
+ ounselling Services Of AB Dec 26 Willow 1175575\nAllocated: 0.8h\nNote: [B
+ EO on_site] DEC02 GP BEO Native Counselling Services Of AB Dec 26 Willow\n
+ \nSound in Town - Kayla Pelgrim
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Willow Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO1 - BEO Tech (Check-in) - DEC02 GP BEO PWA Titans Football Dinn
+ er Dec 2nd\,2026 Grande Ballroom 1079119
+DTSTART;TZID=America/Dawson_Creek:20261202T154500
+DTEND;TZID=America/Dawson_Creek:20261202T163000
+DTSTAMP:20261127T134904Z
+UID:planning-slot-7067@soundintown.com
+DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: DEC02 GP BEO PWA Tita
+ ns Football Dinner Dec 2nd\,2026 Grande Ballroom 1079119\nAllocated: 0.8h
+ \nNote: [BEO on_site] DEC02 GP BEO PWA Titans Football Dinner Dec 2nd\,202
+ 6 Grande \n\nSound in Town - Kayla Pelgrim
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Grande Ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO1 - BEO Tech (Check-in) - DEC03 GP BEO Native Counselling Servi
+ ces Of AB Dec 26 Willow 1175575
+DTSTART;TZID=America/Dawson_Creek:20261203T064500
+DTEND;TZID=America/Dawson_Creek:20261203T073000
+DTSTAMP:20261127T134904Z
+UID:planning-slot-7072@soundintown.com
+DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: DEC03 GP BEO Native C
+ ounselling Services Of AB Dec 26 Willow 1175575\nAllocated: 0.8h\nNote: [B
+ EO on_site] DEC03 GP BEO Native Counselling Services Of AB Dec 26 Willow\n
+ \nSound in Town - Kayla Pelgrim
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Willow Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO1 - BEO Tech (Check-in) - DEC03 GP BEO McDonald's R.E.D. Holdin
+ g 2026 Grande Ballroom 1103880
+DTSTART;TZID=America/Dawson_Creek:20261203T144500
+DTEND;TZID=America/Dawson_Creek:20261203T153000
+DTSTAMP:20261127T134904Z
+UID:planning-slot-7070@soundintown.com
+DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: DEC03 GP BEO McDonald
+ 's R.E.D. Holding 2026 Grande Ballroom 1103880\nAllocated: 0.8h\nNote: [BE
+ O on_site] DEC03 GP BEO McDonald's R.E.D. Holding 2026 Grande Ballroom \n
+ \nSound in Town - Kayla Pelgrim
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Grande Ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO1 - BEO Tech (Check-in) - DEC04 GP BEO Native Counselling Servi
+ ces Of AB Dec 26 Willow 1175575
+DTSTART;TZID=America/Dawson_Creek:20261204T064500
+DTEND;TZID=America/Dawson_Creek:20261204T073000
+DTSTAMP:20261127T134904Z
+UID:planning-slot-7074@soundintown.com
+DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: DEC04 GP BEO Native C
+ ounselling Services Of AB Dec 26 Willow 1175575\nAllocated: 0.8h\nNote: [B
+ EO on_site] DEC04 GP BEO Native Counselling Services Of AB Dec 26 Willow\n
+ \nSound in Town - Kayla Pelgrim
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Willow Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEO1 - BEO Tech (Check-in) - DEC05 GP BEO Hi - Tech Christmas Part
+ y 2026 Salon Ballroom 707696
+DTSTART;TZID=America/Dawson_Creek:20261205T154500
+DTEND;TZID=America/Dawson_Creek:20261205T163000
+DTSTAMP:20261127T134904Z
+UID:planning-slot-7077@soundintown.com
+DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: DEC05 GP BEO Hi - Tec
+ h Christmas Party 2026 Salon Ballroom 707696\nAllocated: 0.8h\nNote: [BEO 
+ on_site] DEC05 GP BEO Hi - Tech Christmas Party 2026 Salon Ballroom 7\n\nS
+ ound in Town - Kayla Pelgrim
+LOCATION:Pomeroy Lodging LP o/a GP Pomeroy Hotel - Pomeroy Lodging LP o/a 
+ GP Pomeroy Hotel\, Salon Ballroom
 END:VEVENT
 END:VCALENDAR
