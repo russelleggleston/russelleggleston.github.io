@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261006T090000
 DTEND;TZID=America/Dawson_Creek:20261006T200000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6371@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\nNote: FYI: Rehearsal with Spark Team takes place at 3PM.\n\nSoun
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261007T073000
 DTEND;TZID=America/Dawson_Creek:20261007T163000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6373@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: OCT07-08 Spark 2026\nAllocated: 
  8.0h\n\nSound in Town - Sam Baker
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261008T080000
 DTEND;TZID=America/Dawson_Creek:20261008T160000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6376@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: OCT07-08 Spark 2026\n\nSound in 
  Town - Sam Baker
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - OCT07-08 Spark 2026
 DTSTART;TZID=America/Dawson_Creek:20261008T160000
 DTEND;TZID=America/Dawson_Creek:20261009T000000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6379@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT07-08 Sp
  ark 2026\n\nSound in Town - Sam Baker
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech
 DTSTART;TZID=America/Dawson_Creek:20261009T070000
 DTEND;TZID=America/Dawson_Creek:20261009T150000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6488@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nAllocated: 8.0h\n\nSound in Town - Sam 
  Baker
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - OCT14-15 Saulteau FN Fall NorthEast Sub-Regional
 DTSTART;TZID=America/Dawson_Creek:20261013T080000
 DTEND;TZID=America/Dawson_Creek:20261013T160000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-5794@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: OCT14-15 Saulteau FN Fall NorthE
  ast Sub-Regional\nAllocated: 8.0h\nNote: Earliest access is 10AM.\n\nSound
@@ -83,7 +83,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT14-15 Saulteau FN Fall NorthEast
   Sub-Regional
 DTSTART;TZID=America/Dawson_Creek:20261014T070000
 DTEND;TZID=America/Dawson_Creek:20261014T170000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-5792@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT14-15 Saulteau F
  N Fall NorthEast Sub-Regional\nAllocated: 8.0h\nNote: Auto planned shift. 
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - OCT14-15 Saulteau FN Fall NorthEast Sub-Regional
 DTSTART;TZID=America/Dawson_Creek:20261015T070000
 DTEND;TZID=America/Dawson_Creek:20261015T143000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-5793@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: OCT14-15 Saulteau FN Fall NorthE
  ast Sub-Regional\nAllocated: 7.5h\n\nSound in Town - Sam Baker
@@ -105,7 +105,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT14-15 Saulteau FN Fall N
  orthEast Sub-Regional
 DTSTART;TZID=America/Dawson_Creek:20261015T143000
 DTEND;TZID=America/Dawson_Creek:20261015T234500
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6514@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT14-15 Sa
  ulteau FN Fall NorthEast Sub-Regional\nAllocated: 8.0h\n\nSound in Town - 
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - OCT20 NRM Town Hall at Ramada
 DTSTART;TZID=America/Dawson_Creek:20261020T100000
 DTEND;TZID=America/Dawson_Creek:20261020T220000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6564@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT20 NRM Town Hall
   at Ramada\nAllocated: 8.0h\nNote: Dry run noon. Starts @3PM. Ends @5PM. 
@@ -128,7 +128,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT22 NLC All Staff Meeting
   @FSJ
 DTSTART;TZID=America/Dawson_Creek:20261021T080000
 DTEND;TZID=America/Dawson_Creek:20261021T160000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6485@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT22 NLC A
  ll Staff Meeting @FSJ\n\nSound in Town - Sam Baker
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:WH2 - Warehouse Junior Tech
 DTSTART;TZID=America/Dawson_Creek:20261021T130000
 DTEND;TZID=America/Dawson_Creek:20261021T190000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6421@soundintown.com
 DESCRIPTION:Role: WH2 - Warehouse Junior Tech\nAllocated: 6.0h\nNote: Depe
  nding on what event is behind\, some help might be needed in various direc
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - OCT22 NLC All Staff Meeting @FSJ
 DTSTART;TZID=America/Dawson_Creek:20261022T070000
 DTEND;TZID=America/Dawson_Creek:20261022T150000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6483@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT22 NLC All Staff
   Meeting @FSJ\nAllocated: 8.0h\n\nSound in Town - Sam Baker
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - OCT22 Saulteau General Band Meeting
 DTSTART;TZID=America/Dawson_Creek:20261022T100000
 DTEND;TZID=America/Dawson_Creek:20261022T233000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6529@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT22 Saulteau Gene
  ral Band Meeting\nAllocated: 8.5h\nNote: Load in/set up at noon in the gym
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech
 DTSTART;TZID=America/Dawson_Creek:20261023T070000
 DTEND;TZID=America/Dawson_Creek:20261023T150000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6489@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nAllocated: 8.0h\n\nSound in Town - Sam 
  Baker
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech
 DTSTART;TZID=America/Dawson_Creek:20261024T080000
 DTEND;TZID=America/Dawson_Creek:20261024T170000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6490@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nAllocated: 8.0h\n\nSound in Town - Sam 
  Baker
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech
 DTSTART;TZID=America/Dawson_Creek:20261027T070000
 DTEND;TZID=America/Dawson_Creek:20261027T150000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6491@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nAllocated: 8.0h\n\nSound in Town - Sam 
  Baker
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech
 DTSTART;TZID=America/Dawson_Creek:20261028T070000
 DTEND;TZID=America/Dawson_Creek:20261028T150000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6492@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nAllocated: 8.0h\n\nSound in Town - Sam 
  Baker
@@ -206,7 +206,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT28-29 Collaborative Stewardship
  Forum Meeting
 DTSTART;TZID=America/Dawson_Creek:20261028T080000
 DTEND;TZID=America/Dawson_Creek:20261028T183000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6620@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT28-29 Collaborat
  ive Stewardship Forum Meeting\n\nSound in Town - Sam Baker
@@ -219,7 +219,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT29 FSJ BEO BC Northern Real Esta
  te 14931-1
 DTSTART;TZID=America/Dawson_Creek:20261028T180000
 DTEND;TZID=America/Dawson_Creek:20261028T190000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6637@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT29 FSJ BEO BC No
  rthern Real Estate 14931-1\nAllocated: 1.0h\n\nSound in Town - Sam Baker
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech
 DTSTART;TZID=America/Dawson_Creek:20261029T070000
 DTEND;TZID=America/Dawson_Creek:20261029T150000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6493@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nAllocated: 8.0h\n\nSound in Town - Sam 
  Baker
@@ -240,7 +240,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - OCT28-29 Collaborative Stewardship
  Forum Meeting
 DTSTART;TZID=America/Dawson_Creek:20261029T080000
 DTEND;TZID=America/Dawson_Creek:20261029T163000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6621@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: OCT28-29 Collaborat
  ive Stewardship Forum Meeting\nAllocated: 8.0h\n\nSound in Town - Sam Bake
@@ -254,7 +254,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - OCT29 FSJ BEO BC Northern R
  eal Estate 14931-1
 DTSTART;TZID=America/Dawson_Creek:20261029T170000
 DTEND;TZID=America/Dawson_Creek:20261029T180000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6638@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: OCT29 FSJ B
  EO BC Northern Real Estate 14931-1\nNote: Juday is available until 8PM to 
@@ -268,7 +268,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - NOV07 - FSJ Hospital Founda
  tion Gala 2026
 DTSTART;TZID=America/Dawson_Creek:20261103T080000
 DTEND;TZID=America/Dawson_Creek:20261103T160000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6494@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: NOV07 - FSJ
   Hospital Foundation Gala 2026\nAllocated: 8.0h\n\nSound in Town - Sam Bak
@@ -281,7 +281,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - NOV07 - FSJ Hospital Founda
  tion Gala 2026
 DTSTART;TZID=America/Dawson_Creek:20261104T080000
 DTEND;TZID=America/Dawson_Creek:20261104T160000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6495@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: NOV07 - FSJ
   Hospital Foundation Gala 2026\nAllocated: 8.0h\n\nSound in Town - Sam Bak
@@ -294,7 +294,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - NOV07 - FSJ Hospital Founda
  tion Gala 2026
 DTSTART;TZID=America/Dawson_Creek:20261105T080000
 DTEND;TZID=America/Dawson_Creek:20261105T160000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6496@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: NOV07 - FSJ
   Hospital Foundation Gala 2026\nAllocated: 8.0h\n\nSound in Town - Sam Bak
@@ -307,7 +307,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - NOV07 - FSJ Hospital Founda
  tion Gala 2026
 DTSTART;TZID=America/Dawson_Creek:20261106T080000
 DTEND;TZID=America/Dawson_Creek:20261106T160000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6497@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: NOV07 - FSJ
   Hospital Foundation Gala 2026\nAllocated: 8.0h\n\nSound in Town - Sam Bak
@@ -320,7 +320,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV06 NP District 4H Awards Night P
  hotobooth- Charlie Lake Hall
 DTSTART;TZID=America/Dawson_Creek:20261106T183000
 DTEND;TZID=America/Dawson_Creek:20261106T230000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6747@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV06 NP District 4
  H Awards Night Photobooth- Charlie Lake Hall\nAllocated: 4.5h\nNote: Start
@@ -332,7 +332,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV07 - FSJ Hospital Foundation Gal
  a 2026
 DTSTART;TZID=America/Dawson_Creek:20261107T080000
 DTEND;TZID=America/Dawson_Creek:20261107T160000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6609@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV07 - FSJ Hospita
  l Foundation Gala 2026\nAllocated: 8.0h\n\nSound in Town - Sam Baker
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - NOV14 FSJ Co-op Meeting at Ramada
 DTSTART;TZID=America/Dawson_Creek:20261113T090000
 DTEND;TZID=America/Dawson_Creek:20261113T170000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6785@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: NOV14 FSJ Co-op Meeting at Ramada\nAll
  ocated: 8.0h\n\nSound in Town - Sam Baker
@@ -354,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - NOV14 FSJ Co-op Meeting at Ramada
 DTSTART;TZID=America/Dawson_Creek:20261114T070000
 DTEND;TZID=America/Dawson_Creek:20261114T180000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6782@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: NOV14 FSJ Co-op Meeting at Ramad
  a\nAllocated: 8.0h\nNote: Check in 7AM. Starts 8AM. Ends 2PM.\n\nSound in 
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - NOV16-17 PRRD Regional Municipality Orientation
 DTSTART;TZID=America/Dawson_Creek:20261115T090000
 DTEND;TZID=America/Dawson_Creek:20261115T170000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6786@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: NOV16-17 PRRD Regional Municipality Or
  ientation\nAllocated: 8.0h\n\nSound in Town - Sam Baker
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - NOV19 NLC Fashion Show
 DTSTART;TZID=America/Dawson_Creek:20261119T090000
 DTEND;TZID=America/Dawson_Creek:20261119T230000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6812@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV19 NLC Fashion S
  how\nAllocated: 8.0h\nNote: Set up that morning. Client's rehearsal at 1. 
@@ -390,7 +390,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - NOV27 Treaty 8 Christmas Pa
  rty Band Production
 DTSTART;TZID=America/Dawson_Creek:20261126T140000
 DTEND;TZID=America/Dawson_Creek:20261126T210000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6854@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: NOV27 Treat
  y 8 Christmas Party Band Production\nAllocated: 7.0h\n\nSound in Town - Sa
@@ -402,7 +402,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - NOV27 Treaty 8 Christmas Party Band
   Production
 DTSTART;TZID=America/Dawson_Creek:20261127T140000
 DTEND;TZID=America/Dawson_Creek:20261127T150000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-7043@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: NOV27 Treaty 8 Chri
  stmas Party Band Production\nAllocated: 1.0h\nNote: Sound Check at 2PM - T
@@ -411,22 +411,22 @@ LOCATION:Fort St John Legion
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEO1 - BEO Tech (Check-in) - NOV27 FSJ BEO GeoVera Christmas Party
-  2026 Special Location 15087-1
+  2026 Vault 15087-1
 DTSTART;TZID=America/Dawson_Creek:20261127T164500
 DTEND;TZID=America/Dawson_Creek:20261127T173000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6964@soundintown.com
 DESCRIPTION:Role: BEO1 - BEO Tech (Check-in)\nEvent: NOV27 FSJ BEO GeoVera
-  Christmas Party 2026 Special Location 15087-1\nAllocated: 0.8h\nNote: [BE
- O on_site] NOV27 FSJ BEO GeoVera Christmas Party 2026 Special Location \n
- \nSound in Town - Sam Baker
-LOCATION:Pomeroy Hotel Fort St. John
+  Christmas Party 2026 Vault 15087-1\nAllocated: 0.8h\nNote: [BEO on_site] 
+ NOV27 FSJ BEO GeoVera Christmas Party 2026 Vault 15087-1\n\nSound in Town 
+ - Sam Baker
+LOCATION:Pomeroy Hotel Fort St. John - Pomeroy Hotel Fort St. John\, Vault
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - NOV27 Treaty 8 Christmas Party Band Production
 DTSTART;TZID=America/Dawson_Creek:20261127T170000
 DTEND;TZID=America/Dawson_Creek:20261127T230000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6731@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: NOV27 Treaty 8 Christmas Party B
  and Production\nAllocated: 6.0h\n\nSound in Town - Sam Baker
@@ -437,7 +437,7 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - NOV27 Treaty 8 Christmas Pa
  rty Band Production
 DTSTART;TZID=America/Dawson_Creek:20261128T080000
 DTEND;TZID=America/Dawson_Creek:20261128T170000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6855@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: NOV27 Treat
  y 8 Christmas Party Band Production\nAllocated: 8.0h\nNote: Check w/Russ a
@@ -451,43 +451,46 @@ SUMMARY:SET/STR1 - Setup & Strike Technician - DEC04 FSJ BEO Northern Guid
  es Outfitters Banquet/#14408-1
 DTSTART;TZID=America/Dawson_Creek:20261203T080000
 DTEND;TZID=America/Dawson_Creek:20261204T003000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6858@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: DEC04 FSJ B
  EO Northern Guides Outfitters Banquet/#14408-1\nAllocated: 9.5h\nNote: Set
   up & soundcheck\n\nSound in Town - Sam Baker
-LOCATION:Pomeroy Hotel Fort St. John
+LOCATION:Pomeroy Hotel Fort St. John - Pomeroy Hotel Fort St. John\, Ralph
+  Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - DEC04 FSJ BEO Northern Guides Outfitters Banquet
  /#14408-1
 DTSTART;TZID=America/Dawson_Creek:20261204T170000
 DTEND;TZID=America/Dawson_Creek:20261204T230000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6856@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: DEC04 FSJ BEO Northern Guides Ou
  tfitters Banquet/#14408-1\nAllocated: 6.0h\nNote: Lead Show Tech — added
   from Staffing tab one-click\n\nSound in Town - Sam Baker
-LOCATION:Pomeroy Hotel Fort St. John
+LOCATION:Pomeroy Hotel Fort St. John - Pomeroy Hotel Fort St. John\, Ralph
+  Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SET/STR1 - Setup & Strike Technician - DEC04 FSJ BEO Northern Guid
  es Outfitters Banquet/#14408-1
 DTSTART;TZID=America/Dawson_Creek:20261205T080000
 DTEND;TZID=America/Dawson_Creek:20261205T170000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6857@soundintown.com
 DESCRIPTION:Role: SET/STR1 - Setup & Strike Technician\nEvent: DEC04 FSJ B
  EO Northern Guides Outfitters Banquet/#14408-1\n\nSound in Town - Sam Bake
  r
-LOCATION:Pomeroy Hotel Fort St. John
+LOCATION:Pomeroy Hotel Fort St. John - Pomeroy Hotel Fort St. John\, Ralph
+  Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - JAN28-MAR01 City of FSJ - Winter Fe
  st 2027
 DTSTART;TZID=America/Dawson_Creek:20270128T170000
 DTEND;TZID=America/Dawson_Creek:20270128T230000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6866@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JAN28-MAR01 City of
   FSJ - Winter Fest 2027\nAllocated: 6.0h\nNote: Lead Show Tech — added f
@@ -498,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:AV1 - AV Tech (Senior Level) - FEB06 Starry Skyes Gala 2027
 DTSTART;TZID=America/Dawson_Creek:20270205T080000
 DTEND;TZID=America/Dawson_Creek:20270206T170000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6905@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: FEB06 Starry Skyes 
  Gala 2027\n\nSound in Town - Sam Baker
@@ -508,7 +511,7 @@ BEGIN:VEVENT
 SUMMARY:Transport - FEB26-27 Penticton Wild Sheep Fundraiser
 DTSTART;TZID=America/Dawson_Creek:20270228T080000
 DTEND;TZID=America/Dawson_Creek:20270228T170000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6879@soundintown.com
 DESCRIPTION:Role: Transport\nEvent: FEB26-27 Penticton Wild Sheep Fundrais
  er\n\nSound in Town - Sam Baker
@@ -518,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - MAY01 Wild Sheep Banquet
 DTSTART;TZID=America/Dawson_Creek:20270501T170000
 DTEND;TZID=America/Dawson_Creek:20270501T230000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6886@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: MAY01 Wild Sheep Banquet\nNote: 
  Lead Show Tech — added from Staffing tab one-click\n\nSound in Town - Sa
@@ -530,7 +533,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - MAY28-29 2027 Mine Rescue BC (Penti
  cton)
 DTSTART;TZID=America/Dawson_Creek:20270525T080000
 DTEND;TZID=America/Dawson_Creek:20270531T160000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6727@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: MAY28-29 2027 Mine 
  Rescue BC (Penticton)\n\nSound in Town - Sam Baker
@@ -541,7 +544,7 @@ SUMMARY:AV1 - AV Tech (Senior Level) - JUL02-03 Peace Valley Folk Fest 202
  7
 DTSTART;TZID=America/Dawson_Creek:20270702T080000
 DTEND;TZID=America/Dawson_Creek:20270702T170000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6915@soundintown.com
 DESCRIPTION:Role: AV1 - AV Tech (Senior Level)\nEvent: JUL02-03 Peace Vall
  ey Folk Fest 2027\n\nSound in Town - Sam Baker
@@ -551,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - AUG20-22 Fred Fest 2027
 DTSTART;TZID=America/Dawson_Creek:20270820T090000
 DTEND;TZID=America/Dawson_Creek:20270820T220000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6904@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: AUG20-22 Fred Fest 2027\nAllocat
  ed: 8.0h\n\nSound in Town - Sam Baker
@@ -561,7 +564,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - AUG20-22 Fred Fest 2027
 DTSTART;TZID=America/Dawson_Creek:20270821T090000
 DTEND;TZID=America/Dawson_Creek:20270821T233000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6903@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: AUG20-22 Fred Fest 2027\nAllocat
  ed: 8.5h\n\nSound in Town - Sam Baker
@@ -571,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:A1 - Audio Tech - AUG20-22 Fred Fest 2027
 DTSTART;TZID=America/Dawson_Creek:20270822T080000
 DTEND;TZID=America/Dawson_Creek:20270822T233000
-DTSTAMP:20261126T135150Z
+DTSTAMP:20261127T003319Z
 UID:planning-slot-6912@soundintown.com
 DESCRIPTION:Role: A1 - Audio Tech\nEvent: AUG20-22 Fred Fest 2027\nAllocat
  ed: 8.5h\n\nSound in Town - Sam Baker
